@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">កំពុងផ្ញើ %d របាយការណ៍អាន</item>
+        <item quantity="one">កំពុងផ្ញើ %d របាយការណ៍អាន</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">&lt;xliff:g id=message_count example=9>%d&lt;/xliff:g> បានជ្រើសរើស</item>
+        <item quantity="one">%dបានជ្រើសយក</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s បទសន្ទនាត្រូវបានលុបចោល</item>
+        <item quantity="one">បទសន្ទនាមួយត្រូវបានលុបចោល</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s លទ្ធផលសម្រាប់ \" %2$s\"</item>
+        <item quantity="one">%1$s លទ្ធផលសម្រាប់ \" %2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s វិនាទី</item>
+        <item quantity="one">%s វិនាទី</item>
+        <item quantity="few">%s វិនាទី</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s ការសន្ទនានឹងត្រូវបានលុបចោល</item>
+        <item quantity="one">ការសន្ទនាមួយនឹងត្រូវលុបចោល</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d សារដែលមិនបានអាន ។</item>
+        <item quantity="one">%d សារដែលមិនបានអាន ។</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ %1$s other messages</item>
+        <item quantity="one">+ %1$s other message</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s មនុស្ស</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Centígrados</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>No actualiza automáticamente nunca</item>
+        <item>Cada hora</item>
+        <item>Cada 2 horas</item>
+        <item>Cada 6 horas</item>
+        <item>Cada 12 horas</item>
+        <item>Cada 1 día</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Bona zonke izinhlelo zakho zokusebenza.
+ Thinta isithonjana Sokuqalisa. @drawable/trash"</item>
+        <item>"Idonsa izinhlelo zokusebenza kwisikrini sakho Sasekhaya. 
+ Thinta &amp; bamba uhlelo lokusebenza Kusiqalisi kuze kube yilapho ludlidliza."</item>
+        <item>"Hlela kabusha isikrini sakho Sasekhaya 
+ Thinta &amp; ubambe intwana futhi lapho isidlidliza, idonsele lapho ofuna khona."</item>
+        <item>"Khipha izintwana. 
+ Thinta &amp; bamba intwana futhi lapho isidlidliza, idonsele kwisithonjana Sodoti. @drawable/trash"</item>
+        <item>"Izikrini Zasekhaya Eziningi.
+Iya ngakwesokunxele noma esokudla ukushintsha. Donsa izintwana kwezinye izikrini."</item>
+        <item>"Uqedile ngale wijethi?
+ Thinta &amp; sibambe futhi lapho sidlidliza, sidonsele kwisithonjana Sodoti."</item>
+    </string-array>
+</resources>

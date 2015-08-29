@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>pisilin</item>
+        <item>malalaking mata</item>
+        <item>malaking bibig</item>
+        <item>maliit na bibig</item>
+        <item>malaking ilong</item>
+        <item>maliit na mga mata</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>sa kalawakan</item>
+        <item>paglubog ng araw</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>mababa</item>
+        <item>katamtaman</item>
+        <item>mataas</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>walang paksa</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>NAKANGITI NANG MAY MASASAYANG MATA</item>
+        <item>NGITING-NGITI</item>
+        <item>NGITING-NGITING MAY MASASAYANG MATA</item>
+        <item>MGA LUHA NG KAGALAKAN</item>
+        <item>NAKANGITI NANG MAY NAKABUKAS NA BIBIG</item>
+        <item>NAKANGITI NANG MAY NAKABUKAS NA BIBIG AT MASASAYANG MATA</item>
+        <item>NAKANGITI NANG MAY NAKABUKAS NA BIBIG AT MALAMIG NA PAWIS</item>
+        <item>NAKANGITI NANG MAY NAKABUKAS NA BIBIG AT PIKIT NA PIKIT</item>
+        <item>NAKANGITING MAY HALO</item>
+        <item>NAKANGITING MAY MGA SUNGAY</item>
+        <item>KUMIKINDAT</item>
+        <item>PINATAHIMIK</item>
+        <item>NEUTRAL</item>
+        <item>WALANG EKSPRESYON</item>
+        <item>NAGUGULUHAN</item>
+        <item>GALIT</item>
+        <item>NAKANGIWI</item>
+        <item>NAKANGUSO</item>
+        <item>UMIIYAK</item>
+        <item>NATUTULOG</item>
+        <item>MUKHANG MAY NAKABUKAS NA BIBIG</item>
+        <item>NAGTITIYAGA</item>
+        <item>MUKHANG HUMIHINGANG MAY STEAM</item>
+        <item>DISMAYADO NGUNIT NAKAHINGA NANG MALUWAG</item>
+        <item>NAKASIMANGOT NANG MAY NAKABUKAS NA BIBIG</item>
+        <item>NAGHAHAPIS</item>
+        <item>NATATAKOT</item>
+        <item>PAGOD</item>
+        <item>BUKAS ANG BIBIG AT MALAMIG ANG PAWIS</item>
+        <item>NAG-AALALANG MUKHA</item>
+        <item>SUMISIGAW SA TAKOT</item>
+        <item>NAMAMANGHA</item>
+        <item>NAMUMULA</item>
+        <item>NAHIHILO</item>
+        <item>MUKHANG WALANG BIBIG</item>
+        <item>MUKHANG MAY MEDICAL MASK</item>
+        <item>DISMAYADO</item>
+        <item>HINDI NATUTUWA</item>
+        <item>NAKANGITI NANG MAY MGA HUGIS-PUSONG MATA</item>
+        <item>NAKADILA</item>
+        <item>NAKADILA AT KUMIKINDAT</item>
+        <item>NAKADILA AT PIKIT NA PIKIT</item>
+        <item>NUMANAMNAM NG MASARAP NA PAGKAIN</item>
+        <item>HUMAHALIK NA MUKHA</item>
+        <item>HUMAHALIK NA MUKHANG MAY MASASAYANG MATA</item>
+        <item>MUKHANG HUMIPAN NG HALIK</item>
+        <item>HUMAHALIK NA MUKHANG NAKAPIKIT</item>
+        <item>NAKANGITI NANG MAY SUNGLASSES</item>
+        <item>UMIIYAK NANG MALAKAS</item>
+        <item>NAKAHINGA NANG MALUWAG</item>
+        <item>NALILITO</item>
+        <item>NAG-IISIP</item>
+        <item>INAANTOK</item>
+        <item>NAKANGISI</item>
+        <item>MALAMIG NA PAWIS</item>
+        <item>HAPO</item>
+        <item>MASAYANG NAGTATAAS NG ISANG KAMAY</item>
+        <item>ITINATAAS ANG PAREHONG KAMAY SA PAGSASAYA</item>
+        <item>NAKASIMANGOT</item>
+        <item>GALIT NA NAKAHALUKIPKIP</item>
+        <item>MUKHA NA MAY OK NA SENYAS</item>
+        <item>TAONG YUMUYUKUNG-YUKO</item>
+        <item>NAKANGUSONG MUKHA</item>
+        <item>NAKAHALUKIPKIP</item>
+        <item>OK NA SENYAS</item>
+        <item>THUMBS UP NA SENYAS</item>
+        <item>THUMBS DOWN NA SENYAS</item>
+        <item>MGA POO-POO</item>
+        <item>PINAGPAPAWISANG PUSO</item>
+        <item>MABUHOK NA PUSO</item>
+        <item>PURPLE NA PUSO</item>
+        <item>PUSONG WASAK</item>
+        <item>PUSONG MAY PALASO</item>
+        <item>NAGYEYELONG PUSO</item>
+        <item>ASTIG NA SENYAS</item>
+        <item>MALAYANG SENYAS</item>
+        <item>OK NA SENYAS</item>
+        <item>SOS NA SENYAS</item>
+        <item>MGA MASKARA NG SINING NG PAGTATANGHAL</item>
+        <item>BAHAGHARI</item>
+        <item>PARTY POPPER</item>
+        <item>MANANAYAW</item>
+    </string-array>
+</resources>

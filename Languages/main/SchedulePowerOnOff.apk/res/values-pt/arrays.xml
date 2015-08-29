@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Este ligar está definido para menos de 1 minuto de agora.</item>
+        <item>Este ligar está definido para %1$s de agora.</item>
+        <item>Este ligamento está definido para %2$s a partir de agora.</item>
+        <item>Este ligar está definido para %1$s e %2$s de agora.</item>
+        <item>Este ligamento está definido para %3$s a partir de agora.</item>
+        <item>Este ligar está definido para %1$s e %3$s de agora.</item>
+        <item>Este ligamento está definido para %2$s e %3$s a partir de agora.</item>
+        <item>Este ligar está definido para %1$s, %2$s>, e %3$s de agora.</item>
+        <item>Este desligar está definido para menos de 1 minuto de agora.</item>
+        <item>Este ligar está definido para %1$s, %2$s>, e %3$s de agora.</item>
+        <item>Este desligamento está definido para %2$s a partir de agora.</item>
+        <item>Este desligar está definido para %1$s de agora.</item>
+        <item>Este desligamento está definido para %3$s a partir de agora.</item>
+        <item>Este desligar está definido para %1$s e %2$s de agora.</item>
+        <item>Este desligamento está definido para %2$s e %3$s a partir de agora.</item>
+        <item>Este desligar está definido para %1$s e %3$s de agora.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Input_mode">
+        <item>उपयोगकर्ता इनपुट</item>
+        <item>SIM से पढ़ें</item>
+    </string-array>
+</resources>

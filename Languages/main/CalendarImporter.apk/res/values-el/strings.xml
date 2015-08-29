@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Εισαγωγή σε</string>
+    <string name="import_button">Εισαγωγή</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="no_access_toast">Ο λογαριασμός δεν βρέθηκε. Πρώτα, προσθέστε λογαριασμό</string>
+    <string name="null_name">Καμία επιλογή</string>
+    <string name="import_message">Θέλετε να κάνετε εισαγωγή του στοιχείου # στο Ημερολόγιο;</string>
+    <string name="calendar_lable">"Ημερολόγιο: "</string>
+    <string name="date_lable">"Ημερομηνία: "</string>
+    <string name="import_title">Εισαγωγή συμβάντος ημερολογίου</string>
+    <string name="importing">Εισαγωγή ...</string>
+    <string name="import_complete">Η εισαγωγή ολοκληρώθηκε</string>
+    <string name="open">Άνοιγμα</string>
+    <string name="done">Τέλος</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Δεν ήταν δυνατή η εισαγωγή του ημερολογίου vCalendar.</string>
+    <string name="title_lable">"Τίτλος: "</string>
+    <string name="no_syncable_calendars">Δεν είναι δυνατή η εισαγωγή</string>
+    <string name="no_calendars_found">Αυτός ο λογαριασμός δεν υποστηρίζει το συγχρονισμό ημερολογίου ή ο τελευταίος συγχρονισμός δεν έχει ολοκληρωθεί ακόμα.</string>
+    <string name="retry">Επανάληψη</string>
+    <string name="give_up">Ματαίωση</string>
+    <string name="open_calendar_failed">Το ημερολόγιο δεν είναι διαθέσιμο.</string>
+    <string name="loading">Φόρτωση…</string>
+</resources>

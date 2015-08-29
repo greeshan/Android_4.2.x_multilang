@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="select_all_text_size">10.0dip</dimen>
+    <dimen name="select_none_text_size">10.0dip</dimen>
+    <dimen name="cancel_multi_text_size">11.0dip</dimen>
+    <dimen name="mount_button_text_size">12.0dip</dimen>
+    <dimen name="mount_button_margin">1.0dip</dimen>
+    <dimen name="info_text_size">13.0dip</dimen>
+</resources>

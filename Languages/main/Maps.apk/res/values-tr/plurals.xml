@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d Fotoğraf</item>
+        <item quantity="zero">%d Fotoğraf</item>
+        <item quantity="one">%d Fotoğraf</item>
+        <item quantity="two">%d Fotoğraf</item>
+        <item quantity="few">%d Fotoğraf</item>
+        <item quantity="many">%d Fotoğraf</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d yıldız</item>
+        <item quantity="zero">%d yıldız</item>
+        <item quantity="one">%d yıldız</item>
+        <item quantity="two">%d yıldız</item>
+        <item quantity="few">%d yıldız</item>
+        <item quantity="many">%d yıldız</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f yıldız</item>
+        <item quantity="zero">%.1f yıldız</item>
+        <item quantity="one">%.1f yıldız</item>
+        <item quantity="two">%.1f yıldız</item>
+        <item quantity="few">%.1f yıldız</item>
+        <item quantity="many">%.1f yıldız</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Yakındaki İstasyonlar</item>
+        <item quantity="zero">Yakındaki İstasyonlar</item>
+        <item quantity="one">Yakındaki İstasyon</item>
+        <item quantity="two">Yakındaki İstasyonlar</item>
+        <item quantity="few">Yakındaki İstasyonlar</item>
+        <item quantity="many">Yakındaki İstasyonlar</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s ve %2$d yorumcu</item>
+        <item quantity="one">%1$s ve %2$d yorumcu</item>
+        <item quantity="two">%1$s ve %2$d yorumcu</item>
+        <item quantity="few">%1$s ve %2$d yorumcu</item>
+        <item quantity="many">%1$s ve %2$d yorumcu</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d yorumcu</item>
+        <item quantity="one">%d yorumcu</item>
+        <item quantity="two">%d yorumcu</item>
+        <item quantity="few">%d yorumcu</item>
+        <item quantity="many">%d yorumcu</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Fotoğraflarınız incelendikten sonra herkese açık olacak.</item>
+        <item quantity="one">Fotoğrafınız incelendikten sonra herkese açık olacak.</item>
+        <item quantity="two">Fotoğraflarınız incelendikten sonra herkese açık olacak.</item>
+        <item quantity="few">Fotoğraflarınız incelendikten sonra herkese açık olacak.</item>
+        <item quantity="many">Fotoğraflarınız incelendikten sonra herkese açık olacak.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d durak</item>
+        <item quantity="zero">%d durak</item>
+        <item quantity="one">%d durak</item>
+        <item quantity="two">%d durak</item>
+        <item quantity="few">%d durak</item>
+        <item quantity="many">%d durak</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">yorum</item>
+        <item quantity="zero">yorum</item>
+        <item quantity="one">yorum</item>
+        <item quantity="two">yorum</item>
+        <item quantity="few">yorum</item>
+        <item quantity="many">yorum</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s gün</item>
+        <item quantity="zero">%s gün</item>
+        <item quantity="one">%s gün</item>
+        <item quantity="two">%s gün</item>
+        <item quantity="few">%s gün</item>
+        <item quantity="many">%s gün</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d gün</item>
+        <item quantity="zero">%d gün</item>
+        <item quantity="one">%d gün</item>
+        <item quantity="two">%d gün</item>
+        <item quantity="few">%d gün</item>
+        <item quantity="many">%d gün</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s saat</item>
+        <item quantity="zero">%s saat</item>
+        <item quantity="one">%s saat</item>
+        <item quantity="two">%s saat</item>
+        <item quantity="few">%s saat</item>
+        <item quantity="many">%s saat</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d saat</item>
+        <item quantity="zero">%d saat</item>
+        <item quantity="one">%d saat</item>
+        <item quantity="two">%d saat</item>
+        <item quantity="few">%d saat</item>
+        <item quantity="many">%d saat</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s dakika</item>
+        <item quantity="zero">%s dakika</item>
+        <item quantity="one">%s dakika</item>
+        <item quantity="two">%s dakika</item>
+        <item quantity="few">%s dakika</item>
+        <item quantity="many">%s dakika</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d dakika</item>
+        <item quantity="zero">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+        <item quantity="two">%d dakika</item>
+        <item quantity="few">%d dakika</item>
+        <item quantity="many">%d dakika</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">%1$s metre sonra</item>
+        <item quantity="one">%1$s metre sonra</item>
+        <item quantity="two">%1$s metre sonra</item>
+        <item quantity="few">%1$s metre sonra</item>
+        <item quantity="many">%1$s metre sonra</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">%1$s kilometre sonra</item>
+        <item quantity="one">%1$s kilometre sonra</item>
+        <item quantity="two">%1$s kilometre sonra</item>
+        <item quantity="few">%1$s kilometre sonra</item>
+        <item quantity="many">%1$s kilometre sonra</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">%1$s metre boyunca ilerleyin</item>
+        <item quantity="one">%1$s metre boyunca ilerleyin</item>
+        <item quantity="two">%1$s metre boyunca ilerleyin</item>
+        <item quantity="few">%1$s metre boyunca ilerleyin</item>
+        <item quantity="many">%1$s metre boyunca ilerleyin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">%1$s kilometre devam edin</item>
+        <item quantity="one">%1$s kilometre devam edin</item>
+        <item quantity="two">%1$s kilometre devam edin</item>
+        <item quantity="few">%1$s kilometre devam edin</item>
+        <item quantity="many">%1$s kilometre devam edin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">%2$s üzerinde %1$s metre boyunca ilerleyin</item>
+        <item quantity="one">%2$s üzerinde %1$s metre boyunca ilerleyin</item>
+        <item quantity="two">%2$s üzerinde %1$s metre boyunca ilerleyin</item>
+        <item quantity="few">%2$s üzerinde %1$s metre boyunca ilerleyin</item>
+        <item quantity="many">%2$s üzerinde %1$s metre boyunca ilerleyin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">%2$s üzerinde %1$s kilometre devam edin</item>
+        <item quantity="one">%2$s üzerinde %1$s kilometre devam edin</item>
+        <item quantity="two">%2$s üzerinde %1$s kilometre devam edin</item>
+        <item quantity="few">%2$s üzerinde %1$s kilometre devam edin</item>
+        <item quantity="many">%2$s üzerinde %1$s kilometre devam edin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">%1$s fit sonra</item>
+        <item quantity="one">%1$s fit sonra</item>
+        <item quantity="two">%1$s fit sonra</item>
+        <item quantity="few">%1$s fit sonra</item>
+        <item quantity="many">%1$s fit sonra</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">%1$s yarda sonra</item>
+        <item quantity="one">%1$s yarda sonra</item>
+        <item quantity="two">%1$s yarda sonra</item>
+        <item quantity="few">%1$s yarda sonra</item>
+        <item quantity="many">%1$s yarda sonra</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">%1$s mil sonra</item>
+        <item quantity="one">%1$s mil sonra</item>
+        <item quantity="two">%1$s mil sonra</item>
+        <item quantity="few">%1$s mil sonra</item>
+        <item quantity="many">%1$s mil sonra</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">%1$s fit boyunca ilerleyin</item>
+        <item quantity="one">%1$s fit boyunca ilerleyin</item>
+        <item quantity="two">%1$s fit boyunca ilerleyin</item>
+        <item quantity="few">%1$s fit boyunca ilerleyin</item>
+        <item quantity="many">%1$s fit boyunca ilerleyin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">%1$s yarda boyunca ilerleyin</item>
+        <item quantity="one">%1$s yarda boyunca ilerleyin</item>
+        <item quantity="two">%1$s yarda boyunca ilerleyin</item>
+        <item quantity="few">%1$s yarda boyunca ilerleyin</item>
+        <item quantity="many">%1$s yarda boyunca ilerleyin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">%1$s mil devam edin</item>
+        <item quantity="one">%1$s mil devam edin</item>
+        <item quantity="two">%1$s mil devam edin</item>
+        <item quantity="few">%1$s mil devam edin</item>
+        <item quantity="many">%1$s mil devam edin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">%2$s üzerinde %1$s fit boyunca ilerleyin</item>
+        <item quantity="one">%2$s üzerinde %1$s fit boyunca ilerleyin</item>
+        <item quantity="two">%2$s üzerinde %1$s fit boyunca ilerleyin</item>
+        <item quantity="few">%2$s üzerinde %1$s fit boyunca ilerleyin</item>
+        <item quantity="many">%2$s üzerinde %1$s fit boyunca ilerleyin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">%2$s üzerinde %1$s yarda boyunca ilerleyin</item>
+        <item quantity="one">%2$s üzerinde %1$s yarda boyunca ilerleyin</item>
+        <item quantity="two">%2$s üzerinde %1$s yarda boyunca ilerleyin</item>
+        <item quantity="few">%2$s üzerinde %1$s yarda boyunca ilerleyin</item>
+        <item quantity="many">%2$s üzerinde %1$s yarda boyunca ilerleyin</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">%2$s üzerinde %1$s mil devam edin</item>
+        <item quantity="one">%2$s üzerinde %1$s mil devam edin</item>
+        <item quantity="two">%2$s üzerinde %1$s mil devam edin</item>
+        <item quantity="few">%2$s üzerinde %1$s mil devam edin</item>
+        <item quantity="many">%2$s üzerinde %1$s mil devam edin</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d yıldız</item>
+        <item quantity="zero">%d yıldız</item>
+        <item quantity="one">%d yıldız</item>
+        <item quantity="two">%d yıldız</item>
+        <item quantity="few">%d yıldız</item>
+        <item quantity="many">%d yıldız</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">%d gecelik rezervasyonunuz</item>
+        <item quantity="zero">%d gecelik rezervasyonunuz</item>
+        <item quantity="one">%d gecelik rezervasyonunuz</item>
+        <item quantity="two">%d gecelik rezervasyonunuz</item>
+        <item quantity="few">%d gecelik rezervasyonunuz</item>
+        <item quantity="many">%d gecelik rezervasyonunuz</item>
+    </plurals>
+</resources>

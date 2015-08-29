@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Cette activation est programmée pour dans moins de 1 minute.</item>
+        <item>Cette activation est programmée pour dans %1$s à compter de maintenant.</item>
+        <item>Cette mise sous tension est prévue pour %2$s à partir de maintenant. </item>
+        <item>Cette activation est programmée pour dans %1$s et %2$s à compter de maintenant.</item>
+        <item>Cette mise sous tension est prévue pour %3$s à partir de maintenant. </item>
+        <item>Cette activation est programmée pour dans %1$s et %3$s à compter de maintenant.</item>
+        <item>Cette mise sous tension est prévue pour %2$s et %3$s à partir de maintenant. </item>
+        <item>Cette activation est programmée pour dans %1$s, %2$s, et %3$s à compter de maintenant.</item>
+        <item>Cette désactivation est programmée pour dans moins de 1 minute à compter de maintenant.</item>
+        <item>Cette désactivation est programmée pour dans %1$s à compter de maintenant.</item>
+        <item>Cette mise hors tension est prévue pour %2$s à partir de maintenant. </item>
+        <item>Cette désactivation est programmée pour dans %1$s et %2$s à compter de maintenant.</item>
+        <item>Cette mise hors tension est prévue pour %3$s à partir de maintenant. </item>
+        <item>Cette désactivation est programmée pour dans %1$s et %3$s à compter de maintenant.</item>
+        <item>Cette mise hors tension est prévue pour %2$s et %3$s à partir de maintenant. </item>
+        <item>Cette désactivation est programmée pour dans %1$s, %2$s, et %3$s à compter de maintenant.</item>
+    </string-array>
+</resources>

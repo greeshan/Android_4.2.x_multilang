@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Météo</string>
+    <string name="updating">Mise à jour en cours</string>
+    <string name="failed_to_locate">Non trouvé</string>
+    <string name="no_weather">Aucune information météo pour %s actuellement disponible.</string>
+    <string name="add_setting">Touchez ici pour ajouter des villes</string>
+</resources>

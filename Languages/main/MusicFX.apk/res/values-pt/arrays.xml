@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Nenhum</item>
+        <item>Sala pequena</item>
+        <item>Sala média</item>
+        <item>Sala grande</item>
+        <item>Salão médio</item>
+        <item>Salão grande</item>
+        <item>Reverberação de pratos</item>
+    </string-array>
+</resources>

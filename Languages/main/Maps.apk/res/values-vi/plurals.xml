@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d ảnh</item>
+        <item quantity="zero">%d ảnh</item>
+        <item quantity="one">%d ảnh</item>
+        <item quantity="two">%d ảnh</item>
+        <item quantity="few">%d ảnh</item>
+        <item quantity="many">%d ảnh</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d sao</item>
+        <item quantity="zero">%d sao</item>
+        <item quantity="one">%d sao</item>
+        <item quantity="two">%d sao</item>
+        <item quantity="few">%d sao</item>
+        <item quantity="many">%d sao</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f sao</item>
+        <item quantity="zero">%.1f sao</item>
+        <item quantity="one">%.1f sao</item>
+        <item quantity="two">%.1f sao</item>
+        <item quantity="few">%.1f sao</item>
+        <item quantity="many">%.1f sao</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Các trạm gần đây</item>
+        <item quantity="zero">Các trạm gần đây</item>
+        <item quantity="one">Trạm gần đây</item>
+        <item quantity="two">Các trạm gần đây</item>
+        <item quantity="few">Các trạm gần đây</item>
+        <item quantity="many">Các trạm gần đây</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s và %2$d người đánh giá</item>
+        <item quantity="one">%1$s và %2$d người đánh giá</item>
+        <item quantity="two">%1$s và %2$d người đánh giá</item>
+        <item quantity="few">%1$s và %2$d người đánh giá</item>
+        <item quantity="many">%1$s và %2$d người đánh giá</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d người đánh giá</item>
+        <item quantity="one">%d người đánh giá</item>
+        <item quantity="two">%d người đánh giá</item>
+        <item quantity="few">%d người đánh giá</item>
+        <item quantity="many">%d người đánh giá</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Ảnh của bạn sẽ được công khai ngay sau khi được đánh giá.</item>
+        <item quantity="one">Ảnh của bạn sẽ được công khai ngay sau khi được đánh giá.</item>
+        <item quantity="two">Ảnh của bạn sẽ được công khai ngay sau khi được đánh giá.</item>
+        <item quantity="few">Ảnh của bạn sẽ được công khai ngay sau khi được đánh giá.</item>
+        <item quantity="many">Ảnh của bạn sẽ được công khai ngay sau khi được đánh giá.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d điểm dừng</item>
+        <item quantity="zero">%d điểm dừng</item>
+        <item quantity="one">%d điểm dừng</item>
+        <item quantity="two">%d điểm dừng</item>
+        <item quantity="few">%d điểm dừng</item>
+        <item quantity="many">%d điểm dừng</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">bài đánh giá</item>
+        <item quantity="zero">bài đánh giá</item>
+        <item quantity="one">bài đánh giá</item>
+        <item quantity="two">bài đánh giá</item>
+        <item quantity="few">bài đánh giá</item>
+        <item quantity="many">bài đánh giá</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s ngày</item>
+        <item quantity="zero">%s ngày</item>
+        <item quantity="one">%s ngày</item>
+        <item quantity="two">%s ngày</item>
+        <item quantity="few">%s ngày</item>
+        <item quantity="many">%s ngày</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d ngày</item>
+        <item quantity="zero">%d ngày</item>
+        <item quantity="one">%d ngày</item>
+        <item quantity="two">%d ngày</item>
+        <item quantity="few">%d ngày</item>
+        <item quantity="many">%d ngày</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s giờ</item>
+        <item quantity="zero">%s giờ</item>
+        <item quantity="one">%s giờ</item>
+        <item quantity="two">%s giờ</item>
+        <item quantity="few">%s giờ</item>
+        <item quantity="many">%s giờ</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d giờ</item>
+        <item quantity="zero">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s phút</item>
+        <item quantity="zero">%s phút</item>
+        <item quantity="one">%s phút</item>
+        <item quantity="two">%s phút</item>
+        <item quantity="few">%s phút</item>
+        <item quantity="many">%s phút</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d phút</item>
+        <item quantity="zero">%d phút</item>
+        <item quantity="one">%d phút</item>
+        <item quantity="two">%d phút</item>
+        <item quantity="few">%d phút</item>
+        <item quantity="many">%d phút</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">%1$s mét nữa</item>
+        <item quantity="one">%1$s mét nữa</item>
+        <item quantity="two">%1$s mét nữa</item>
+        <item quantity="few">%1$s mét nữa</item>
+        <item quantity="many">%1$s mét nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">%1$s ki lô mét nữa</item>
+        <item quantity="one">%1$s ki lô mét nữa</item>
+        <item quantity="two">%1$s ki lô mét nữa</item>
+        <item quantity="few">%1$s ki lô mét nữa</item>
+        <item quantity="many">%1$s ki lô mét nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Đi tiếp %1$s mét nữa</item>
+        <item quantity="one">Đi tiếp %1$s mét nữa</item>
+        <item quantity="two">Đi tiếp %1$s mét nữa</item>
+        <item quantity="few">Đi tiếp %1$s mét nữa</item>
+        <item quantity="many">Đi tiếp %1$s mét nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Đi tiếp %1$s ki lô mét nữa</item>
+        <item quantity="one">Đi tiếp %1$s ki lô mét nữa</item>
+        <item quantity="two">Đi tiếp %1$s ki lô mét nữa</item>
+        <item quantity="few">Đi tiếp %1$s ki lô mét nữa</item>
+        <item quantity="many">Đi tiếp %1$s ki lô mét nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Đi tiếp %2$s %1$s mét nữa</item>
+        <item quantity="one">Đi tiếp %2$s %1$s mét nữa</item>
+        <item quantity="two">Đi tiếp %2$s %1$s mét nữa</item>
+        <item quantity="few">Đi tiếp %2$s %1$s mét nữa</item>
+        <item quantity="many">Đi tiếp %2$s %1$s mét nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Đi tiếp %2$s %1$s ki lô mét nữa</item>
+        <item quantity="one">Đi tiếp %2$s %1$s ki lô mét nữa</item>
+        <item quantity="two">Đi tiếp %2$s %1$s ki lô mét nữa</item>
+        <item quantity="few">Đi tiếp %2$s %1$s ki lô mét nữa</item>
+        <item quantity="many">Đi tiếp %2$s %1$s ki lô mét nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">%1$s bộ nữa</item>
+        <item quantity="one">%1$s bộ nữa</item>
+        <item quantity="two">%1$s bộ nữa</item>
+        <item quantity="few">%1$s bộ nữa</item>
+        <item quantity="many">%1$s bộ nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">%1$s yard nữa</item>
+        <item quantity="one">%1$s yard nữa</item>
+        <item quantity="two">%1$s yard nữa</item>
+        <item quantity="few">%1$s yard nữa</item>
+        <item quantity="many">%1$s yard nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">%1$s dặm nữa</item>
+        <item quantity="one">%1$s dặm nữa</item>
+        <item quantity="two">%1$s dặm nữa</item>
+        <item quantity="few">%1$s dặm nữa</item>
+        <item quantity="many">%1$s dặm nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Đi tiếp %1$s bộ nữa</item>
+        <item quantity="one">Đi tiếp %1$s bộ nữa</item>
+        <item quantity="two">Đi tiếp %1$s bộ nữa</item>
+        <item quantity="few">Đi tiếp %1$s bộ nữa</item>
+        <item quantity="many">Đi tiếp %1$s bộ nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Đi tiếp %1$s yard nữa</item>
+        <item quantity="one">Đi tiếp %1$s yard nữa</item>
+        <item quantity="two">Đi tiếp %1$s yard nữa</item>
+        <item quantity="few">Đi tiếp %1$s yard nữa</item>
+        <item quantity="many">Đi tiếp %1$s yard nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Đi tiếp %1$s dặm nữa</item>
+        <item quantity="one">Đi tiếp %1$s dặm nữa</item>
+        <item quantity="two">Đi tiếp %1$s dặm nữa</item>
+        <item quantity="few">Đi tiếp %1$s dặm nữa</item>
+        <item quantity="many">Đi tiếp %1$s dặm nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Đi tiếp %2$s %1$s bộ nữa</item>
+        <item quantity="one">Đi tiếp %2$s %1$s bộ nữa</item>
+        <item quantity="two">Đi tiếp %2$s %1$s bộ nữa</item>
+        <item quantity="few">Đi tiếp %2$s %1$s bộ nữa</item>
+        <item quantity="many">Đi tiếp %2$s %1$s bộ nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Đi tiếp %2$s %1$s yard nữa</item>
+        <item quantity="one">Đi tiếp %2$s %1$s yard nữa</item>
+        <item quantity="two">Đi tiếp %2$s %1$s yard nữa</item>
+        <item quantity="few">Đi tiếp %2$s %1$s yard nữa</item>
+        <item quantity="many">Đi tiếp %2$s %1$s yard nữa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Đi tiếp %2$s %1$s dặm nữa</item>
+        <item quantity="one">Đi tiếp %2$s %1$s dặm nữa</item>
+        <item quantity="two">Đi tiếp %2$s %1$s dặm nữa</item>
+        <item quantity="few">Đi tiếp %2$s %1$s dặm nữa</item>
+        <item quantity="many">Đi tiếp %2$s %1$s dặm nữa</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d sao</item>
+        <item quantity="zero">%d sao</item>
+        <item quantity="one">%d sao</item>
+        <item quantity="two">%d sao</item>
+        <item quantity="few">%d sao</item>
+        <item quantity="many">%d sao</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Yêu cầu đặt chỗ của bạn cho %d đêm</item>
+        <item quantity="zero">Yêu cầu đặt chỗ của bạn cho %d đêm</item>
+        <item quantity="one">Yêu cầu đặt chỗ của bạn cho %d đêm</item>
+        <item quantity="two">Yêu cầu đặt chỗ của bạn cho %d đêm</item>
+        <item quantity="few">Yêu cầu đặt chỗ của bạn cho %d đêm</item>
+        <item quantity="many">Yêu cầu đặt chỗ của bạn cho %d đêm</item>
+    </plurals>
+</resources>

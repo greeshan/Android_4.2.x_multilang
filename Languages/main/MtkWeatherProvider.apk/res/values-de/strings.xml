@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wetterdienst</string>
+    <string name="choose_city">Stadt auswählen</string>
+    <string name="searching">Wird gesucht, bitte warten</string>
+    <string name="no_found">Keine mit %s übereinstimmende Stadt gefunden. Bitte eingegebene Wörter prüfen.</string>
+    <string name="net_error">Netzwerk nicht verfügbar. Bitte prüfen.</string>
+    <string name="no_city_error">Stadtinformationen können nicht bezogen werden; bitte Systemzeit und Zeitzone richtig einstellen.</string>
+    <string name="searching_fail">Stadtsuche fehlgeschlagen.</string>
+    <string name="no_weather_error">Wetterinformationen können nicht bezogen werden; bitte Systemzeit und Zeitzone richtig einstellen.</string>
+    <string name="no_weather">Für %s sind aktuell keine Wetterinformationen verfügbar.</string>
+    <string name="setting_title">Einrichtung</string>
+    <string name="temperature">Temperatureinheiten</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Städte</string>
+    <string name="update_fre">Aktualisierungsfrequenz</string>
+    <string name="every12">Alle 12 Stunden</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="menu_add_city">Stadt hinzufügen</string>
+    <string name="add_city">Zum Hinzufügen einer neuen Stadt Symbol drücken</string>
+    <string name="remove">Entfernen</string>
+    <string name="warn">Es können maximal 8 Städte hinzugefügt werden.</string>
+    <string name="has_chosen">wurden ausgewählt.</string>
+    <string name="no_city">Keine Städte</string>
+    <string name="powered_by">Unterstützt von:</string>
+    <string name="menu_about">Info</string>
+</resources>

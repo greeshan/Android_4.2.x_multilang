@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d зураг</item>
+        <item quantity="zero">%d зураг</item>
+        <item quantity="one">%d зураг</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d сонгогдсон.</item>
+        <item quantity="one">%d сонгогдсон.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Эдгээр зургуудын бүх хуулбарыг устах уу?</item>
+        <item quantity="one">Энэ зургийн бүх хуулбарыг устгах уу?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Та эдгээр зургуудыг энэ Google+ цомгоос устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй.</item>
+        <item quantity="one">Та энэ зургийг энэ Google+ цомгоос устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Та эдгээр зургуудыг өөрийн утас болон энэ Google+ цомгоос устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй.</item>
+        <item quantity="one">Та энэ зургийг өөрийн утас болон энэ Google+ цомгоос устгахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүй.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Зургуудыг устгаж байна…</item>
+        <item quantity="one">Зургийг устгаж байна…</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d сэтгэгдэл</item>
+        <item quantity="one">%d сэтгэгдэл</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Зургуудыг устгах</item>
+        <item quantity="one">Зургийг устгах</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; %2$d гишүүн</item>
+        <item quantity="one">%1$s; %2$d гишүүн</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Шинэ Google+ мэдэгдлүүд</item>
+        <item quantity="one">Шинэ Google+ мэдэгдэл</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Таныг өөр %d хүнтэй Hangout хийхээр урьсан байна</item>
+        <item quantity="one">Таныг өөр 1 хүнтэй Hangout хийхээр урьсан байна</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d хавсралт</item>
+        <item quantity="one">%d хавсралт</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d сонгогдсон</item>
+        <item quantity="one">%d сонгогдсон</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d хүрээлэл, %2$s</item>
+        <item quantity="one">%1$d хүрээлэл, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Хүрээллүүдийг устгах</item>
+        <item quantity="one">Хүрээллийг устгах</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Та эдгээр хүрээллүүдийг бүрмөсөн устгахыг хүсч байна уу?</item>
+        <item quantity="one">Та энэ хүрээллийг бүрмөсөн устгахыг хүсч байна уу?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Хүрээллүүдийг устгаж байна…</item>
+        <item quantity="one">Хүрээллийг устгаж байна…</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d хүн</item>
+        <item quantity="one">%d хүн</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Хүмүүсийг хасах</item>
+        <item quantity="one">Хүнийг хасах</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Та эдгээр хүмүүссийг хүрээллээс хасахыг хүсч байна уу?</item>
+        <item quantity="one">Та энэ хүнийг хүрээллээс хасахыг хүсч байна уу?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Хүмүүс нэмж байна…</item>
+        <item quantity="one">Хүн нэмж байна…</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Хүмүүсийг хасаж байна…</item>
+        <item quantity="one">Хүнийг хасаж байна…</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Хүмүүсийг хасаж байна…</item>
+        <item quantity="one">Хүн хасаж байна…</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d илүү</item>
+        <item quantity="one">%d илүү</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d цаг</item>
+        <item quantity="one">%d цаг</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d өдөр</item>
+        <item quantity="one">%d өдөр</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">%2$s-с %3$s болон %1$d өөр хүнтэй видео хурал</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d цаг</item>
+        <item quantity="one">1 цаг</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d урилга</item>
+        <item quantity="one">%d урилга</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d Hangouts-д %2$d мессеж</item>
+        <item quantity="one">Нэг Hangouts-д %d мессеж</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Таныг өөр %1$d хүнтэй Hangout хийхээр урьсан байна</item>
+        <item quantity="one">Таныг өөр 1 хүнтэй Hangout хийхээр урьсан байна</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s болон %1$d өөр хүн Hangouts хийхийг хүсэж байна</item>
+        <item quantity="one">%2$s болон %1$d өөр хүн Hangouts хийхийг хүсэж байна</item>
+        <item quantity="few">%2$s болон %1$d өөр хүн Hangouts хийхийг хүсэж байна</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d өөр хүн Hangouts хийхийг хүсэж байна</item>
+        <item quantity="one">%1$d өөр хүн Hangouts хийхийг хүсэж байна</item>
+        <item quantity="few">%1$d өөр хүн Hangouts хийхийг хүсэж байна</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d урилга</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">%d зүйл хавсаргасан</item>
+        <item quantity="zero">%d зүйл хавсаргасан</item>
+        <item quantity="one">%d зүйл хавсаргасан</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d зүйл дамжуулсан</item>
+        <item quantity="zero">%d зүйл дамжуулсан</item>
+        <item quantity="one">%d зүйл дамжуулсан</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d долоо хоног</item>
+        <item quantity="one">долоо хоног</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d сар</item>
+        <item quantity="one">сар</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d жил</item>
+        <item quantity="one">жил</item>
+    </plurals>
+</resources>

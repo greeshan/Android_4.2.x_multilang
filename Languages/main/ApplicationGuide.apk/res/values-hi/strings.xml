@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">अगला</string>
+    <string name="scroll_left_bar_title">और अधिक कैप्चर मोड देखने के लिए स्क्रॉल करें</string>
+    <string name="zoome_title">ज़ूम इन/आउट</string>
+</resources>

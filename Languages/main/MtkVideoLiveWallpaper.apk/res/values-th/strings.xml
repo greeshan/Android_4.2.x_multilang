@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">MTK Live Wallpapers</string>
+    <string name="vlw">ภาพพื้นหลังวิดีโอ</string>
+    <string name="vlw_desc">ตั้งค่าวิดีโอเป็นภาพพื้นหลัง</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">ขออภัย วิดีโอนี้ใช้ไม่ได้สำหรับการสตรีมไปยังอุปกรณ์นี้</string>
+    <string name="VideoScene_error_text_unknown">ขออภัย วิดีโอนี้ไม่สามารถเล่นได้</string>
+    <string name="VideoScene_error_media_removed">ไฟล์มีเดียถูกนำออกไป</string>
+    <string name="VideoScene_error_sdcard_unmounted">SD การ์ดถูกเลิกเมาต์</string>
+    <string name="VideoScene_info_wait_sdcard">กำลังรอการเตรียม SD การ์ด</string>
+    <string name="VideoScene_error_media_not_found">ขณะนี้ไม่มีไฟล์มีเดีย</string>
+    <string name="VideoScene_error_be_set">ขออภัย ไม่สามารถตั้งวิดีโอเป็นวิดีโอวอลล์เปเปอร์ได้</string>
+    <string name="VideoEditor_error_title">ไม่สามารถเล่นวิดีโอ</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">ไม่ได้เลือกวิดีโอ</string>
+    <string name="VideoEditor_warning_limited_duration">โปรดเลือกวิดีโอที่จะเล่นอย่างน้อย 1 วินาที</string>
+    <string name="VideoScene_reload_after_mount">กำลังโหลดวิดีโอจาก SD การ์ด โปรดรอสักครู่</string>
+    <string name="select_video">SD การ์ด</string>
+    <string name="select_default">ค่าเริ่มต้น</string>
+    <string name="select">เลือกวิดีโอ</string>
+    <string name="set_wallpaper">ตั้งค่า</string>
+    <string name="title">ภาพพื้นหลังวิดีโอ</string>
+    <string name="default_title">วิดีโอเริ่มต้น</string>
+    <string name="capture_video">กล้อง</string>
+    <string name="menu_item_add_item">เลือกวิดีโอจาก SD การ์ด</string>
+    <string name="group_video">เลือกวิดีโอไฟล์เดียว</string>
+    <string name="group_folder">เลือกโฟลเดอร์</string>
+    <string name="folder_info">วิดีโอจาก&lt;br></string>
+</resources>

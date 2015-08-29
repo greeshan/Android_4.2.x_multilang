@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">صوت کار</string>
+    <string name="wallpaper_vis2">لہری شکل</string>
+    <string name="wallpaper_vis3">دائرہ کار</string>
+    <string name="wallpaper_vis4">VU میٹر</string>
+    <string name="wallpaper_vis5">بہت</string>
+    <string name="wallpapers">میوزک تصورات دیواری کاغذ</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">حالیہ چل رہے کسی بھی میوزک ٹریک کی آواز کی لہروں کو کھینچتا ہے۔</string>
+    <string name="vis3_desc">حالیہ چل رہے کسی بھی میوزک ٹریک کے تعددی دائرہ کار کو دکھاتا ہے۔</string>
+    <string name="vis4_desc">کسی انالاگ صوتی میٹر کی تقلید کرتا ہے۔</string>
+    <string name="vis5_desc">سارے میوزک تصورات ایک ساتھ، 3D میں آہستہ سے گھوم رہے ہیں۔</string>
+</resources>

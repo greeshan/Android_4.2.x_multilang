@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Reverberação predefinida</string>
+    <string name="eq_preset_normal">Normal</string>
+    <string name="eq_preset_classical">Clássica</string>
+    <string name="eq_preset_dance">Dança</string>
+    <string name="eq_preset_flat">Plano</string>
+    <string name="eq_preset_folk">Folk</string>
+    <string name="eq_preset_heavymetal">Heavy Metal</string>
+    <string name="eq_preset_hiphop">Hip Hop</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Efeitos não disponíveis.</string>
+    <string name="eq_dialog_title">Equalizador</string>
+    <string name="headset_plug">Ligue os auscultadores para estes efeitos.</string>
+    <string name="bass_boost_strength">Aumento de graves</string>
+    <string name="virtualizer_strength">Efeito 3D</string>
+    <string name="ci_extreme">Amplificador FX</string>
+    <string name="user">Utilizador</string>
+    <string name="picker_title">Painel de efeitos musicais</string>
+    <string name="main_toggle_effects_title">Efeitos de áudio</string>
+    <string name="pr_title">Repercussão:</string>
+    <string name="pr_summary">Efeitos de repercussão da sala adicionais</string>
+    <string name="pr_dialog_title">Predefinição de reverberação</string>
+    <string name="setup">Configuração</string>
+</resources>

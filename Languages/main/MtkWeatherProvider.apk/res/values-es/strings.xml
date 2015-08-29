@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio El tiempo</string>
+    <string name="choose_city">Elegir ciudad</string>
+    <string name="searching">Buscando. Espere.</string>
+    <string name="no_found">No se encontró una ciudad que coincidiera con %s. Compruebe las palabras escritas.</string>
+    <string name="net_error">Red no disponible. Compruébelo.</string>
+    <string name="no_city_error">No se puede obtener la información de la ciudad. Establezca la hora del sistema y la zona horaria correctamente.</string>
+    <string name="searching_fail">Error al buscar la ciudad.</string>
+    <string name="no_weather_error">No se puede obtener la información del tiempo. Establezca la hora del sistema y la zona horaria correctamente.</string>
+    <string name="no_weather">En este momento o no hay información meteorológica para %s.</string>
+    <string name="setting_title">Configuración</string>
+    <string name="temperature">Unidades de temperatura</string>
+    <string name="tem_celsius">Centígrados</string>
+    <string name="cities_title">Ciudades</string>
+    <string name="update_fre">Frecuencia de actualización</string>
+    <string name="every12">Cada 12 horas</string>
+    <string name="cancel">Cancelar</string>
+    <string name="menu_add_city">Agregar ciudad</string>
+    <string name="add_city">Presione el icono para agregar una nueva ciudad</string>
+    <string name="remove">Quitar</string>
+    <string name="warn">Se pueden agregar ocho ciudades como máximo.</string>
+    <string name="has_chosen">se ha elegido.</string>
+    <string name="no_city">No hay ciudades</string>
+    <string name="powered_by">Diseñado por:</string>
+    <string name="menu_about">Acerca de</string>
+</resources>

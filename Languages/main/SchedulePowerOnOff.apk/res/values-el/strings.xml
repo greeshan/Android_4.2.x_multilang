@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Προγραμματισμένη ενεργοποίηση/απενεργοποίηση</string>
+    <string name="schedule_power_on_off_time">Ώρα</string>
+    <string name="schedule_power_on_off_repeat">Επανάληψη</string>
+    <string name="schedule_power_on_off_set">Ορισμός προγραμματισμένης ενεργοποίησης/απενεργοποίησης</string>
+    <string name="schedule_power_on_set">Ορισμός προγραμματισμένης ενεργοποίησης</string>
+    <string name="schedule_power_off_set">Ορισμός προγραμματισμένης απενεργοποίησης</string>
+    <string name="enable_schpwr">Ενεργοποίηση</string>
+    <string name="disable_schpwr">Απενεργοποίηση</string>
+    <string name="day">1 ημέρα</string>
+    <string name="days">" %s ημέρες"</string>
+    <string name="hour">1 ώρα</string>
+    <string name="hours">%s ώρες</string>
+    <string name="minute">1 λεπτό</string>
+    <string name="minutes">" %s λεπτά"</string>
+    <string name="every_day">κάθε μέρα</string>
+    <string name="never">Ποτέ</string>
+    <string name="done">Τέλος</string>
+    <string name="revert">Επαναφορά</string>
+    <string name="schpwr_shutdown_message">Η συσκευή σας θα απενεργοποιηθεί σε %s δευτερόλεπτα</string>
+    <string name="schpwr_shutdown_message_second">Η συσκευή σας θα απενεργοποιηθεί σε %s δευτερόλεπτο</string>
+</resources>

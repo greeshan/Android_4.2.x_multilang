@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>၁ ပတ်</item>
+        <item>၂ ပတ်</item>
+        <item>၃ ပတ်</item>
+        <item>၄ ပတ်</item>
+        <item>၅ ပတ်</item>
+        <item>၆ ပတ်</item>
+        <item>၇ ပတ်</item>
+        <item>၈ ပတ်</item>
+        <item>၉ ပတ်</item>
+        <item>၁၀ ပတ်</item>
+        <item>၁၁ ပတ်</item>
+        <item>၁၂ ပတ်</item>
+    </string-array>
+</resources>

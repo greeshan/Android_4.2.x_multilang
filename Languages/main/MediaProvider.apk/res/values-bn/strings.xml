@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">মিডিয়া</string>
+    <string name="app_label">মিডিয়া স্টোরেজ</string>
+    <string name="upgrade_msg">মিডিয়া ডাটাবেইজ আপডেট করা হচ্ছে।</string>
+    <string name="artist_label">শিল্পী</string>
+</resources>

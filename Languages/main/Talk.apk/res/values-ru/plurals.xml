@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="zero">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Удалить все копии этих фото?</item>
+        <item quantity="one">Удалить все копии этого фото?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Удалить фото из альбома Google+ навсегда?</item>
+        <item quantity="one">Удалить фото из альбома Google+ навсегда?</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Удалить фото из телефона и альбома Google+ навсегда?</item>
+        <item quantity="one">Удалить фото из телефона и альбома Google+ навсегда?</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Удаление...</item>
+        <item quantity="one">Удаление...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">Комментариев: %d</item>
+        <item quantity="one">Комментариев: %d</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Удалить</item>
+        <item quantity="one">Удалить</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s: %2$d чел.</item>
+        <item quantity="one">%1$s: %2$d чел.</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Новые оповещения Google+</item>
+        <item quantity="one">Оповещение Google+</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Приглашает вас в чат, где есть ещё %d чел.</item>
+        <item quantity="one">Приглашает вас в чат, где есть ещё 1 чел.</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">Файлов: %d</item>
+        <item quantity="one">Файлов: %d</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">круги %1$d, %2$s</item>
+        <item quantity="one">Круг \"%1$d\", %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Удаление кругов</item>
+        <item quantity="one">Удаление круга</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Удалить эти круги навсегда?</item>
+        <item quantity="one">Удалить этот круг навсегда?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Удаление кругов...</item>
+        <item quantity="one">Удаление круга...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d чел.</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Удаление участников</item>
+        <item quantity="one">Удаление участника</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Удалить этих людей из круга?</item>
+        <item quantity="one">Удалить этого человека из круга?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Добавление...</item>
+        <item quantity="one">Добавление участника...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Удаление пользователей...</item>
+        <item quantity="one">Удаление участника...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Удаление...</item>
+        <item quantity="one">Удаление...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">еще %d</item>
+        <item quantity="one">и еще %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Видеовстреча с пользователем %2$s (участники: %3$s и ещё %1$d чел.)</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">1 ч.</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">Приглашения (%d)</item>
+        <item quantity="one">Приглашения (%d)</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">Чатов в Hangouts: %1$d, сообщений: %2$d</item>
+        <item quantity="one">Сообщений в чате: %d</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Приглашает вас в чат, где есть ещё %1$d чел.</item>
+        <item quantity="one">Приглашает вас в чат, где есть ещё 1 чел.</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s и ещё %1$d пользователей приглашают пообщаться в Hangouts</item>
+        <item quantity="one">%2$s и ещё %1$d пользователь приглашают пообщаться в Hangouts</item>
+        <item quantity="few">%2$s и ещё %1$d пользователя приглашают пообщаться в Hangouts</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d пользователей приглашают пообщаться в Hangouts</item>
+        <item quantity="one">%1$d пользователь приглашает пообщаться в Hangouts</item>
+        <item quantity="few">%1$d пользователя приглашают пообщаться в Hangouts</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">Приглашения (%1$d)</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">Прикреплено файлов: %d</item>
+        <item quantity="zero">Прикреплено файлов: %d</item>
+        <item quantity="one">Прикреплено файлов: %d</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">Переслали файлов: %d</item>
+        <item quantity="zero">Переслали файлов: %d</item>
+        <item quantity="one">Переслали файлов: %d</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d нед.</item>
+        <item quantity="one">недели</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d мес.</item>
+        <item quantity="one">месяца</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d гг/лет</item>
+        <item quantity="one">года</item>
+    </plurals>
+</resources>

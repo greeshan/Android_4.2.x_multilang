@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d fotografija</item>
+        <item quantity="zero">%d fotografija</item>
+        <item quantity="one">%d fotografija</item>
+        <item quantity="two">%d fotografije</item>
+        <item quantity="few">%d fotografije</item>
+        <item quantity="many">%d fotografija</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d zvjezdica</item>
+        <item quantity="zero">%d zvjezdica</item>
+        <item quantity="one">%d zvjezdica</item>
+        <item quantity="two">%d zvjezdice</item>
+        <item quantity="few">%d zvjezdice</item>
+        <item quantity="many">%d zvjezdica</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f zvjezdica</item>
+        <item quantity="zero">%.1f zvjezdica</item>
+        <item quantity="one">%.1f zvjezdica</item>
+        <item quantity="two">%.1f zvjezdice</item>
+        <item quantity="few">%.1f zvjezdice</item>
+        <item quantity="many">%.1f zvjezdica</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Postaje u blizini</item>
+        <item quantity="zero">Postaje u blizini</item>
+        <item quantity="one">Postaja u blizini</item>
+        <item quantity="two">Postaje u blizini</item>
+        <item quantity="few">Postaje u blizini</item>
+        <item quantity="many">Postaje u blizini</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s i %2$d recenzenata</item>
+        <item quantity="one">%1$s i %2$d recenzent</item>
+        <item quantity="two">%1$s i %2$d recenzenta</item>
+        <item quantity="few">%1$s i %2$d recenzenta</item>
+        <item quantity="many">%1$s i %2$d recenzenata</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d recenzenata</item>
+        <item quantity="one">%d recenzent</item>
+        <item quantity="two">%d recenzenta</item>
+        <item quantity="few">%d recenzenta</item>
+        <item quantity="many">%d recenzenata</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Vaše će fotografije postati javno dostupne čim ih pregledamo.</item>
+        <item quantity="one">Vaša će fotografija postati javno dostupna čim je pregledamo.</item>
+        <item quantity="two">Vaše će fotografije postati javno dostupne čim ih pregledamo.</item>
+        <item quantity="few">Vaše će fotografije postati javno dostupne čim ih pregledamo.</item>
+        <item quantity="many">Vaše će fotografije postati javno dostupne čim ih pregledamo.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d stanica</item>
+        <item quantity="zero">%d stanica</item>
+        <item quantity="one">%d stanica</item>
+        <item quantity="two">%d stanice</item>
+        <item quantity="few">%d stanice</item>
+        <item quantity="many">%d stanica</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">recenzija</item>
+        <item quantity="zero">recenzija</item>
+        <item quantity="one">recenzija</item>
+        <item quantity="two">recenzije</item>
+        <item quantity="few">recenzije</item>
+        <item quantity="many">recenzija</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s dana</item>
+        <item quantity="zero">%s dana</item>
+        <item quantity="one">%s dan</item>
+        <item quantity="two">%s dana</item>
+        <item quantity="few">%s dana</item>
+        <item quantity="many">%s dana</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d dana</item>
+        <item quantity="zero">%d dana</item>
+        <item quantity="one">%d dan</item>
+        <item quantity="two">%d dana</item>
+        <item quantity="few">%d dana</item>
+        <item quantity="many">%d dana</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s sati</item>
+        <item quantity="zero">%s sati</item>
+        <item quantity="one">%s sat</item>
+        <item quantity="two">%s sata</item>
+        <item quantity="few">%s sata</item>
+        <item quantity="many">%s sati</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d sati</item>
+        <item quantity="zero">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="two">%d sata</item>
+        <item quantity="few">%d sata</item>
+        <item quantity="many">%d sati</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s minuta</item>
+        <item quantity="zero">%s minuta</item>
+        <item quantity="one">%s minute</item>
+        <item quantity="two">%s minute</item>
+        <item quantity="few">%s minute</item>
+        <item quantity="many">%s minuta</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minuta</item>
+        <item quantity="zero">%d minuta</item>
+        <item quantity="one">%d minute</item>
+        <item quantity="two">%d minute</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="many">%d minuta</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">Za %1$s metara</item>
+        <item quantity="one">Za %1$s metar</item>
+        <item quantity="two">Za %1$s metra</item>
+        <item quantity="few">Za %1$s metra</item>
+        <item quantity="many">Za %1$s metara</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">Za %1$s kilometara</item>
+        <item quantity="one">Za %1$s kilometar</item>
+        <item quantity="two">Za %1$s kilometra</item>
+        <item quantity="few">Za %1$s kilometra</item>
+        <item quantity="many">Za %1$s kilometara</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Nastavite još %1$s metara</item>
+        <item quantity="one">Nastavite još %1$s metar</item>
+        <item quantity="two">Nastavite još %1$s metra</item>
+        <item quantity="few">Nastavite još %1$s metra</item>
+        <item quantity="many">Nastavite još %1$s metara</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Nastavite još %1$s kilometara</item>
+        <item quantity="one">Nastavite još %1$s kilometar</item>
+        <item quantity="two">Nastavite još %1$s kilometra</item>
+        <item quantity="few">Nastavite još %1$s kilometra</item>
+        <item quantity="many">Nastavite još %1$s kilometara</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Nastavite cestom %2$s još %1$s metara</item>
+        <item quantity="one">Nastavite cestom %2$s još %1$s metar</item>
+        <item quantity="two">Nastavite cestom %2$s još %1$s metra</item>
+        <item quantity="few">Nastavite cestom %2$s još %1$s metra</item>
+        <item quantity="many">Nastavite cestom %2$s još %1$s metara</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Nastavite cestom %2$s još %1$s kilometara</item>
+        <item quantity="one">Nastavite cestom %2$s još %1$s kilometar</item>
+        <item quantity="two">Nastavite cestom %2$s još %1$s kilometra</item>
+        <item quantity="few">Nastavite cestom %2$s još %1$s kilometra</item>
+        <item quantity="many">Nastavite cestom %2$s još %1$s kilometara</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">Za %1$s stopa</item>
+        <item quantity="one">Za %1$s stopu</item>
+        <item quantity="two">Za %1$s stope</item>
+        <item quantity="few">Za %1$s stope</item>
+        <item quantity="many">Za %1$s stopa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">Za %1$s jardi</item>
+        <item quantity="one">Za %1$s jard</item>
+        <item quantity="two">Za %1$s jarda</item>
+        <item quantity="few">Za %1$s jarda</item>
+        <item quantity="many">Za %1$s jardi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">Za %1$s milja</item>
+        <item quantity="one">Za %1$s milju</item>
+        <item quantity="two">Za %1$s milje</item>
+        <item quantity="few">Za %1$s milje</item>
+        <item quantity="many">Za %1$s milja</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Nastavite još %1$s stopa</item>
+        <item quantity="one">Nastavite još %1$s stopu</item>
+        <item quantity="two">Nastavite još %1$s stope</item>
+        <item quantity="few">Nastavite još %1$s stope</item>
+        <item quantity="many">Nastavite još %1$s stopa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Nastavite još %1$s jardi</item>
+        <item quantity="one">Nastavite još %1$s jard</item>
+        <item quantity="two">Nastavite još %1$s jarda</item>
+        <item quantity="few">Nastavite još %1$s jarda</item>
+        <item quantity="many">Nastavite još %1$s jardi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Nastavite još %1$s milja</item>
+        <item quantity="one">Nastavite još %1$s milju</item>
+        <item quantity="two">Nastavite još %1$s milje</item>
+        <item quantity="few">Nastavite još %1$s milje</item>
+        <item quantity="many">Nastavite još %1$s milja</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Nastavite cestom %2$s još %1$s stopa</item>
+        <item quantity="one">Nastavite cestom %2$s još %1$s stopu</item>
+        <item quantity="two">Nastavite cestom %2$s još %1$s stope</item>
+        <item quantity="few">Nastavite cestom %2$s još %1$s stope</item>
+        <item quantity="many">Nastavite cestom %2$s još %1$s stopa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Nastavite cestom %2$s još %1$s jardi</item>
+        <item quantity="one">Nastavite cestom %2$s još %1$s jard</item>
+        <item quantity="two">Nastavite cestom %2$s još %1$s jarda</item>
+        <item quantity="few">Nastavite cestom %2$s još %1$s jarda</item>
+        <item quantity="many">Nastavite cestom %2$s još %1$s jardi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Nastavite cestom %2$s još %1$s milja</item>
+        <item quantity="one">Nastavite cestom %2$s još %1$s milju</item>
+        <item quantity="two">Nastavite cestom %2$s još %1$s milje</item>
+        <item quantity="few">Nastavite cestom %2$s još %1$s milje</item>
+        <item quantity="many">Nastavite cestom %2$s još %1$s milja</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d zvjezdica</item>
+        <item quantity="zero">%d zvjezdica</item>
+        <item quantity="one">%d zvjezdica</item>
+        <item quantity="two">%d zvjezdice</item>
+        <item quantity="few">%d zvjezdice</item>
+        <item quantity="many">%d zvjezdica</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Vaša rezervacija za %d noćenja</item>
+        <item quantity="zero">Vaša rezervacija za %d noćenja</item>
+        <item quantity="one">Vaša rezervacija za %d noćenje</item>
+        <item quantity="two">Vaša rezervacija za %d noćenja</item>
+        <item quantity="few">Vaša rezervacija za %d noćenja</item>
+        <item quantity="many">Vaša rezervacija za %d noćenja</item>
+    </plurals>
+</resources>

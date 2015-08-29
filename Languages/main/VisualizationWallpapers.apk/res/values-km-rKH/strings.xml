@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">ម៉ាកែត</string>
+    <string name="wallpaper_vis2">ទម្រង់រលក</string>
+    <string name="wallpaper_vis3">វិសាលគម</string>
+    <string name="wallpaper_vis4">ម៉ែត VU</string>
+    <string name="wallpaper_vis5">ច្រើន</string>
+    <string name="wallpapers">ផ្ទាំងរូបភាពម៉ាកែតតន្ត្រី</string>
+    <string name="author">ហ្គូហ្គល</string>
+    <string name="vis2_desc">ទាញយករលកសម្លងនៃបទចំរៀងកំពុងលេងបច្ចុប្បន្នណាមួយ ។</string>
+    <string name="vis3_desc">បង្ហាញវិសាលគមហ្រេ្វកង់នៃបទចំរៀងកំពុងលេងបច្ចុប្បន្នណាមួយ ។</string>
+    <string name="vis4_desc">ធ្វើឱ្យម៉ែតសម្លេង analog ដូចគ្នា ។</string>
+    <string name="vis5_desc">ធ្វើម៉ាកែតតន្រ្តីទាំងអស់ជាមួយ យឺតៗវិវត្តជា 3D ។</string>
+</resources>

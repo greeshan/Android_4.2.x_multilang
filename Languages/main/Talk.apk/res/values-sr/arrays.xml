@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>стисак</item>
+        <item>велике очи</item>
+        <item>велика уста</item>
+        <item>мала уста</item>
+        <item>велики нос</item>
+        <item>мале очи</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>у свемиру</item>
+        <item>залазак сунца</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>низак</item>
+        <item>средњи</item>
+        <item>висок</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>без наслова</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>НАСМЕЈАН, НАСМЕЈАНИХ ОЧИЈУ</item>
+        <item>ШИРОК ОСМЕХ</item>
+        <item>ШИРОК ОСМЕХ, НАСМЕЈАНИХ ОЧИЈУ</item>
+        <item>СУЗЕ РАДОСНИЦЕ</item>
+        <item>НАСМЕЈАН ОТВОРЕНИХ УСТА</item>
+        <item>НАСМЕЈАН СА ОТВОРЕНИМ УСТИМА И НАСМЕЈАНИМ ОЧИМА</item>
+        <item>НАСМЕЈАН ОТВОРЕНИХ УСТА И ОБЛИВЕН ХЛАДНИМ ЗНОЈЕМ</item>
+        <item>НАСМЕЈАН ОТВОРЕНИХ УСТА И ЧВРСТО ЗАТВОРЕНИХ ОЧИЈУ</item>
+        <item>НАСМЕЈАН СА ОРЕОЛОМ</item>
+        <item>НАСМЕЈАН СА ЂАВОЉИМ РОГОВИМА</item>
+        <item>НАМИГУЈЕ</item>
+        <item>УЋУТКУЈЕ</item>
+        <item>НЕУТРАЛАН</item>
+        <item>БЕЗ ИЗРАЗА</item>
+        <item>ЗБУЊЕН</item>
+        <item>ЉУТ</item>
+        <item>ГРИМАСА</item>
+        <item>УВРЕЂЕН</item>
+        <item>УПЛАКАН</item>
+        <item>УСПАВАН</item>
+        <item>ЛИЦЕ СА ОТВОРЕНИМ УСТИМА</item>
+        <item>ИСТРАЈАН</item>
+        <item>ПУШИ СЕ ОД БЕСА</item>
+        <item>РАЗОЧАРАН, АЛИ С ОЛАКШАЊЕМ</item>
+        <item>НАМРШТЕН ОТВОРЕНИХ УСТА</item>
+        <item>НАМУЧЕН</item>
+        <item>УПЛАШЕН</item>
+        <item>ИСЦРПЉЕН</item>
+        <item>ОТВОРЕНА УСТА И ХЛАДАН ЗНОЈ</item>
+        <item>ЗАБРИНУТО ЛИЦЕ</item>
+        <item>ВРИШТИ ОД СТРАХА</item>
+        <item>ЗАПАЊЕН</item>
+        <item>ПОЦРВЕНЕО</item>
+        <item>ОШАМУЋЕН</item>
+        <item>ЛИЦЕ БЕЗ УСТА</item>
+        <item>ЛИЦЕ СА ХИРУРШКОМ МАСКОМ</item>
+        <item>РАЗОЧАРАН</item>
+        <item>ДОСАЂУЈЕ СЕ</item>
+        <item>НАСМЕЈАН СА ОЧИМА У ОБЛИКУ СРЦА</item>
+        <item>ПЛЕЗИ СЕ</item>
+        <item>ПЛЕЗИ СЕ И НАМИГУЈЕ</item>
+        <item>ПЛЕЗИ СЕ ЧВРСТО ЗАТВОРЕНИХ ОЧИЈУ</item>
+        <item>УЖИВА У ХРАНИ</item>
+        <item>ПОЉУБАЦ</item>
+        <item>ПОЉУБАЦ И НАСМЕЈАНЕ ОЧИ</item>
+        <item>ШАЉЕ ПОЉУБАЦ</item>
+        <item>ПОЉУБАЦ И ЗАТВОРЕНЕ ОЧИ</item>
+        <item>НАСМЕЈАН СА НАОЧАРИМА ЗА СУНЦЕ</item>
+        <item>ПЛАЧЕ ГЛАСНО</item>
+        <item>ОСЕЋА ОЛАКШАЊЕ</item>
+        <item>ЗАТЕЧЕН</item>
+        <item>ЗАМИШЉЕН</item>
+        <item>ПОСПАН</item>
+        <item>ЗЛОБАН ПОЛУОСМЕХ</item>
+        <item>ХЛАДАН ЗНОЈ</item>
+        <item>УМОРАН</item>
+        <item>СРЕЋАН СА ПОДИГНУТОМ РУКОМ</item>
+        <item>СЛАВИ ПОДИГНУТИХ РУКУ</item>
+        <item>НАМРШТЕН</item>
+        <item>ЉУТ ПРЕКРШТЕНИХ РУКУ</item>
+        <item>ЛИЦЕ СА ИЗРАЗОМ ОДОБРАВАЊА</item>
+        <item>ДУБОК НАКЛОН</item>
+        <item>УВРЕЂЕНО ЛИЦЕ</item>
+        <item>ПРЕКРШТЕНЕ РУКЕ</item>
+        <item>ЗНАК ОДОБРАВАЊА</item>
+        <item>ПАЛАЦ ОКРЕНУТ НАГОРЕ</item>
+        <item>ПАЛАЦ ОКРЕНУТ НАДОЛЕ</item>
+        <item>ГОМИЛА ИЗМЕТА</item>
+        <item>ОЗНОЈЕНО СРЦЕ</item>
+        <item>ЧУПАВО СРЦЕ</item>
+        <item>ЉУБИЧАСТО СРЦЕ</item>
+        <item>СЛОМЉЕНО СРЦЕ</item>
+        <item>СРЦЕ ПРОБОДЕНО СТРЕЛОМ</item>
+        <item>ЛЕДЕНО СРЦЕ</item>
+        <item>ЗНАК „КУЛ“</item>
+        <item>ЗНАК „СЛОБОДНО“</item>
+        <item>ЗНАК ОДОБРАВАЊА</item>
+        <item>СОС СИГНАЛ</item>
+        <item>ПОЗОРИШНА МАСКА</item>
+        <item>ДУГА</item>
+        <item>ЖУРКА</item>
+        <item>ПЛЕСАЧ</item>
+    </string-array>
+</resources>

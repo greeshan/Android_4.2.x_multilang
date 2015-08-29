@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d কল তালিকা</item>
+        <item quantity="one">১ কল তালিকা</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">দেখাচ্ছে %d ফোন নম্বরসহ পরিচিতজন</item>
+        <item quantity="one">ফোন নম্বরসহ ১জন পরিচিতজন দেখাচ্ছে</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">দেখাচ্ছে %d পরিচিতজন</item>
+        <item quantity="one">১ পরিচিতজন দেখাচ্ছে</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">পাওয়া গেছে %d পরিচিতজন</item>
+        <item quantity="one">১টি পরিচিতজন পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d পরিচিতজন</item>
+        <item quantity="one">১টি পরিচিতজন</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">উত্থিত হয়েছে %0$d রিসোর্স থেকে</item>
+        <item quantity="one">একত্রিত করা হয়নি</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d গ্রুপ</item>
+        <item quantity="one">১ গ্রুপ</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d জনগণ থেকে %2$s</item>
+        <item quantity="one">%1$d ব্যক্তি থেকে %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d জনগণ</item>
+        <item quantity="one">%1$d ব্যক্তি</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ভয়েসমেইল</item>
+        <item quantity="one">ভয়েসমেইল</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d পরিচিতজন</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$d পরিচিতজন, %2$d ফোনসহ</item>
+    </plurals>
+</resources>

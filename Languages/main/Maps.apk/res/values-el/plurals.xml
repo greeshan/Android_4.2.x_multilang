@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="zero">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+        <item quantity="two">%d φωτογραφίες</item>
+        <item quantity="few">%d φωτογραφίες</item>
+        <item quantity="many">%d φωτογραφίες</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d αστέρια</item>
+        <item quantity="zero">%d αστέρια</item>
+        <item quantity="one">%d αστέρι</item>
+        <item quantity="two">%d αστέρια</item>
+        <item quantity="few">%d αστέρια</item>
+        <item quantity="many">%d αστέρια</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f αστέρια</item>
+        <item quantity="zero">%.1f αστέρια</item>
+        <item quantity="one">%.1f αστέρι</item>
+        <item quantity="two">%.1f αστέρια</item>
+        <item quantity="few">%.1f αστέρια</item>
+        <item quantity="many">%.1f αστέρια</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Κοντινοί σταθμοί</item>
+        <item quantity="zero">Κοντινοί σταθμοί</item>
+        <item quantity="one">Κοντινός σταθμός</item>
+        <item quantity="two">Κοντινοί σταθμοί</item>
+        <item quantity="few">Κοντινοί σταθμοί</item>
+        <item quantity="many">Κοντινοί σταθμοί</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s και %2$d αναθεωρητές</item>
+        <item quantity="one">%1$s και %2$d αναθεωρητής</item>
+        <item quantity="two">%1$s και %2$d αναθεωρητές</item>
+        <item quantity="few">%1$s και %2$d αναθεωρητές</item>
+        <item quantity="many">%1$s και %2$d αναθεωρητές</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d αναθεωρητές</item>
+        <item quantity="one">%d αναθεωρητής</item>
+        <item quantity="two">%d αναθεωρητές</item>
+        <item quantity="few">%d αναθεωρητές</item>
+        <item quantity="many">%d αναθεωρητές</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Οι φωτογραφίες σας θα δημοσιευτούν μόλις ελεγχθούν.</item>
+        <item quantity="one">Η φωτογραφία σας θα δημοσιευτεί μόλις ελεγχθεί.</item>
+        <item quantity="two">Οι φωτογραφίες σας θα δημοσιευτούν μόλις ελεγχθούν.</item>
+        <item quantity="few">Οι φωτογραφίες σας θα δημοσιευτούν μόλις ελεγχθούν.</item>
+        <item quantity="many">Οι φωτογραφίες σας θα δημοσιευτούν μόλις ελεγχθούν.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d στάσεις</item>
+        <item quantity="zero">%d στάσεις</item>
+        <item quantity="one">%d στάση</item>
+        <item quantity="two">%d στάσεις</item>
+        <item quantity="few">%d στάσεις</item>
+        <item quantity="many">%d στάσεις</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">αξιολογήσεις</item>
+        <item quantity="zero">αξιολογήσεις</item>
+        <item quantity="one">αξιολόγηση</item>
+        <item quantity="two">αξιολογήσεις</item>
+        <item quantity="few">αξιολογήσεις</item>
+        <item quantity="many">αξιολογήσεις</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s ημέρες</item>
+        <item quantity="zero">%s ημέρες</item>
+        <item quantity="one">%s ημέρα</item>
+        <item quantity="two">%s ημέρες</item>
+        <item quantity="few">%s ημέρες</item>
+        <item quantity="many">%s ημέρες</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="zero">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+        <item quantity="two">%d ημέρες</item>
+        <item quantity="few">%d ημέρες</item>
+        <item quantity="many">%d ημέρες</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s ώρες</item>
+        <item quantity="zero">%s ώρες</item>
+        <item quantity="one">%s ώρα</item>
+        <item quantity="two">%s ώρες</item>
+        <item quantity="few">%s ώρες</item>
+        <item quantity="many">%s ώρες</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="zero">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+        <item quantity="two">%d ώρες</item>
+        <item quantity="few">%d ώρες</item>
+        <item quantity="many">%d ώρες</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s λεπτά</item>
+        <item quantity="zero">%s λεπτά</item>
+        <item quantity="one">%s λεπτό</item>
+        <item quantity="two">%s λεπτά</item>
+        <item quantity="few">%s λεπτά</item>
+        <item quantity="many">%s λεπτά</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="zero">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+        <item quantity="two">%d λεπτά</item>
+        <item quantity="few">%d λεπτά</item>
+        <item quantity="many">%d λεπτά</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">Σε %1$s μέτρα</item>
+        <item quantity="one">Σε %1$s μέτρο</item>
+        <item quantity="two">Σε %1$s μέτρα</item>
+        <item quantity="few">Σε %1$s μέτρα</item>
+        <item quantity="many">Σε %1$s μέτρα</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">Σε %1$s χιλιόμετρα</item>
+        <item quantity="one">Σε %1$s χιλιόμετρο</item>
+        <item quantity="two">Σε %1$s χιλιόμετρα</item>
+        <item quantity="few">Σε %1$s χιλιόμετρα</item>
+        <item quantity="many">Σε %1$s χιλιόμετρα</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Συνεχίστε για %1$s μέτρα</item>
+        <item quantity="one">Συνεχίστε για %1$s μέτρο</item>
+        <item quantity="two">Συνεχίστε για %1$s μέτρα</item>
+        <item quantity="few">Συνεχίστε για %1$s μέτρα</item>
+        <item quantity="many">Συνεχίστε για %1$s μέτρα</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Συνεχίστε για %1$s χιλιόμετρα</item>
+        <item quantity="one">Συνεχίστε για %1$s χιλιόμετρο</item>
+        <item quantity="two">Συνεχίστε για %1$s χιλιόμετρα</item>
+        <item quantity="few">Συνεχίστε για %1$s χιλιόμετρα</item>
+        <item quantity="many">Συνεχίστε για %1$s χιλιόμετρα</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Συνεχίστε σε %2$s για %1$s μέτρα</item>
+        <item quantity="one">Συνεχίστε σε %2$s για %1$s μέτρο</item>
+        <item quantity="two">Συνεχίστε σε %2$s για %1$s μέτρα</item>
+        <item quantity="few">Συνεχίστε σε %2$s για %1$s μέτρα</item>
+        <item quantity="many">Συνεχίστε σε %2$s για %1$s μέτρα</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Συνεχίστε σε %2$s για %1$s χιλιόμετρα</item>
+        <item quantity="one">Συνεχίστε σε %2$s για %1$s χιλιόμετρο</item>
+        <item quantity="two">Συνεχίστε σε %2$s για %1$s χιλιόμετρα</item>
+        <item quantity="few">Συνεχίστε σε %2$s για %1$s χιλιόμετρα</item>
+        <item quantity="many">Συνεχίστε σε %2$s για %1$s χιλιόμετρα</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">Σε %1$s πόδια</item>
+        <item quantity="one">Σε %1$s πόδι</item>
+        <item quantity="two">Σε %1$s πόδια</item>
+        <item quantity="few">Σε %1$s πόδια</item>
+        <item quantity="many">Σε %1$s πόδια</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">Σε %1$s γιάρδες</item>
+        <item quantity="one">Σε %1$s γιάρδα</item>
+        <item quantity="two">Σε %1$s γιάρδες</item>
+        <item quantity="few">Σε %1$s γιάρδες</item>
+        <item quantity="many">Σε %1$s γιάρδες</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">Σε %1$s μίλια</item>
+        <item quantity="one">Σε %1$s μίλι</item>
+        <item quantity="two">Σε %1$s μίλια</item>
+        <item quantity="few">Σε %1$s μίλια</item>
+        <item quantity="many">Σε %1$s μίλια</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Συνεχίστε για %1$s πόδια</item>
+        <item quantity="one">Συνεχίστε για %1$s πόδι</item>
+        <item quantity="two">Συνεχίστε για %1$s πόδια</item>
+        <item quantity="few">Συνεχίστε για %1$s πόδια</item>
+        <item quantity="many">Συνεχίστε για %1$s πόδια</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Συνεχίστε για %1$s γιάρδες</item>
+        <item quantity="one">Συνεχίστε για %1$s γιάρδα</item>
+        <item quantity="two">Συνεχίστε για %1$s γιάρδες</item>
+        <item quantity="few">Συνεχίστε για %1$s γιάρδες</item>
+        <item quantity="many">Συνεχίστε για %1$s γιάρδες</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Συνεχίστε για %1$s μίλια</item>
+        <item quantity="one">Συνεχίστε για %1$s μίλι</item>
+        <item quantity="two">Συνεχίστε για %1$s μίλια</item>
+        <item quantity="few">Συνεχίστε για %1$s μίλια</item>
+        <item quantity="many">Συνεχίστε για %1$s μίλια</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Συνεχίστε σε %2$s για %1$s πόδια</item>
+        <item quantity="one">Συνεχίστε σε %2$s για %1$s πόδι</item>
+        <item quantity="two">Συνεχίστε σε %2$s για %1$s πόδια</item>
+        <item quantity="few">Συνεχίστε σε %2$s για %1$s πόδια</item>
+        <item quantity="many">Συνεχίστε σε %2$s για %1$s πόδια</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Συνεχίστε σε %2$s για %1$s γιάρδες</item>
+        <item quantity="one">Συνεχίστε σε %2$s για %1$s γιάρδα</item>
+        <item quantity="two">Συνεχίστε σε %2$s για %1$s γιάρδες</item>
+        <item quantity="few">Συνεχίστε σε %2$s για %1$s γιάρδες</item>
+        <item quantity="many">Συνεχίστε σε %2$s για %1$s γιάρδες</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Συνεχίστε σε %2$s για %1$s μίλια</item>
+        <item quantity="one">Συνεχίστε σε %2$s για %1$s μίλι</item>
+        <item quantity="two">Συνεχίστε σε %2$s για %1$s μίλια</item>
+        <item quantity="few">Συνεχίστε σε %2$s για %1$s μίλια</item>
+        <item quantity="many">Συνεχίστε σε %2$s για %1$s μίλια</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d αστέρια</item>
+        <item quantity="zero">%d αστέρια</item>
+        <item quantity="one">%d αστέρι</item>
+        <item quantity="two">%d αστέρια</item>
+        <item quantity="few">%d αστέρια</item>
+        <item quantity="many">%d αστέρια</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Η κράτησή σας για %d διανυκτερεύσεις</item>
+        <item quantity="zero">Η κράτησή σας για %d διανυκτερεύσεις</item>
+        <item quantity="one">Η κράτησή σας για %d διανυκτέρευση</item>
+        <item quantity="two">Η κράτησή σας για %d διανυκτερεύσεις</item>
+        <item quantity="few">Η κράτησή σας για %d διανυκτερεύσεις</item>
+        <item quantity="many">Η κράτησή σας για %d διανυκτερεύσεις</item>
+    </plurals>
+</resources>

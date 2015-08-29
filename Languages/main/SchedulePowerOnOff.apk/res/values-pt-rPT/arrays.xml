@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Esta acção de ligar o dispositivo está definida para daqui a menos de 1 minuto.</item>
+        <item>Este arranque está agendado para daqui a %1$s.</item>
+        <item>Esta ligação está ajustada para %2$s apartir de agora.</item>
+        <item>Este arranque está agendado para daqui a %1$s e %2$s.</item>
+        <item>Esta ligação está ajustada para %3$s apartir de agora.</item>
+        <item>Este arranque está agendado para daqui a %1$s e %3$s.</item>
+        <item>Esta ligação está ajustada para %2$s e %3$s apartir de agora.</item>
+        <item>Este arranque está agendado para daqui a %1$s, %2$s e %3$s.</item>
+        <item>Esta acção de desligar o dispositivo está definida para daqui a menos de 1 minuto.</item>
+        <item>Este encerramento está agendado para daqui a %1$s.</item>
+        <item>Este desligamento está ajustado para %2$s apartir de agora.</item>
+        <item>Este encerramento está agendado para daqui a %1$s e %2$s.</item>
+        <item>Este desligamento está ajustado para %3$s apartir de agora.</item>
+        <item>Este encerramento está agendado para daqui a %1$s e %3$s.</item>
+        <item>Este desligamento está ajustado para %2$s e %3$s apartir de agora.</item>
+        <item>Este encerramento está agendado para daqui a %1$s, %2$s e %3$s.</item>
+    </string-array>
+</resources>

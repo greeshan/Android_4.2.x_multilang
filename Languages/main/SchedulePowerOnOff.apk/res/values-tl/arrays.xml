@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Ang power on ay nakatakda sa mas mababa sa 1 minuto mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$smula ngayon.</item>
+        <item>Ang pag-on ng power ay nakatakda sa %2$s mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$s at %2$s mula ngayon.</item>
+        <item>Ang pag-on ng power ay nakatakda sa %3$s mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$s%1$s</item>
+        <item>Ang pag-on ng power ay nakatakda sa %2$s at %3$s mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$s, %2$s, at %3$s mula ngayon.</item>
+        <item>Ang power off ay nakatakda sa mas mababa sa 1 minuto mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$s mula ngayon.</item>
+        <item>Ang pag-off ng power ay nakatakda sa %2$s mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$s at %2$s mula ngayon.</item>
+        <item>Ang pag-off ng power ay nakatakda sa %3$s mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$s at %3$s mula ngayon.</item>
+        <item>Ang pag-off ng power ay nakatakda sa %2$s at %3$s mula ngayon.</item>
+        <item>Nakatakda ang power on nang %1$s, %2$s, at %3$s mula ngayon.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hava Durumu Servisi</string>
+    <string name="choose_city">Şehir seç</string>
+    <string name="searching">Arıyor, lütfen bekleyin</string>
+    <string name="no_found">%s ile şehir eşleşmesi bulunamadı. Lütfen girdiğiniz kelimeleri kontrol edin.</string>
+    <string name="net_error">Ağa ulaşılamıyor. Lütfen kontrol edin.</string>
+    <string name="no_city_error">Şehir bilgileri alınamıyor, lütfen sistem saatini ve saat dilimini doğru ayarlayın.</string>
+    <string name="searching_fail">Şehir araması yapılamadı.</string>
+    <string name="no_weather_error">Hava durumu bilgileri alınamıyor, lütfen sistem saatini ve saat dilimini doğru ayarlayın.</string>
+    <string name="no_weather">Şu anda %s hava durumu bilgisi yok.</string>
+    <string name="setting_title">Ayarlar</string>
+    <string name="temperature">Sıcaklık birimleri</string>
+    <string name="tem_celsius">Santigrat</string>
+    <string name="cities_title">Şehirler</string>
+    <string name="update_fre">Sıklık güncelle</string>
+    <string name="every12">Her 12 saatte</string>
+    <string name="cancel">İptal</string>
+    <string name="menu_add_city">Şehir ekle</string>
+    <string name="add_city">Yeni şehir eklemek için simgeye basın</string>
+    <string name="remove">Kaldır</string>
+    <string name="warn">En fazla 8 şehir eklenebilir.</string>
+    <string name="has_chosen">seçildi.</string>
+    <string name="no_city">Şehir yok</string>
+    <string name="powered_by">Sağlayan:</string>
+    <string name="menu_about">Hakkında</string>
+</resources>

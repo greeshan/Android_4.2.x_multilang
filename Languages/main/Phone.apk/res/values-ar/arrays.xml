@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_list_values">
+        <item>كل اللغات</item>
+        <item>الألمانية</item>
+        <item>الإنجليزية</item>
+        <item>الإيطالية</item>
+        <item>الفرنسية</item>
+        <item>الإسبانية</item>
+        <item>هولندي</item>
+        <item>سويدي</item>
+        <item>دانماركي</item>
+        <item>البرتغالية</item>
+        <item>فنلندي</item>
+        <item>نرويجي</item>
+        <item>يوناني</item>
+        <item>التركية</item>
+        <item>مجري</item>
+        <item>بولندي</item>
+        <item>غير ذلك</item>
+        <item>تشيكي</item>
+        <item>العبرية</item>
+        <item>العربية</item>
+        <item>الروسية</item>
+        <item>آيسلندي</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (وضع تلقائي)</item>
+        <item>WCDMA فقط</item>
+        <item>نظام GSM فقط</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (وضع تلقائي)</item>
+        <item>TD-SCDMA فقط</item>
+        <item>نظام GSM فقط</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (وضع تلقائي)</item>
+        <item>WCDMA فقط</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (وضع تلقائي)</item>
+        <item>TD-SCDMA فقط</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>الشبكة الافتراضية</item>
+        <item>إخفاء الرقم</item>
+        <item>إظهار الرقم</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>EvDo فقط</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo تلقائي</item>
+        <item>GSM/WCDMA تلقائي</item>
+        <item>WCDMA فقط</item>
+        <item>نظام GSM فقط</item>
+        <item>GSM/WCDMA المفضلة</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE/CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>الإنجليزية</item>
+        <item>الفرنسية</item>
+        <item>الإسبانية</item>
+        <item>اليابانية</item>
+        <item>الكورية</item>
+        <item>الصينية</item>
+        <item>العبرية</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>الرئيسية فقط</item>
+        <item>تلقائي</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>بطاقة RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>إيقاف تشغيل TTY</item>
+        <item>TTY مكتمل</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>عادي</item>
+        <item>طويلة</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>دائمًا</item>
+        <item>فقط عندما يكون صامتًا</item>
+        <item>أبدًا</item>
+    </string-array>
+</resources>

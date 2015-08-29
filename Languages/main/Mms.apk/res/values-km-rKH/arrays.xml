@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>រីករាយ</item>
+        <item>សោកសៅ</item>
+        <item>ការព្រិចភ្នែក</item>
+        <item>អណ្តាតខ្ទាស់ចេញក្រៅ</item>
+        <item>ភ្ញាក់ផ្អើល</item>
+        <item>ការថើប</item>
+        <item>ការស្រែក</item>
+        <item>ស្ងប់ស្ងាត់</item>
+        <item>មាត់លុយ</item>
+        <item>និយាយអ្វីដែលឆ្កួតៗ</item>
+        <item>ខ្មាសគេ</item>
+        <item>ទេពធិតា</item>
+        <item>មិនទាន់សម្រេច</item>
+        <item>ការស្រែកយំ</item>
+        <item>បបូរមាត់ត្រូវបានដេរជាប់គ្នា</item>
+        <item>ការសើច</item>
+        <item>ភ័ន្តភាំង</item>
+        <item>បេះដូង</item>
+        <item>ឆ្ងួត</item>
+        <item>ញញឹមយ៉ាងព្រហើន</item>
+        <item>មុខនាក់ចាក់រុក</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>គ្មានប្រធានបទ</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 វិនាទី</item>
+        <item>2 វិនាទី</item>
+        <item>3 វិនាទី</item>
+        <item>4 វិនាទី</item>
+        <item>5 វិនាទី</item>
+        <item>6 វិនាទី</item>
+        <item>7 វិនាទី</item>
+        <item>8 វិនាទី</item>
+        <item>9 វិនាទី</item>
+        <item>10 វិនាទី</item>
+        <item>ផ្សេងៗ…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>ជានិច្ចជកាល</item>
+        <item>តែពេលដែលស្ងាត់</item>
+        <item>មិនដែល</item>
+    </string-array>
+</resources>

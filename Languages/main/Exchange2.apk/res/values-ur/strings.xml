@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wipe_all_messages">سرور کا ڈیٹا نقص شدہ ہے، تمام پیغامات کو دوبارہ سنکرونائز کیا جائے گا</string>
+    <string name="exchange_name">Corporate</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="meeting_accepted">قبول کر لیا گیا: %s</string>
+    <string name="meeting_declined">مسترد کردیا گیا: %s</string>
+    <string name="meeting_tentative">عارضی: %s</string>
+    <string name="meeting_canceled">منسوخ کر دیا گیا: %s</string>
+    <string name="meeting_updated">اپ ڈیٹ شدہ: %s</string>
+    <string name="meeting_when">جب: %s</string>
+    <string name="meeting_where">کہاں: %s</string>
+    <string name="meeting_recurring">کہاں: %s (بار بار)</string>
+    <string name="meeting_allday">کب: %s (تمام دن)</string>
+    <string name="meeting_allday_recurring">کب: %s (تمام دن، بار بار)</string>
+    <string name="notification_exchange_calendar_added">ایکسچینج کیلنڈر شامل کر دیا گیا</string>
+    <string name="app_name">ایکسچینج خدمات</string>
+    <string name="exception_cancel">اس وقوعے کو منسوخ کیا گیا ہے: %s کے لیے</string>
+    <string name="exception_updated">اس وقوعے کی تفصیلات تبدیل کی گئیں ہیں: %s کے لیے</string>
+    <string name="policy_dont_allow_storage_cards">اسٹوریج کارڈ کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_unsigned_apps">غیر دستخط شدہ درخواستوں کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_unsigned_installers">غیر دستخط شدہ درخواست والے انسٹالرز کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_wifi">وائی فائی کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_text_messaging">ٹیکسٹ پیغام رسانی کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_pop_imap">POP3 یا IMAP اکاؤنٹس کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_irda">انفرا ریڈ ترسیل کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_html">ایچ ٹی ایم ایل ای میل کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_browser">براؤزرز کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_consumer_email">صارف ای میل کی اجازت نہ دیں</string>
+    <string name="policy_dont_allow_internet_sharing">انٹرنیٹ پر اشتراک کی اجازت نہ دیں</string>
+    <string name="policy_require_smime">SMIME پیغامات درکار ہیں</string>
+    <string name="policy_bluetooth_restricted">بلوٹوتھ کے استعمال پر پابندی لگائیں</string>
+    <string name="policy_app_blacklist">تخصیص شدہ ایپلیکیشنز کو ممنوعہ قرار دیں</string>
+    <string name="policy_app_whitelist">صرف تخصیص شدہ ایپلیکیشنز کی اجازت دیں</string>
+    <string name="policy_text_truncation">ٹیکسٹ ای میل کا سائز محدود کریں</string>
+    <string name="policy_html_truncation">ایچ ٹی ایم ایل ای میل کا سائز محدود کریں</string>
+    <string name="policy_require_sd_encryption">ایس ڈی کارڈ کی اینکرپشن درکار ہے</string>
+    <string name="policy_require_encryption">آلے کی اینکرپشن درکار ہے</string>
+</resources>

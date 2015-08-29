@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">PresetReverb</string>
+    <string name="eq_preset_normal">सामान्‍य</string>
+    <string name="eq_preset_classical">शास्त्रीय</string>
+    <string name="eq_preset_dance">नाच</string>
+    <string name="eq_preset_flat">फ्लैट</string>
+    <string name="eq_preset_folk">फ़ोक</string>
+    <string name="eq_preset_heavymetal">हेवी मेटल</string>
+    <string name="eq_preset_hiphop">हिप हॉप</string>
+    <string name="eq_preset_jazz">जैज़</string>
+    <string name="eq_preset_pop">पॉप</string>
+    <string name="eq_preset_rock">रॉक</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">प्रभाव उपलब्ध नहीं.</string>
+    <string name="eq_dialog_title">इक्वलाइज़र</string>
+    <string name="headset_plug">इन प्रभावों के लिए हेडफ़ोन प्‍लग इन करें.</string>
+    <string name="bass_boost_strength">बेस बढ़ाएं</string>
+    <string name="virtualizer_strength">3D प्रभाव</string>
+    <string name="ci_extreme">FX बूस्‍टर</string>
+    <string name="user">उपयोगकर्ता</string>
+    <string name="picker_title">संगीत प्रभाव कंट्रोल फलक</string>
+    <string name="main_toggle_effects_title">ऑडियो प्रभाव</string>
+    <string name="pr_title">गूंज:</string>
+    <string name="pr_summary">अतिरिक्‍त कक्ष अनुगूंज प्रभाव</string>
+    <string name="pr_dialog_title">गूंज प्रीसेट</string>
+    <string name="setup">सेटअप</string>
+</resources>

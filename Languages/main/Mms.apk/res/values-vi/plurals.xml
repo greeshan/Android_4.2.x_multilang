@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Gửi các b.cáo đọc %d</item>
+        <item quantity="one">Gửi b.cáo đọc %d</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Đã chọn %d</item>
+        <item quantity="one">Đã chọn %d</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s hội thoại đã bị xóa</item>
+        <item quantity="one">Một hội thoại đã bị xóa</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s kết quả cho \"%2$s\"</item>
+        <item quantity="one">%1$s kết quả cho \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s giây</item>
+        <item quantity="one">%sgiây</item>
+        <item quantity="few">%s giây</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s cuộc trò chuyện sẽ bị xóa</item>
+        <item quantity="one">Một cuộc trò chuyện sẽ bị xóa</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d tin nhắn chưa đọc.</item>
+        <item quantity="one">%d tin nhắn chưa đọc.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s tin nhắn khác</item>
+        <item quantity="one">+%1$s tin nhắn khác</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s người</item>
+    </plurals>
+</resources>

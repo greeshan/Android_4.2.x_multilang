@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scene_name">
+        <item>डिफ़ॉल्ट</item>
+        <item>कार्यालय</item>
+    </string-array>
+</resources>

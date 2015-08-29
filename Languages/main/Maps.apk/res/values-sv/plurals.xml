@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d foton</item>
+        <item quantity="zero">%d foton</item>
+        <item quantity="one">%d foto</item>
+        <item quantity="two">%d foton</item>
+        <item quantity="few">%d foton</item>
+        <item quantity="many">%d foton</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d stjärnor</item>
+        <item quantity="zero">%d stjärnor</item>
+        <item quantity="one">%d stjärna</item>
+        <item quantity="two">%d stjärnor</item>
+        <item quantity="few">%d stjärnor</item>
+        <item quantity="many">%d stjärnor</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f stjärnor</item>
+        <item quantity="zero">%.1f stjärnor</item>
+        <item quantity="one">%.1f stjärna</item>
+        <item quantity="two">%.1f stjärnor</item>
+        <item quantity="few">%.1f stjärnor</item>
+        <item quantity="many">%.1f stjärnor</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Stationer i närheten</item>
+        <item quantity="zero">Stationer i närheten</item>
+        <item quantity="one">Station i närheten</item>
+        <item quantity="two">Stationer i närheten</item>
+        <item quantity="few">Stationer i närheten</item>
+        <item quantity="many">Stationer i närheten</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s och %2$d granskare</item>
+        <item quantity="one">%1$s och %2$d granskare</item>
+        <item quantity="two">%1$s och %2$d granskare</item>
+        <item quantity="few">%1$s och %2$d granskare</item>
+        <item quantity="many">%1$s och %2$d granskare</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d granskare</item>
+        <item quantity="one">%d granskare</item>
+        <item quantity="two">%d granskare</item>
+        <item quantity="few">%d granskare</item>
+        <item quantity="many">%d granskare</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Dina foton blir offentliga när de har granskats.</item>
+        <item quantity="one">Ditt foto blir offentligt när det har granskats.</item>
+        <item quantity="two">Dina foton blir offentliga när de har granskats.</item>
+        <item quantity="few">Dina foton blir offentliga när de har granskats.</item>
+        <item quantity="many">Dina foton blir offentliga när de har granskats.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d hållplatser</item>
+        <item quantity="zero">%d hållplatser</item>
+        <item quantity="one">%d hållplats</item>
+        <item quantity="two">%d hållplatser</item>
+        <item quantity="few">%d hållplatser</item>
+        <item quantity="many">%d hållplatser</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">recensioner</item>
+        <item quantity="zero">recensioner</item>
+        <item quantity="one">recension</item>
+        <item quantity="two">recensioner</item>
+        <item quantity="few">recensioner</item>
+        <item quantity="many">recensioner</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s dagar</item>
+        <item quantity="zero">%s dagar</item>
+        <item quantity="one">%s dag</item>
+        <item quantity="two">%s dagar</item>
+        <item quantity="few">%s dagar</item>
+        <item quantity="many">%s dagar</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d dagar</item>
+        <item quantity="zero">%d dagar</item>
+        <item quantity="one">%d dag</item>
+        <item quantity="two">%d dagar</item>
+        <item quantity="few">%d dagar</item>
+        <item quantity="many">%d dagar</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s timmar</item>
+        <item quantity="zero">%s timmar</item>
+        <item quantity="one">%s timme</item>
+        <item quantity="two">%s timmar</item>
+        <item quantity="few">%s timmar</item>
+        <item quantity="many">%s timmar</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d timmar</item>
+        <item quantity="zero">%d timmar</item>
+        <item quantity="one">%d timme</item>
+        <item quantity="two">%d timmar</item>
+        <item quantity="few">%d timmar</item>
+        <item quantity="many">%d timmar</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s minuter</item>
+        <item quantity="zero">%s minuter</item>
+        <item quantity="one">%s minut</item>
+        <item quantity="two">%s minuter</item>
+        <item quantity="few">%s minuter</item>
+        <item quantity="many">%s minuter</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minuter</item>
+        <item quantity="zero">%d minuter</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">%d minuter</item>
+        <item quantity="few">%d minuter</item>
+        <item quantity="many">%d minuter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">Efter %1$s meter</item>
+        <item quantity="one">Efter %1$s meter</item>
+        <item quantity="two">Efter %1$s meter</item>
+        <item quantity="few">Efter %1$s meter</item>
+        <item quantity="many">Efter %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">Om %1$s kilometer</item>
+        <item quantity="one">Om %1$s kilometer</item>
+        <item quantity="two">Om %1$s kilometer</item>
+        <item quantity="few">Om %1$s kilometer</item>
+        <item quantity="many">Om %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Fortsätt %1$s meter</item>
+        <item quantity="one">Fortsätt %1$s meter</item>
+        <item quantity="two">Fortsätt %1$s meter</item>
+        <item quantity="few">Fortsätt %1$s meter</item>
+        <item quantity="many">Fortsätt %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Fortsätt %1$s kilometer</item>
+        <item quantity="one">Fortsätt %1$s kilometer</item>
+        <item quantity="two">Fortsätt %1$s kilometer</item>
+        <item quantity="few">Fortsätt %1$s kilometer</item>
+        <item quantity="many">Fortsätt %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Fortsätt på %2$s i %1$s meter</item>
+        <item quantity="one">Fortsätt på %2$s i %1$s meter</item>
+        <item quantity="two">Fortsätt på %2$s i %1$s meter</item>
+        <item quantity="few">Fortsätt på %2$s i %1$s meter</item>
+        <item quantity="many">Fortsätt på %2$s i %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Fortsätt på %2$s i %1$s kilometer</item>
+        <item quantity="one">Fortsätt %1$s kilometer på %2$s</item>
+        <item quantity="two">Fortsätt %1$s kilometer på %2$s</item>
+        <item quantity="few">Fortsätt på %2$s i %1$s kilometer</item>
+        <item quantity="many">Fortsätt på %2$s i %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">Efter %1$s fot</item>
+        <item quantity="one">Efter %1$s fot</item>
+        <item quantity="two">Efter %1$s fot</item>
+        <item quantity="few">Efter %1$s fot</item>
+        <item quantity="many">Efter %1$s fot</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">Efter %1$s yard</item>
+        <item quantity="one">Efter %1$s yard</item>
+        <item quantity="two">Efter %1$s yard</item>
+        <item quantity="few">Efter %1$s yard</item>
+        <item quantity="many">Efter %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">Om %1$s mile</item>
+        <item quantity="one">Om %1$s mile</item>
+        <item quantity="two">Om %1$s mile</item>
+        <item quantity="few">Om %1$s mile</item>
+        <item quantity="many">Om %1$s mile</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Fortsätt %1$s fot</item>
+        <item quantity="one">Fortsätt %1$s fot</item>
+        <item quantity="two">Fortsätt %1$s fot</item>
+        <item quantity="few">Fortsätt %1$s fot</item>
+        <item quantity="many">Fortsätt %1$s fot</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Fortsätt %1$s yard</item>
+        <item quantity="one">Fortsätt %1$s yard</item>
+        <item quantity="two">Fortsätt %1$s yard</item>
+        <item quantity="few">Fortsätt %1$s yard</item>
+        <item quantity="many">Fortsätt %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Fortsätt %1$s mile</item>
+        <item quantity="one">Fortsätt %1$s mile</item>
+        <item quantity="two">Fortsätt %1$s mile</item>
+        <item quantity="few">Fortsätt %1$s mile</item>
+        <item quantity="many">Fortsätt %1$s mile</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Fortsätt på %2$s i %1$s fot</item>
+        <item quantity="one">Fortsätt på %2$s i %1$s fot</item>
+        <item quantity="two">Fortsätt på %2$s i %1$s fot</item>
+        <item quantity="few">Fortsätt på %2$s i %1$s fot</item>
+        <item quantity="many">Fortsätt på %2$s i %1$s fot</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Fortsätt på %2$s i %1$s yard</item>
+        <item quantity="one">Fortsätt på %2$s i %1$s yard</item>
+        <item quantity="two">Fortsätt på %2$s i %1$s yard</item>
+        <item quantity="few">Fortsätt på %2$s i %1$s yard</item>
+        <item quantity="many">Fortsätt på %2$s i %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Fortsätt på %2$s i %1$s mile</item>
+        <item quantity="one">Fortsätt på %2$s i %1$s mile</item>
+        <item quantity="two">Fortsätt på %2$s i %1$s mile</item>
+        <item quantity="few">Fortsätt på %2$s i %1$s mile</item>
+        <item quantity="many">Fortsätt på %2$s i %1$s mile</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d stjärna</item>
+        <item quantity="zero">%d stjärna</item>
+        <item quantity="one">%d stjärna</item>
+        <item quantity="two">%d stjärna</item>
+        <item quantity="few">%d stjärna</item>
+        <item quantity="many">%d stjärna</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Din reservation för %d nätter</item>
+        <item quantity="zero">Din reservation för %d nätter</item>
+        <item quantity="one">Din reservation för %d natt</item>
+        <item quantity="two">Din reservation för %d nätter</item>
+        <item quantity="few">Din reservation för %d nätter</item>
+        <item quantity="many">Din reservation för %d nätter</item>
+    </plurals>
+</resources>

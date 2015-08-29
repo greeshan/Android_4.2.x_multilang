@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>কোনটি নয়</item>
+        <item>ছোট কক্ষ</item>
+        <item>মাঝারি কক্ষ</item>
+        <item>বড় কক্ষ</item>
+        <item>মাঝারি হল</item>
+        <item>বড় হল</item>
+        <item>প্লেট রিভার্ব</item>
+    </string-array>
+</resources>

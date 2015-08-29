@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d सेकेंड</item>
+        <item quantity="one">1 सेकेंड पहले</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">1 मिनट पहले</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d घंटे पहले</item>
+        <item quantity="one">1 घंटे पहले</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d सेकेंड पहले</item>
+        <item quantity="one">1 सेकेंड पहले</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">1 मिनट पहले</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d घंटे पहले</item>
+        <item quantity="one">1 घंटे पहले</item>
+    </plurals>
+</resources>

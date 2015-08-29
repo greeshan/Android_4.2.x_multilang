@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Sien al jou programme.
+ Raak die lanseerpoort-ikoon. @drawable/all_apps"</item>
+        <item>"Trek programme na jou tuisskerm.
+ Raak en hou 'n program in die lanseerpoort tot dit vibreer."</item>
+        <item>"Herrangskik jou tuisskerm.
+ Raak en hou 'n item, en wanneer dit vibreer, trek dit na waar jy dit wil hê."</item>
+        <item>"Verwyder items.
+ Raak en hou 'n item, en wanneer dit vibreer, trek dit na die Snippermandjie-ikoon. @drawable/trash"</item>
+        <item>"Meerdere tuisskerms.
+ Sleep links of regs om te wissel. Trek items na ander skerms."</item>
+        <item>"Klaar met hierdie legstuk?
+ Raak en hou dit, en wanneer dit vibreer, trek dit na die Snippermandjie-ikoon."</item>
+    </string-array>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_op02_text_encoding_choices">
+        <item>كاشف تلقائي</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Unicode (UTF-16)</item>
+        <item>Chinese (GB2312)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_font_family_choices">
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>الفضاء الأحادي</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>الصفحة الحالية</item>
+        <item>صفحة فارغة</item>
+        <item>الصفحة الافتراضية</item>
+        <item>المواقع الأكثر زيارة</item>
+        <item>التنقل الموقع</item>
+        <item>آخر</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>مطلقًا</item>
+        <item>في شبكة Wi-Fi فقط</item>
+        <item>دائمًا</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>تشغيل دومًا</item>
+        <item>عند الطلب</item>
+        <item>إيقاف</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>الصفحة الحالية</item>
+        <item>صفحة فارغة</item>
+        <item>الصفحة الافتراضية</item>
+        <item>المواقع الأكثر زيارة</item>
+        <item>آخر</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>صغير</item>
+        <item>صغير</item>
+        <item>عادي</item>
+        <item>كبير</item>
+        <item>ضخم</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>بعيد</item>
+        <item>متوسط</item>
+        <item>إغلاق</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>جهاز كشف تلقائي</item>
+        <item>اللاتينية-1 (ISO-8859-1)</item>
+        <item>Unicode ‏(UTF-8)</item>
+        <item>الصينية (GBK)</item>
+        <item>الصينية (Big5)</item>
+        <item>اليابانية (ISO-2022-JP)</item>
+        <item>اليابانية (SHIFT_JIS)</item>
+        <item>اليابانية (EUC-JP)</item>
+        <item>الكورية (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>مطلقًا</item>
+        <item>في شبكة Wi-Fi فقط</item>
+        <item>دائمًا</item>
+    </string-array>
+</resources>

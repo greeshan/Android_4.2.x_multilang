@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Tür</item>
+        <item>Ad (A - Z)</item>
+        <item>Boyut (büyük - küçük)</item>
+        <item>Zaman (yeni - eski)</item>
+    </string-array>
+</resources>

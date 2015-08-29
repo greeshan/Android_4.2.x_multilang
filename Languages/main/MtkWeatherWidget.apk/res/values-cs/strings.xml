@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Počasí</string>
+    <string name="updating">Aktualizace</string>
+    <string name="failed_to_locate">Nepodařilo se najít</string>
+    <string name="no_weather">Aktuálně nemáme žádné počasí pro %s.</string>
+    <string name="add_setting">Klepnutím zde přidávejte města</string>
+</resources>

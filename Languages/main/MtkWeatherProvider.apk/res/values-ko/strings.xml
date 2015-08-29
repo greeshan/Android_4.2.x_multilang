@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">날씨 서비스</string>
+    <string name="choose_city">도시 선택</string>
+    <string name="searching">검색하는 중, 기다리십시오.</string>
+    <string name="no_found">%s과(와) 일치하는 도시를 찾을 수 없습니다. 입력한 단어를 확인하십시오.</string>
+    <string name="net_error">네트워크를 사용할 수 없습니다. 네트워크를 확인하십시오.</string>
+    <string name="no_city_error">도시 정보를 불러올 수 없습니다. 시스템 시간과 시간대를 올바로 설정하십시오.</string>
+    <string name="searching_fail">도시 검색에 실패했습니다.</string>
+    <string name="no_weather_error">날씨 정보를 불러올 수 없습니다. 시스템 시간과 시간대를 올바로 설정하십시오.</string>
+    <string name="no_weather">현재 %s에 대한 날씨가 없습니다.</string>
+    <string name="setting_title">설정</string>
+    <string name="temperature">온도 단위</string>
+    <string name="tem_celsius">섭씨</string>
+    <string name="cities_title">도시</string>
+    <string name="update_fre">업데이트 주기</string>
+    <string name="every12">12시간마다</string>
+    <string name="cancel">취소</string>
+    <string name="menu_add_city">도시 추가</string>
+    <string name="add_city">새 도시를 추가하려면 아이콘을 누름</string>
+    <string name="remove">제거</string>
+    <string name="warn">최대 8개의 도시를 추가할 수 있습니다.</string>
+    <string name="has_chosen">선택되었습니다.</string>
+    <string name="no_city">도시 없음</string>
+    <string name="powered_by">전원 공급원:</string>
+    <string name="menu_about">정보</string>
+</resources>

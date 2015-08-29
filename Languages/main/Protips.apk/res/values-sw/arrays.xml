@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Tazama Programu zako zote. 
+Gusa aikoni ya Kizinduzi. @drawable/all_Programu"</item>
+        <item>"Kokota programu hadi kwenye skrini yako ya Nyumbani.
+ Gusa na ushikilie programu kwenye Kizinduzi hadi itikisike."</item>
+        <item>"Panga skrini yako ya Nyumbani upya
+Gusa na ushikilie kipengee na kinapotikisa, kikokote hadi mahali unapotaka."</item>
+        <item>"Ondoa vipengee. 
+ Gusa na ushikilie kipengee na wakati kinapotikisa, kikokote hadi kwenye aikoni ya Taka. @drawable/trash"</item>
+        <item>"Skrini nyingi za Nyumbani
+ Telezesha kushoto au kulia kubadilisha. Kokota vipengee kwa skrini zingine."</item>
+        <item>"Umemaliza kutumia wijeti hii? 
+ Gusa na ushikilie kipengee na wakati kinapotikisa, kikokote hadi kwenye aikoni ya Taka."</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>"J'ai détesté"</item>
+        <item>"Je n'ai pas aimé"</item>
+        <item>"C'était correct"</item>
+        <item>"Ça m'a beaucoup plu"</item>
+        <item>"J'ai adoré"</item>
+    </string-array>
+</resources>

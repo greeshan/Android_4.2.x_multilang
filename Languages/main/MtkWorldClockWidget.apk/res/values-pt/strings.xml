@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="month_day_no_year">"d 'de' MMM"</string>
+    <string name="app_name">Fuso horário</string>
+    <string name="current_time_text">Atual</string>
+    <string name="another_city_text">Adicionar</string>
+    <string name="ime_action_done">Concluído</string>
+    <string name="a_city_selected">Uma cidade selecionada.</string>
+    <string name="search_city">Procurar cidade</string>
+    <string name="next">Avançar</string>
+    <string name="select_right_city">Desculpe, não existe tal cidade.</string>
+    <string name="clock_loading">Carregando…</string>
+    <string name="add_city">Prima o ícone para adicionar uma nova cidade</string>
+    <string name="add_new_city">Adicionar nova cidade</string>
+    <string name="delete_city">Excluir cidade</string>
+    <string name="delete_city_info">A cidade será excluída</string>
+    <string name="has_chosen">foi escolhida.</string>
+    <string name="deleteok">Excluir</string>
+    <string name="cancel">Negar</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Grozno je</item>
+        <item>Ni mi všeč</item>
+        <item>Zadovoljivo</item>
+        <item>Všeč mi je</item>
+        <item>Super je</item>
+    </string-array>
+</resources>

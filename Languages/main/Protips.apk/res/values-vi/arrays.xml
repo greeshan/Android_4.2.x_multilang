@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Xem tất cả ứng dụng của bạn.
+ Chạm vào biểu tượng Trình khởi chạy. @drawable/all_apps"</item>
+        <item>"Kéo ứng dụng ra Màn hình chính của bạn.
+ Chạm &amp; giữ ứng dụng trong Trình khởi chạy cho điến khi ứng dụng đó rung."</item>
+        <item>"Sắp xếp lại Màn hình chính của bạn.
+ Chạm &amp; giữ một mục và khi mục đó rung, hãy kéo mục đó đến vị trí bạn muốn."</item>
+        <item>"Xóa mục.
+ Chạm &amp; giữ một mục và khi mục đó rung, kéo mục đó vào biểu tượng Thùng rác. @drawable/trash"</item>
+        <item>"Nhiều Màn hình chính.
+ Trượt sang trái hoặc sang phải để chuyển đổi. Kéo mục sang màn hình khác."</item>
+        <item>"Hoàn tất với tiện ích này?
+ Hãy chạm &amp; giữ tiện ích đó khi nó rung, kéo tiện ích đó vào biểu tượng Thùng rác."</item>
+    </string-array>
+</resources>

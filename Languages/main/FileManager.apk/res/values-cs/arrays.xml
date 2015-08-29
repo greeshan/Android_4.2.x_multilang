@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Typ</item>
+        <item>Název (A - Z)</item>
+        <item>Velikost (velká - malá)</item>
+        <item>Čas (nová - stará)</item>
+    </string-array>
+</resources>

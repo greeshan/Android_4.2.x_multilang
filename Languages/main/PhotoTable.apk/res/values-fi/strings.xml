@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Valokuvanäytönsäästäjät</string>
+    <string name="table_screensaver_name">Kuvataulukko</string>
+    <string name="flipper_screensaver_name">Valokuvakehys</string>
+    <string name="posts_album_name">Kuvat viesteistä</string>
+    <string name="uploads_album_name">Pikalataukset</string>
+    <string name="unknown_album_name">Nimetön albumi</string>
+    <string name="stock_photo_album_name">Varastossa olevat kuvat</string>
+    <string name="local_source_name">Kuvat laitteella</string>
+    <string name="need_to_configure">Ei valittuja kuvia.</string>
+</resources>

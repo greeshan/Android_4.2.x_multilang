@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Accede a tus aplicaciones.
+Toca el icono cuadrado. @drawable/all_apps"</item>
+        <item>"Arrastra aplicaciones al escritorio
+ Mantén presionada una aplicación hasta que vibre."</item>
+        <item>"Organiza la pantalla
+ Mantén tocado un icono. Cuando la pantalla vibre, arrástralo a donde quieras."</item>
+        <item>"Elimina iconos
+ Mantén tocado un icono. Cuando la pantalla vibre, arrástralo hasta la papelera. @drawable/trash"</item>
+        <item>"Crea varias pantallas
+ Desliza el dedo hacia la izquierda o derecha y arrastra iconos a otras pantallas."</item>
+        <item>"¿Quieres cerrar este widget?
+ Manténlo tocado. Cuando la pantalla vibre, arrástralo a la papelera."</item>
+    </string-array>
+</resources>

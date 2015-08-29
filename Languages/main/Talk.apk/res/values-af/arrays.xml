@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>druk</item>
+        <item>groot oë</item>
+        <item>groot mond</item>
+        <item>klein mond</item>
+        <item>groot neus</item>
+        <item>klein oë</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>in die ruimte</item>
+        <item>sonsondergang</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>laag</item>
+        <item>medium</item>
+        <item>hoog</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>geen onderwerp nie</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>GLIMLAG MET GLIMLAGGENDE OË</item>
+        <item>GRINNIK</item>
+        <item>GRINNIK MET GLIMLAGGENDE OË</item>
+        <item>TRANE VAN VREUGDE</item>
+        <item>GLIMLAG MET OOP MOND</item>
+        <item>GLIMLAG MET OOP MOND EN GLIMLAGGENDE OË</item>
+        <item>GLIMLAG MET OOP MOND EN KOUE SWEET</item>
+        <item>GLIMLAG MET OOP MOND EN OË STYF TOE</item>
+        <item>GLIMLAG MET STRALEKRANS</item>
+        <item>GLIMLAG MET BOSE HORINGS</item>
+        <item>OOGKNIP</item>
+        <item>STILGEMAAK</item>
+        <item>NEUTRAAL</item>
+        <item>UITDRUKKINGLOOS</item>
+        <item>VERWARD</item>
+        <item>KWAAD</item>
+        <item>GRYNSEND</item>
+        <item>DIKMOND</item>
+        <item>HUILEND</item>
+        <item>SLAAP</item>
+        <item>GESIG MET OOP MOND</item>
+        <item>VOLHARDEND</item>
+        <item>GESIG WAT STOOM BLAAS</item>
+        <item>TELEURGESTELD, MAAR VERLIG</item>
+        <item>FRONS MET OOP MOND</item>
+        <item>BENOUD</item>
+        <item>BANG</item>
+        <item>MOEG</item>
+        <item>OOP MOND EN KOUE SWEET</item>
+        <item>BEKOMMERDE GESIG</item>
+        <item>SKREEU VAN VREES</item>
+        <item>VERSTOM</item>
+        <item>BLOSEND</item>
+        <item>DUISELIG</item>
+        <item>GESIG SONDER MOND</item>
+        <item>GESIG MET MEDIESE MASKER</item>
+        <item>TELEURGESTELD</item>
+        <item>ONGEAMUSEERD</item>
+        <item>GLIMLAG MET HARTVORMIGE OË</item>
+        <item>STEEK TONG UIT</item>
+        <item>STEEK TONG UIT EN KNIPOOG</item>
+        <item>STEEK TONG UIT EN OË STYF TOE</item>
+        <item>SMUL AAN HEERLIKE KOS</item>
+        <item>SOENENDE GESIG</item>
+        <item>SOENENDE GESIG MET GLIMLAGGENDE OË</item>
+        <item>"GESIG WAT 'N SOENTJIE STUUR"</item>
+        <item>SOENENDE GESIG MET TOE OË</item>
+        <item>"GLIMLAG MET 'N SONBRIL"</item>
+        <item>HUIL HARDOP</item>
+        <item>VERLIG</item>
+        <item>DRONKGESLAAN</item>
+        <item>NADENKEND</item>
+        <item>VAAK</item>
+        <item>SELFVOLDANE GLIMLAG</item>
+        <item>KOUE SWEET</item>
+        <item>MOEG</item>
+        <item>GELUKKIGE LIG VAN EEN HAND</item>
+        <item>LIG ALBEI HANDE VIEREND</item>
+        <item>FRONS</item>
+        <item>KWAAD MET GEVOUDE ARMS</item>
+        <item>GESIG MET OK-GEBAAR</item>
+        <item>PERSOON WAT DIEP BUIG</item>
+        <item>PRUILENDE GESIG</item>
+        <item>GEVOUDE HANDE</item>
+        <item>OK-TEKEN</item>
+        <item>DUIME OP-TEKEN</item>
+        <item>DUIME AF-TEKEN</item>
+        <item>HOOP POEF</item>
+        <item>SWETENDE HART</item>
+        <item>HARIGE HART</item>
+        <item>PERS HART</item>
+        <item>GEBROKE HART</item>
+        <item>HART MET PYLTJIE</item>
+        <item>YSIGE HART</item>
+        <item>KOEL-TEKEN</item>
+        <item>GRATIS-TEKEN</item>
+        <item>OK-TEKEN</item>
+        <item>SOS-TEKEN</item>
+        <item>UITVOERENDE KUNSTE-MASKERS</item>
+        <item>REËNBOOG</item>
+        <item>PARTYTJIEKNALLER</item>
+        <item>DANSER</item>
+    </string-array>
+</resources>

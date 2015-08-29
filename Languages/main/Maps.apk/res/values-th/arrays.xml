@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>ไม่ชอบเลย</item>
+        <item>ไม่ค่อยชอบ</item>
+        <item>พอใช้ได้</item>
+        <item>ชอบ</item>
+        <item>ชอบที่สุด</item>
+    </string-array>
+</resources>

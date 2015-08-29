@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Gembira</item>
+        <item>Sedih</item>
+        <item>Mengenyit</item>
+        <item>Lidah terjelir</item>
+        <item>Terkejut</item>
+        <item>Bercium</item>
+        <item>Menjerit</item>
+        <item>Segak</item>
+        <item>Mulut duit</item>
+        <item>Kaki dalam mulut</item>
+        <item>Malu</item>
+        <item>Bidadari</item>
+        <item>Tidak pasti</item>
+        <item>Menangis</item>
+        <item>Bibir terkunci</item>
+        <item>Tertawa</item>
+        <item>Keliru</item>
+        <item>Hati</item>
+        <item>Gila</item>
+        <item>Senyuman sinis</item>
+        <item>Muka selamba</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>tiada subjek</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Dimanakah anda?</item>
+        <item>Apakah yang anda lakukan?</item>
+        <item>Panggil semula! Tolong!</item>
+        <item>Maaf, saya sedang bermesyuarat sekarang.</item>
+        <item>Memanggil anda segera.</item>
+        <item>Janganrisau!Sayasihat.</item>
+        <item>Dalam perjalanan pulang ke rumah.</item>
+        <item>Akan tiba segera.</item>
+        <item>Berada di sana atau anda didenda!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Mod terbatas</item>
+        <item>Mod amaran</item>
+        <item>Mod bebas</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Tinggi</item>
+        <item>Biasa</item>
+        <item>Rendah</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Abjad GSM</item>
+        <item>Unikod</item>
+        <item>Automatik</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>Kad SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Peranti</item>
+        <item>Kad SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Ikut saiz fon sistem</item>
+        <item>Kecil</item>
+        <item>Sederhana</item>
+        <item>Besar</item>
+        <item>Sangat besar</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>5 saat</item>
+        <item>6 saat</item>
+        <item>7 saat</item>
+        <item>8 saat</item>
+        <item>9 saat</item>
+        <item>10 saat</item>
+        <item>Lain-lain...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sentiasa</item>
+        <item>Apabila senyap sahaja</item>
+        <item>Jangan sekali-kali</item>
+    </string-array>
+</resources>

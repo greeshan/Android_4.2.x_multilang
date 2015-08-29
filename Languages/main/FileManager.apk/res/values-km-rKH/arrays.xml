@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>វាយ</item>
+        <item>ឈ្មោះ (A - Z)</item>
+        <item>ទំហំ (ធំ - តូច)</item>
+        <item>ម៉ោង (ថ្មី - ចាស់)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d গান</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d of %1$dগান</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%dঅ্যালবাম</item>
+        <item quantity="one">১টি অ্যালবাম</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d গান মুছে ফেলা হয়েছিল।</item>
+        <item quantity="one">একটি গান মুছে ফেলা হয়েছিল।</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d গানগুলো প্লেলিস্টে যোগ করা হয়েছে।</item>
+        <item quantity="one">১টি গান প্লেলিস্টে যোগ করা হয়েছে।</item>
+    </plurals>
+</resources>

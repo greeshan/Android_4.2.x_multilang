@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>पिचका हुआ</item>
+        <item>बड़ी आंखें</item>
+        <item>बड़ा मुंह</item>
+        <item>छोटा मुंह</item>
+        <item>बड़ी नाक</item>
+        <item>छोटी आंखें</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>अंतरिक्ष में</item>
+        <item>सूर्यास्त</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>निम्न</item>
+        <item>माध्यम</item>
+        <item>उच्च</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>कोई विषय नहीं</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>आनंदित आंखों के साथ मुस्कुराना</item>
+        <item>ठहाका लगाना</item>
+        <item>आनंदित आंखों के साथ ठहाका लगाना</item>
+        <item>खुशी के आंसू</item>
+        <item>मुंह खोलकर मुस्कुराना</item>
+        <item>खुले मुंह और आनंदित आंखों के साथ मुस्कुराना</item>
+        <item>खुले मुंह और ठंडे पसीने के साथ मुस्कुराना</item>
+        <item>खुले मुंह और आनंदित आंखों के साथ मुस्कुराना</item>
+        <item>प्रभामंडल के साथ मुस्कुराना</item>
+        <item>शैतान के सींगों के साथ मुस्कुराना</item>
+        <item>पलक झपकाना</item>
+        <item>निस्तब्ध</item>
+        <item>तटस्थ</item>
+        <item>भावशून्य</item>
+        <item>भ्रमित</item>
+        <item>क्रोधित</item>
+        <item>मुंह बनाना</item>
+        <item>मुंह फुलाना</item>
+        <item>रोना</item>
+        <item>सोना</item>
+        <item>खुले मुंह वाला चेहरा</item>
+        <item>दृढ़</item>
+        <item>धुआं निकालता चेहरा</item>
+        <item>निराश लेकिन चिंतामुक्त</item>
+        <item>खुले मुंह के साथ त्यौरियां चढ़ाना</item>
+        <item>दुःखी</item>
+        <item>भयभीत</item>
+        <item>थका हुआ</item>
+        <item>खुला मुंह और ठंडा पसीना</item>
+        <item>चिंतित चेहरा</item>
+        <item>भय से चिल्लाना</item>
+        <item>चकित</item>
+        <item>लाल होना</item>
+        <item>भौंचक्का</item>
+        <item>बिना मुंह वाला चेहरा</item>
+        <item>चिकित्सकीय मुखौटे वाला चेहरा</item>
+        <item>निराश</item>
+        <item>नाखुश</item>
+        <item>दिल के आकार वाली आंखों के साथ मुस्कुराना</item>
+        <item>बाहर निकली हुई जीभ</item>
+        <item>बाहर निकली हुई जीभ और पलक झपकती आंख</item>
+        <item>बाहर निकली जीभ और कसकर बंद की हुई आंखें</item>
+        <item>स्वादिष्ट भोजन का आनंद लेना</item>
+        <item>चूमता हुआ चेहरा</item>
+        <item>मुस्कुराती आंखों के साथ चूमता हुआ चेहरा</item>
+        <item>चुंबन उड़ाता चेहरा</item>
+        <item>आंखे बंद करके चूमता हुआ चेहरा</item>
+        <item>धूप का चश्मा लगाकर मुस्कुराना</item>
+        <item>जोर से रोना</item>
+        <item>चिंतामुक्त</item>
+        <item>चकित</item>
+        <item>चिंताग्रस्त</item>
+        <item>उनींदापन</item>
+        <item>बनावटी हंसी हंसना</item>
+        <item>ठंडा पसीना</item>
+        <item>थका हुआ</item>
+        <item>खुशी में एक हाथ ऊपर उठाना</item>
+        <item>खुशी में दोनों हाथ ऊपर उठाना</item>
+        <item>त्यौरियां चढ़ाना</item>
+        <item>बंधे हाथों के साथ क्रोधित</item>
+        <item>ठीक-ठाक जेस्चर वाला चेहरा</item>
+        <item>बहुत नीचे झुककर प्रणाम करता व्यक्ति</item>
+        <item>मुंह फुलाता चेहरा</item>
+        <item>हाथ जोड़े हुए</item>
+        <item>ठीक का संकेत</item>
+        <item>सफलता का संकेत</item>
+        <item>विफलता का संकेत</item>
+        <item>पू का ढेर</item>
+        <item>पसीने से तरबतर दिल</item>
+        <item>बालों वाला दिल</item>
+        <item>बैंगनी दिल</item>
+        <item>टूटा हुआ दिल</item>
+        <item>तीर वाला दिल</item>
+        <item>बर्फ़ीला दिल</item>
+        <item>कूल का संकेत</item>
+        <item>नि:शुल्क होने का संकेत</item>
+        <item>ठीक का संकेत</item>
+        <item>संकट आने का संकेत</item>
+        <item>कला प्रदर्शन के मुखौटे</item>
+        <item>इंद्रधनुष</item>
+        <item>पार्टी पॉपर</item>
+        <item>नर्तक</item>
+    </string-array>
+</resources>

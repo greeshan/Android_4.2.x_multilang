@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Kuasa dihidupkan ini ditetapkan untuk kurang daripada 1 minit dari sekarang.</item>
+        <item>Kuasa dihidupkan ini ditetapkan untuk %1$s dari sekarang.</item>
+        <item>Kuasa hidup ini ditetapkan untuk %2$s dari sekarang.</item>
+        <item>Kuasa dihidupkan ini ditetapkan untuk %1$s dan %2$s dari sekarang.</item>
+        <item>Kuasa hidup ini ditetapkan untuk %3$s dari sekarang.</item>
+        <item>Kuasa dihidupkan ini ditetapkan untuk %1$s dan %3$s dari sekarang.</item>
+        <item>Kuasa hidup ini ditetapkan untuk %2$s dan %3$s dari sekarang.</item>
+        <item>Kuasa dihidupkan ini ditetapkan untuk %1$s, %2$s dan %3$s dari sekarang.</item>
+        <item>Kuasa dimatikan ini ditetapkan untuk kurang daripada 1 minit dari sekarang.</item>
+        <item>Kuasa dimatikan ini ditetapkan untuk %1$s dari sekarang.</item>
+        <item>Kuasa mati ini ditetapkan untuk %2$s dari sekarang.</item>
+        <item>Kuasa dimatikan ini ditetapkan untuk %1$s dan %2$s dari sekarang.</item>
+        <item>Kuasa mati ini ditetapkan untuk %3$s dari sekarang.</item>
+        <item>Kuasa dimatikan ini ditetapkan untuk %1$s dan %3$s dari sekarang.</item>
+        <item>Kuasa mati ini ditetapkan untuk %2$s dan %3$s dari sekarang.</item>
+        <item>Kuasa dimatikan ini ditetapkan untuk %1$s, %2$s dan %3$s dari sekarang.</item>
+    </string-array>
+</resources>

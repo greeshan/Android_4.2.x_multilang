@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Žádné</item>
+        <item>Malá místnost</item>
+        <item>Střední místnost</item>
+        <item>Velká místnost</item>
+        <item>Střední hala</item>
+        <item>Velká hala</item>
+        <item>Zpoždění desky</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Santigrat</item>
+        <item>Fahrenhayt</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Asla otomatik güncelleme</item>
+        <item>Her saatte bir</item>
+        <item>Her 2 saat bir</item>
+        <item>Her 6 saat bir</item>
+        <item>Her 12 saat bir</item>
+        <item>Her gün</item>
+    </string-array>
+</resources>

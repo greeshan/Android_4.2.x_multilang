@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">زمان بندی روشن/خاموش شدن</string>
+    <string name="schedule_power_on_off_time">زمان</string>
+    <string name="schedule_power_on_off_repeat">تکرار</string>
+    <string name="schedule_power_on_off_set">تنظيم زمان بندی روشن/خاموش شدن</string>
+    <string name="schedule_power_on_set">تنظيم زمان بندی روشن شدن</string>
+    <string name="schedule_power_off_set">تنظيم زمان بندی خاموش شدن</string>
+    <string name="enable_schpwr">فعال کردن</string>
+    <string name="disable_schpwr">غيرفعال کردن</string>
+    <string name="day">1 روز</string>
+    <string name="days">" %s روز"</string>
+    <string name="hour">1 ساعت</string>
+    <string name="hours">%s ساعت</string>
+    <string name="minute">1 دقیقه</string>
+    <string name="minutes">" %s دقیقه"</string>
+    <string name="every_day">هر روز</string>
+    <string name="never">هرگز</string>
+    <string name="done">انجام</string>
+    <string name="revert">بازگرداندن</string>
+    <string name="schpwr_shutdown_message">تلفن شما ظرف مدت %s ثانيه خاموش می شود</string>
+    <string name="schpwr_shutdown_message_second">تلفن شما ظرف مدت %s ثانيه خاموش می شود</string>
+</resources>

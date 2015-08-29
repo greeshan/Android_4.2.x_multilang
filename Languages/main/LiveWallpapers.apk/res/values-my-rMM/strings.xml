@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">အန်းဒရိုက် သက်ဝင်လှုပ်ရှားမှုရှိသော နောက်ခံစက္ကူများ</string>
+    <string name="wallpaper_walkaround">ထွင်းဖောက်မြင်ရသည်</string>
+    <string name="wallpaper_walkaround_author">ဂူးဂဲ(လ်)</string>
+    <string name="wallpaper_walkaround_desc">သင်၏ ဖုန်းကို ထွင်းဖောက်မြင်ရပြီး အန္တရာယ်ရှိသော မတော်တဆမှုများ မရှိဘဲ အနီးအနားတွင် လမ်းလျှောက်သည်။</string>
+    <string name="wallpaper_grass">မြက်</string>
+    <string name="wallpaper_grass_author">ဂူးဂဲ(လ်)</string>
+    <string name="wallpaper_grass_desc">နေ့ သို့မဟုတ် ည ကောင်းကင်အောင်တွင် မြက်ပင်ဖျားလေးများသည်ယိမ်းနွဲ့လှုပ်ရှားနေကြ သည်။</string>
+    <string name="wallpaper_galaxy">ဂလက်ဆီ</string>
+    <string name="wallpaper_galaxy_author">ဂူးဂဲ(လ်)</string>
+    <string name="wallpaper_galaxy_desc">ဂလက်ဆီကို ဖြေးညင်းစွာ ရွေ့လျားနေသော ကြယ်များဖြင့် ဖွဲ့စည်းထားသည်။</string>
+    <string name="wallpaper_fall">ရေ</string>
+    <string name="wallpaper_fall_author">ဂူးဂဲ(လ်)</string>
+    <string name="wallpaper_fall_desc">ဆောင်းဦးသစ်ရွက်များကြွေကျသည်</string>
+    <string name="wallpaper_clock">ပိုလာ နာရီ</string>
+    <string name="wallpaper_clock_author">ဂူးဂဲ(လ်)</string>
+    <string name="wallpaper_clock_desc">နာရီလက်တံလည်သည့်အတိုင်း ရက်နှင့် အချိန်ကို ဖော်ပြသည် - လ၊ ရက်၊ နာရီ၊ မိနစ်၊ နှင့် စက္ကန့်။</string>
+    <string name="wallpaper_nexus">ရှုပ်ထွေးသော ချိတ်ဆက်မှု အတွဲလိုက်များ</string>
+    <string name="wallpaper_nexus_author">ဂူးဂဲ(လ်)</string>
+    <string name="wallpaper_nexus_desc">အာရုံကြောဆိုင်ရာ ကွန်ရက်အတွင်းသို့ ချောင်းကြည့်ခြင်း</string>
+    <string name="clock_settings">ပိုလာ နာရီ အပြင်အဆင်များ</string>
+    <string name="show_seconds">စက္ကန့်များ ပြသည်</string>
+    <string name="variable_line_width">ကွင်း အကျယ်များ ကွဲပြားသည်</string>
+    <string name="palette">အရောင် ဆေးစပ်ရာအပြား</string>
+    <string name="palette_gray">သံဓာတ်</string>
+    <string name="palette_violet">သန်းခေါင်ယံ</string>
+    <string name="palette_matrix">စိမ်းသော ဖန်သားပြင်</string>
+    <string name="palette_white_c">ပိုလာ ဝက်ဝံ (ဒိုင်းနမစ်)</string>
+    <string name="palette_black_c">အာကာသတွင်းနက် (ဒိုင်းနမစ်)</string>
+    <string name="palette_halloween">ဖရုံသီး ပိုင်မုန့်</string>
+    <string name="palette_zenburn">မစားဖူးသော သီးစုံ အသုပ်</string>
+    <string name="palette_oceanic">အပြာ လေဆာရောင်ခြည်</string>
+</resources>

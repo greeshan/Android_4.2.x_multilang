@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">매직 스모크 월페이퍼즈</string>
+    <string name="wallpaper_magicsmoke">매직 스모크</string>
+    <string name="author">구글</string>
+    <string name="ok">확인</string>
+    <string name="taptochange">변경하려면 탭핑하십시오</string>
+</resources>

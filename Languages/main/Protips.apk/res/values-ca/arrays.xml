@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Mostra totes les aplicacions.
+ Toqueu la icona de la Barra d'execució ràpida. @drawable/all_apps"</item>
+        <item>"Arrossega aplicacions a la pantalla Inici.
+ Manteniu premuda una aplicació a la Barra d'execució ràpida fins que vibri."</item>
+        <item>"Reorganitza la pantalla Inici.
+ Manteniu premut un element i, quan vibri, arrossegueu-lo al lloc que vulgueu."</item>
+        <item>"Elimina elements.
+ Manteniu premut un element i, quan vibri, arrossegueu-lo a la icona Paperera. @drawable/trash"</item>
+        <item>"Diverses pantalles Inici.
+ Feu-ho lliscar cap a l'esquerra o la dreta per canviar de pantalla. Arrossegueu elements a altres pantalles."</item>
+        <item>"Ja no voleu aquest widget?
+ Manteniu-lo premut i, quan vibri, arrossegueu-lo a la icona Paperera."</item>
+    </string-array>
+</resources>

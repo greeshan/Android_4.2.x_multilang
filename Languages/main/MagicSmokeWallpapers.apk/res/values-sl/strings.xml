@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Slike za ozadje Čarobni dim</string>
+    <string name="wallpaper_magicsmoke">Čarobni dim</string>
+    <string name="author">Google</string>
+    <string name="ok">V redu</string>
+    <string name="taptochange">Tapnite, da spremenite</string>
+</resources>

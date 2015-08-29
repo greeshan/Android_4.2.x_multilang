@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>ہوسٹ کا خانہ خالی نہيں ہوسکتا ہے</item>
+        <item>پورٹ کا خانہ خالی نہيں ہوسکتا ہے</item>
+        <item>غلط ہوسٹ</item>
+        <item>غلط پورٹ</item>
+    </string-array>
+</resources>

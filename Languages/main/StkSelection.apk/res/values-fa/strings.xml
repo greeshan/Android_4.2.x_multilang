@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جعبه ابزار سيم کارت</string>
+    <string name="activity_not_found">برنامه کاربردی در گوشی شما نصب نشد.</string>
+    <string name="simlock_toolkit">جعبه ابزار سيم کارت</string>
+</resources>

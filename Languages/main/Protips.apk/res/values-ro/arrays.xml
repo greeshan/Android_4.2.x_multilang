@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Consultaţi toate aplicaţiile.
+ Atingeţi pictograma Lansator. @drawable/all_apps"</item>
+        <item>"Trageţi aplicaţii în ecranul de pornire.
+ Atingeţi şi menţineţi o aplicaţie din lansator până când vibrează."</item>
+        <item>"Modificaţi ordinea elementelor din ecranul de pornire.
+ Atingeţi şi menţineţi un element, iar când vibrează, trageţi-l în locul dorit."</item>
+        <item>"Eliminaţi elemente.
+ Atingeţi şi menţineţi un element, iar când vibrează, trageţi-l spre pictograma Coş de gunoi. @drawable/trash"</item>
+        <item>"Mai multe ecrane de pornire.
+ Glisaţi la stânga sau la dreapta pentru a comuta. Trageţi elemente în alte ecrane."</item>
+        <item>"Nu·mai·utilizaţi·acest·obiect·widget?
+·Atingeţi-l şi menţineţi, iar când vibrează, trageţi-l spre pictograma Coş de gunoi."</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Erro</string>
+    <string name="no_market_app">O aplicativo Market não foi instalado.</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="installed">Instalado</string>
+    <string name="not_installed">Não instalado</string>
+</resources>

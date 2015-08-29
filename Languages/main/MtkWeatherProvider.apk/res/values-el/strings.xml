@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Υπηρεσία καιρού</string>
+    <string name="choose_city">Επιλογή πόλης</string>
+    <string name="searching">Γίνεται αναζήτηση, περιμένετε.</string>
+    <string name="no_found">Δεν βρέθηκε πόλη να συμφωνεί με τον όρο %s. Ελέγξτε τις λέξεις εισαγωγής.</string>
+    <string name="net_error">Το δίκτυο δεν είναι διαθέσιμο. Ελέγξτε το.</string>
+    <string name="no_city_error">Δεν είναι δυνατή η λήψη πληροφοριών πόλης. Καθορίστε την ώρα συστήματος και τη ζώνη ώρας σωστά.</string>
+    <string name="searching_fail">Η αναζήτηση πόλης απέτυχε.</string>
+    <string name="no_weather_error">Δεν είναι δυνατή η λήψη πληροφοριών καιρού. Καθορίστε την ώρα συστήματος και τη ζώνη ώρας σωστά.</string>
+    <string name="no_weather">Δεν υπάρχει καιρός για την περιοχή %s αυτήν τη στιγμή.</string>
+    <string name="setting_title">Ρύθμιση</string>
+    <string name="temperature">Μονάδες θερμοκρασίας</string>
+    <string name="tem_celsius">Κελσίου</string>
+    <string name="cities_title">Πόλεις</string>
+    <string name="update_fre">Συχνότητα ενημέρωσης</string>
+    <string name="every12">Κάθε 12 ώρες</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="menu_add_city">Προσθήκη πόλης</string>
+    <string name="add_city">Πιέστε το εικονίδιο για προσθήκη νέας πόλης</string>
+    <string name="remove">Κατάργηση</string>
+    <string name="warn">Μπορούν να προστεθούν έως 8 πόλεις.</string>
+    <string name="has_chosen">έχει επιλεγεί.</string>
+    <string name="no_city">Καμία πόλη</string>
+    <string name="powered_by">Παρέχεται από:</string>
+    <string name="menu_about">Σχετικά με</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Jadualkan kuasa hidup/mati</string>
+    <string name="schedule_power_on_off_time">Masa</string>
+    <string name="schedule_power_on_off_repeat">Ulang</string>
+    <string name="schedule_power_on_off_set">Tetapkan jadual kuasa hidup/mati</string>
+    <string name="schedule_power_on_set">Hidupkan jadual kuasa</string>
+    <string name="schedule_power_off_set">Matikan jadual kuasa</string>
+    <string name="enable_schpwr">Dayakan</string>
+    <string name="disable_schpwr">Nyahdaya</string>
+    <string name="day">1 hari</string>
+    <string name="days">" %s hari"</string>
+    <string name="hour">1 jam</string>
+    <string name="hours">%s jam</string>
+    <string name="minute">1 minit</string>
+    <string name="minutes">" %s minit"</string>
+    <string name="every_day">setiap hari</string>
+    <string name="never">Jangan sekali-kali</string>
+    <string name="done">Selesai</string>
+    <string name="revert">Kembali</string>
+    <string name="schpwr_shutdown_message">Telefon anda akan ditutup dalam masa %s saat</string>
+    <string name="schpwr_shutdown_message_second">Telefon anda akan ditutup dalam masa %s saat</string>
+</resources>

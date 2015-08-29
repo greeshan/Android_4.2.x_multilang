@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d trimitere raporturi citire</item>
+        <item quantity="one">%d trimitere raport citire</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d selectate</item>
+        <item quantity="one">%d selectat</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s conversaţii au fost şterse</item>
+        <item quantity="one">O conversaţie a fost ştearsă</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s (de) rezultate pentru „%2$s”</item>
+        <item quantity="one">%1$s rezultat pentru „%2$s”</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s (de) conversaţii vor fi şterse</item>
+        <item quantity="one">O conversaţie va fi ştearsă</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d (de) mesaje necitite.</item>
+        <item quantity="one">%d mesaj necitit.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">încă %1$s (de) mesaje</item>
+        <item quantity="one">încă %1$s mesaj</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s (de) persoane</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleutlketting</string>
+    <string name="title_no_certs">Geen certificaten gevonden</string>
+    <string name="title_select_cert">Kies certificaat</string>
+    <string name="requesting_application">De app %s heeft een certificaat aangevraagd. Door een certificaat te kiezen, kan de app deze identiteit nu en in de toekomst gebruiken.</string>
+    <string name="requesting_server">De app heeft de aanvragende server herkend als %s, maar u mag de app alleen toegang verlenen tot het certificaat als u de app vertrouwt.</string>
+    <string name="install_new_cert_message">U kunt certificaten installeren uit ene PKCS#12-bestand met een extensie %1$s of %2$s in externe opslag.</string>
+    <string name="install_new_cert_button_label">Installeren</string>
+    <string name="allow_button">Toestaan</string>
+    <string name="deny_button">Weigeren</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Tüm uygulamalarınızı görün.
+ Başlatıcı simgesine dokunun. @drawable/all_apps"</item>
+        <item>"Uygulamaları Ana Sayfanıza sürükleyin.
+ Başlatıcıdaki bir uygulamaya dokunun ve titreyene kadar parmağınızı çekmeyin."</item>
+        <item>"Ana sayfanızı düzenleyin.
+ Bir öğeye dokunun ve titreştiğinde sürükleyin."</item>
+        <item>"Öğeleri kaldırın.
+ Bir öğeye dokunup bekleyin ve titreştiğinde Çöp Kutusu simgesine sürükleyin. @drawable/trash"</item>
+        <item>"Birden fazla Ana Sayfa.
+ Sayfalar arasında geçiş yapmak için sağa veya sola kaydırın. Öğeleri diğer sayfalara sürükleyin."</item>
+        <item>"Bu widget'la işiniz bitti mi?
+ Üzerine dokunup bekleyin ve titreştiğinde Çöp Kutusu simgesine sürükleyin."</item>
+    </string-array>
+</resources>

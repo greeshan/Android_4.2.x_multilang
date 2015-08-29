@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Invio di %d rapporti di lettura</item>
+        <item quantity="one">Invio di %d rapporto di lettura</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d selezionato</item>
+        <item quantity="one">%d selezionato</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">Sono state eliminate %1$s conversazioni</item>
+        <item quantity="one">È stata eliminata una conversazione</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s risultati per \"%2$s\"</item>
+        <item quantity="one">%1$s risultato per \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sec</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s sec</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Verranno eliminate %1$s conversazioni</item>
+        <item quantity="one">Verrà eliminata una conversazione</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d messaggi non letti.</item>
+        <item quantity="one">%d messaggio non letto.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ %1$s altri messaggi</item>
+        <item quantity="one">+ %1$s altro messaggio</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s persone</item>
+    </plurals>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Ventiraivel</item>
+        <item>Trist</item>
+        <item>Tschegnar</item>
+        <item>Chatschar ora la lieunga</item>
+        <item>Surprais</item>
+        <item>Bitsch</item>
+        <item>Sbratg</item>
+        <item>Cool</item>
+        <item>Far lavur entira</item>
+        <item>Dar en in vesprer</item>
+        <item>Schenà</item>
+        <item>Anghel</item>
+        <item>Indecis</item>
+        <item>Bragir</item>
+        <item>Secret</item>
+        <item>Rir</item>
+        <item>Confus</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 secunda</item>
+        <item>2 secundas</item>
+        <item>3 secundas</item>
+        <item>4 secundas</item>
+        <item>5 secundas</item>
+        <item>6 secundas</item>
+        <item>7 secundas</item>
+        <item>8 secundas</item>
+        <item>9 secundas</item>
+        <item>10 secundas</item>
+        <item>Dapli…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Adina</item>
+        <item>Mo sche silenzius</item>
+        <item>Mai</item>
+    </string-array>
+</resources>

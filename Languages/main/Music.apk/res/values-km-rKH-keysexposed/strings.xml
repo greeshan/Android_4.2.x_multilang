@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">ឈ្មោះបញ្ជីចំណងជើងចម្រៀង</string>
+    <string name="rename_playlist_same_prompt">ដាក់ឈ្មោះថ្មី \" %s\" ទៅជា</string>
+    <string name="rename_playlist_diff_prompt">ដាក់ឈ្មោះថ្មី \" %s\" ទៅជា</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Naplánovat zapnutí/vypnutí</string>
+    <string name="schedule_power_on_off_time">Čas</string>
+    <string name="schedule_power_on_off_repeat">Opakovat</string>
+    <string name="schedule_power_on_off_set">Nastavit plán zapnutí/vypnutí</string>
+    <string name="schedule_power_on_set">Nastavit plán zapnutí</string>
+    <string name="schedule_power_off_set">Nastavit plán vypnutí</string>
+    <string name="enable_schpwr">Povolit</string>
+    <string name="disable_schpwr">Zakázat</string>
+    <string name="day">1 den</string>
+    <string name="days">" %s dny"</string>
+    <string name="hour">1 hodina</string>
+    <string name="hours">%s hodiny</string>
+    <string name="minute">1 minuta</string>
+    <string name="minutes">" %s minuty"</string>
+    <string name="every_day">každý den</string>
+    <string name="never">Nikdy</string>
+    <string name="done">Hotovo</string>
+    <string name="revert">Vrátit zpět</string>
+    <string name="schpwr_shutdown_message">Zařízení se vypne během %s sekund</string>
+    <string name="schpwr_shutdown_message_second">Zařízení se vypne během %s sekund</string>
+</resources>

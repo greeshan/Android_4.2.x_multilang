@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name">ပင်မ ဖန်သားပြင် အရိပ် အမြွက်များ</string>
+    <string name="pager_footer">%2$d၏ %1$d</string>
+    <string name="tts_pause">.</string>
+</resources>

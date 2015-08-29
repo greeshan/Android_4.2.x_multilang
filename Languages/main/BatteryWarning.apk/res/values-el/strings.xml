@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Υψηλή τάση φορτιστή</string>
+    <string name="title_battery_over_temperature">Υψηλή θερμοκρασία μπαταρίας</string>
+    <string name="title_over_current_protection">Υψηλή προστασία ρεύματος</string>
+    <string name="title_battery_over_voltage">Υψηλή τάση μπαταρίας</string>
+    <string name="title_safety_timer_timeout">Υπερβολικός χρόνος φόρτισης</string>
+    <string name="msg_charger_over_voltage">Ο φορτιστή σας έχει υψηλή τάση, αποσυνδέστε το φορτιστή!</string>
+    <string name="msg_battery_over_temperature">Η μπαταρία σας έχει υψηλή θερμοκρασία, απομακρύνετέ την!</string>
+    <string name="msg_over_current_protection">Η μπαταρία σας έχει υψηλή προστασία ρεύματος, απομακρύνετέ την!</string>
+    <string name="msg_battery_over_voltage">Η μπαταρία σας έχει υψηλή τάση, απομακρύνετέ την!</string>
+    <string name="msg_safety_timer_timeout">Ο χρόνος φόρτισης ήταν πολύ μεγάλος, αποσυνδέστε το φορτιστή!</string>
+    <string name="btn_ok_msg">Αναβολή</string>
+    <string name="btn_cancel_msg">Παράβλεψη</string>
+</resources>

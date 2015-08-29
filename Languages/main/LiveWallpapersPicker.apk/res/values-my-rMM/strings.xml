@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">သက်ဝင်လှုပ်ရှားမှုရှိသော နောက်ခံစက္ကူ ရွေးချယ်သည့်အရာ</string>
+    <string name="live_wallpaper_picker_title">သက်ဝင်လှုပ်ရှားမှုရှိသော နောက်ခံစက္ကူ ရွေးချယ်သည်</string>
+    <string name="live_wallpaper_picker_label">သက်ဝင်လှုပ်ရှားမှုရှိသော နောက်ခံစက္ကူများ</string>
+    <string name="live_wallpaper_preview_title">သက်ဝင်လှုပ်ရှားမှုရှိသော နောက်ခံစက္ကူကို ကြိုကြည့်ခြင်း</string>
+    <string name="configure_wallpaper">အပြင်အဆင်များ….</string>
+    <string name="wallpaper_instructions">နောက်ခံစက္ကူ တပ်ဆင်သည်</string>
+    <string name="live_wallpaper_empty">သက်ဝင်လှုပ်ရှားမှုရှိသော နောက်ခံစက္ကူများ မရှိပါ။</string>
+    <string name="set_live_wallpaper">နောက်ခံစက္ကူ တပ်ဆင်သည်</string>
+    <string name="wallpaper_title_and_author">%1$s အမြှောက် %2$s</string>
+    <string name="live_wallpaper_loading">သက်ဝင်လှုပ်ရှားမှုရှိသော နောက်ခံစက္ကူကို တင်ပို့နေသည်…..</string>
+    <string name="wallpaper_cancel">ဖျက်ပစ်သည်</string>
+</resources>

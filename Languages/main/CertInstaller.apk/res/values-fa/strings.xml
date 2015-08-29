@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نصب کننده گواهی</string>
+    <string name="pick_file_title">انتخاب یک گواهینامه</string>
+    <string name="pkcs12_password_dialog_title">استخراج گواهی</string>
+    <string name="extracting_pkcs12">در حال استخراج...</string>
+    <string name="pkcs12_file_password_dialog_title">اجرا از %s</string>
+    <string name="name_credential_dialog_title">نامگذاری گواهی</string>
+    <string name="credential_name">نام گواهی:</string>
+    <string name="credential_password">گذرواژه را برای استخراج گواهینامه‌ها وارد کنید.</string>
+    <string name="credential_info">این بسته شامل این موارد است:</string>
+    <string name="p12_description">گواهی ها در حافظه کلید PKCS12.</string>
+    <string name="one_userkey">یک کلید کاربری</string>
+    <string name="one_usercrt">یک گواهی کاربری</string>
+    <string name="one_cacrt">در گواهی CA</string>
+    <string name="n_cacrts">%d گواهی CA</string>
+    <string name="password_error">گذرواژه صحیح را تایپ کنید.</string>
+    <string name="password_empty_error">گذرواژه را تایپ کنید.</string>
+    <string name="name_empty_error">نامی را تایپ کنید.</string>
+    <string name="name_char_error">نامی را که فقط شامل عدد و نویسه باشد تایپ کنید.</string>
+    <string name="storage_error">گواهینامه ذخیره نشد. برای سعی مجدد \"تأیید\" را لمس کنید.</string>
+    <string name="unable_to_save_cert">گواهینامه ذخیره نشد. محل ذخیره اطلاعات کاربری فعال نیست یا به درستی راه‌اندازی نشده است.</string>
+    <string name="cert_not_saved">گواهی نصب نشده است.</string>
+    <string name="no_cert_to_saved">هیچ گواهی برای نصب موجود نیست.</string>
+    <string name="invalid_cert">مجوز نامعتبر است.</string>
+    <string name="cert_is_added">%s نصب شده است.</string>
+    <string name="cert_too_large_error">نصب نشد زیرا اندازه گواهینامه خیلی بزرگ است.</string>
+    <string name="cert_missing_error">نصب نشد زیرا فایل گواهینامه یافت نشد.</string>
+    <string name="cert_read_error">نصب نشد زیرا فایل گواهینامه خوانده نشد.</string>
+    <string name="no_cert_file_found">هیچ فایل گواهی در کارت SD یافت نشد.</string>
+    <string name="sdcard_not_present">کارت SD موجود نیست.</string>
+</resources>

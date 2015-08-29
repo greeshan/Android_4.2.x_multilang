@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">DRM apsaugota turinio saugykla</string>
+    <string name="permlab_accessDrm">Pasiekti DRM turinį.</string>
+    <string name="permdesc_accessDrm">Leidžiama programai pasiekti DRM apsaugotą turinį.</string>
+    <string name="permlab_installDrm">Įdiegti DRM turinį.</string>
+    <string name="permdesc_installDrm">Leidžiama programai įdiegti DRM apsaugotą turinį.</string>
+</resources>

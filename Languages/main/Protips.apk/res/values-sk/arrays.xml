@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Zobrazte si všetky aplikácie.
+ Dotknite sa ikony spúšťača. @drawable/all_apps"</item>
+        <item>"Presuňte aplikácie na plochu.
+ Dotknite sa aplikácie v spúšťači a podržte ju, kým začne vibrovať."</item>
+        <item>"Usporiadajte si plochu.
+ Dotknite sa položky a podržte ju. Hneď ako začne vibrovať, presuňte ju kam chcete."</item>
+        <item>"Odstránenie položiek.
+ Dotknite sa položky a podržte ju. Hneď ako začne vibrovať, presuňte ju na ikonu koša. @drawable/trash"</item>
+        <item>"Viacero plôch.
+ Plochu prepnite posunutím prsta doľava alebo doprava. Položky je možné presunúť na inú obrazovku."</item>
+        <item>"Už miniaplikáciu nepotrebujete?
+ Podržte ju a hneď ako začne vibrovať, presuňte ju na ikonu koša."</item>
+    </string-array>
+</resources>

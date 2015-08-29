@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="select_all_text_size">10.5dip</dimen>
+    <dimen name="select_none_text_size">10.5dip</dimen>
+    <dimen name="tar_multi_text_size">12.0dip</dimen>
+    <dimen name="cancel_multi_text_size">10.5dip</dimen>
+    <dimen name="permissions_cancel_width">110.0dip</dimen>
+    <dimen name="chown_cancel_width">110.0dip</dimen>
+    <dimen name="search_cancel_width">110.0dip</dimen>
+    <dimen name="mount_button_text_size">10.0dip</dimen>
+    <dimen name="mount_button_margin">1.0dip</dimen>
+    <dimen name="info_text_size">11.5dip</dimen>
+</resources>

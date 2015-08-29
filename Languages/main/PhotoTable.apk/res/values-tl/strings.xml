@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mga Screensaver ng Larawan</string>
+    <string name="table_screensaver_name">Talahanayan ng Larawan</string>
+    <string name="flipper_screensaver_name">Frame ng Larawan</string>
+    <string name="posts_album_name">Mga Larawan mula sa Mga Post</string>
+    <string name="uploads_album_name">Mga Instant na Upload</string>
+    <string name="unknown_album_name">Walang Pangalang Album</string>
+    <string name="stock_photo_album_name">Mga Stock na Larawan</string>
+    <string name="local_source_name">Mga Larawan sa Device</string>
+    <string name="need_to_configure">Walang piniling mga larawan.</string>
+</resources>

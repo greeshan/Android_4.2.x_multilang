@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>zmáčknout</item>
+        <item>velké oči</item>
+        <item>velká ústa</item>
+        <item>malá ústa</item>
+        <item>velký nos</item>
+        <item>malé oči</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>ve vesmíru</item>
+        <item>západ slunce</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>nízká</item>
+        <item>střední</item>
+        <item>vysoká</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>bez předmětu</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ÚSMĚV S ROZZÁŘENÝMA OČIMA</item>
+        <item>ŠIROKÝ ÚSMĚV</item>
+        <item>ŠIROKÝ ÚSMĚV S ROZZÁŘENÝMA OČIMA</item>
+        <item>SLZY RADOSTI</item>
+        <item>ÚSMĚV S OTEVŘENÝMI ÚSTY</item>
+        <item>ÚSMĚV S OTEVŘENÝMI ÚSTY A ROZZÁŘENÝMA OČIMA</item>
+        <item>ÚSMĚV S OTEVŘENÝMI ÚSTY A STUDENÝM POTEM</item>
+        <item>ÚSMĚV S OTEVŘENÝMI ÚSTY A PEVNĚ ZAVŘENÝMA OČIMA</item>
+        <item>ÚSMĚV SE SVATOZÁŘÍ</item>
+        <item>ÚSMĚV S ĎÁBELSKÝMI ROHY</item>
+        <item>MRKNUTÍ</item>
+        <item>MLČÍCÍ</item>
+        <item>NEUTRÁLNÍ</item>
+        <item>BEZ VÝRAZU</item>
+        <item>ZMATENÝ</item>
+        <item>ROZČÍLENÝ</item>
+        <item>ÚŠKLEBEK</item>
+        <item>NAŠPULENÝ</item>
+        <item>PLAČÍCÍ</item>
+        <item>SPÁNEK</item>
+        <item>OBLIČEJ S OTEVŘENÝMI ÚSTY</item>
+        <item>ZARPUTILÝ</item>
+        <item>OBLIČEJ VYPOUŠTĚJÍCÍ PÁRU</item>
+        <item>ZKLAMANÝ, ALE S ÚLEVOU</item>
+        <item>ZAMRAČENÝ S OTEVŘENÝMI ÚSTY</item>
+        <item>UTRÁPENÝ</item>
+        <item>VYSTRAŠENÝ</item>
+        <item>UNAVENÝ</item>
+        <item>OTEVŘENÁ ÚSTA A STUDENÝ POT</item>
+        <item>ZNEPOKOJENÝ OBLIČEJ</item>
+        <item>VYSTRAŠENÝ KŘIK</item>
+        <item>UDIVENÝ</item>
+        <item>ZARDĚLÝ</item>
+        <item>ZÁVRAŤ</item>
+        <item>OBLIČEJ BEZ ÚST</item>
+        <item>OBLIČEJ S LÉKAŘSKOU MASKOU</item>
+        <item>ZKLAMANÝ</item>
+        <item>OTRÁVENÝ</item>
+        <item>ÚSMĚV SE ZAMILOVANÝMA OČIMA</item>
+        <item>VYPLÁZNUTÝ JAZYK</item>
+        <item>VYPLAZENÝ JAZYK A MRKAJÍCÍ OKO</item>
+        <item>VYPLAZENÝ JAZYK A PEVNĚ ZAVŘENÉ OČI</item>
+        <item>VYCHUTNÁVÁNÍ LASKOMIN</item>
+        <item>LÍBAJÍCÍ OBLIČEJ</item>
+        <item>LÍBAJÍCÍ OBLIČEJ S ROZZÁŘENÝMA OČIMA</item>
+        <item>VZDUŠNÝ POLIBEK</item>
+        <item>LÍBAJÍCÍ OBLIČEJ SE ZAVŘENÝMA OČIMA</item>
+        <item>ÚSMĚV SE SLUNEČNÍMI BRÝLEMI</item>
+        <item>HLASITÝ PLÁČ</item>
+        <item>ÚLEVA</item>
+        <item>POPLETENÝ</item>
+        <item>ZAMYŠLENÝ</item>
+        <item>OSPALÝ</item>
+        <item>POŤOUCHLÝ</item>
+        <item>STUDENÝ POT</item>
+        <item>UNAVENÝ</item>
+        <item>ŠŤASTNĚ MÁVAJÍCÍ</item>
+        <item>ZVEDNUTÉ RUCE NA ZNAMENÍ OSLAVY</item>
+        <item>ZAMRAČENÝ</item>
+        <item>ROZZLOBENÝ SE ZKŘÍŽENÝMI PAŽEMI</item>
+        <item>TVÁŘ S GESTEM „OK“</item>
+        <item>HLUBOKÁ ÚKLONA</item>
+        <item>OBLIČEJ ŠPULÍCÍ RTY</item>
+        <item>SEPJATÉ RUCE</item>
+        <item>ZNAMENÍ „OK“</item>
+        <item>ZNAMENÍ „PALEC NAHORU“</item>
+        <item>ZNAMENÍ „PALEC DOLŮ“</item>
+        <item>HROMÁDKA BOBKŮ</item>
+        <item>POTÍCÍ SE SRDCE</item>
+        <item>VLASATÉ SRDCE</item>
+        <item>PURPUROVÉ SRDCE</item>
+        <item>ZLOMENÉ SRDCE</item>
+        <item>SRDCE S ŠÍPEM</item>
+        <item>LEDOVÉ SRDCE</item>
+        <item>ZNAMENÍ „HUSTÝ“</item>
+        <item>ZNAMENÍ „SVOBODA“</item>
+        <item>ZNAMENÍ „OK“</item>
+        <item>ZNAMENÍ „SOS“</item>
+        <item>HERECKÉ MASKY</item>
+        <item>DUHA</item>
+        <item>OSLAVUJÍCÍ</item>
+        <item>TANEČNÍK</item>
+    </string-array>
+</resources>

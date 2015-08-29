@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ရာသီဥတုဝန်ဆောင်မှု</string>
+    <string name="choose_city">မြို့ရွေးချယ်ပါ</string>
+    <string name="searching">ရှာနေဆဲ၊ စောင့်ဆိုင်းပါ။</string>
+    <string name="no_found">%s နှင့် လိုက်ဖက်သည့် မြို့မရှိပါ။ သင့်ရေးသွင်းထားသည့် စကားလုံးများကို စစ်ဆေးပါ။</string>
+    <string name="net_error">ကွန်ယက်မရရှိနိုင်ပါ။ စစ်ဆေးပါ။</string>
+    <string name="no_city_error">မြို့နှင့်ပတ်သက်သည့် သတင်းအချက်အလက် မရရှိနိုင်ပါ။ စနစ်အချိန်နှင့် ဒေသစံတော်ချိန်ကို မှန်ကန်စွာ သတ်မှတ်ပါ။</string>
+    <string name="searching_fail">မြို့ရှာဖွေမှု မအောင်မြင်ပါ။</string>
+    <string name="no_weather_error">ရာသီဥတုနှင့်ပတ်သက်သည့် သတင်းအချက်အလက် မရရှိနိုင်ပါ။ စနစ်အချိန်နှင့် ဒေသစံတော်ချိန်ကို မှန်ကန်စွာ သတ်မှတ်ပါ။</string>
+    <string name="no_weather">လက်ရှိတွင် %s အတွက် ရာသီဥတု မရှိပါ။</string>
+    <string name="setting_title">အဆင်အပြင်ထားရှိချက်</string>
+    <string name="temperature">အပူချိန်ယူနစ်များ</string>
+    <string name="tem_celsius">မြို့များ</string>
+    <string name="cities_title">မြို့များ</string>
+    <string name="update_fre">ကြိမ်နှုန်းကို အဆင့်မြှင့်ပါ</string>
+    <string name="every12">မြို့ထည့်ပါ</string>
+    <string name="cancel">မြို့အသစ်ထည့်ရန် အိုင်ကွန်ကို နှိပ်ပါ</string>
+    <string name="menu_add_city">မြို့ထည့်ပါ</string>
+    <string name="add_city">မြို့အသစ်ထည့်ရန် အိုင်ကွန်ကို နှိပ်ပါ</string>
+    <string name="remove">ဖယ်ရှားပါ</string>
+    <string name="warn">အများဆုံးမြို့ 8 ခုထည့်နိုင်သည်။</string>
+    <string name="has_chosen">ရွေးချယ်ထားပြီးဖြစ်သည်။</string>
+    <string name="no_city">မြို့မရှိပါ</string>
+    <string name="powered_by">က အထောက်အပံ့ပေးသည်:</string>
+    <string name="menu_about">အကြောင်းအရာ</string>
+</resources>

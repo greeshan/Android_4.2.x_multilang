@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kisakinishaji Cheti</string>
+    <string name="pick_file_title">Chagua cheti</string>
+    <string name="pkcs12_password_dialog_title">Chopoa cheti</string>
+    <string name="extracting_pkcs12">Inadondoa...</string>
+    <string name="pkcs12_file_password_dialog_title">Chopoa kutoka kwa %s</string>
+    <string name="name_credential_dialog_title">Jina kwenye cheti</string>
+    <string name="credential_name">Jina la cheti:</string>
+    <string name="credential_password">Chapisha nenosiri ili kudondoa vyeti.</string>
+    <string name="credential_info">Furushi lina:</string>
+    <string name="p12_description">Vyeti katika hifadhi-vitufe ya PKCS12.</string>
+    <string name="one_userkey">ufunguo wa mtumiaji mmoja</string>
+    <string name="one_usercrt">cheti cha mtumiaji mmoja</string>
+    <string name="one_cacrt">Cheti kimoja cha CA</string>
+    <string name="n_cacrts">Vyeti vya %d CA</string>
+    <string name="password_error">Chapa nenosiri sahihi.</string>
+    <string name="password_empty_error">Chapa nenosiri.</string>
+    <string name="name_empty_error">Chapa jina.</string>
+    <string name="name_char_error">Chapisha jina ambalo lina herufi na nambari tu.</string>
+    <string name="storage_error">Haikuweza kuhifadhi cheti. Gusa SAWA ili kujaribu tena.</string>
+    <string name="unable_to_save_cert">Haikuweza kuhifadhi cheti. Hifadhi ya hati haijawezeshwa au haijaanzilishwa vizuri.</string>
+    <string name="cert_not_saved">Cheti hakijasakinishwa.</string>
+    <string name="no_cert_to_saved">Hakuna cheti cha kusakinisha.</string>
+    <string name="invalid_cert">Cheti ni batili.</string>
+    <string name="cert_is_added">%s imesakinishwa.</string>
+    <string name="cert_too_large_error">Haikuweza kusakinisha kwa sababu cheti ni kikubwa mno.</string>
+    <string name="cert_missing_error">Haikuweza kusakinisha kwa sababu faili ya cheti haikupatikana.</string>
+    <string name="cert_read_error">Haikuweza kusakinisha kwa sababu faili ya cheti haikuweza kusomwa.</string>
+    <string name="no_cert_file_found">Hakuni faili ya cheti iliyopatikana kwenye kadi ya SD.</string>
+    <string name="sdcard_not_present">Kadi ya SD haipo.</string>
+</resources>

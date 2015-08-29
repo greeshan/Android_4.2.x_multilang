@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Позадине са магичним димом</string>
+    <string name="wallpaper_magicsmoke">Магични дим</string>
+    <string name="author">Google</string>
+    <string name="ok">Потврди</string>
+    <string name="taptochange">Додирните да бисте променили</string>
+</resources>

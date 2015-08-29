@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Tingnan ang lahat ng iyong apps.
+ Galawin ang icon ng Launcher. @drawable/all_apps"</item>
+        <item>"I-drag ang apps sa iyong Home screen.
+ Galawin at pindutin nang matagal ang app sa Launcher hanggang sa mag-vibrate ito."</item>
+        <item>"Muling isaayos ang iyong Home screen.
+ Galawin at pindutin nang matagal ang isang item at kapag nag-vibrate ito, i-drag ito kung saan mo gusto."</item>
+        <item>"Alisin ang mga item.
+ Galawin at pindutin nang matagal ang isang item at kapag nag-vibrate ito, i-drag sa icon ng basurahan. @drawable/trash"</item>
+        <item>"Maramihang Home screen.
+ Mag-swipe pakaliwa o pakanan upang lumipat. I-drag ang mga item sa ibang mga screen."</item>
+        <item>"Tapos na sa widget na ito?
+ Galawin at pindutin nang matagal at kapag nag-vibrate ito, i-drag sa icon ng Basura."</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Tut las applicaziuns sin ina egliada.
+ Tutgai il simbol dal lantschader. @drawable/all_apps"</item>
+        <item>"Deponer applicaziuns sin il visur da partenza.
+Smatgai sin in simbol en la survista ed al tegnai fin ch'el vibrescha."</item>
+        <item>"\"Organisar il visur da partenza:
+Smatgai sin in element ed al tegnai. Uschespert ch'el vibrescha, al deponi la nua che Vus vulais. \""</item>
+        <item>"Allontanar in element.
+ Smatgai sin in element ed al tegnai. Al tirai sin il simbol dal chanaster da palpiri cura ch'el vibrescha."</item>
+        <item>"Plirs visurs da partenza.
+ Tirai a sanestra u a dretga per midar. Tirai elements sin auters visurs."</item>
+        <item>"Allontanar quest widget?
+ Smatgai sin il simbol ed al tegnai. Tirai il simbol en il chanaster da palpiri cura ch'el vibrescha."</item>
+    </string-array>
+</resources>

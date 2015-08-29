@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تصویر والے اسکرین سیورز</string>
+    <string name="table_screensaver_name">تصویر کا جدول</string>
+    <string name="flipper_screensaver_name">تصویر کا فریم</string>
+    <string name="posts_album_name">اشاعتوں سے تصاویر</string>
+    <string name="uploads_album_name">فوری اپ لوڈز</string>
+    <string name="unknown_album_name">بلا نام البم</string>
+    <string name="stock_photo_album_name">تصاویر ذخیرہ کریں</string>
+    <string name="local_source_name">آلہ پر تصاویر</string>
+    <string name="need_to_configure">کوئی تصاویر منتخب نہیں ہیں۔</string>
+</resources>

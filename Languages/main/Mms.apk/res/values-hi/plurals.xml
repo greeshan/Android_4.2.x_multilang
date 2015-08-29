@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d पठन रिपोर्ट भेजी जा रही हैं</item>
+        <item quantity="one">%d पठन रिपोर्ट भेजी जा रही है</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d चयनित</item>
+        <item quantity="one">%d चयनित</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s वार्तालाप हटा दिए गए</item>
+        <item quantity="one">एक वार्तालाप हटा दिया गया</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\" के लिए %1$s परिणाम</item>
+        <item quantity="one">\"%2$s\" के लिए %1$s परिणाम</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s सेकंड</item>
+        <item quantity="one">%s सेकंड</item>
+        <item quantity="few">%s सेकंड</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s वार्तालापों को हटा दिया जाएगा</item>
+        <item quantity="one">एक वार्तालाप को हटा दिया जाएगा</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d अनपढ़े संदेश।</item>
+        <item quantity="one">%d अपठित संदेश।</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s अन्‍य संदेश</item>
+        <item quantity="one">+%1$s अन्‍य संदेश</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s लोग</item>
+    </plurals>
+</resources>

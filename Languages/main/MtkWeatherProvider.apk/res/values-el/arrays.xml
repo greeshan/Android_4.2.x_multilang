@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Κελσίου</item>
+        <item>Φαρενάιτ</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Ποτέ αυτόματη ενημέρωση</item>
+        <item>Κάθε 1 ώρα</item>
+        <item>Κάθε 2 ώρες</item>
+        <item>Κάθε 6 ώρες</item>
+        <item>Κάθε 12 ώρες</item>
+        <item>Κάθε 1 ημέρα</item>
+    </string-array>
+</resources>

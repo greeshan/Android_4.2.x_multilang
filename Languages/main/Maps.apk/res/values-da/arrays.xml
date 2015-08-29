@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Kunne ikke fordrage det</item>
+        <item>Kunne ikke lide det</item>
+        <item>Det var okay</item>
+        <item>Kunne godt lide dette</item>
+        <item>Var vild med det</item>
+    </string-array>
+</resources>

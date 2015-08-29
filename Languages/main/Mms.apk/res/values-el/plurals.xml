@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Αποστολή %d αναφορών ανάγνωσης</item>
+        <item quantity="one">Αποστολή %d αναφοράς ανάγνωσης</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d έχουν επιλεγεί</item>
+        <item quantity="one">%d έχουν επιλεγεί</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s συνομιλίες έχουν διαγραφεί</item>
+        <item quantity="one">Έχει διαγραφεί μία συνομιλία</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s αποτελέσματα για \"%2$s\"</item>
+        <item quantity="one">%1$s αποτέλεσμα για \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s δευτερόλεπτα</item>
+        <item quantity="one">%s δευτερόλεπτα</item>
+        <item quantity="few">%s δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Θα διαγραφούν %1$s συνομιλίες</item>
+        <item quantity="one">Θα διαγραφεί μία συνομιλία</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d μη αναγνωσμένα μηνύματα.</item>
+        <item quantity="one">%d μη αναγνωσμένο μήνυμα.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s άλλα μηνύματα</item>
+        <item quantity="one">+%1$s άλλο μήνυμα</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s άτομα</item>
+    </plurals>
+</resources>

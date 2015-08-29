@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>"L'accensione è impostata per meno di 1 minuto da ora."</item>
+        <item>"L'accensione è impostata per %1$s da ora."</item>
+        <item>Questa accensione è impostata per attivarsi tra %2$s da adesso.</item>
+        <item>"L'accensione è impostata per %1$s e %2$s da ora."</item>
+        <item>Questa accensione è impostata per attivarsi tra %3$s da adesso.</item>
+        <item>"L'accensione è impostata per %1$s e %3$s da ora."</item>
+        <item>Questa accensione è impostata per attivarsi tra %2$s e %3$s da adesso.</item>
+        <item>"L'accensione è impostata per %1$s, %2$s e %3$s da ora."</item>
+        <item>Lo spegnimento è impostato per meno di 1 minuto da ora.</item>
+        <item>Lo spegnimento è impostato per %1$s da ora.</item>
+        <item>Questa spegnimento è impostata per attivarsi tra %2$s da adesso.</item>
+        <item>Lo spegnimento è impostato per %1$s e %2$s da ora.</item>
+        <item>Questa spegnimento è impostata per attivarsi tra %3$s da adesso.</item>
+        <item>Lo spegnimento è impostato per %1$s e %3$s da ora.</item>
+        <item>Questa spegnimento è impostata per attivarsi tra %2$s e %3$s da adesso.</item>
+        <item>Lo spegnimento è impostato per %1$s, %2$s e %3$s da ora.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>saspiest</item>
+        <item>lielas acis</item>
+        <item>liela mute</item>
+        <item>maza mute</item>
+        <item>liels deguns</item>
+        <item>mazas acis</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>kosmosā</item>
+        <item>saulriets</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>zems</item>
+        <item>vidējs</item>
+        <item>augsts</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>bez temata</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>SMAIDOŠS AR SMAIDOŠĀM ACĪM</item>
+        <item>PLATS SMAIDS</item>
+        <item>PLATI SMAIDOŠS AR SMAIDOŠĀM ACĪM</item>
+        <item>PRIEKA ASARAS</item>
+        <item>SMAIDOŠS AR ATVĒRTU MUTI</item>
+        <item>SMAIDOŠS AR ATVĒRTU MUTI UN SMAIDOŠĀM ACĪM</item>
+        <item>SMAIDOŠS AR ATVĒRTU MUTI UN AUKSTIEM SVIEDRIEM</item>
+        <item>SMAIDOŠS AR ATVĒRTU MUTI UN AIZMIEGTĀM ACĪM</item>
+        <item>SMAIDOŠS AR NIMBU</item>
+        <item>SMAIDOŠS AR VELNA RAGIEM</item>
+        <item>AR PIEMIEGTU ACI</item>
+        <item>APKLUSIS</item>
+        <item>NEITRĀLS</item>
+        <item>BEZ EMOCIJĀM</item>
+        <item>APMULSIS</item>
+        <item>DUSMĪGS</item>
+        <item>VAIBSTĀS</item>
+        <item>ĪGNS</item>
+        <item>RAUDOŠS</item>
+        <item>GULOŠS</item>
+        <item>SEJA AR ATVĒRTU MUTI</item>
+        <item>PACIETĪGS</item>
+        <item>SEJA, KAS PŪŠ DŪMUS</item>
+        <item>BĒDĪGS, TAČU ATVIEGLOTS</item>
+        <item>DRŪMS AR ATVĒRTU MUTI</item>
+        <item>SĀPJPILNS</item>
+        <item>NOBIJIES</item>
+        <item>PĀRGURIS</item>
+        <item>ATVĒRTA MUTE UN AUKSTI SVIEDRI</item>
+        <item>NORAIZĒJUSIES SEJA</item>
+        <item>BAILĒS KLIEDZOŠS</item>
+        <item>IZBRĪNĪTS</item>
+        <item>NOSARCIS</item>
+        <item>APREIBIS</item>
+        <item>SEJA BEZ MUTES</item>
+        <item>SEJA AR ĀRSTA MASKU</item>
+        <item>VĪLIES</item>
+        <item>GARLAIKOTS</item>
+        <item>SMAIDOŠS AR SIRDS FORMAS ACĪM</item>
+        <item>AR IZBĀZTU MĒLI</item>
+        <item>AR IZBĀZTU MĒLI UN PIEMIEGTU ACI</item>
+        <item>AR IZBĀZTU MĒLI UN AIZMIEGTĀM ACĪM</item>
+        <item>BAUDOT GARŠĪGU ĒDIENU</item>
+        <item>AR SKŪPSTĀ SAVILKTĀM LŪPĀM</item>
+        <item>AR SKŪPSTĀ SAVILKTĀM LŪPĀM UN SMAIDOŠĀM ACĪM</item>
+        <item>SŪTOT GAISA SKŪPSTU</item>
+        <item>AR SKŪPSTĀ SAVILKTĀM LŪPĀM UN AIZVĒRTĀM ACĪM</item>
+        <item>SMAIDOŠS AR SAULESBRILLĒM</item>
+        <item>SKAĻI RAUDOŠS</item>
+        <item>ATVIEGLOTS</item>
+        <item>SATRIEKTS</item>
+        <item>DOMĪGS</item>
+        <item>MIEGAINS</item>
+        <item>SMĪNOŠS</item>
+        <item>AUKSTI SVIEDRI</item>
+        <item>NOGURIS</item>
+        <item>PRIECĪGS AR VIENU PACELTU ROKU</item>
+        <item>AR PRIEKĀ PACELTĀM ROKĀM</item>
+        <item>DRŪMS</item>
+        <item>DUSMĪGS AR SAKRUSTOTĀM ROKĀM</item>
+        <item>SEJA AR IZTEIKSMI “VISS KĀRTĪBĀ”</item>
+        <item>CILVĒKS, KAS DZIĻI PAKLANĀS</item>
+        <item>SABOZUSIES SEJA</item>
+        <item>AR SAKRUSTOTĀM ROKĀM</item>
+        <item>ZĪME “VISS KĀRTĪBĀ”</item>
+        <item>ĪKŠĶIS UZ AUGŠU</item>
+        <item>ĪKŠĶIS UZ LEJU</item>
+        <item>MĒSLU ČUPA</item>
+        <item>SVĪSTOŠA SIRDS</item>
+        <item>PŪKAINA SIRDS</item>
+        <item>PURPURSARKANA SIRDS</item>
+        <item>SALAUZTA SIRDS</item>
+        <item>SIRDS AR BULTU</item>
+        <item>LEDUSAUKSTA SIRDS</item>
+        <item>ZĪME “VISS FORŠI”</item>
+        <item>ZĪME “BRĪVS”</item>
+        <item>ZĪME “VISS KĀRTĪBĀ”</item>
+        <item>ZĪME “SOS”</item>
+        <item>TEĀTRA MASKAS</item>
+        <item>VARAVĪKSNE</item>
+        <item>PLAUKŠĶENE</item>
+        <item>DEJOTĀJS</item>
+    </string-array>
+</resources>

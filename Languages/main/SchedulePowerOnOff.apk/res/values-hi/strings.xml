@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">पॉवर चालू/बंद निर्धारित करें</string>
+    <string name="schedule_power_on_off_time">समय</string>
+    <string name="schedule_power_on_off_repeat">दोहराएँ</string>
+    <string name="schedule_power_on_off_set">निर्धारित पॉवर ऑन/ऑफ सेट करें</string>
+    <string name="schedule_power_on_set">निर्धारित पॉवर ऑन सेट करें</string>
+    <string name="schedule_power_off_set">निर्धारित पॉवर ऑफ सेट करें</string>
+    <string name="enable_schpwr">सक्षम करें</string>
+    <string name="disable_schpwr">अक्षम</string>
+    <string name="day">1 दिन</string>
+    <string name="days">" %s दिन"</string>
+    <string name="hour">1 घंटे</string>
+    <string name="hours">%s घंटे</string>
+    <string name="minute">1 मिनट</string>
+    <string name="minutes">" %s मिनट"</string>
+    <string name="every_day">प्रतिदिन</string>
+    <string name="never">कभी नहीं</string>
+    <string name="done">काम पूरा हुआ</string>
+    <string name="revert">वापिस लाएं</string>
+    <string name="schpwr_shutdown_message">आपका फोन %s सेकेंड में शट डाउन हो जाएगा।</string>
+    <string name="schpwr_shutdown_message_second">आपका फोन %s सेकेंड में शट डाउन हो जाएगा।</string>
+</resources>

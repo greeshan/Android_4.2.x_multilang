@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_list_values">
+        <item>Olandese</item>
+        <item>Svedese</item>
+        <item>Danese</item>
+        <item>Finlandese</item>
+        <item>Norvegese</item>
+        <item>Greco</item>
+        <item>Ungherese</item>
+        <item>Polacco</item>
+        <item>Altri</item>
+        <item>Ceco</item>
+        <item>Islandese</item>
+        <item>Tulle le lingue</item>
+        <item>Tedesco</item>
+        <item>Inglese</item>
+        <item>Italiano</item>
+        <item>Francese</item>
+        <item>Spagnolo</item>
+        <item>Portoghese</item>
+        <item>Turco</item>
+        <item>Ebraico</item>
+        <item>Arabo</item>
+        <item>Russo</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM / WCDMA (automatinis režimas)</item>
+        <item>Tik WCDMA</item>
+        <item>Tik GSM</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Numatytieji tinklo nustatymai</item>
+        <item>Slėpti numerį</item>
+        <item>Rodyti numerį</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / CDMA</item>
+        <item>Tik EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / „EvDo“ automatinis</item>
+        <item>GSM / WCDMA automatinis</item>
+        <item>Tik WCDMA</item>
+        <item>Tik GSM</item>
+        <item>Pageidaujama GSM / WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE / CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Anglų</item>
+        <item>Prancūzų</item>
+        <item>Ispanų</item>
+        <item>Japonų</item>
+        <item>Korėjų</item>
+        <item>Kinų k.</item>
+        <item>Hebrajų</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Tik pagrindinis</item>
+        <item>Automatinis</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM / SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY išjungta</item>
+        <item>TTY pilnas</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Įprastas</item>
+        <item>Ilgas</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Visada</item>
+        <item>Tik kai veikia tylos režimu</item>
+        <item>Niekada</item>
+    </string-array>
+</resources>

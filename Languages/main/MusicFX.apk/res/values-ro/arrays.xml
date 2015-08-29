@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Niciunul</item>
+        <item>Cameră mică</item>
+        <item>Cameră mijlocie</item>
+        <item>Cameră mare</item>
+        <item>Sală mijlocie</item>
+        <item>Sală mare</item>
+        <item>Reverb placă</item>
+    </string-array>
+</resources>

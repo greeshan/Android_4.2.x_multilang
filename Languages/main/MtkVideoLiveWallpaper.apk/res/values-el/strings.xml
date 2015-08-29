@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Ζωντανές ταπετσαρίες MTK</string>
+    <string name="vlw">Ταπετσαρία βίντεο</string>
+    <string name="vlw_author">MediaTek Inc.</string>
+    <string name="vlw_desc">Ορίστε το βίντεο ως ζωντανή ταπετσαρία.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Αυτό το βίντεο δεν είναι έγκυρο για ροή σε αυτήν τη συσκευή.</string>
+    <string name="VideoScene_error_text_unknown">Δεν είναι δυνατή η αναπαραγωγή αυτού του βίντεο.</string>
+    <string name="VideoScene_error_media_removed">Το αρχείο πολυμέσων καταργήθηκε</string>
+    <string name="VideoScene_error_sdcard_unmounted">Η κάρτα SD είναι αποσυνδεδεμένη</string>
+    <string name="VideoScene_info_wait_sdcard">Αναμονή για προετοιμασία κάρτας SD</string>
+    <string name="VideoScene_error_media_not_found">Το αρχείο πολυμέσων δεν υπάρχει τώρα</string>
+    <string name="VideoScene_error_be_set">το βίντεο δεν μπορεί να οριστεί ως ταπετσαρία βίντεο</string>
+    <string name="VideoEditor_error_title">Δεν είναι δυνατή η αναπαραγωγή βίντεο</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">Δεν έχει επιλεγεί βίντεο</string>
+    <string name="VideoEditor_warning_limited_duration">Επιλέξτε βίντεο τουλάχιστον 1 δευτ. για αναπαραγωγή</string>
+    <string name="VideoScene_reload_after_mount">Φόρτωση βίντεο από κάρτα SD, περιμένετε ένα λεπτό.</string>
+    <string name="select_video">Κάρτα SD</string>
+    <string name="select_default">Προεπιλογή</string>
+    <string name="select">Επιλογή βίντεο</string>
+    <string name="set_wallpaper">Ορισμός ταπετσαρίας</string>
+    <string name="title">Ταπετσαρία βίντεο</string>
+    <string name="default_title">Προεπιλεγμένο βίντεο</string>
+    <string name="default_video_path">android.resource://com.mediatek.vlw/raw/default_video</string>
+    <string name="default_video_title">MediaTek Inc.</string>
+    <string name="capture_video">Φωτογραφική μηχανή</string>
+    <string name="menu_item_add_item">Επιλογή βίντεο από κάρτα SD</string>
+    <string name="group_video">Επιλογή ενός βίντεο</string>
+    <string name="group_folder">Επιλογή φακέλου</string>
+    <string name="folder_info">βίντεο&lt;br>από&lt;br></string>
+</resources>

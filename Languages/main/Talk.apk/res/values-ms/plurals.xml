@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="zero">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d dipilih.</item>
+        <item quantity="one">%d dipilih.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Padamkan semua salinan foto ini?</item>
+        <item quantity="one">Padamkan semua salinan foto ini?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Adakah anda pasti mahu memadamkan foto ini daripada album Google+ ini? Tindakan ini tidak boleh dibuat asal.</item>
+        <item quantity="one">Adakah anda pasti mahu memadamkan foto ini daripada album Google+ ini? Tindakan ini tidak boleh dibuat asal.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Adakah anda pasti mahu memadamkan foto ini daripada telefon anda dan juga album Google+ ini? Tindakan ini tidak boleh dibuat asal.</item>
+        <item quantity="one">Adakah anda pasti mahu memadamkan foto ini daripada telefon anda dan juga album Google+ ini? Tindakan ini tidak boleh dibuat asal.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Memadamkan foto…</item>
+        <item quantity="one">Memadamkan foto…</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d ulasan</item>
+        <item quantity="one">%d ulasan</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Padamkan foto</item>
+        <item quantity="one">Padamkan foto</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; %2$d ahli</item>
+        <item quantity="one">%1$s; %2$d ahli</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">"P'britahuan Google+ baru"</item>
+        <item quantity="one">"P'britahuan Google+ baru"</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Hangouts dengan %d yang lain</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d dipilih</item>
+        <item quantity="one">%d dipilih</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d kalangan, %2$s</item>
+        <item quantity="one">%1$d kalangan, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Padam kalangan</item>
+        <item quantity="one">Padam kalangan</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Adakah anda mahu memadamkan kalangan ini secara kekal?</item>
+        <item quantity="one">Adakah anda mahu memadamkan siaran ini secara kekal?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Memadamkan kalangan…</item>
+        <item quantity="one">Memadamkan kalangan…</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d orang</item>
+        <item quantity="one">%d orang</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Alih keluar orang</item>
+        <item quantity="one">Alih keluar orang</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Adakah anda mahu mengalih keluar orang ini dari kalangan ini?</item>
+        <item quantity="one">Adakah anda mahu mengalih keluar orang ini dari kalangan ini?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Menambahkan orang…</item>
+        <item quantity="one">Menambahkan orang…</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Mengalih keluar orang…</item>
+        <item quantity="one">Mengalih keluar orang…</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Mengetepikan orang…</item>
+        <item quantity="one">Mengetepikan orang…</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d lagi</item>
+        <item quantity="one">%d lagi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min lalu</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Panggilan video daripada %2$s dengan %3$s dan %1$d yang lain</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d mesej dalam %2$d Hangouts</item>
+        <item quantity="one">%d mesej dalam satu Hangouts</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">menjemput anda menyertai Hangouts dengan %1$d yang lain</item>
+        <item quantity="one">menjemput anda menyertai Hangouts dengan 1 yang lain</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s dan %1$d yang lain mahu mengadakan Hangouts</item>
+        <item quantity="one">%2$s dan %1$d yang lain mahu mengadakan Hangouts</item>
+        <item quantity="few">%2$s dan %1$d yang lain mahu mengadakan Hangouts</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d yang lain mahu mengadakan Hangouts</item>
+        <item quantity="one">%1$d yang lain mahu mengadakan Hangouts</item>
+        <item quantity="few">%1$d yang lain mahu mengadakan Hangouts</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d permintaan Hangouts</item>
+    </plurals>
+</resources>

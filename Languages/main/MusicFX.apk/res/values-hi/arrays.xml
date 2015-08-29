@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>None</item>
+        <item>छोटा रूम</item>
+        <item>मध्यम रूम</item>
+        <item>बड़ा रूम</item>
+        <item>मध्यम हॉल</item>
+        <item>बड़ा हॉल</item>
+        <item>प्लेट रीवर्ब</item>
+    </string-array>
+</resources>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d Foto</item>
+        <item quantity="zero">%d Foto</item>
+        <item quantity="one">%d Foto</item>
+        <item quantity="two">%d Foto</item>
+        <item quantity="few">%d Foto</item>
+        <item quantity="many">%d Foto</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d bintang</item>
+        <item quantity="zero">%d bintang</item>
+        <item quantity="one">%d bintang</item>
+        <item quantity="two">%d bintang</item>
+        <item quantity="few">%d bintang</item>
+        <item quantity="many">%d bintang</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f bintang</item>
+        <item quantity="zero">%.1f bintang</item>
+        <item quantity="one">%.1f bintang</item>
+        <item quantity="two">%.1f bintang</item>
+        <item quantity="few">%.1f bintang</item>
+        <item quantity="many">%.1f bintang</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Stesen Berdekatan</item>
+        <item quantity="zero">Stesen Berdekatan</item>
+        <item quantity="one">Stesen Berdekatan</item>
+        <item quantity="two">Stesen Berdekatan</item>
+        <item quantity="few">Stesen Berdekatan</item>
+        <item quantity="many">Stesen Berdekatan</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s dan %2$d pengulas</item>
+        <item quantity="one">%1$s dan %2$d pengulas</item>
+        <item quantity="two">%1$s dan %2$d pengulas</item>
+        <item quantity="few">%1$s dan %2$d pengulas</item>
+        <item quantity="many">%1$s dan %2$d pengulas</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d pengulas</item>
+        <item quantity="one">%d pengulas</item>
+        <item quantity="two">%d pengulas</item>
+        <item quantity="few">%d pengulas</item>
+        <item quantity="many">%d pengulas</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Foto anda akan dipaparkan kepada umum sejurus selepas disemak.</item>
+        <item quantity="one">Foto anda akan dipaparkan kepada umum sejurus selepas disemak.</item>
+        <item quantity="two">Foto anda akan dipaparkan kepada umum sejurus selepas disemak.</item>
+        <item quantity="few">Foto anda akan dipaparkan kepada umum sejurus selepas disemak.</item>
+        <item quantity="many">Foto anda akan dipaparkan kepada umum sejurus selepas disemak.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d hentian</item>
+        <item quantity="zero">%d hentian</item>
+        <item quantity="one">%d hentian</item>
+        <item quantity="two">%d hentian</item>
+        <item quantity="few">%d hentian</item>
+        <item quantity="many">%d hentian</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">ulasan</item>
+        <item quantity="zero">ulasan</item>
+        <item quantity="one">ulasan</item>
+        <item quantity="two">ulasan</item>
+        <item quantity="few">ulasan</item>
+        <item quantity="many">ulasan</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s hari</item>
+        <item quantity="zero">%s hari</item>
+        <item quantity="one">%s hari</item>
+        <item quantity="two">%s hari</item>
+        <item quantity="few">%s hari</item>
+        <item quantity="many">%s hari</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d hari</item>
+        <item quantity="zero">%d hari</item>
+        <item quantity="one">%d hari</item>
+        <item quantity="two">%d hari</item>
+        <item quantity="few">%d hari</item>
+        <item quantity="many">%d hari</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s jam</item>
+        <item quantity="zero">%s jam</item>
+        <item quantity="one">%s jam</item>
+        <item quantity="two">%s jam</item>
+        <item quantity="few">%s jam</item>
+        <item quantity="many">%s jam</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d jam</item>
+        <item quantity="zero">%d jam</item>
+        <item quantity="one">%d jam</item>
+        <item quantity="two">%d jam</item>
+        <item quantity="few">%d jam</item>
+        <item quantity="many">%d jam</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s minit</item>
+        <item quantity="zero">%s minit</item>
+        <item quantity="one">%s minit</item>
+        <item quantity="two">%s minit</item>
+        <item quantity="few">%s minit</item>
+        <item quantity="many">%s minit</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minit</item>
+        <item quantity="zero">%d minit</item>
+        <item quantity="one">%d minit</item>
+        <item quantity="two">%d minit</item>
+        <item quantity="few">%d minit</item>
+        <item quantity="many">%d minit</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">Dalam %1$s meter</item>
+        <item quantity="one">Dalam %1$s meter</item>
+        <item quantity="two">Dalam %1$s meter</item>
+        <item quantity="few">Dalam %1$s meter</item>
+        <item quantity="many">Dalam %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">Dalam %1$s kilometer</item>
+        <item quantity="one">Dalam %1$s kilometer</item>
+        <item quantity="two">Dalam %1$s kilometer</item>
+        <item quantity="few">Dalam %1$s kilometer</item>
+        <item quantity="many">Dalam %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Teruskan sejauh %1$s meter</item>
+        <item quantity="one">Teruskan sejauh %1$s meter</item>
+        <item quantity="two">Teruskan sejauh %1$s meter</item>
+        <item quantity="few">Teruskan sejauh %1$s meter</item>
+        <item quantity="many">Teruskan sejauh %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Teruskan sejauh %1$s kilometer</item>
+        <item quantity="one">Teruskan sejauh %1$s kilometer</item>
+        <item quantity="two">Teruskan sejauh %1$s kilometer</item>
+        <item quantity="few">Teruskan sejauh %1$s kilometer</item>
+        <item quantity="many">Teruskan sejauh %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Teruskan sepanjang %2$s sejauh %1$s meter</item>
+        <item quantity="one">Teruskan sepanjang %2$s sejauh %1$s meter</item>
+        <item quantity="two">Teruskan sepanjang %2$s sejauh %1$s meter</item>
+        <item quantity="few">Teruskan sepanjang %2$s sejauh %1$s meter</item>
+        <item quantity="many">Teruskan sepanjang %2$s sejauh %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Teruskan sepanjang %2$s sejauh %1$s kilometer</item>
+        <item quantity="one">Teruskan sepanjang %2$s sejauh %1$s kilometer</item>
+        <item quantity="two">Teruskan sepanjang %2$s sejauh %1$s kilometer</item>
+        <item quantity="few">Teruskan sepanjang %2$s sejauh %1$s kilometer</item>
+        <item quantity="many">Teruskan sepanjang %2$s sejauh %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">Dalam %1$s kaki</item>
+        <item quantity="one">Dalam %1$s kaki</item>
+        <item quantity="two">Dalam %1$s kaki</item>
+        <item quantity="few">Dalam %1$s kaki</item>
+        <item quantity="many">Dalam %1$s kaki</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">Dalam %1$s ela</item>
+        <item quantity="one">Dalam %1$s ela</item>
+        <item quantity="two">Dalam %1$s ela</item>
+        <item quantity="few">Dalam %1$s ela</item>
+        <item quantity="many">Dalam %1$s ela</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">Dalam %1$s batu</item>
+        <item quantity="one">Dalam %1$s batu</item>
+        <item quantity="two">Dalam %1$s batu</item>
+        <item quantity="few">Dalam %1$s batu</item>
+        <item quantity="many">Dalam %1$s batu</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Teruskan sejauh %1$s kaki</item>
+        <item quantity="one">Teruskan sejauh %1$s kaki</item>
+        <item quantity="two">Teruskan sejauh %1$s kaki</item>
+        <item quantity="few">Teruskan sejauh %1$s kaki</item>
+        <item quantity="many">Teruskan sejauh %1$s kaki</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Teruskan sejauh %1$s ela</item>
+        <item quantity="one">Teruskan sejauh %1$s ela</item>
+        <item quantity="two">Teruskan sejauh %1$s ela</item>
+        <item quantity="few">Teruskan sejauh %1$s ela</item>
+        <item quantity="many">Teruskan sejauh %1$s ela</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Teruskan sejauh %1$s batu</item>
+        <item quantity="one">Teruskan sejauh %1$s batu</item>
+        <item quantity="two">Teruskan sejauh %1$s batu</item>
+        <item quantity="few">Teruskan sejauh %1$s batu</item>
+        <item quantity="many">Teruskan sejauh %1$s batu</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Teruskan sepanjang %2$s sejauh %1$s kaki</item>
+        <item quantity="one">Teruskan sepanjang %2$s sejauh %1$s kaki</item>
+        <item quantity="two">Teruskan sepanjang %2$s sejauh %1$s kaki</item>
+        <item quantity="few">Teruskan sepanjang %2$s sejauh %1$s kaki</item>
+        <item quantity="many">Teruskan sepanjang %2$s sejauh %1$s kaki</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Teruskan sepanjang %2$s sejauh %1$s ela</item>
+        <item quantity="one">Teruskan sepanjang %2$s sejauh %1$s ela</item>
+        <item quantity="two">Teruskan sepanjang %2$s sejauh %1$s ela</item>
+        <item quantity="few">Teruskan sepanjang %2$s sejauh %1$s ela</item>
+        <item quantity="many">Teruskan sepanjang %2$s sejauh %1$s ela</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Teruskan sepanjang %2$s sejauh %1$s batu</item>
+        <item quantity="one">Teruskan sepanjang %2$s sejauh %1$s batu</item>
+        <item quantity="two">Teruskan sepanjang %2$s sejauh %1$s batu</item>
+        <item quantity="few">Teruskan sepanjang %2$s sejauh %1$s batu</item>
+        <item quantity="many">Teruskan sepanjang %2$s sejauh %1$s batu</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d bintang</item>
+        <item quantity="zero">%d bintang</item>
+        <item quantity="one">%d bintang</item>
+        <item quantity="two">%d bintang</item>
+        <item quantity="few">%d bintang</item>
+        <item quantity="many">%d bintang</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Tempahan anda untuk %d malam</item>
+        <item quantity="zero">Tempahan anda untuk %d malam</item>
+        <item quantity="one">Tempahan anda untuk %d malam</item>
+        <item quantity="two">Tempahan anda untuk %d malam</item>
+        <item quantity="few">Tempahan anda untuk %d malam</item>
+        <item quantity="many">Tempahan anda untuk %d malam</item>
+    </plurals>
+</resources>

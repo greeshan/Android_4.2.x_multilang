@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>ไม่มี</item>
+        <item>ห้องขนาดเล็ก</item>
+        <item>ห้องขนาดกลาง</item>
+        <item>ห้องขนาดใหญ่</item>
+        <item>ฮอลล์ขนาดกลาง</item>
+        <item>ฮอลล์ขนาดใหญ่</item>
+        <item>เพลต รีเวิร์บ</item>
+    </string-array>
+</resources>

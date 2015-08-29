@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Προεπιλεγμένη ηλεκτρονική αντήχηση</string>
+    <string name="eq_preset_normal">Κανονική</string>
+    <string name="eq_preset_classical">Κλασική μουσική</string>
+    <string name="eq_preset_dance">Χορευτική μουσική</string>
+    <string name="eq_preset_flat">Επίπεδη μουσική</string>
+    <string name="eq_preset_folk">Παραδοσιακή μουσική</string>
+    <string name="eq_preset_heavymetal">Χέβυ μέταλ μουσική</string>
+    <string name="eq_preset_hiphop">Χιπ χοπ μουσική</string>
+    <string name="eq_preset_jazz">Τζαζ μουσική</string>
+    <string name="eq_preset_pop">Ποπ μουσική</string>
+    <string name="eq_preset_rock">Ροκ μουσική</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Τα εφέ δεν είναι διαθέσιμα.</string>
+    <string name="eq_dialog_title">Ισοσταθμιστής</string>
+    <string name="headset_plug">Συνδέστε τα ακουστικά για αυτά τα εφέ.</string>
+    <string name="bass_boost_strength">Ενίσχυση μπάσων</string>
+    <string name="virtualizer_strength">Εφέ 3D</string>
+    <string name="ci_extreme">FX Booster</string>
+    <string name="user">Xρήστης</string>
+    <string name="picker_title">Πίνακας ελέγχου μουσικών εφέ</string>
+    <string name="main_toggle_effects_title">Εφέ ήχου</string>
+    <string name="pr_title">Αντήχηση:</string>
+    <string name="pr_summary">Πρόσθετα εφέ αντήχησης δωματίου</string>
+    <string name="pr_dialog_title">Προεπιλογή αντήχησης</string>
+    <string name="setup">Ρύθμιση</string>
+</resources>

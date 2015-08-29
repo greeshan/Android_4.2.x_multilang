@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d枚の写真</item>
+        <item quantity="zero">%d枚の写真</item>
+        <item quantity="one">%d枚の写真</item>
+        <item quantity="two">%d枚の写真</item>
+        <item quantity="few">%d枚の写真</item>
+        <item quantity="many">%d枚の写真</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">星%d個</item>
+        <item quantity="zero">星%d個</item>
+        <item quantity="one">星%d個</item>
+        <item quantity="two">星%d個</item>
+        <item quantity="few">星%d個</item>
+        <item quantity="many">星%d個</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">星%.1f個</item>
+        <item quantity="zero">星%.1f個</item>
+        <item quantity="one">星%.1f個</item>
+        <item quantity="two">星%.1f個</item>
+        <item quantity="few">星%.1f個</item>
+        <item quantity="many">星%.1f個</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">付近の駅</item>
+        <item quantity="zero">付近の駅</item>
+        <item quantity="one">付近の駅</item>
+        <item quantity="two">付近の駅</item>
+        <item quantity="few">付近の駅</item>
+        <item quantity="many">付近の駅</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$sさんと他%2$d人</item>
+        <item quantity="one">%1$sさんと他%2$d人</item>
+        <item quantity="two">%1$sさんと他%2$d人</item>
+        <item quantity="few">%1$sさんと他%2$d人</item>
+        <item quantity="many">%1$sさんと他%2$d人</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d人</item>
+        <item quantity="one">%d人</item>
+        <item quantity="two">%d人</item>
+        <item quantity="few">%d人</item>
+        <item quantity="many">%d人</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">写真は審査が完了し次第公開されます。</item>
+        <item quantity="one">写真は審査が完了し次第公開されます。</item>
+        <item quantity="two">写真は審査が完了し次第公開されます。</item>
+        <item quantity="few">写真は審査が完了し次第公開されます。</item>
+        <item quantity="many">写真は審査が完了し次第公開されます。</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d駅</item>
+        <item quantity="zero">%d駅</item>
+        <item quantity="one">%d駅</item>
+        <item quantity="two">%d駅</item>
+        <item quantity="few">%d駅</item>
+        <item quantity="many">%d駅</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">件のクチコミ</item>
+        <item quantity="zero">件のクチコミ</item>
+        <item quantity="one">件のクチコミ</item>
+        <item quantity="two">件のクチコミ</item>
+        <item quantity="few">件のクチコミ</item>
+        <item quantity="many">件のクチコミ</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s日</item>
+        <item quantity="zero">%s日</item>
+        <item quantity="one">%s日</item>
+        <item quantity="two">%s日</item>
+        <item quantity="few">%s日</item>
+        <item quantity="many">%s日</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d日</item>
+        <item quantity="zero">%d日</item>
+        <item quantity="one">%d日</item>
+        <item quantity="two">%d日</item>
+        <item quantity="few">%d日</item>
+        <item quantity="many">%d日</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s時間</item>
+        <item quantity="zero">%s時間</item>
+        <item quantity="one">%s時間</item>
+        <item quantity="two">%s時間</item>
+        <item quantity="few">%s時間</item>
+        <item quantity="many">%s時間</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d時間</item>
+        <item quantity="zero">%d時間</item>
+        <item quantity="one">%d時間</item>
+        <item quantity="two">%d時間</item>
+        <item quantity="few">%d時間</item>
+        <item quantity="many">%d時間</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s分</item>
+        <item quantity="zero">%s分</item>
+        <item quantity="one">%s分</item>
+        <item quantity="two">%s分</item>
+        <item quantity="few">%s分</item>
+        <item quantity="many">%s分</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d分</item>
+        <item quantity="zero">%d分</item>
+        <item quantity="one">%d分</item>
+        <item quantity="two">%d分</item>
+        <item quantity="few">%d分</item>
+        <item quantity="many">%d分</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">およそ%1$sメートル先</item>
+        <item quantity="one">およそ%1$sメートル先</item>
+        <item quantity="two">およそ%1$sメートル先</item>
+        <item quantity="few">およそ%1$sメートル先</item>
+        <item quantity="many">およそ%1$sメートル先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">%1$sキロ先</item>
+        <item quantity="one">%1$sキロ先</item>
+        <item quantity="two">%1$sキロ先</item>
+        <item quantity="few">%1$sキロ先</item>
+        <item quantity="many">%1$sキロ先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">そのまま%1$sメートル進みます</item>
+        <item quantity="one">そのまま%1$sメートル進みます</item>
+        <item quantity="two">そのまま%1$sメートル進みます</item>
+        <item quantity="few">そのまま%1$sメートル進みます</item>
+        <item quantity="many">そのまま%1$sメートル進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">そのまま%1$sキロ進みます</item>
+        <item quantity="one">そのまま%1$sキロ進みます</item>
+        <item quantity="two">そのまま%1$sキロ進みます</item>
+        <item quantity="few">そのまま%1$sキロ進みます</item>
+        <item quantity="many">そのまま%1$sキロ進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">そのまま%2$sを%1$sメートル進みます</item>
+        <item quantity="one">そのまま%2$sを%1$sメートル進みます</item>
+        <item quantity="two">そのまま%2$sを%1$sメートル進みます</item>
+        <item quantity="few">そのまま%2$sを%1$sメートル進みます</item>
+        <item quantity="many">そのまま%2$sを%1$sメートル進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">そのまま%2$sを%1$sキロ進みます</item>
+        <item quantity="one">そのまま%2$sを%1$sキロ進みます</item>
+        <item quantity="two">そのまま%2$sを%1$sキロ進みます</item>
+        <item quantity="few">そのまま%2$sを%1$sキロ進みます</item>
+        <item quantity="many">そのまま%2$sを%1$sキロ進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">およそ%1$sフィート先</item>
+        <item quantity="one">およそ%1$sフィート先</item>
+        <item quantity="two">およそ%1$sフィート先</item>
+        <item quantity="few">およそ%1$sフィート先</item>
+        <item quantity="many">およそ%1$sフィート先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">およそ%1$sヤード先</item>
+        <item quantity="one">およそ%1$sヤード先</item>
+        <item quantity="two">およそ%1$sヤード先</item>
+        <item quantity="few">およそ%1$sヤード先</item>
+        <item quantity="many">およそ%1$sヤード先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">%1$sマイル先</item>
+        <item quantity="one">%1$sマイル先</item>
+        <item quantity="two">%1$sマイル先</item>
+        <item quantity="few">%1$sマイル先</item>
+        <item quantity="many">%1$sマイル先</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">そのまま%1$sフィート進みます</item>
+        <item quantity="one">そのまま%1$sフィート進みます</item>
+        <item quantity="two">そのまま%1$sフィート進みます</item>
+        <item quantity="few">そのまま%1$sフィート進みます</item>
+        <item quantity="many">そのまま%1$sフィート進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">そのまま%1$sヤード進みます</item>
+        <item quantity="one">そのまま%1$sヤード進みます</item>
+        <item quantity="two">そのまま%1$sヤード進みます</item>
+        <item quantity="few">そのまま%1$sヤード進みます</item>
+        <item quantity="many">そのまま%1$sヤード進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">そのまま%1$sマイル進みます</item>
+        <item quantity="one">そのまま%1$sマイル進みます</item>
+        <item quantity="two">そのまま%1$sマイル進みます</item>
+        <item quantity="few">そのまま%1$sマイル進みます</item>
+        <item quantity="many">そのまま%1$sマイル進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">そのまま%2$sを%1$sフィート進みます</item>
+        <item quantity="one">そのまま%2$sを%1$sフィート進みます</item>
+        <item quantity="two">そのまま%2$sを%1$sフィート進みます</item>
+        <item quantity="few">そのまま%2$sを%1$sフィート進みます</item>
+        <item quantity="many">そのまま%2$sを%1$sフィート進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">そのまま%2$sを%1$sヤード進みます</item>
+        <item quantity="one">そのまま%2$sを%1$sヤード進みます</item>
+        <item quantity="two">そのまま%2$sを%1$sヤード進みます</item>
+        <item quantity="few">そのまま%2$sを%1$sヤード進みます</item>
+        <item quantity="many">そのまま%2$sを%1$sヤード進みます</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">そのまま%2$sを%1$sマイル進みます</item>
+        <item quantity="one">そのまま%2$sを%1$sマイル進みます</item>
+        <item quantity="two">そのまま%2$sを%1$sマイル進みます</item>
+        <item quantity="few">そのまま%2$sを%1$sマイル進みます</item>
+        <item quantity="many">そのまま%2$sを%1$sマイル進みます</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">星%d個</item>
+        <item quantity="zero">星%d個</item>
+        <item quantity="one">星%d個</item>
+        <item quantity="two">星%d個</item>
+        <item quantity="few">星%d個</item>
+        <item quantity="many">星%d個</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">%d泊の予約</item>
+        <item quantity="zero">%d泊の予約</item>
+        <item quantity="one">%d泊の予約</item>
+        <item quantity="two">%d泊の予約</item>
+        <item quantity="few">%d泊の予約</item>
+        <item quantity="many">%d泊の予約</item>
+    </plurals>
+</resources>

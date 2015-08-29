@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d fotos</item>
+        <item quantity="zero">%d fotos</item>
+        <item quantity="one">%d foto</item>
+        <item quantity="two">%d fotos</item>
+        <item quantity="few">%d fotos</item>
+        <item quantity="many">%d fotos</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d estrelles</item>
+        <item quantity="zero">%d estrelles</item>
+        <item quantity="one">%d estrella</item>
+        <item quantity="two">%d estrelles</item>
+        <item quantity="few">%d estrelles</item>
+        <item quantity="many">%d estrelles</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f estrelles</item>
+        <item quantity="zero">%.1f estrelles</item>
+        <item quantity="one">%.1f estrella</item>
+        <item quantity="two">%.1f estrelles</item>
+        <item quantity="few">%.1f estrelles</item>
+        <item quantity="many">%.1f estrelles</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Estacions a prop</item>
+        <item quantity="zero">Estacions a prop</item>
+        <item quantity="one">Estació a prop</item>
+        <item quantity="two">Estacions a prop</item>
+        <item quantity="few">Estacions a prop</item>
+        <item quantity="many">Estacions a prop</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s i %2$d usuaris</item>
+        <item quantity="one">%1$s i %2$d usuari</item>
+        <item quantity="two">%1$s i %2$d usuaris</item>
+        <item quantity="few">%1$s i %2$d usuaris</item>
+        <item quantity="many">%1$s i %2$d usuaris</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d usuaris</item>
+        <item quantity="one">%d usuari</item>
+        <item quantity="two">%d usuaris</item>
+        <item quantity="few">%d usuaris</item>
+        <item quantity="many">%d usuaris</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Les fotos es faran públiques tan aviat es revisin.</item>
+        <item quantity="one">La foto es farà pública tan aviat es revisi.</item>
+        <item quantity="two">Les fotos es faran públiques tan aviat es revisin.</item>
+        <item quantity="few">Les fotos es faran públiques tan aviat es revisin.</item>
+        <item quantity="many">Les fotos es faran públiques tan aviat es revisin.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d parades</item>
+        <item quantity="zero">%d parades</item>
+        <item quantity="one">%d parada</item>
+        <item quantity="two">%d parades</item>
+        <item quantity="few">%d parades</item>
+        <item quantity="many">%d parades</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">ressenyes</item>
+        <item quantity="zero">ressenyes</item>
+        <item quantity="one">ressenya</item>
+        <item quantity="two">ressenyes</item>
+        <item quantity="few">ressenyes</item>
+        <item quantity="many">ressenyes</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s dies</item>
+        <item quantity="zero">%s dies</item>
+        <item quantity="one">%s dia</item>
+        <item quantity="two">%s dies</item>
+        <item quantity="few">%s dies</item>
+        <item quantity="many">%s dies</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d dies</item>
+        <item quantity="zero">%d dies</item>
+        <item quantity="one">%d dia</item>
+        <item quantity="two">%d dies</item>
+        <item quantity="few">%d dies</item>
+        <item quantity="many">%d dies</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s hores</item>
+        <item quantity="zero">%s hores</item>
+        <item quantity="one">%s hora</item>
+        <item quantity="two">%s hores</item>
+        <item quantity="few">%s hores</item>
+        <item quantity="many">%s hores</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d hores</item>
+        <item quantity="zero">%d hores</item>
+        <item quantity="one">%d hora</item>
+        <item quantity="two">%d hores</item>
+        <item quantity="few">%d hores</item>
+        <item quantity="many">%d hores</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s minuts</item>
+        <item quantity="zero">%s minuts</item>
+        <item quantity="one">%s minut</item>
+        <item quantity="two">%s minuts</item>
+        <item quantity="few">%s minuts</item>
+        <item quantity="many">%s minuts</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minuts</item>
+        <item quantity="zero">%d minuts</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">%d minuts</item>
+        <item quantity="few">%d minuts</item>
+        <item quantity="many">%d minuts</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">"D'aquí a %1$s metres"</item>
+        <item quantity="one">"D'aquí a %1$s metre"</item>
+        <item quantity="two">"D'aquí a %1$s metres"</item>
+        <item quantity="few">"D'aquí a %1$s metres"</item>
+        <item quantity="many">"D'aquí a %1$s metres"</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">"D'aquí a %1$s quilòmetres"</item>
+        <item quantity="one">"D'aquí a %1$s quilòmetre"</item>
+        <item quantity="two">"D'aquí a %1$s quilòmetres"</item>
+        <item quantity="few">"D'aquí a %1$s quilòmetres"</item>
+        <item quantity="many">"D'aquí a %1$s quilòmetres"</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Continueu-hi durant %1$s metres</item>
+        <item quantity="one">Continueu-hi durant %1$s metre</item>
+        <item quantity="two">Continueu-hi durant %1$s metres</item>
+        <item quantity="few">Continueu-hi durant %1$s metres</item>
+        <item quantity="many">Continueu-hi durant %1$s metres</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Continueu-hi durant %1$s quilòmetres</item>
+        <item quantity="one">Continueu-hi durant %1$s quilòmetre</item>
+        <item quantity="two">Continueu-hi durant %1$s quilòmetres</item>
+        <item quantity="few">Continueu-hi durant %1$s quilòmetres</item>
+        <item quantity="many">Continueu-hi durant %1$s quilòmetres</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Continueu per %2$s durant %1$s metres</item>
+        <item quantity="one">Continueu per %2$s durant %1$s metre</item>
+        <item quantity="two">Continueu per %2$s durant %1$s metres</item>
+        <item quantity="few">Continueu per %2$s durant %1$s metres</item>
+        <item quantity="many">Continueu per %2$s durant %1$s metres</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Continueu a %2$s durant %1$s quilòmetres</item>
+        <item quantity="one">Continueu a %2$s durant %1$s quilòmetre</item>
+        <item quantity="two">Continueu a %2$s durant %1$s quilòmetres</item>
+        <item quantity="few">Continueu a %2$s durant %1$s quilòmetres</item>
+        <item quantity="many">Continueu a %2$s durant %1$s quilòmetres</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">"D'aquí a %1$s peus"</item>
+        <item quantity="one">"D'aquí a %1$s peu"</item>
+        <item quantity="two">"D'aquí a %1$s peus"</item>
+        <item quantity="few">"D'aquí a %1$s peus"</item>
+        <item quantity="many">"D'aquí a %1$s peus"</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">"D'aquí a %1$s iardes"</item>
+        <item quantity="one">"D'aquí a %1$s iarda"</item>
+        <item quantity="two">"D'aquí a %1$s iardes"</item>
+        <item quantity="few">"D'aquí a %1$s iardes"</item>
+        <item quantity="many">"D'aquí a %1$s iardes"</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">"D'aquí a %1$s milles"</item>
+        <item quantity="one">"D'aquí a %1$s milla"</item>
+        <item quantity="two">"D'aquí a %1$s milles"</item>
+        <item quantity="few">"D'aquí a %1$s milles"</item>
+        <item quantity="many">"D'aquí a %1$s milles"</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Continueu-hi durant %1$s peus</item>
+        <item quantity="one">Continueu-hi durant %1$s peu</item>
+        <item quantity="two">Continueu-hi durant %1$s peus</item>
+        <item quantity="few">Continueu-hi durant %1$s peus</item>
+        <item quantity="many">Continueu-hi durant %1$s peus</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Continueu-hi durant %1$s iardes</item>
+        <item quantity="one">Continueu-hi durant %1$s iarda</item>
+        <item quantity="two">Continueu-hi durant %1$s iardes</item>
+        <item quantity="few">Continueu-hi durant %1$s iardes</item>
+        <item quantity="many">Continueu-hi durant %1$s iardes</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Continueu-hi durant %1$s milles</item>
+        <item quantity="one">Continueu-hi durant %1$s milla</item>
+        <item quantity="two">Continueu-hi durant %1$s milles</item>
+        <item quantity="few">Continueu-hi durant %1$s milles</item>
+        <item quantity="many">Continueu-hi durant %1$s milles</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Continueu per %2$s durant %1$s peus</item>
+        <item quantity="one">Continueu per %2$s durant %1$s peu</item>
+        <item quantity="two">Continueu per %2$s durant %1$s peus</item>
+        <item quantity="few">Continueu per %2$s durant %1$s peus</item>
+        <item quantity="many">Continueu per %2$s durant %1$s peus</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Continueu per %2$s durant %1$s iardes</item>
+        <item quantity="one">Continueu per %2$s durant %1$s iarda</item>
+        <item quantity="two">Continueu per %2$s durant %1$s iardes</item>
+        <item quantity="few">Continueu per %2$s durant %1$s iardes</item>
+        <item quantity="many">Continueu per %2$s durant %1$s iardes</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Continueu a %2$s durant %1$s milles</item>
+        <item quantity="one">Continueu a %2$s durant %1$s milla</item>
+        <item quantity="two">Continueu a %2$s durant %1$s milles</item>
+        <item quantity="few">Continueu a %2$s durant %1$s milles</item>
+        <item quantity="many">Continueu a %2$s durant %1$s milles</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d estrella</item>
+        <item quantity="zero">%d estrella</item>
+        <item quantity="one">%d estrella</item>
+        <item quantity="two">%d estrella</item>
+        <item quantity="few">%d estrella</item>
+        <item quantity="many">%d estrella</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">La vostra reserva per a %d nits</item>
+        <item quantity="zero">La vostra reserva per a %d nits</item>
+        <item quantity="one">La vostra reserva per a %d nit</item>
+        <item quantity="two">La vostra reserva per a %d nits</item>
+        <item quantity="few">La vostra reserva per a %d nits</item>
+        <item quantity="many">La vostra reserva per a %d nits</item>
+    </plurals>
+</resources>

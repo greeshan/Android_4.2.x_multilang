@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>គ្មាន</item>
+        <item>បន្ទប់តូច</item>
+        <item>បន្ទប់មធ្យម</item>
+        <item>បន្ទប់ធំ</item>
+        <item>សាលមធ្យម</item>
+        <item>សាលធំ</item>
+        <item>ថាសសម្លេងខ្ទ័រ</item>
+    </string-array>
+</resources>

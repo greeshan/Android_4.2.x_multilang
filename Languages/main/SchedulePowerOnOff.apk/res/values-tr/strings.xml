@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Güç açma/kapama planla</string>
+    <string name="schedule_power_on_off_time">Zaman</string>
+    <string name="schedule_power_on_off_repeat">Yinele</string>
+    <string name="schedule_power_on_off_set">Güç açma/kapama planlamayı ayarla</string>
+    <string name="schedule_power_on_set">Planlı açmayı ayarla</string>
+    <string name="schedule_power_off_set">Planlı kapatmayı ayarla</string>
+    <string name="enable_schpwr">Etkinleştir</string>
+    <string name="disable_schpwr">Devre Dışı Bırak</string>
+    <string name="day">1 gün</string>
+    <string name="days">" %s gün"</string>
+    <string name="hour">1 saat</string>
+    <string name="hours">%s saat</string>
+    <string name="minute">1 dakika</string>
+    <string name="minutes">" %s dakika"</string>
+    <string name="every_day">hergün</string>
+    <string name="never">Hiçbir Zaman</string>
+    <string name="done">Bitti</string>
+    <string name="revert">Geri Döndür</string>
+    <string name="schpwr_shutdown_message">Telefonunuz %s saniye içinde kapatılacak</string>
+    <string name="schpwr_shutdown_message_second">Telefonunuz %s saniye içinde kapatılacak</string>
+</resources>

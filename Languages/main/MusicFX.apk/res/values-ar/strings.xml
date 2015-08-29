@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Preset Reverb</string>
+    <string name="eq_preset_normal">عادي</string>
+    <string name="eq_preset_classical">كلاسيكي</string>
+    <string name="eq_preset_dance">رقص</string>
+    <string name="eq_preset_flat">عريض</string>
+    <string name="eq_preset_folk">شعبي</string>
+    <string name="eq_preset_heavymetal">هيفي ميتال</string>
+    <string name="eq_preset_hiphop">هيب هوب</string>
+    <string name="eq_preset_jazz">جاز</string>
+    <string name="eq_preset_pop">بوب</string>
+    <string name="eq_preset_rock">روك</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">التأثيرات غير متاحة.</string>
+    <string name="eq_dialog_title">المعادل</string>
+    <string name="headset_plug">يمكنك توصيل سماعات الرأس للاستماع إلى هذه التأثيرات</string>
+    <string name="bass_boost_strength">تحسين الجهير</string>
+    <string name="virtualizer_strength">تأثير ثلاثي الأبعاد</string>
+    <string name="ci_extreme">معزز FX</string>
+    <string name="user">المستخدم</string>
+    <string name="picker_title">لوحة تحكم التأثيرات الموسيقية</string>
+    <string name="main_toggle_effects_title">تأثيرات الصوت</string>
+    <string name="pr_title">الصدى:</string>
+    <string name="pr_summary">التأثيرات الإضافية لصدى الغرفة</string>
+    <string name="pr_dialog_title">الإعداد المسبق للصدى</string>
+    <string name="setup">الإعداد</string>
+</resources>

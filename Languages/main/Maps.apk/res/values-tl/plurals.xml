@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d (na) Larawan</item>
+        <item quantity="zero">%d (na) Larawan</item>
+        <item quantity="one">%d Larawan</item>
+        <item quantity="two">%d (na) Larawan</item>
+        <item quantity="few">%d (na) Larawan</item>
+        <item quantity="many">%d (na) Larawan</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d (na) star</item>
+        <item quantity="zero">%d (na) star</item>
+        <item quantity="one">%d star</item>
+        <item quantity="two">%d (na) star</item>
+        <item quantity="few">%d (na) star</item>
+        <item quantity="many">%d (na) star</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f (na) star</item>
+        <item quantity="zero">%.1f (na) star</item>
+        <item quantity="one">%.1f star</item>
+        <item quantity="two">%.1f (na) star</item>
+        <item quantity="few">%.1f (na) star</item>
+        <item quantity="many">%.1f (na) star</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Mga Kalapit na Istasyon</item>
+        <item quantity="zero">Mga Kalapit na Istasyon</item>
+        <item quantity="one">Kalapit na Istasyon</item>
+        <item quantity="two">Mga Kalapit na Istasyon</item>
+        <item quantity="few">Mga Kalapit na Istasyon</item>
+        <item quantity="many">Mga Kalapit na Istasyon</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s at %2$d (na) reviewer</item>
+        <item quantity="one">%1$s at %2$d reviewer</item>
+        <item quantity="two">%1$s at %2$d (na) reviewer</item>
+        <item quantity="few">%1$s at %2$d (na) reviewer</item>
+        <item quantity="many">%1$s at %2$d (na) reviewer</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d (na) reviewer</item>
+        <item quantity="one">%d reviewer</item>
+        <item quantity="two">%d (na) reviewer</item>
+        <item quantity="few">%d (na) reviewer</item>
+        <item quantity="many">%d (na) reviewer</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Ang iyong mga larawan ay magiging pampubliko sa oras na ma-review ang mga ito.</item>
+        <item quantity="one">Ang iyong larawan ay magiging pampubliko sa oras na ma-review ito.</item>
+        <item quantity="two">Ang iyong mga larawan ay magiging pampubliko sa oras na ma-review ang mga ito.</item>
+        <item quantity="few">Ang iyong mga larawan ay magiging pampubliko sa oras na ma-review ang mga ito.</item>
+        <item quantity="many">Ang iyong mga larawan ay magiging pampubliko sa oras na ma-review ang mga ito.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d (na) pagtigil</item>
+        <item quantity="zero">%d (na) pagtigil</item>
+        <item quantity="one">%d pagtigil</item>
+        <item quantity="two">%d (na) pagtigil</item>
+        <item quantity="few">%d (na) pagtigil</item>
+        <item quantity="many">%d (na) pagtigil</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">mga review</item>
+        <item quantity="zero">mga review</item>
+        <item quantity="one">review</item>
+        <item quantity="two">mga review</item>
+        <item quantity="few">mga review</item>
+        <item quantity="many">mga review</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s (na) araw</item>
+        <item quantity="zero">%s (na) araw</item>
+        <item quantity="one">%s araw</item>
+        <item quantity="two">%s (na) araw</item>
+        <item quantity="few">%s (na) araw</item>
+        <item quantity="many">%s (na) araw</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d (na) araw</item>
+        <item quantity="zero">%d (na) araw</item>
+        <item quantity="one">%d araw</item>
+        <item quantity="two">%d (na) araw</item>
+        <item quantity="few">%d (na) araw</item>
+        <item quantity="many">%d (na) araw</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s (na) oras</item>
+        <item quantity="zero">%s (na) oras</item>
+        <item quantity="one">%s oras</item>
+        <item quantity="two">%s (na) oras</item>
+        <item quantity="few">%s (na) oras</item>
+        <item quantity="many">%s (na) oras</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d (na) oras</item>
+        <item quantity="zero">%d (na) oras</item>
+        <item quantity="one">%d oras</item>
+        <item quantity="two">%d (na) oras</item>
+        <item quantity="few">%d (na) oras</item>
+        <item quantity="many">%d (na) oras</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s (na) minuto</item>
+        <item quantity="zero">%s (na) minuto</item>
+        <item quantity="one">%s minuto</item>
+        <item quantity="two">%s (na) minuto</item>
+        <item quantity="few">%s (na) minuto</item>
+        <item quantity="many">%s (na) minuto</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d (na) minuto</item>
+        <item quantity="zero">%d (na) minuto</item>
+        <item quantity="one">%d minuto</item>
+        <item quantity="two">%d (na) minuto</item>
+        <item quantity="few">%d (na) minuto</item>
+        <item quantity="many">%d (na) minuto</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">Sa %1$s (na) metro</item>
+        <item quantity="one">Sa %1$s (na) metro</item>
+        <item quantity="two">Sa %1$s (na) metro</item>
+        <item quantity="few">Sa %1$s (na) metro</item>
+        <item quantity="many">Sa %1$s (na) metro</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">Sa %1$s (na) kilometro</item>
+        <item quantity="one">Sa %1$s (na) kilometro</item>
+        <item quantity="two">Sa %1$s (na) kilometro</item>
+        <item quantity="few">Sa %1$s (na) kilometro</item>
+        <item quantity="many">Sa %1$s (na) kilometro</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Magpatuloy nang %1$s (na) metro</item>
+        <item quantity="one">Magpatuloy nang %1$s (na) metro</item>
+        <item quantity="two">Magpatuloy nang %1$s (na) metro</item>
+        <item quantity="few">Magpatuloy nang %1$s (na) metro</item>
+        <item quantity="many">Magpatuloy nang %1$s (na) metro</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Magpatuloy nang %1$s (na) kilometro</item>
+        <item quantity="one">Magpatuloy nang %1$s kilometro</item>
+        <item quantity="two">Magpatuloy nang %1$s (na) kilometro</item>
+        <item quantity="few">Magpatuloy nang %1$s (na) kilometro</item>
+        <item quantity="many">Magpatuloy nang %1$s (na) kilometro</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Magpatuloy sa %2$s nang %1$s (na) metro</item>
+        <item quantity="one">Magpatuloy sa %2$s nang %1$s (na) metro</item>
+        <item quantity="two">Magpatuloy sa %2$s nang %1$s (na) metro</item>
+        <item quantity="few">Magpatuloy sa %2$s nang %1$s (na) metro</item>
+        <item quantity="many">Magpatuloy sa %2$s nang %1$s (na) metro</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Magpatuloy sa %2$s nang %1$s (na) kilometro</item>
+        <item quantity="one">Magpatuloy sa %2$s nang %1$s kilometro</item>
+        <item quantity="two">Magpatuloy sa %2$s nang %1$s (na) kilometro</item>
+        <item quantity="few">Magpatuloy sa %2$s nang %1$s (na) kilometro</item>
+        <item quantity="many">Magpatuloy sa %2$s nang %1$s (na) kilometro</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">Sa %1$s (na) talampakan</item>
+        <item quantity="one">Sa %1$s (na) talampakan</item>
+        <item quantity="two">Sa %1$s (na) talampakan</item>
+        <item quantity="few">Sa %1$s (na) talampakan</item>
+        <item quantity="many">Sa %1$s (na) talampakan</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">Sa %1$s (na) yarda</item>
+        <item quantity="one">Sa %1$s (na) yarda</item>
+        <item quantity="two">Sa %1$s (na) yarda</item>
+        <item quantity="few">Sa %1$s (na) yarda</item>
+        <item quantity="many">Sa %1$s (na) yarda</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">Sa %1$s (na) milya</item>
+        <item quantity="one">Sa %1$s milya</item>
+        <item quantity="two">Sa %1$s (na) milya</item>
+        <item quantity="few">Sa %1$s (na) milya</item>
+        <item quantity="many">Sa %1$s (na) milya</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Magpatuloy nang %1$s (na) talampakan</item>
+        <item quantity="one">Magpatuloy nang %1$s (na) talampakan</item>
+        <item quantity="two">Magpatuloy nang %1$s (na) talampakan</item>
+        <item quantity="few">Magpatuloy nang %1$s (na) talampakan</item>
+        <item quantity="many">Magpatuloy nang %1$s (na) talampakan</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Magpatuloy nang %1$s (na) yarda</item>
+        <item quantity="one">Magpatuloy nang %1$s (na) yarda</item>
+        <item quantity="two">Magpatuloy nang %1$s (na) yarda</item>
+        <item quantity="few">Magpatuloy nang %1$s (na) yarda</item>
+        <item quantity="many">Magpatuloy nang %1$s (na) yarda</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Magpatuloy ng %1$s (na) milya</item>
+        <item quantity="one">Magpatuloy ng %1$s milya</item>
+        <item quantity="two">Magpatuloy ng %1$s (na) milya</item>
+        <item quantity="few">Magpatuloy ng %1$s (na) milya</item>
+        <item quantity="many">Magpatuloy ng %1$s (na) milya</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Magpatuloy sa %2$s nang %1$s (na) talampakan</item>
+        <item quantity="one">Magpatuloy sa %2$s nang %1$s (na) talampakan</item>
+        <item quantity="two">Magpatuloy sa %2$s nang %1$s (na) talampakan</item>
+        <item quantity="few">Magpatuloy sa %2$s nang %1$s (na) talampakan</item>
+        <item quantity="many">Magpatuloy sa %2$s nang %1$s (na) talampakan</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Magpatuloy sa %2$s nang %1$s (na) yarda</item>
+        <item quantity="one">Magpatuloy sa %2$s nang %1$s (na) yarda</item>
+        <item quantity="two">Magpatuloy sa %2$s nang %1$s (na) yarda</item>
+        <item quantity="few">Magpatuloy sa %2$s nang %1$s (na) yarda</item>
+        <item quantity="many">Magpatuloy sa %2$s nang %1$s (na) yarda</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Magpatuloy sa %2$s para sa %1$s (na) milya</item>
+        <item quantity="one">Magpatuloy sa %2$s para sa %1$s milya</item>
+        <item quantity="two">Magpatuloy sa %2$s para sa %1$s (na) milya</item>
+        <item quantity="few">Magpatuloy sa %2$s para sa %1$s (na) milya</item>
+        <item quantity="many">Magpatuloy sa %2$s para sa %1$s (na) milya</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d (na) star</item>
+        <item quantity="zero">%d (na) star</item>
+        <item quantity="one">%d (na) star</item>
+        <item quantity="two">%d (na) star</item>
+        <item quantity="few">%d (na) star</item>
+        <item quantity="many">%d (na) star</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Ang iyong reservation para sa %d (na) gabi</item>
+        <item quantity="zero">Ang iyong reservation para sa %d (na) gabi</item>
+        <item quantity="one">Ang iyong reservation para sa %d (na) gabi</item>
+        <item quantity="two">Ang iyong reservation para sa %d (na) gabi</item>
+        <item quantity="few">Ang iyong reservation para sa %d (na) gabi</item>
+        <item quantity="many">Ang iyong reservation para sa %d (na) gabi</item>
+    </plurals>
+</resources>

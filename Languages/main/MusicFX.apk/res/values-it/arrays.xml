@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Nessuno</item>
+        <item>Stanza piccola</item>
+        <item>Stanza media</item>
+        <item>Stanza grande</item>
+        <item>Sala media</item>
+        <item>Sala grande</item>
+        <item>Riverbero a lastra</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>ရိုက်သည်</item>
+        <item>အမည် (အေ - ဇက်)</item>
+        <item>အရွယ်အစား (အကြီး- အသေး)</item>
+        <item>အချိန် (အသစ်- အဟောင်း)</item>
+    </string-array>
+</resources>

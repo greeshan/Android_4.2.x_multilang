@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Type</item>
+        <item>Naam (A-Z)</item>
+        <item>Grootte (groot - klein)</item>
+        <item>Tijd (nieuw - oud)</item>
+    </string-array>
+</resources>

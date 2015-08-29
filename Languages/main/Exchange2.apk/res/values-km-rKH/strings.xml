@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wipe_all_messages">ទិន្នន័យម៉ាស៊ីនបម្រើបានខូច សារទាំងអស់នឹងត្រូវបានធ្វើឱ្យត្រូវគ្នាឡើងវិញ</string>
+    <string name="exchange_name">Corporate</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="meeting_accepted">បានទទួលៈ %s</string>
+    <string name="meeting_declined">បានច្រានចោលៈ %s</string>
+    <string name="meeting_tentative">សាកមើលៈ %s</string>
+    <string name="meeting_canceled">បានចាកចេញៈ %s</string>
+    <string name="meeting_updated">បានបន្ទាន់សម័យៈ %s</string>
+    <string name="meeting_when">នៅពេលៈ %s</string>
+    <string name="meeting_where">ទីកន្លែងៈ %s</string>
+    <string name="meeting_recurring">នៅពេលៈ %s (កំពុងកើតឡើងវិញ)</string>
+    <string name="meeting_allday">នៅពេលៈ %s (ពេញមួយថ្ងៃ)</string>
+    <string name="meeting_allday_recurring">នៅពេលៈ %s (ពេញមួយថ្ងៃ កំពុងកើតឡើងវិញ)</string>
+    <string name="notification_exchange_calendar_added">ប្រតិថិប្តូរប្រាក់បានបន្ថែម</string>
+    <string name="app_name">សេវាផ្តល់ប្រាក់</string>
+    <string name="exception_cancel">ព្រឹត្តការណ៍នេះត្រូវបានលុបចោលសម្រាប់ៈ %s</string>
+    <string name="exception_updated">សេក្តីលម្អិតនៃព្រឹត្តការណ៍នេះត្រូវបានកែប្រែសម្រាប់ៈ %s</string>
+    <string name="policy_dont_allow_storage_cards">មិននុញ្ញាតឱ្យមានការផ្ទុកកាត</string>
+    <string name="policy_dont_allow_unsigned_apps">មិននុញ្ញាតឱ្យមានកម្មវិធីដែលគ្មានឈ្មោះអ្នកផលិត</string>
+    <string name="policy_dont_allow_unsigned_installers">មិននុញ្ញាតឱ្យមានកម្មវិធីបញ្ជូនដែលគ្មានឈ្មោះអ្នកផលិត</string>
+    <string name="policy_dont_allow_wifi">មិននុញ្ញាតឱ្យមាន វ៉ាយហ្វាយ</string>
+    <string name="policy_dont_allow_text_messaging">មិននុញ្ញាតឱ្យមានការផ្ញើសារជាអក្សរ</string>
+    <string name="policy_dont_allow_pop_imap">មិននុញ្ញាតឱ្យមានគណនី POP3 និង IMAP</string>
+    <string name="policy_dont_allow_irda">មិននុញ្ញាតឱ្យមានការទំនាក់ទំនងតាមអ៊ីនហ្វ្រា</string>
+    <string name="policy_dont_allow_html">មិននុញ្ញាតឱ្យមានអ៊ីមែល HTML</string>
+    <string name="policy_dont_allow_browser">មិននុញ្ញាតឱ្យមានអ្នកបើកកម្មវិធីអ៊ីនធើណេត</string>
+    <string name="policy_dont_allow_consumer_email">មិននុញ្ញាតឱ្យមានអ៊ីមែលរបស់អតិថិជន</string>
+    <string name="policy_dont_allow_internet_sharing">មិននុញ្ញាតឱ្យចែកចាយអ៊ីនធើណេត</string>
+    <string name="policy_require_smime">តម្រូវឱ្យមានសារ SMIME</string>
+    <string name="policy_bluetooth_restricted">ការប្រើប្រាស់ប៊្លូធូស ត្រូវបានកម្រិត</string>
+    <string name="policy_app_blacklist">មិនអនុញ្ញាតឱ្យមានកម្មវិធីជាក់លាក់</string>
+    <string name="policy_app_whitelist">អនុញ្ញាតតែកម្មវិធីជាក់លាក់ប៉ុណ្ណោះ</string>
+    <string name="policy_text_truncation">ទំហំអក្សរអ៊ីមែលមានកម្រិត</string>
+    <string name="policy_html_truncation">ទំហំអ៊ីមែល HTML មានកម្រិត</string>
+    <string name="policy_require_sd_encryption">តម្រូវឱ្យមានការបំលែងកាត SD</string>
+    <string name="policy_dont_allow_attachments">មិននុញ្ញាតឱ្យមានឯកសារភ្ជាប់តាមអ៊ីមែល</string>
+    <string name="policy_max_attachment_size">ទំហំឯកសារភ្ជាប់តាមអ៊ីមែលមានកម្រិត</string>
+    <string name="policy_require_manual_sync_roaming">អនុញ្ញាតឱ្យតែការធ្វើ ឱ្យស្គាល់ដោយដៃពេលផ្លាស់ទីប៉ុណ្ណោះ</string>
+    <string name="policy_require_encryption">តម្រូវការការបំលែងឧបករណ៍</string>
+</resources>

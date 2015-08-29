@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d ခေါ်ဆိုမှု စာရင်းမှတ်တမ်းများ</item>
+        <item quantity="one">ခေါ်ဆိုမှု စာရင်းမှတ်တမ်း ၁</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">ဖုန်းနံပါတ်များဖြင့်အဆက်အသွယ် %d</item>
+        <item quantity="one">ဖုန်းနံပါတ်ဖြင့်အဆက်အသွယ် ၁</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">အဆက်အသွယ်များ %d</item>
+        <item quantity="one">အဆက်အသွယ် ၁</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d ခုတွေ့သည်</item>
+        <item quantity="one">၁ ခုတွေ့သည်</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ခုတွေ့သည်</item>
+        <item quantity="one">၁ ခုတွေ့သည်</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d အရင်းအမြစ်များ မှ ပေါင်းခဲ့သည်</item>
+        <item quantity="one">မပေါင်းခဲ့ပါ</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d အုပ်စုများ</item>
+        <item quantity="one">အုပ်စု ၁ စု</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s မှ လူပုဂ္ဂိုလ် %1$d</item>
+        <item quantity="one">%2$sမှ လူပုဂ္ဂိုလ် %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d လူအများ</item>
+        <item quantity="one">%1$d လူပုဂ္ဂိုလ်</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d အသံမေး(လ်) များ</item>
+        <item quantity="one">အသံမေး(လ်)</item>
+    </plurals>
+</resources>

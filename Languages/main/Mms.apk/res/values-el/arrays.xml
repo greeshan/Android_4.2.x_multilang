@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Είμαι χαρούμενος</item>
+        <item>Είμαι λυπημένος</item>
+        <item>Κλείνω το μάτι</item>
+        <item>Κοροϊδεύω</item>
+        <item>Είμαι έκπληκτος</item>
+        <item>Φιλάω</item>
+        <item>Φωνάζω</item>
+        <item>Cool</item>
+        <item>Κάνω τα λόγια μου πράξη</item>
+        <item>Είπα χαζομάρα</item>
+        <item>Ντρέπομαι</item>
+        <item>Αγγελούδι</item>
+        <item>Δεν έχω αποφασίσει</item>
+        <item>Κλαίω</item>
+        <item>Δεν αποκαλύπτω τίποτα</item>
+        <item>Γελάω</item>
+        <item>Είμαι μπερδεμένος</item>
+        <item>Καρδιά</item>
+        <item>Τρελός</item>
+        <item>Υπεροπτικό χαμόγελο</item>
+        <item>Είμαι ανέκφραστος</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>χωρίς θέμα</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Πού είσαι?</item>
+        <item>Τι κάνεις;</item>
+        <item>Πάρε με, σε παρακαλώ!</item>
+        <item>Λυπάμαι, είμαι σε σύσκεψη.</item>
+        <item>Θα σε πάρω σύντομα.</item>
+        <item>Μην ανησυχείς! Είμαι καλά.</item>
+        <item>Γυρνάω σπίτι.</item>
+        <item>Φτάνω σύντομα.</item>
+        <item>Να έρθεις αλλιώς θα χάσεις!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Λειτουργία περιορισμού</item>
+        <item>Λειτουργία προειδοποίησης</item>
+        <item>Ελεύθερη λειτουργία</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_choices">
+        <item>100K</item>
+        <item>200K</item>
+        <item>300K</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_values">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Υψηλή</item>
+        <item>Κανονική</item>
+        <item>Χαμηλή</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Αλφάβητο GSM</item>
+        <item>Unicode</item>
+        <item>Αυτόματα</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Τηλέφωνο</item>
+        <item>Κάρτα SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Συσκευή</item>
+        <item>Κάρτα SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Παρακολούθηση μεγέθους γραμματοσειράς συστήματος</item>
+        <item>Μικρό</item>
+        <item>Μεσαία</item>
+        <item>Μεγάλο</item>
+        <item>Πολύ μεγάλο μέγεθος</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 δευτερόλεπτο</item>
+        <item>2 δευτερόλεπτα</item>
+        <item>3 δευτερόλεπτα</item>
+        <item>4 δευτερόλεπτα</item>
+        <item>5 δευτερόλεπτα</item>
+        <item>6 δευτερόλεπτα</item>
+        <item>7 δευτερόλεπτα</item>
+        <item>8 δευτερόλεπτα</item>
+        <item>9 δευτερόλεπτα</item>
+        <item>10 δευτερόλεπτα</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο στο αθόρυβο</item>
+        <item>Ποτέ</item>
+    </string-array>
+</resources>

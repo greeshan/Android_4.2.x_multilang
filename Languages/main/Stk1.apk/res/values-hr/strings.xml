@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alatni komplet za SIM</string>
+    <string name="menu_end_session">Završi sesiju</string>
+    <string name="help">Pomoć</string>
+    <string name="menu_back">Natrag</string>
+    <string name="service_name">Naziv usluge</string>
+    <string name="stk_no_service">Nema dostupne usluge</string>
+    <string name="button_ok">U redu</string>
+    <string name="button_cancel">Odustani</string>
+    <string name="button_yes">Da</string>
+    <string name="button_no">Ne</string>
+    <string name="alphabet">Abecede</string>
+    <string name="digits">Znamenke (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Razgovor u tijeku…</string>
+    <string name="stk_app_state">Stanje aplikacije</string>
+    <string name="enable_app">Omogućeno</string>
+    <string name="disable_app">Onemogućeno</string>
+</resources>

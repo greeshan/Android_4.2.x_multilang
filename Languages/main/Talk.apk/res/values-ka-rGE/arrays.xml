@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>დაწვრილება</item>
+        <item>დიდი თვალები</item>
+        <item>დიდი პირი</item>
+        <item>პატარა პირი</item>
+        <item>დიდი ცხვირი</item>
+        <item>პატარა თვალები</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>კოსმოსში</item>
+        <item>მზის ჩასვლა</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>დაბალი</item>
+        <item>საშუალო</item>
+        <item>მაღალი</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>თემის გარეშე</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>მოცინარი თვალებით ღიმილი</item>
+        <item>კბილების კრეჭა</item>
+        <item>კრეჭა, მოცინარი თვალებით</item>
+        <item>სიხარულის ცრემლები</item>
+        <item>ღია პირით მომცინარი</item>
+        <item>მომღიმარი, ღია პირით და მოცინარი თვალებით</item>
+        <item>მომღიმარი, ღია პირით და ცივი ოფლით</item>
+        <item>მომღიმარი, ღია პირით და დახუჭული თვალებით</item>
+        <item>მომღიმარი შარავანდედით</item>
+        <item>მომღიმარი, ეშმაკის რქებით</item>
+        <item>თვალის ჩაკვრა</item>
+        <item>ჩაჩუმება</item>
+        <item>ნეიტრალური</item>
+        <item>ემოციის გარეშე</item>
+        <item>დაბნეული</item>
+        <item>ბრაზიანი</item>
+        <item>სახის მანჭვა</item>
+        <item>გაბუტული</item>
+        <item>ტირილი</item>
+        <item>მძინარა</item>
+        <item>პირდაღებული სახე</item>
+        <item>შეუპოვარი</item>
+        <item>სახე ბოლით</item>
+        <item>იმედგაცრუებული, მაგრამ შვებამოგვრილი</item>
+        <item>წარბშეჭმუხვნინ, პირდაღებული</item>
+        <item>დატანჯული</item>
+        <item>მოშიშარი</item>
+        <item>დაღლილი</item>
+        <item>პირდაღებული და ცივი ოფლით</item>
+        <item>შეშფოთებული სახე</item>
+        <item>შიშისგან წამოკივლება</item>
+        <item>გაოგნებული</item>
+        <item>წამოწითლებული</item>
+        <item>დარეტიანებული</item>
+        <item>უპირო სახე</item>
+        <item>სახე სამედიცინო ნიღბით</item>
+        <item>იმედგაცრუებული</item>
+        <item>უკმაყოფილო</item>
+        <item>გულის ფორმის თვალებით მომღიმარი</item>
+        <item>ენის გამოყოფა</item>
+        <item>ენის გამოყოფა და თვალის ჩაკვრა</item>
+        <item>გამოყოფილი ენა და დახუჭული თვალები</item>
+        <item>გემრიელი კერძების შეკაზმვა</item>
+        <item>კოცნა</item>
+        <item>კოცნა და მომღიმარი თვალები</item>
+        <item>კოცნის გაგზავნა</item>
+        <item>კოცნა, დახუჭული თვალებით</item>
+        <item>მომღიმარი სათვალეებით</item>
+        <item>ხმამაღლა მოტირალი</item>
+        <item>შვებამოგვრილი</item>
+        <item>შემცბარი</item>
+        <item>ჩაფიქრებული</item>
+        <item>მოძინარი</item>
+        <item>თავმომწონე</item>
+        <item>ცივი ოფლი</item>
+        <item>დაქანცული</item>
+        <item>გახარებული, აწეული ხელით</item>
+        <item>მოზეიმე, ხელებაწეული</item>
+        <item>წარბშეჭმუხნული</item>
+        <item>გაბრაზებული, გადაჯვარედინებული მკლავებით</item>
+        <item>სახე თანხმობის გამომეტყველებით</item>
+        <item>მოწიწებით თავის დახრა</item>
+        <item>გაბუტული</item>
+        <item>გადაჯვარედინებული ხელები</item>
+        <item>თანხმობის ნიშანი</item>
+        <item>მაღლა აწეული ცერი</item>
+        <item>დაბლა დაწეული ცერი</item>
+        <item>განავალი</item>
+        <item>ოფლიანი გული</item>
+        <item>თმიანი გული</item>
+        <item>მეწამული გული</item>
+        <item>გატეხილი გული</item>
+        <item>გული ისრით</item>
+        <item>ცივი გული</item>
+        <item>ნიშანი „მაგარია“</item>
+        <item>თავისუფალი ნიშანი</item>
+        <item>თანხმობის ნიშანი</item>
+        <item>SOS ნიშანი</item>
+        <item>თეატრის ნიღბები</item>
+        <item>ცისარტყელა</item>
+        <item>სადღესასწაულო სატკაცუნო</item>
+        <item>მოცეკვავე</item>
+    </string-array>
+</resources>

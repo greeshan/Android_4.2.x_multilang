@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="zero">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+        <item quantity="two">"%d foto's"</item>
+        <item quantity="few">"%d foto's"</item>
+        <item quantity="many">"%d foto's"</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d sterren</item>
+        <item quantity="zero">%d sterren</item>
+        <item quantity="one">%d ster</item>
+        <item quantity="two">%d sterren</item>
+        <item quantity="few">%d sterren</item>
+        <item quantity="many">%d sterren</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f sterren</item>
+        <item quantity="zero">%.1f sterren</item>
+        <item quantity="one">%.1f ster</item>
+        <item quantity="two">%.1f sterren</item>
+        <item quantity="few">%.1f sterren</item>
+        <item quantity="many">%.1f sterren</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Stations in de buurt</item>
+        <item quantity="zero">Stations in de buurt</item>
+        <item quantity="one">Station in de buurt</item>
+        <item quantity="two">Stations in de buurt</item>
+        <item quantity="few">Stations in de buurt</item>
+        <item quantity="many">Stations in de buurt</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s en %2$d recensenten</item>
+        <item quantity="one">%1$s en %2$d recensent</item>
+        <item quantity="two">%1$s en %2$d recensenten</item>
+        <item quantity="few">%1$s en %2$d recensenten</item>
+        <item quantity="many">%1$s en %2$d recensenten</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d recensenten</item>
+        <item quantity="one">%d recensent</item>
+        <item quantity="two">%d recensenten</item>
+        <item quantity="few">%d recensenten</item>
+        <item quantity="many">%d recensenten</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">"Uw foto's worden openbaar gemaakt zodra ze zijn beoordeeld."</item>
+        <item quantity="one">Uw foto wordt openbaar gemaakt zodra deze is beoordeeld.</item>
+        <item quantity="two">"Uw foto's worden openbaar gemaakt zodra ze zijn beoordeeld."</item>
+        <item quantity="few">"Uw foto's worden openbaar gemaakt zodra ze zijn beoordeeld."</item>
+        <item quantity="many">"Uw foto's worden openbaar gemaakt zodra ze zijn beoordeeld."</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d stopplaatsen</item>
+        <item quantity="zero">%d stopplaatsen</item>
+        <item quantity="one">%d stopplaats</item>
+        <item quantity="two">%d stopplaatsen</item>
+        <item quantity="few">%d stopplaatsen</item>
+        <item quantity="many">%d stopplaatsen</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">recensies</item>
+        <item quantity="zero">recensies</item>
+        <item quantity="one">recensie</item>
+        <item quantity="two">recensies</item>
+        <item quantity="few">recensies</item>
+        <item quantity="many">recensies</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s dagen</item>
+        <item quantity="zero">%s dagen</item>
+        <item quantity="one">%s dag</item>
+        <item quantity="two">%s dagen</item>
+        <item quantity="few">%s dagen</item>
+        <item quantity="many">%s dagen</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d dagen</item>
+        <item quantity="zero">%d dagen</item>
+        <item quantity="one">%d dag</item>
+        <item quantity="two">%d dagen</item>
+        <item quantity="few">%d dagen</item>
+        <item quantity="many">%d dagen</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s uur</item>
+        <item quantity="zero">%s uur</item>
+        <item quantity="one">%s uur</item>
+        <item quantity="two">%s uur</item>
+        <item quantity="few">%s uur</item>
+        <item quantity="many">%s uur</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d uur</item>
+        <item quantity="zero">%d uur</item>
+        <item quantity="one">%d uur</item>
+        <item quantity="two">%d uur</item>
+        <item quantity="few">%d uur</item>
+        <item quantity="many">%d uur</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s minuten</item>
+        <item quantity="zero">%s minuten</item>
+        <item quantity="one">%s minuut</item>
+        <item quantity="two">%s minuten</item>
+        <item quantity="few">%s minuten</item>
+        <item quantity="many">%s minuten</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minuten</item>
+        <item quantity="zero">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+        <item quantity="two">%d minuten</item>
+        <item quantity="few">%d minuten</item>
+        <item quantity="many">%d minuten</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">Na %1$s meter</item>
+        <item quantity="one">Na %1$s meter</item>
+        <item quantity="two">Na %1$s meter</item>
+        <item quantity="few">Na %1$s meter</item>
+        <item quantity="many">Na %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">Na %1$s kilometer</item>
+        <item quantity="one">Na %1$s kilometer</item>
+        <item quantity="two">Na %1$s kilometer</item>
+        <item quantity="few">Na %1$s kilometer</item>
+        <item quantity="many">Na %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Rij %1$s meter</item>
+        <item quantity="one">Rij %1$s meter</item>
+        <item quantity="two">Rij %1$s meter</item>
+        <item quantity="few">Rij %1$s meter</item>
+        <item quantity="many">Rij %1$s meter</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Rij %1$s kilometer</item>
+        <item quantity="one">Rij %1$s kilometer</item>
+        <item quantity="two">Rij %1$s kilometer</item>
+        <item quantity="few">Rij %1$s kilometer</item>
+        <item quantity="many">Rij %1$s kilometer</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Rij %1$s meter op %2$s</item>
+        <item quantity="one">Rij %1$s meter op %2$s</item>
+        <item quantity="two">Rij %1$s meter op %2$s</item>
+        <item quantity="few">Rij %1$s meter op %2$s</item>
+        <item quantity="many">Rij %1$s meter op %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Rij %1$s kilometer op %2$s</item>
+        <item quantity="one">Rij %1$s kilometer op %2$s</item>
+        <item quantity="two">Rij %1$s kilometer op %2$s</item>
+        <item quantity="few">Rij %1$s kilometer op %2$s</item>
+        <item quantity="many">Rij %1$s kilometer op %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">Na %1$s voet</item>
+        <item quantity="one">Na %1$s voet</item>
+        <item quantity="two">Na %1$s voet</item>
+        <item quantity="few">Na %1$s voet</item>
+        <item quantity="many">Na %1$s voet</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">Na %1$s yard</item>
+        <item quantity="one">Na %1$s yard</item>
+        <item quantity="two">Na %1$s yard</item>
+        <item quantity="few">Na %1$s yard</item>
+        <item quantity="many">Na %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">Na %1$s mijl</item>
+        <item quantity="one">Na %1$s mijl</item>
+        <item quantity="two">Na %1$s mijl</item>
+        <item quantity="few">Na %1$s mijl</item>
+        <item quantity="many">Na %1$s mijl</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Rij %1$s voet</item>
+        <item quantity="one">Rij %1$s voet</item>
+        <item quantity="two">Rij %1$s voet</item>
+        <item quantity="few">Rij %1$s voet</item>
+        <item quantity="many">Rij %1$s voet</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Rij %1$s yard</item>
+        <item quantity="one">Rij %1$s yard</item>
+        <item quantity="two">Rij %1$s yard</item>
+        <item quantity="few">Rij %1$s yard</item>
+        <item quantity="many">Rij %1$s yard</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Rij %1$s mijl</item>
+        <item quantity="one">Rij %1$s mijl</item>
+        <item quantity="two">Rij %1$s mijl</item>
+        <item quantity="few">Rij %1$s mijl</item>
+        <item quantity="many">Rij %1$s mijl</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Rij %1$s voet op %2$s</item>
+        <item quantity="one">Rij %1$s voet op %2$s</item>
+        <item quantity="two">Rij %1$s voet op %2$s</item>
+        <item quantity="few">Rij %1$s voet op %2$s</item>
+        <item quantity="many">Rij %1$s voet op %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Rij %1$s yard op %2$s</item>
+        <item quantity="one">Rij %1$s yard op %2$s</item>
+        <item quantity="two">Rij %1$s yard op %2$s</item>
+        <item quantity="few">Rij %1$s yard op %2$s</item>
+        <item quantity="many">Rij %1$s yard op %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Rij %1$s mijl op %2$s</item>
+        <item quantity="one">Rij %1$s mijl op %2$s</item>
+        <item quantity="two">Rij %1$s mijl op %2$s</item>
+        <item quantity="few">Rij %1$s mijl op %2$s</item>
+        <item quantity="many">Rij %1$s mijl op %2$s</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d sterren</item>
+        <item quantity="zero">%d sterren</item>
+        <item quantity="one">%d ster</item>
+        <item quantity="two">%d sterren</item>
+        <item quantity="few">%d sterren</item>
+        <item quantity="many">%d sterren</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Uw reservering voor %d nachten</item>
+        <item quantity="zero">Uw reservering voor %d nachten</item>
+        <item quantity="one">Uw reservering voor %d nacht</item>
+        <item quantity="two">Uw reservering voor %d nachten</item>
+        <item quantity="few">Uw reservering voor %d nachten</item>
+        <item quantity="many">Uw reservering voor %d nachten</item>
+    </plurals>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>ໜ້າຍີ່</item>
+        <item>ຕາໃຫຍ່</item>
+        <item>ປາກໃຫຍ່</item>
+        <item>ປາກນ້ອຍ</item>
+        <item>ດັງໃຫຍ່</item>
+        <item>ຕານ້ອຍ</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>ໃນອະວະກາດ</item>
+        <item>ຕາເວັນຕົກ</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>ຕ່ຳ</item>
+        <item>ປານກາງ</item>
+        <item>ສູງ</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>ບໍ່ມີຫົວຂໍ້</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ຍິ້ມຕາຫວານ</item>
+        <item>ຍິ້ມກວ້າງ</item>
+        <item>ຍິ້ມກວ້າງດ້ວຍຕາຫວານ</item>
+        <item>ນ້ຳຕາແຫ່ງຄວາມສຸກ</item>
+        <item>ຍິ້ມແບບອ້າປາກກວ້າງ</item>
+        <item>ຍິ້ມອ້າປາກ ແລະ ເຮັດຕາຫວານ</item>
+        <item>ຍິ້ມອ້າປາກພ້ອມເຫື່ອຍ້ອຍ ແລະ ໜ້າຈືດ</item>
+        <item>ຍິ້ມອ້າປາກ ແລະ ປິດຕາແໜ້ນ</item>
+        <item>ຍິ້ມພ້ອມມີວົງມົນຢູ່ຫົວ</item>
+        <item>ຍິ້ມພ້ອມມີເຂົາອັນຊົ່ວຮ້າຍ</item>
+        <item>ກະພິບຕາ</item>
+        <item>ຈຸປາກ</item>
+        <item>ເສີຍໆ</item>
+        <item>ບໍ່ມີຄວາມຮູ້ສຶກ</item>
+        <item>ສັບສົນ</item>
+        <item>ໃຈຮ້າຍ</item>
+        <item>ໜ້າບ້ຽວ</item>
+        <item>ໜ້າບູດ</item>
+        <item>ຮ້ອງໄຫ້</item>
+        <item>ນອນ</item>
+        <item>ໜ້າອ້າປາກ</item>
+        <item>ສະງົບງຽບ</item>
+        <item>ໜ້າເຫື່ອຍ້ອຍ</item>
+        <item>ຜິດ​ຫວັງ​ແຕ່​ໂລ່ງໃຈ</item>
+        <item>ໜ້າບູດອ້າປາກ</item>
+        <item>ເຈັບປວດ</item>
+        <item>​ຢ້ານ​ກົວ</item>
+        <item>ອ່ອນເພຍ</item>
+        <item>ອ້າປາກໜ້າຈືດ ແລະ ເຫື່ອຍ້ອຍ</item>
+        <item>ໜ້າເປັນກັງວົນ</item>
+        <item>ຮ້ອງດ້ວຍຄວາມຢ້ານ</item>
+        <item>ປະ​ຫຼາດ​ໃຈ</item>
+        <item>ເຂີນ</item>
+        <item>ມຶນ</item>
+        <item>ໜ້າບໍ່ມີປາກ</item>
+        <item>ໜ້າໃສ່ໜ້າກາກແພດ</item>
+        <item>ຜິດ​ຫວັງ</item>
+        <item>ບໍ່ມັກ</item>
+        <item>ຍິ້ມດ້ວຍຕາເປັນຮູບຫົວໃຈ</item>
+        <item>ແຍ່ລີ້ນ</item>
+        <item>ແຍ່ລີ້ນ ແລະ ກະພິບຕາ</item>
+        <item>ແຍ່ລີ້ນ ແລະ ປິດຕາ</item>
+        <item>ມີຄວາມສຸກກັບອາຫານແຊບ</item>
+        <item>ເຮັດໜ້າຈູບ</item>
+        <item>ເຮັດໜ້າຈູບຕາຫວານ</item>
+        <item>ເຮັດໜ້າເປົ່າຈູບ</item>
+        <item>ເຮັດໜ້າຈູບ ແລະ ປິດຕາ</item>
+        <item>ຍິ້ມ ແລະ ໃສ່ແວ່ນຕາ</item>
+        <item>ຮ້ອງໄຫ້ດັງໆ</item>
+        <item>ໂລ່ງໃຈ</item>
+        <item>ໜ້າຮ້າຍ</item>
+        <item>ຄຶດ</item>
+        <item>ເຫງົານອນ</item>
+        <item>ຍິ້ມເຢີ້ຍ</item>
+        <item>ເຫື່ອຍ້ອຍໜ້າຈືດ</item>
+        <item>ເມື່ອຍ</item>
+        <item>ຍົກມືຂຶ້ນຢ່າງດີໃຈ</item>
+        <item>ຍົກສອງມືຂຶ້ນເພື່ອສະຫຼອງ</item>
+        <item>ໜ້າບູດ</item>
+        <item>ໃຈຮ້າຍພ້ອມຂັດເອິກ</item>
+        <item>ເຮັດໜ້າພ້ອມສັນຍາລັກໂອເຄ</item>
+        <item>ກົ້ມຫົວທັກທາຍ</item>
+        <item>ໜ້າບູດ</item>
+        <item>ກຳມື</item>
+        <item>ສັນຍາລັກໂອເຄ</item>
+        <item>ຍົກໂປ້</item>
+        <item>ຊີ້ໂປ້ລົງ</item>
+        <item>ກອງອຸດຈາລະ</item>
+        <item>ຫົວໃຈມີເຫື່ອຍ້ອຍ</item>
+        <item>ຫົວ​ໃຈ​ມີ​ຂົນ</item>
+        <item>ຫົວ​ໃຈ​ສີ​ມ່ວງ</item>
+        <item>ຫົວໃຈແຕກ</item>
+        <item>ຫົວ​ໃຈ​ມີ​ລູກ​ສອນປັກ</item>
+        <item>ຫົວ​ໃຈແຊ່ແຂງ</item>
+        <item>ສັນຍາລັກຄັກຫຼາຍ</item>
+        <item>ສັນຍາລັກຟຣີ</item>
+        <item>ສັນຍາລັກໂອເຄ</item>
+        <item>ສັນຍາລັກ SOS</item>
+        <item>ສະແດງສິນລະປະໜ້າກາກ</item>
+        <item>ຮຸ້ງ</item>
+        <item>ພຸສຳລັບສະຫຼອງ</item>
+        <item>ນັກ​ເຕັ້ນ​ລໍາ</item>
+    </string-array>
+</resources>

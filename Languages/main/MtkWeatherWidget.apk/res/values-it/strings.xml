@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tempo</string>
+    <string name="updating">Aggiornamento</string>
+    <string name="failed_to_locate">Ricerca non riuscita</string>
+    <string name="no_weather">Non ci sono informazioni meteorologiche per %s attualmente.</string>
+    <string name="add_setting">Toccare qui per aggiungere le città</string>
+</resources>

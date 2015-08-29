@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d کال کے لاگ</item>
+        <item quantity="one">1 کال لاگ</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">فون نمبر رکھنے والے %dروابط ظاہر کررہا ہے</item>
+        <item quantity="one">فون نمبر رکھنے والا 1 رابطہ دکھائيں۔</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d روابط ظاہر کررہا ہے</item>
+        <item quantity="one">1 رابطہ ظاہر کررہا ہے</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d روابط ملے</item>
+        <item quantity="one">1 رابطہ ملا</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d روابط</item>
+        <item quantity="one">1 رابطہ</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">ضم کیا گیا %0$d ذرا‏ئع</item>
+        <item quantity="one">ملایا نہیں گیا</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d گروپس</item>
+        <item quantity="one">1 گروپ</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d سے افراد %2$s</item>
+        <item quantity="one">%1$d سے فرد %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d افراد</item>
+        <item quantity="one">%1$d فرد</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d وائس میل</item>
+        <item quantity="one">وائس میل</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d روابط</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$d contacts, %2$d فون کے ساتھ</item>
+    </plurals>
+</resources>

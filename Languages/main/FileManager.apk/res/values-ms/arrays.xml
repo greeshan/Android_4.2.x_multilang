@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Jenis</item>
+        <item>Nama (A - Z)</item>
+        <item>Saiz (besar - kecil)</item>
+        <item>Masa (baru - lama)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d valokuvaa</item>
+        <item quantity="zero">%d valokuvaa</item>
+        <item quantity="one">%d valokuva</item>
+        <item quantity="two">%d valokuvaa</item>
+        <item quantity="few">%d valokuvaa</item>
+        <item quantity="many">%d valokuvaa</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d tähteä</item>
+        <item quantity="zero">%d tähteä</item>
+        <item quantity="one">%d tähti</item>
+        <item quantity="two">%d tähteä</item>
+        <item quantity="few">%d tähteä</item>
+        <item quantity="many">%d tähteä</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f tähteä</item>
+        <item quantity="zero">%.1f tähteä</item>
+        <item quantity="one">%.1f tähti</item>
+        <item quantity="two">%.1f tähteä</item>
+        <item quantity="few">%.1f tähteä</item>
+        <item quantity="many">%.1f tähteä</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Lähellä olevat asemat</item>
+        <item quantity="zero">Lähellä olevat asemat</item>
+        <item quantity="one">Lähellä oleva asema</item>
+        <item quantity="two">Lähellä olevat asemat</item>
+        <item quantity="few">Lähellä olevat asemat</item>
+        <item quantity="many">Lähellä olevat asemat</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s ja %2$d arvostelijaa</item>
+        <item quantity="one">%1$s ja %2$d arvostelija</item>
+        <item quantity="two">%1$s ja %2$d arvostelijaa</item>
+        <item quantity="few">%1$s ja %2$d arvostelijaa</item>
+        <item quantity="many">%1$s ja %2$d arvostelijaa</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d arvostelijaa</item>
+        <item quantity="one">%d arvostelija</item>
+        <item quantity="two">%d arvostelijaa</item>
+        <item quantity="few">%d arvostelijaa</item>
+        <item quantity="many">%d arvostelijaa</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Kuvistasi tulee julkisia tarkistuksen jälkeen.</item>
+        <item quantity="one">Kuvastasi tulee julkinen tarkistuksen jälkeen.</item>
+        <item quantity="two">Kuvistasi tulee julkisia tarkistuksen jälkeen.</item>
+        <item quantity="few">Kuvistasi tulee julkisia tarkistuksen jälkeen.</item>
+        <item quantity="many">Kuvistasi tulee julkisia tarkistuksen jälkeen.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d pysähdystä</item>
+        <item quantity="zero">%d pysähdystä</item>
+        <item quantity="one">%d pysähdys</item>
+        <item quantity="two">%d pysähdystä</item>
+        <item quantity="few">%d pysähdystä</item>
+        <item quantity="many">%d pysähdystä</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">arvostelua</item>
+        <item quantity="zero">arvostelua</item>
+        <item quantity="one">arvostelu</item>
+        <item quantity="two">arvostelua</item>
+        <item quantity="few">arvostelua</item>
+        <item quantity="many">arvostelua</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s päivää</item>
+        <item quantity="zero">%s päivää</item>
+        <item quantity="one">%s päivä</item>
+        <item quantity="two">%s päivää</item>
+        <item quantity="few">%s päivää</item>
+        <item quantity="many">%s päivää</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d päivää</item>
+        <item quantity="zero">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+        <item quantity="two">%d päivää</item>
+        <item quantity="few">%d päivää</item>
+        <item quantity="many">%d päivää</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s tuntia</item>
+        <item quantity="zero">%s tuntia</item>
+        <item quantity="one">%s tunti</item>
+        <item quantity="two">%s tuntia</item>
+        <item quantity="few">%s tuntia</item>
+        <item quantity="many">%s tuntia</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="zero">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+        <item quantity="two">%d tuntia</item>
+        <item quantity="few">%d tuntia</item>
+        <item quantity="many">%d tuntia</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s minuuttia</item>
+        <item quantity="zero">%s minuuttia</item>
+        <item quantity="one">%s minuutti</item>
+        <item quantity="two">%s minuuttia</item>
+        <item quantity="few">%s minuuttia</item>
+        <item quantity="many">%s minuuttia</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="zero">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+        <item quantity="two">%d minuuttia</item>
+        <item quantity="few">%d minuuttia</item>
+        <item quantity="many">%d minuuttia</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">%1$s metrin päästä</item>
+        <item quantity="one">%1$s metrin päästä</item>
+        <item quantity="two">%1$s metrin päästä</item>
+        <item quantity="few">%1$s metrin päästä</item>
+        <item quantity="many">%1$s metrin päästä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">%1$s kilometrin päästä</item>
+        <item quantity="one">%1$s kilometrin päästä</item>
+        <item quantity="two">%1$s kilometrin päästä</item>
+        <item quantity="few">%1$s kilometrin päästä</item>
+        <item quantity="many">%1$s kilometrin päästä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Jatka %1$s metriä</item>
+        <item quantity="one">Jatka %1$s metri</item>
+        <item quantity="two">Jatka %1$s metriä</item>
+        <item quantity="few">Jatka %1$s metriä</item>
+        <item quantity="many">Jatka %1$s metriä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Jatka %1$s kilometriä</item>
+        <item quantity="one">Jatka %1$s kilometri</item>
+        <item quantity="two">Jatka %1$s kilometriä</item>
+        <item quantity="few">Jatka %1$s kilometriä</item>
+        <item quantity="many">Jatka %1$s kilometriä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Jatka tiellä %2$s %1$s metriä</item>
+        <item quantity="one">Jatka tiellä %2$s %1$s metri</item>
+        <item quantity="two">Jatka tiellä %2$s %1$s metriä</item>
+        <item quantity="few">Jatka tiellä %2$s %1$s metriä</item>
+        <item quantity="many">Jatka tiellä %2$s %1$s metriä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Jatka tiellä %2$s %1$s kilometriä</item>
+        <item quantity="one">Jatka tiellä %2$s %1$s kilometri</item>
+        <item quantity="two">Jatka tiellä %2$s %1$s kilometriä</item>
+        <item quantity="few">Jatka tiellä %2$s %1$s kilometriä</item>
+        <item quantity="many">Jatka tiellä %2$s %1$s kilometriä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">%1$s jalan päästä</item>
+        <item quantity="one">%1$s jalan päästä</item>
+        <item quantity="two">%1$s jalan päästä</item>
+        <item quantity="few">%1$s jalan päästä</item>
+        <item quantity="many">%1$s jalan päästä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">%1$s jaardin päästä</item>
+        <item quantity="one">%1$s jaardin päästä</item>
+        <item quantity="two">%1$s jaardin päästä</item>
+        <item quantity="few">%1$s jaardin päästä</item>
+        <item quantity="many">%1$s jaardin päästä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">%1$s mailin päästä</item>
+        <item quantity="one">%1$s mailin päästä</item>
+        <item quantity="two">%1$s mailin päästä</item>
+        <item quantity="few">%1$s mailin päästä</item>
+        <item quantity="many">%1$s mailin päästä</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Jatka %1$s jalkaa</item>
+        <item quantity="one">Jatka %1$s jalka</item>
+        <item quantity="two">Jatka %1$s jalkaa</item>
+        <item quantity="few">Jatka %1$s jalkaa</item>
+        <item quantity="many">Jatka %1$s jalkaa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Jatka %1$s jaardia</item>
+        <item quantity="one">Jatka %1$s jaardi</item>
+        <item quantity="two">Jatka %1$s jaardia</item>
+        <item quantity="few">Jatka %1$s jaardia</item>
+        <item quantity="many">Jatka %1$s jaardia</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Jatka %1$s mailia</item>
+        <item quantity="one">Jatka %1$s maili</item>
+        <item quantity="two">Jatka %1$s mailia</item>
+        <item quantity="few">Jatka %1$s mailia</item>
+        <item quantity="many">Jatka %1$s mailia</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Jatka tiellä %2$s %1$s jalkaa</item>
+        <item quantity="one">Jatka tiellä %2$s %1$s jalka</item>
+        <item quantity="two">Jatka tiellä %2$s %1$s jalkaa</item>
+        <item quantity="few">Jatka tiellä %2$s %1$s jalkaa</item>
+        <item quantity="many">Jatka tiellä %2$s %1$s jalkaa</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Jatka tiellä %2$s %1$s jaardia</item>
+        <item quantity="one">Jatka tiellä %2$s %1$s jaardi</item>
+        <item quantity="two">Jatka tiellä %2$s %1$s jaardia</item>
+        <item quantity="few">Jatka tiellä %2$s %1$s jaardia</item>
+        <item quantity="many">Jatka tiellä %2$s %1$s jaardia</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Jatka tiellä %2$s %1$s mailia</item>
+        <item quantity="one">Jatka tiellä %2$s %1$s maili</item>
+        <item quantity="two">Jatka tiellä %2$s %1$s mailia</item>
+        <item quantity="few">Jatka tiellä %2$s %1$s mailia</item>
+        <item quantity="many">Jatka tiellä %2$s %1$s mailia</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d tähteä</item>
+        <item quantity="zero">%d tähteä</item>
+        <item quantity="one">%d tähti</item>
+        <item quantity="two">%d tähteä</item>
+        <item quantity="few">%d tähteä</item>
+        <item quantity="many">%d tähteä</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Varauksesi %d yöksi</item>
+        <item quantity="zero">Varauksesi %d yöksi</item>
+        <item quantity="one">Varauksesi %d yöksi</item>
+        <item quantity="two">Varauksesi %d yöksi</item>
+        <item quantity="few">Varauksesi %d yöksi</item>
+        <item quantity="many">Varauksesi %d yöksi</item>
+    </plurals>
+</resources>

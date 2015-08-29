@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"앱 전체보기
+ 실행기 아이콘을 누릅니다. @drawable/all_apps"</item>
+        <item>"홈 화면으로 앱 가져오기
+ 가져오려는 앱을 터치하고 진동할 때까지 누릅니다."</item>
+        <item>"홈 화면 변경
+ 항목을 길게 누르고 항목이 진동하면 원하는 곳으로 드래그합니다."</item>
+        <item>"항목 삭제
+ 항목을 길게 누르고 항목이 진동하면 휴지통 아이콘으로 드래그합니다. @drawable/trash"</item>
+        <item>"여러 홈 화면
+ 전환하려면 왼쪽이나 오른쪽으로 스와이프하세요. 다른 화면으로 항목을 드래그해 보세요."</item>
+        <item>"위젯 제거
+ 위젯을 길게 누르고 위젯이 진동하면 휴지통 아이콘으로 드래그합니다."</item>
+    </string-array>
+</resources>

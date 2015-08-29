@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">MTK-Echtzeithintergrundbilder</string>
+    <string name="vlw">Videohintergrundbild</string>
+    <string name="vlw_desc">Video als Echtzeithintergrundbild einrichten.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Entschuldigung, ein Streaming dieses Videos an das Gerät ist nicht zulässig.</string>
+    <string name="VideoScene_error_text_unknown">Entschuldigung, dieses Video kann nicht wiedergegeben werden.</string>
+    <string name="VideoScene_error_media_removed">Mediendatei entfernt</string>
+    <string name="VideoScene_error_sdcard_unmounted">SD-Karte ausgeworfen</string>
+    <string name="VideoScene_info_wait_sdcard">Warte auf Vorbereitung der SD-Karte</string>
+    <string name="VideoScene_error_media_not_found">Mediendatei existiert im Moment nicht</string>
+    <string name="VideoScene_error_be_set">Entschuldigung, das Video kann nicht als Videohintergrundbild festgelegt werden</string>
+    <string name="VideoEditor_error_title">Video kann nicht wiedergegeben werden</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">Kein Video ausgewählt</string>
+    <string name="VideoEditor_warning_limited_duration">Bitte Video mit mindestens 1 Sek. zur Wiedergabe auswählen</string>
+    <string name="VideoScene_reload_after_mount">Video wird von SD-Karte geladen; bitte haben Sie einen Augenblick Geduld.</string>
+    <string name="select_video">SD-Karte</string>
+    <string name="select_default">Standard</string>
+    <string name="select">Video wählen</string>
+    <string name="set_wallpaper">Einstellen</string>
+    <string name="title">Videohintergrundbild</string>
+    <string name="default_title">Standardvideo</string>
+    <string name="capture_video">Kamera</string>
+    <string name="menu_item_add_item">Video von SD-Karte wählen</string>
+    <string name="group_video">Ein einzelnes Video wählen</string>
+    <string name="group_folder">Ordner wählen</string>
+    <string name="folder_info">Videos &lt;br>von&lt;br></string>
+</resources>

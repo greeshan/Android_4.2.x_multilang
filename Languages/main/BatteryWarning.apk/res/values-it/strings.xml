@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Tensione caricatore eccessiva</string>
+    <string name="title_battery_over_temperature">Temperatura batteria eccessiva</string>
+    <string name="title_over_current_protection">Protezione sovracorrente</string>
+    <string name="title_battery_over_voltage">Tensione batteria eccessiva</string>
+    <string name="title_safety_timer_timeout">Tempo di carica eccessivo</string>
+    <string name="msg_charger_over_voltage">Caricatore in sovratensione. Scollegare il caricatore!</string>
+    <string name="msg_battery_over_temperature">Temperatura della batteria eccessiva. Rimuovere la batteria!</string>
+    <string name="msg_over_current_protection">Batteria in protezione da sovracorrente. Rimuovere la batteria!</string>
+    <string name="msg_battery_over_voltage">Tensione della batteria eccessiva. Rimuovere la batteria!</string>
+    <string name="msg_safety_timer_timeout">Tempo di carica troppo lungo. Scollegare il caricatore!</string>
+    <string name="btn_ok_msg">Sospendi</string>
+    <string name="btn_cancel_msg">Elimina</string>
+</resources>

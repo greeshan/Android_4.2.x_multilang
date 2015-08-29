@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">ক্যালেন্ডার স্টোরেজ</string>
+    <string name="upgrade_msg">ক্যালেন্ডার স্টোরেজ আপগ্রেড করা</string>
+    <string name="calendar_default_name">ডিফল্ট</string>
+    <string name="calendar_info">ক্যালেন্ডার তথ্য</string>
+    <string name="calendar_info_error">ভুল</string>
+    <string name="calendar_info_no_calendars">কোনো ক্যালেন্ডার নেই</string>
+    <string name="calendar_info_events">ইভেন্ট: %1$d</string>
+    <string name="calendar_info_events_dirty">ইভেন্ট: %1$d, অসংরক্ষিত %2$d</string>
+    <string name="provider_label">ক্যালেন্ডার</string>
+    <string name="debug_tool_delete_button">এখনই মুছুন</string>
+    <string name="debug_tool_start_button">শুরু করুন</string>
+    <string name="debug_tool_message">আপনি ১) এসডি কার্ড/ইউএসবি স্টোরেজে আপনার ক্যালেন্ডার ডাটাবেইজের একটি কপি তৈরি করতে এবং ২) তা ইমেইলে পাঠাতে যাচ্ছিলেন, যা যেকোন অ্যাপ কতৃর্ক পাঠযোগ্য। আপনি ডিভাইস থেকে সফলভাবে কপি করা মাত্র বা ইমেইল পাওয়া মাত্র কপিটি মুছে ফেলুন।</string>
+    <string name="debug_tool_email_sender_picker">আপনার ফাইল পাঠানোর জন্য একটি প্রোগ্রাম বাছাই করুন</string>
+    <string name="debug_tool_email_subject">ক্যালেন্ডার ডাটাবেইজ সংযুক্ত</string>
+    <string name="debug_tool_email_body">আমার সব অ্যাপয়েন্টমেন্ট ও ব্যক্তিগত তথ্যসহ আমার ক্যালেন্ডার ডাটাবেইজ সংযুক্ত করা হল। এটি সযত্নে ব্যবহার করুন।</string>
+</resources>

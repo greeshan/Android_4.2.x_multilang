@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Praset Reverb</string>
+    <string name="eq_preset_normal">Biasa</string>
+    <string name="eq_preset_classical">Klasikal</string>
+    <string name="eq_preset_dance">Tarian</string>
+    <string name="eq_preset_flat">Mendatar</string>
+    <string name="eq_preset_folk">Muzik Rakyat</string>
+    <string name="eq_preset_heavymetal">Heavy Metal</string>
+    <string name="eq_preset_hiphop">Hip Hop</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Kesan tidak tersedia.</string>
+    <string name="eq_dialog_title">Penyama</string>
+    <string name="headset_plug">Pasangkan fon kepala untuk kesan ini.</string>
+    <string name="bass_boost_strength">Galak bes</string>
+    <string name="virtualizer_strength">Kesan 3D</string>
+    <string name="ci_extreme">Penggalak FX</string>
+    <string name="user">Pengguna</string>
+    <string name="picker_title">Panel kawalan kesan muzik</string>
+    <string name="main_toggle_effects_title">Kesan audio</string>
+    <string name="pr_title">Gema:</string>
+    <string name="pr_summary">Kesan gema bilik tambahan</string>
+    <string name="pr_dialog_title">Pratetap gema</string>
+    <string name="setup">Persediaan</string>
+</resources>

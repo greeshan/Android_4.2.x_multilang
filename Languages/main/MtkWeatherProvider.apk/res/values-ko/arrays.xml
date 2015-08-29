@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>섭씨</item>
+        <item>화씨</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>자동 업데이트 하지 않음</item>
+        <item>1시간마다</item>
+        <item>2시간마다</item>
+        <item>6시간마다</item>
+        <item>12시간마다</item>
+        <item>매일</item>
+    </string-array>
+</resources>

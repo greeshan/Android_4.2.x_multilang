@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foto-skermskutte</string>
+    <string name="table_screensaver_name">Fototabel</string>
+    <string name="flipper_screensaver_name">Fotoraam</string>
+    <string name="posts_album_name">"Foto's uit plasings"</string>
+    <string name="uploads_album_name">Kitsoplaaisels</string>
+    <string name="unknown_album_name">Naamlose album</string>
+    <string name="stock_photo_album_name">"Voorraadfoto's"</string>
+    <string name="local_source_name">"Foto's op die toestel"</string>
+    <string name="need_to_configure">"Geen foto's gekies nie."</string>
+</resources>

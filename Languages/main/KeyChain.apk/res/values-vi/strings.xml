@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chuỗi chính</string>
+    <string name="title_no_certs">Không tìm thấy giấy phép</string>
+    <string name="title_select_cert">Chọn giấy phép</string>
+    <string name="requesting_application">Ứ.dụng %s đã yêu cầu giấy phép. Chọn giấy phép sẽ cho phép bạn dùng mã nhận dạng này với các máy chủ vào lúc này cũng như trong tương lai.</string>
+    <string name="requesting_server">Ứng dụng đã nhận dạng máy chủ yêu cầu như là %s, nhưng bạn chỉ nên cho phép ứng dụng truy cập giấy phép xác thực.</string>
+    <string name="install_new_cert_message">Bạn có thể cài đặt các giấy phép từ file PKCS#12 có đuôi mở rộng %1$s hoặc %2$s nằm trên thiết bị lưu trữ ngoài.</string>
+    <string name="install_new_cert_button_label">Cài đặt</string>
+    <string name="allow_button">Cho phép</string>
+    <string name="deny_button">Từ chối</string>
+</resources>

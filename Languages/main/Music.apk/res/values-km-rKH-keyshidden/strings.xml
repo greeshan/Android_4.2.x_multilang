@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">បើកក្តារចុច ដើម្បីដាក់ឈ្មោះបញ្ជីចំណងជើងចម្រៀងថ្មីរបស់អ្នក ឬជ្រើសយករក្សាទុក ដើម្បីដាក់ឈ្មោះវា \" %s\" ។</string>
+    <string name="rename_playlist_same_prompt">បើកក្តារចុច ដើម្បីដាក់ឈ្មោះបញ្ជីចំណងជើងចម្រៀង \" %s\" ថ្មី ។</string>
+    <string name="rename_playlist_diff_prompt">បើកក្តារចុច ដើម្បីដាក់ឈ្មោះបញ្ជីចំណងជើងចម្រៀង \" %1$s\" ថ្មី ឬជ្រើសយករក្សាទុក ដើម្បីដាក់ឈ្មោះវា \" %2$s\" ។</string>
+</resources>

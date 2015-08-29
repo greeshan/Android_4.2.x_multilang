@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>սեղմել</item>
+        <item>մեծ աչքեր</item>
+        <item>մեծ բերան</item>
+        <item>փոքր բերան</item>
+        <item>մեծ քիթ</item>
+        <item>փոքր աչքեր</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>տարածության մեջ</item>
+        <item>մայրամուտ</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>ցածր</item>
+        <item>միջին</item>
+        <item>բարձր</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>անվերնագիր</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ԾԻԾԱՂԿՈՏ ԱՉՔԵՐՈՎ ԺՊՏԱՑՈՂ</item>
+        <item>ՔՄԾԻԾԱՂ ՏՎՈՂ</item>
+        <item>ԾԻԾԱՂԿՈՏ ԱՉՔԵՐՈՎ ՔՄԾԻԾԱՂ ՏՎՈՂ</item>
+        <item>ՈՒՐԱԽՈՒԹՅԱՆ ԱՐՑՈՒՆՔՆԵՐ</item>
+        <item>ԲԱՑ ԲԵՐԱՆՈՎ ԺՊՏԱՑՈՂ</item>
+        <item>ԲԱՑ ԲԵՐԱՆՈՎ ԵՎ ԾԻԾԱՂԿՈՏ ԱՉՔԵՐՈՎ ԺՊՏԱՑՈՂ</item>
+        <item>ԲԱՑ ԲԵՐԱՆՈՎ ԺՊՏԱՑՈՂ ԵՎ ՍԱՌԸ ՔՐՏԻՆՔ</item>
+        <item>ԲԱՑ ԲԵՐԱՆՈՎ ԵՎ ԱՄՈՒՐ ՓԱԿՎԱԾ ԱՉՔԵՐՈՎ ԺՊՏԱՑՈՂ</item>
+        <item>ԺՊՏԱՑՈՂ ԵՎ ՈՂՋՈՒՆՈՂ</item>
+        <item>ԺՊՏԱՑՈՂ ԵՎ ՍԱՏԱՆԱՅԻ ԿՈՏՈՇՆԵՐՈՎ</item>
+        <item>ԱՉՔՈՎ ԱՆՈՂ</item>
+        <item>ԼՈՒՌ</item>
+        <item>ՉԵԶՈՔ</item>
+        <item>ՀՈՒԶԱԶՈՒՐԿ</item>
+        <item>ՇՓՈԹՎԱԾ</item>
+        <item>ԶԱՅՐԱՑԱԾ</item>
+        <item>ԾԱՄԱԾՌՈՒԹՅՈՒՆՆԵՐ ԱՆՈՂ</item>
+        <item>ԽՌՈՎԱԾ</item>
+        <item>ԼԱՑՈՂ</item>
+        <item>ՔՆԱԾ</item>
+        <item>ԲԱՑ ԲԵՐԱՆՈՎ ԴԵՄՔ</item>
+        <item>ՀԱՄԱՌՈՂ</item>
+        <item>ՓՆՉԱՑՆՈՂ ԴԵՄՔ</item>
+        <item>ՀԻԱՍԹԱՓՎԱԾ, ԲԱՅՑ ԹԵԹԵՎԱՑԱԾ</item>
+        <item>ԲԱՑ ԲԵՐԱՆՈՎ ԽՈԺՈՌՎԱԾ</item>
+        <item>ՏԱՌԱՊԱԾ</item>
+        <item>ՍԱՐՍԱՓԱՀԱՐ</item>
+        <item>ՀՅՈՒԾՎԱԾ</item>
+        <item>ԲԱՑ ԲԵՐԱՆ ԵՎ ՍԱՌԸ ՔՐՏԻՆՔ</item>
+        <item>ՄՏԱՀՈԳՎԱԾ ԴԵՄՔ</item>
+        <item>ՎԱԽԻՑ ՃՉԱՑՈՂ</item>
+        <item>ԱՊՇԱԾ</item>
+        <item>ՇԻԿՆԱԾ</item>
+        <item>ԳԼԽԱՊՏՈՒՅՏ</item>
+        <item>ԱՌԱՆՑ ԲԵՐԱՆԻ ԴԵՄՔ</item>
+        <item>ԲԺՇԿԱԿԱՆ ԴԻՄԱԿՈՎ ԴԵՄՔ</item>
+        <item>ՀԻԱՍԹԱՓՎԱԾ</item>
+        <item>ԱՆՏԱՐԲԵՐ</item>
+        <item>ՍՐՏԱՁԵՎ ԱՉՔԵՐՈՎ ԺՊՏԱՑՈՂ</item>
+        <item>ԴՈՒՐՍ ՀԱՆԱԾ ԼԵԶՈՒ</item>
+        <item>ԴՈՒՐՍ ՀԱՆԱԾ ԼԵԶՎՈՎ ԵՎ ԱՉՔՈՎ ԱՆՈՂ</item>
+        <item>ԴՈՒՐՍ ՀԱՆԱԾ ԼԵԶՈՒ ԵՎ ԱՄՈՒՐ ՓԱԿՎԱԾ ԱՉՔԵՐ</item>
+        <item>ՀԱՄԵՂ ՈՒՏԵԼԻՔ ՀԱՄՏԵՍՈՂ</item>
+        <item>ՀԱՄԲՈՒՐՈՂ ԴԵՄՔ</item>
+        <item>ԾԻԾԱՂԿՈՏ ԱՉՔԵՐՈՎ ՀԱՄԲՈՒՐՈՂ ԴԵՄՔ</item>
+        <item>ՕԴԱՅԻՆ ՀԱՄԲՈՒՅՐ ՈՒՂԱՐԿՈՂ ԴԵՄՔ</item>
+        <item>ՓԱԿ ԱՉՔԵՐՈՎ ՀԱՄԲՈՒՐՈՂ ԴԵՄՔ</item>
+        <item>ԱՐԵՎԱՅԻՆ ԱԿՆՈՑՆԵՐՈՎ ԺՊՏԱՑՈՂ ԴԵՄՔ</item>
+        <item>ԲԱՐՁՐԱՁԱՅՆ ԼԱՑՈՂ</item>
+        <item>ԹԵԹԵՎԱՑԱԾ</item>
+        <item>ՇՓՈԹՎԱԾ</item>
+        <item>ՄՏԱԾԿՈՏ</item>
+        <item>ՔՆԿՈՏ</item>
+        <item>ԲՌՆԱԶԲՈՍԻԿ ԺՊՏԱՑՈՂ</item>
+        <item>ՍԱՌԸ ՔՐՏԻՆՔ</item>
+        <item>ՀՈԳՆԱԾ</item>
+        <item>ԵՐՋԱՆԻԿ, ՄԵԿ ՁԵՌՔԸ ԲԱՐՁՐԱՑՐԱԾ</item>
+        <item>ԵՐԿՈՒ ՁԵՌՔԵՐԸ ԲԱՐՁՐԱՑՐԱԾ ՑՆԾԱՑՈՂ</item>
+        <item>ԽՈԺՈՌՎԱԾ</item>
+        <item>ԲԱՐԿԱՑԱԾ, ԹԵՎԵՐԸ ԽԱՉԱԾ</item>
+        <item>«OK» ԺԵՍՏ ՑՈՒՅՑ ՏՎՈՂ ԴԵՄՔ</item>
+        <item>ԽՈՆԱՐՀՎՈՂ ԱՆՁՆԱՎՈՐՈՒԹՅՈՒՆ</item>
+        <item>ԽՌՈՎԱԾ ԴԵՄՔ</item>
+        <item>ՄԻԱՑՎԱԾ ՁԵՌՔԵՐ</item>
+        <item>«OK» ՆՇԱՆ</item>
+        <item>ՀԱՎԱՆԵԼՈՒ ՆՇԱՆ</item>
+        <item>ՉՀԱՎԱՆԵԼՈՒ ՆՇԱՆ</item>
+        <item>ԿԵՂՏԻ ԿՈՒՅՏ</item>
+        <item>ՔՐՏՆԱԾ ՍԻՐՏ</item>
+        <item>ՄԱԶԱՊԱՏ ՍԻՐՏ</item>
+        <item>ՄԱՆՈՒՇԱԿԱԳՈՒՅՆ ՍԻՐՏ</item>
+        <item>ԿՈՏՐՎԱԾ ՍԻՐՏ</item>
+        <item>ԽՈՑՎԱԾ ՍԻՐՏ</item>
+        <item>ՍԱՌՑԵ ՍԻՐՏ</item>
+        <item>«ԶԻԼ Է» ՆՇԱՆ</item>
+        <item>«ԱԶԱՏ ԵՄ» ՆՇԱՆ</item>
+        <item>«OK» ՆՇԱՆ</item>
+        <item>«SOS» ՆՇԱՆ</item>
+        <item>ԹԱՏԵՐԱԿԱՆ ԴԻՄԱԿՆԵՐ</item>
+        <item>ԾԻԱԾԱՆ</item>
+        <item>ՃԱՅԹՈՒԿ</item>
+        <item>ՊԱՐՈՂ ՄԱՐԴ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Kertas Hias Dinding Sebenar MTK</string>
+    <string name="vlw">Video Kertas Hias Dinding</string>
+    <string name="vlw_desc">Tetapkan video sebagai kertas hias dinding sebenar.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Maaf, video ini tidak sah untuk penstriman ke peranti ini.</string>
+    <string name="VideoScene_error_text_unknown">Maaf, video ini tidak boleh dimainkan.</string>
+    <string name="VideoScene_error_media_removed">Fail media dikeluarkan</string>
+    <string name="VideoScene_error_sdcard_unmounted">Kad SD tidak terpasang</string>
+    <string name="VideoScene_info_wait_sdcard">Menunggu untuk menyediakan kad SD</string>
+    <string name="VideoScene_error_media_not_found">Fail media tidak wujud sekarang</string>
+    <string name="VideoScene_error_be_set">maaf, video itu tidak boleh ditetapkan sebagai kertas dinding video</string>
+    <string name="VideoEditor_error_title">Tidak dapat memainkan video</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">Tiada video dipilih</string>
+    <string name="VideoEditor_warning_limited_duration">kurangnya video 1 saat untuk dimainkan</string>
+    <string name="VideoScene_reload_after_mount">Pemuatan video dari kad SD, sila tunggu sebentar.</string>
+    <string name="select_video">Kad SD</string>
+    <string name="select_default">Lalai</string>
+    <string name="select">Pilih Video</string>
+    <string name="set_wallpaper">Tetapkan</string>
+    <string name="title">Video Kertas Hias Dinding</string>
+    <string name="default_title">Video Lalai</string>
+    <string name="capture_video">kamera</string>
+    <string name="menu_item_add_item">Pilih video daripada kad SD</string>
+    <string name="group_video">Pilih video tunggal</string>
+    <string name="group_folder">Pilih folder</string>
+    <string name="folder_info">video &lt;br>daripada&lt;br></string>
+</resources>

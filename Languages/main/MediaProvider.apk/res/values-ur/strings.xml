@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">میڈیا</string>
+    <string name="app_label">میڈیا اسٹوریج</string>
+    <string name="upgrade_msg">میڈیا کے ڈیٹابیس کو اپ گریڈ کررہا ہے</string>
+    <string name="artist_label">آرٹسٹ</string>
+</resources>

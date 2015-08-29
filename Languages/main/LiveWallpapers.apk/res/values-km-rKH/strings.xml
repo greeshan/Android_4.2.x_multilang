@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">ផ្ទាំងរូបភាពមានចលនារបស់អេនទ្រយ</string>
+    <string name="wallpaper_walkaround">មើលឆ្លុះ</string>
+    <string name="wallpaper_walkaround_author">ហ្គូហ្គល</string>
+    <string name="wallpaper_walkaround_desc">មើលឆ្លុះទូរស័ព្ទលោកអ្នក និងដើរជុំវិញដោយគ្មានឧបទ្ទវហេតុប្រថុយប្រថាន ។</string>
+    <string name="wallpaper_grass">ស្មៅ</string>
+    <string name="wallpaper_grass_author">ហ្គូហ្គល</string>
+    <string name="wallpaper_grass_desc">មុខស្មៅបក់ថ្នមៗនៅពីមុខមេឃពេលថ្ងៃ ឬពេលយប់ ។</string>
+    <string name="wallpaper_galaxy">កញ្ចុំផ្កាយ</string>
+    <string name="wallpaper_galaxy_author">ហ្គូហ្គល</string>
+    <string name="wallpaper_galaxy_desc">កញ្ចុំផ្កាយបង្កើតបានជាដួងផ្តាយវិលយឺតៗ ។</string>
+    <string name="wallpaper_fall">ទឹក</string>
+    <string name="wallpaper_fall_author">ហ្គូហ្គល</string>
+    <string name="wallpaper_fall_desc">ស្លឹកឈើរដូវស្លឹកឈើជ្រុះរបេះធ្លាក់</string>
+    <string name="wallpaper_clock">នាឡិកាបោល</string>
+    <string name="wallpaper_clock_author">ហ្គូហ្គល</string>
+    <string name="wallpaper_clock_desc">បង្ហាញកាលបរិច្ឆេទ និងពេលវេលាតាមទ្រនិចនាឡិការជារង្វង់ៈ ខែ ថ្ងៃ ម៉ោង នាទី និងវិនាទី ។</string>
+    <string name="wallpaper_nexus">និចសឹស</string>
+    <string name="wallpaper_nexus_author">ហ្គូហ្គល</string>
+    <string name="wallpaper_nexus_desc">មើលខាងក្នុងបណ្តាញអព្យាក្រិតមួយភ្លែត ។</string>
+    <string name="clock_settings">ការកំណត់នាឡិកាបោល</string>
+    <string name="show_seconds">បង្ហាញវិនាទី</string>
+    <string name="variable_line_width">ធ្វើឱ្យក្រវិលទទឹងខុសគ្នា</string>
+    <string name="palette">ក្តារពណ៌</string>
+    <string name="palette_gray">ដែក</string>
+    <string name="palette_violet">ពាក់កណ្តាលយប់</string>
+    <string name="palette_matrix">អេក្រង់ពណ៌បៃតង</string>
+    <string name="palette_white_c">ខ្លាឃ្មុំតំបន់ប៉ូល (សកម្ម)</string>
+    <string name="palette_black_c">ប្រហោងខ្មៅ (សកម្ម)</string>
+    <string name="palette_halloween">នំល្ពៅ</string>
+    <string name="palette_zenburn">សាឡាតផ្លែឈើបរទេស</string>
+    <string name="palette_oceanic">លេស្ស៊ពណ៌ខៀវ</string>
+</resources>

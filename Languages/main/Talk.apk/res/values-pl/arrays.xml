@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>ściśnięcie</item>
+        <item>wielkie oczy</item>
+        <item>wielkie usta</item>
+        <item>małe usta</item>
+        <item>wielki nos</item>
+        <item>małe oczy</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>w kosmosie</item>
+        <item>zachód słońca</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>słaba</item>
+        <item>średnia</item>
+        <item>mocna</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>brak tematu</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ROZEŚMIANE USTA I OCZY</item>
+        <item>WYSZCZERZONY UŚMIECH</item>
+        <item>WYSZCZERZONY UŚMIECH I ROZEŚMIANE OCZY</item>
+        <item>ŁZY RADOŚCI</item>
+        <item>ŚMIECH Z OTWARTYMI USTAMI</item>
+        <item>ŚMIECH Z OTWARTYMI USTAMI I ROZEŚMIANE OCZY</item>
+        <item>ŚMIECH, OTWARTE USTA I ZIMNY POT</item>
+        <item>ŚMIECH Z OTWARTYMI USTAMI I ZACIŚNIĘTE POWIEKI</item>
+        <item>UŚMIECH I AUREOLA</item>
+        <item>UŚMIECH I DIABELSKIE ROGI</item>
+        <item>MRUGNIĘCIE OKIEM</item>
+        <item>ONIEMIAŁY</item>
+        <item>NEUTRALNY</item>
+        <item>BEZ WYRAZU</item>
+        <item>ZAKŁOPOTANIE</item>
+        <item>ZŁOŚĆ</item>
+        <item>GRYMAS</item>
+        <item>NADĄSANIE</item>
+        <item>PŁACZ</item>
+        <item>SEN</item>
+        <item>OTWARTE USTA</item>
+        <item>UPÓR</item>
+        <item>TWARZ DMUCHAJĄCA PARĄ</item>
+        <item>ROZCZAROWANIE POŁĄCZONE Z ULGĄ</item>
+        <item>ZNIECHĘCENIE I OTWARTE USTA</item>
+        <item>UDRĘKA</item>
+        <item>STRACH</item>
+        <item>ZMĘCZENIE</item>
+        <item>OTWARTE USTA I ZIMNY POT</item>
+        <item>ZMARTWIONA TWARZ</item>
+        <item>KRZYK PRZERAŻENIA</item>
+        <item>ZDUMIENIE</item>
+        <item>WYPIEKI</item>
+        <item>SKOŁOWANIE</item>
+        <item>TWARZ BEZ UST</item>
+        <item>TWARZ W MASCE MEDYCZNEJ</item>
+        <item>ROZCZAROWANIE</item>
+        <item>ZNIECHĘCENIE</item>
+        <item>UŚMIECHNIĘTA TWARZ Z OCZAMI W KSZTAŁCIE SERC</item>
+        <item>WYSTAWIONY JĘZYK</item>
+        <item>WYSTAWIONY JĘZYK I MRUGNIĘCIE OKIEM</item>
+        <item>WYSTAWIONY JĘZYK I ZACIŚNIĘTE POWIEKI</item>
+        <item>SMACZNE JEDZONKO</item>
+        <item>CAŁUS</item>
+        <item>CAŁUS I ROZEŚMIANE OCZY</item>
+        <item>TWARZ ŚLĄCA CAŁUSA</item>
+        <item>CAŁUS I ZAMKNIĘTE OCZY</item>
+        <item>UŚMIECH I OKULARY SŁONECZNE</item>
+        <item>GŁOŚNY PŁACZ</item>
+        <item>ULGA</item>
+        <item>ZAKŁOPOTANIE</item>
+        <item>ZAMYŚLENIE</item>
+        <item>SENNOŚĆ</item>
+        <item>UŚMIESZEK POD NOSEM</item>
+        <item>ZIMNY POT</item>
+        <item>ZMĘCZENIE</item>
+        <item>ZADOWOLENIE, UNIESIONA RĘKA</item>
+        <item>OBIE RĘCE UNIESIONE W GEŚCIE ZWYCIĘSTWA</item>
+        <item>NADĄSANIE</item>
+        <item>ZŁOŚĆ I SKRZYŻOWANE RĘCE</item>
+        <item>TWARZ I GEST OK</item>
+        <item>GŁĘBOKI UKŁON</item>
+        <item>NABURMUSZENIE</item>
+        <item>ZŁOŻONE DŁONIE</item>
+        <item>ZNAK OK</item>
+        <item>KCIUK W GÓRĘ</item>
+        <item>KCIUK W DÓŁ</item>
+        <item>KUPA</item>
+        <item>SERCE ZLANE POTEM</item>
+        <item>WŁOCHATE SERCE</item>
+        <item>PURPUROWE SERCE</item>
+        <item>ZŁAMANE SERCE</item>
+        <item>SERCE PRZESZYTE STRZAŁĄ</item>
+        <item>SERCE Z LODU</item>
+        <item>LUZ</item>
+        <item>DARMOWY</item>
+        <item>ZNAK OK</item>
+        <item>ZNAK SOS</item>
+        <item>MASKI TEATRALNE</item>
+        <item>TĘCZA</item>
+        <item>KONFETTI</item>
+        <item>TANCERZ</item>
+    </string-array>
+</resources>

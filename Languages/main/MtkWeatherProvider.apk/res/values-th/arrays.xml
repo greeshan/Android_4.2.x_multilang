@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>เซสเซียส</item>
+        <item>ฟาเรนไฮต์</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>ไม่อัพเดตอัตโนมัติ</item>
+        <item>ทุก 1 ชั่วโมง</item>
+        <item>ทุก 2 ชั่วโมง</item>
+        <item>ทุก 6 ชั่วโมง</item>
+        <item>ทุก 12 ชั่วโมง</item>
+        <item>ทุก 1 วัน</item>
+    </string-array>
+</resources>

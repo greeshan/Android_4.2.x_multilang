@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">မသိသော</string>
+    <string name="sharedUserLabel">အန်းဒရိုက် ကိုး(လ်) လုပ်ငန်းသုံးပရိုဂရမ်များ</string>
+    <string name="app_label">အဆက်အသွယ်များ သိုလှောင်ခြင်း</string>
+    <string name="provider_label">အဆက်အသွယ်များ</string>
+    <string name="upgrade_msg">အဆက်အသွယ်များ ဒေတာဘေ့(စ်)ကို အသစ်ပြင်ဆင်မှု လုပ်နေသည်။</string>
+    <string name="upgrade_out_of_memory_notification_ticker">အဆက်အသွယ်များ ကို အသစ်ပြင်ဆင်မှု လုပ်ခြင်းသည် မမ်မိုရီ ပိုလိုသည်။</string>
+    <string name="upgrade_out_of_memory_notification_title">အဆက်အသွယ်များအတွက် သိုလှောင်ခြင်းကို အသစ် ပြင်ဆင်မှု လုပ်နေသည်</string>
+    <string name="upgrade_out_of_memory_notification_text">အသစ်ပြင်ဆင်မှု လုပ်ခြင်းကို ပြီးရန် ထိပါ။</string>
+    <string name="default_directory">အဆက်အသွယ်များ</string>
+    <string name="local_invisible_directory">အခြား</string>
+    <string name="read_write_all_voicemail_label">အသံမေး(လ်)များ အားလုံးကို ဆက်သွယ်ရယူခြင်း</string>
+    <string name="read_write_all_voicemail_description">ဤစက်မှ ဆက်သွယ်ရ ယူနိုင်သော အသံမေး(လ်) များအားလုံးကို သိမ်းပြီး ပြန်လည်ရယူရန် လုပ်ငန်းသုံး ပရိုဂရမ်ကို ခွင့်ပြုသည်။</string>
+    <string name="voicemail_from_column">"မှ အသံမေး(လ်) "</string>
+</resources>

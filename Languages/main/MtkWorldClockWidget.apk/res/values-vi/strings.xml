@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="month_day_no_year">d MMM</string>
+    <string name="app_name">Đ.hồ thế giới</string>
+    <string name="current_time_text">Hiện hành</string>
+    <string name="another_city_text">Thêm</string>
+    <string name="ime_action_done">Hoàn tất</string>
+    <string name="a_city_selected">Đã chọn t.phố.</string>
+    <string name="search_city">Tìm t.phố</string>
+    <string name="next">Kế tiếp</string>
+    <string name="select_right_city">Rất tiếc, không có TP như vậy.</string>
+    <string name="clock_loading">กำลังโหลด…</string>
+    <string name="add_city">Nhấn b.tượng để thêm TP mới</string>
+    <string name="add_new_city">Thêm TP mới</string>
+    <string name="delete_city">Xóa t.phố</string>
+    <string name="delete_city_info">Thành phố sẽ bị xóa</string>
+    <string name="has_chosen">đã được chọn.</string>
+    <string name="deleteok">Xóa</string>
+    <string name="cancel">Từ chối</string>
+</resources>

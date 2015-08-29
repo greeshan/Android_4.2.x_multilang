@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_op02_text_encoding_choices">
+        <item>خودکار ڈٹیکٹر</item>
+        <item>لاطینی-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>یونیکوڈ (UTF-16)</item>
+        <item>چینی (GB2312)</item>
+        <item>چینی (GBK)</item>
+        <item>چینی (Big5)</item>
+        <item>جاپانی (ISO-2022-JP)</item>
+        <item>جاپانی (SHIFT_JIS)</item>
+        <item>جاپانی (EUC-JP)</item>
+        <item>کوریائی (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_font_family_choices">
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>واحد خالی جگہ</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>موجودہ صفحہ</item>
+        <item>خالی صفحہ</item>
+        <item>طے شدہ صفحہ</item>
+        <item>سب سے زیادہ دیکھی جانے والی سائٹیں</item>
+        <item>سائٹ کے اندر سے راستہ تلاش کرنا</item>
+        <item>دیگر</item>
+    </string-array>
+    <string-array name="predefined_websites_default_optr">
+        <item>Hao123</item>
+        <item>http://www.hao123.com/</item>
+        <item>site_navigation_default_default1</item>
+        <item>Google</item>
+        <item>http://www.google.cn/</item>
+        <item>site_navigation_default_default2</item>
+        <item>Baidu</item>
+        <item>http://www.baidu.com/</item>
+        <item>site_navigation_default_default3</item>
+        <item>Sina</item>
+        <item>http://www.sina.com.cn/</item>
+        <item>site_navigation_default_default4</item>
+        <item>Sohu</item>
+        <item>http://www.sohu.com/</item>
+        <item>site_navigation_default_default5</item>
+        <item>Yahoo</item>
+        <item>http://www.yahoo.com/</item>
+        <item>site_navigation_default_default6</item>
+    </string-array>
+    <string-array name="predefined_websites_op01">
+        <item>about:blank</item>
+        <item>about:blank1</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank2</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank3</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank4</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank5</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank6</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank7</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank8</item>
+        <item>sitenavigation_thumbnail_default</item>
+        <item>about:blank</item>
+        <item>about:blank9</item>
+        <item>sitenavigation_thumbnail_default</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>کبھی نہيں</item>
+        <item>صرف Wi-Fiپر</item>
+        <item>ہمیشہ</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>ہر وقت آن</item>
+        <item>جب ضرورت ہو</item>
+        <item>بند کریں</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>موجودہ صفحہ</item>
+        <item>خالی صفحہ</item>
+        <item>طے شدہ صفحہ</item>
+        <item>سب سے زیادہ دیکھی جانے والی سائٹیں</item>
+        <item>دیگر</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>چھوٹا</item>
+        <item>چھوٹا</item>
+        <item>عام</item>
+        <item>بڑا</item>
+        <item>بہت بڑا</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>دور</item>
+        <item>درمیانہ</item>
+        <item>نزدیک</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Auto detector</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>چینی (GBK)</item>
+        <item>چینی (Big5)</item>
+        <item>جاپانی (ISO-2022-JP)</item>
+        <item>جاپانی (SHIFT_JIS)</item>
+        <item>جاپانی (EUC-JP)</item>
+        <item>کوریائی (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>کبھی نہیں</item>
+        <item>صرف Wi-Fi پر</item>
+        <item>ہمیشہ</item>
+    </string-array>
+</resources>

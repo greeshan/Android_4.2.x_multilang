@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">تنظيم های پيش فرض طنين انداز</string>
+    <string name="eq_preset_normal">معمولی</string>
+    <string name="eq_preset_classical">کلاسيک</string>
+    <string name="eq_preset_dance">رقص</string>
+    <string name="eq_preset_flat">فلت</string>
+    <string name="eq_preset_folk">فولک</string>
+    <string name="eq_preset_heavymetal">هوی متال</string>
+    <string name="eq_preset_hiphop">هيپ هاپ</string>
+    <string name="eq_preset_jazz">جاز</string>
+    <string name="eq_preset_pop">پاپ</string>
+    <string name="eq_preset_rock">راک</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">جلوه‌ها در دسترس نیستند.</string>
+    <string name="eq_dialog_title">اکولایزر</string>
+    <string name="headset_plug">برای این جلوه‌ها هدفون را وصل کنید.</string>
+    <string name="bass_boost_strength">تقویت باس</string>
+    <string name="virtualizer_strength">جلوه 3بعدی</string>
+    <string name="ci_extreme">تقویت‌کننده FX</string>
+    <string name="user">کاربر</string>
+    <string name="picker_title">مرکز کنترل جلوه‌های موسیقی</string>
+    <string name="main_toggle_effects_title">جلوه‌های صوتی</string>
+    <string name="pr_title">طنین:</string>
+    <string name="pr_summary">جلوه‌های طنین اضافی اتاق</string>
+    <string name="pr_dialog_title">پیش‌تنظیم طنین</string>
+    <string name="setup">تنظیم</string>
+</resources>

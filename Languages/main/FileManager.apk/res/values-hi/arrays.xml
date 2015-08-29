@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>प्रकार</item>
+        <item>नाम (A - Z)</item>
+        <item>आकार (बड़ा - छोटा)</item>
+        <item>समय (नया - पुराना)</item>
+    </string-array>
+</resources>

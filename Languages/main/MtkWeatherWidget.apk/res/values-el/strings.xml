@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Καιρός</string>
+    <string name="updating">Γίνεται ενημέρωση</string>
+    <string name="failed_to_locate">Αποτυχία εντοπισμού</string>
+    <string name="no_weather">Δεν υπάρχει καιρός για την περιοχή %s αυτήν τη στιγμή.</string>
+    <string name="add_setting">Πιέστε εδώ για την προσθήκη πόλεων</string>
+</resources>

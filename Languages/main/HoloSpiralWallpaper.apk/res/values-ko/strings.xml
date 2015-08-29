@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_label">홀로 스파이럴</string>
+    <string name="wallpaper_author">구글</string>
+    <string name="wallpaper_description">홀로 테마의 나선 배경화면</string>
+</resources>

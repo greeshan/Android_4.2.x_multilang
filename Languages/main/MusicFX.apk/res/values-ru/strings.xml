@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Предустановка реверберации</string>
+    <string name="eq_preset_normal">Обычное</string>
+    <string name="eq_preset_classical">Классика</string>
+    <string name="eq_preset_dance">Танцевальная</string>
+    <string name="eq_preset_flat">Плоская</string>
+    <string name="eq_preset_folk">Фольклорная</string>
+    <string name="eq_preset_heavymetal">Хеви-метал</string>
+    <string name="eq_preset_hiphop">Хип-хоп</string>
+    <string name="eq_preset_jazz">Джаз</string>
+    <string name="eq_preset_pop">Поп</string>
+    <string name="eq_preset_rock">Рок</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Эффекты недоступны.</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
+    <string name="bass_boost_strength">Усиление нижних частот</string>
+    <string name="virtualizer_strength">Эффект 3D</string>
+    <string name="ci_extreme">Усилитель FX</string>
+    <string name="user">Пользователь</string>
+    <string name="picker_title">Управление звуковыми эффектами</string>
+    <string name="main_toggle_effects_title">Аудиоэффекты</string>
+    <string name="pr_title">Реверберация:</string>
+    <string name="pr_summary">Дополнительные эффекты реверберации в помещении</string>
+    <string name="pr_dialog_title">Шаблон ревербератора</string>
+    <string name="setup">Настройка</string>
+</resources>

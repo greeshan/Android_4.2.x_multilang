@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Itaka ang power on/off</string>
+    <string name="schedule_power_on_off_time">Oras</string>
+    <string name="schedule_power_on_off_repeat">Ulitin</string>
+    <string name="schedule_power_on_off_set">Itaka ang iskedyul ng power on/off</string>
+    <string name="schedule_power_on_set">I-set ang iskedyul ng pag-on ng power</string>
+    <string name="schedule_power_off_set">Itakda ang pag-off ng power</string>
+    <string name="enable_schpwr">Paganahin</string>
+    <string name="disable_schpwr">Huwag paganahin</string>
+    <string name="day">1 araw</string>
+    <string name="days">" %s araw"</string>
+    <string name="hour">1 oras</string>
+    <string name="hours">%s oras</string>
+    <string name="minute">1 minuto</string>
+    <string name="minutes">" %s minuto"</string>
+    <string name="every_day">araw-araw</string>
+    <string name="never">Hindi kailanman</string>
+    <string name="done">Tapos na</string>
+    <string name="revert">Ibalik</string>
+    <string name="schpwr_shutdown_message">Magsa-shut down ang aparato mo sa %s segundo</string>
+    <string name="schpwr_shutdown_message_second">Magsa-shut down ang aparato mo sa %s segundo</string>
+</resources>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="zero">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">Has seleccionat %d fotos.</item>
+        <item quantity="one">Has seleccionat %d fotos.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">"Vols suprimir totes les còpies d'aquestes fotos?"</item>
+        <item quantity="one">"Vols suprimir totes les còpies d'aquesta foto?"</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">"Estàs segur que vols suprimir aquestes fotos de l'àlbum de Google+? Tingues en compte que aquesta acció no es pot desfer."</item>
+        <item quantity="one">"Estàs segur que vols suprimir aquesta foto de l'àlbum de Google+? Tingues en compte que aquesta acció no es pot desfer."</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">"Estàs segur que vols suprimir aquestes fotos del telèfon i de l'àlbum de Google+? Tingues en compte que aquesta acció no es pot desfer."</item>
+        <item quantity="one">"Estàs segur que vols suprimir aquesta foto del telèfon i de l'àlbum de Google+? Tingues en compte que aquesta acció no es pot desfer."</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">"S'estan suprimint fotos..."</item>
+        <item quantity="one">"S'està suprimint la foto…"</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d comentaris</item>
+        <item quantity="one">%d comentari</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Suprimeix les fotos</item>
+        <item quantity="one">Suprimeix la foto</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; %2$d membres</item>
+        <item quantity="one">%1$s; %2$d membre</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Notificacions de Google+</item>
+        <item quantity="one">Notificació de Google+</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">"T'ha convidat a una conversa amb %d persones més"</item>
+        <item quantity="one">"T'ha convidat a una conversa amb 1 altra persona"</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d fitxers adjunts</item>
+        <item quantity="one">%d fitxer adjunt</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">Seleccionats: %d</item>
+        <item quantity="one">Seleccionats: %d</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d cercles, %2$s</item>
+        <item quantity="one">%1$d cercle, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Suprimeix cercles</item>
+        <item quantity="one">Suprimeix el cercle</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Vols suprimir aquests cercles de manera permanent?</item>
+        <item quantity="one">Vols suprimir aquest cercle de manera permanent?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">"S'estan suprimint cercles..."</item>
+        <item quantity="one">"S'està suprimint el cercle..."</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d persones</item>
+        <item quantity="one">%d contacte</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Suprimeix les persones</item>
+        <item quantity="one">Suprimeix el contacte</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">"Vols eliminar aquestes persones d'aquest cercle?"</item>
+        <item quantity="one">"Vols eliminar aquesta persona d'aquest cercle?"</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">"S'estan afegint persones..."</item>
+        <item quantity="one">"S'està afegint una persona..."</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">"S'estan eliminant persones..."</item>
+        <item quantity="one">"S'està eliminant la persona..."</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">"S'estan ometent persones..."</item>
+        <item quantity="one">"S'està ometent la persona..."</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d més</item>
+        <item quantity="one">%d més</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">fa %d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Videotrucada de %2$s amb %3$s i %1$d persones més</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d invitacions</item>
+        <item quantity="one">%d invitació</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d missatges a %2$d converses</item>
+        <item quantity="one">%d missatges en una conversa</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">"T'ha convidat a una conversa amb %1$d persones més"</item>
+        <item quantity="one">"T'ha convidat a una conversa amb 1 altra persona"</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s i %1$d persones més volen participar en una conversa</item>
+        <item quantity="one">%2$s i %1$d persona més volen participar en una conversa</item>
+        <item quantity="few">%2$s i %1$d persones més volen participar en una conversa</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d persones més volen participar en una conversa</item>
+        <item quantity="one">%1$d persona més vol participar en una conversa</item>
+        <item quantity="few">%1$d persones més volen participar en una conversa</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d invitacions</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">%d elements adjunts</item>
+        <item quantity="zero">%d elements adjunts</item>
+        <item quantity="one">%d element adjunt</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d elements reenviats</item>
+        <item quantity="zero">%d elements reenviats</item>
+        <item quantity="one">%d element reenviat</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d setmanes</item>
+        <item quantity="one">una setmana</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d mesos</item>
+        <item quantity="one">un mes</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d anys</item>
+        <item quantity="one">un any</item>
+    </plurals>
+</resources>

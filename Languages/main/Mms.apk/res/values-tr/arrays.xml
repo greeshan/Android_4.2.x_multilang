@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Mutlu</item>
+        <item>Üzgün</item>
+        <item>Göz Kırpma</item>
+        <item>Dil çıkarmış</item>
+        <item>Şaşırmış</item>
+        <item>Öpücük</item>
+        <item>Bağırma</item>
+        <item>Sakin</item>
+        <item>Para ağızlı</item>
+        <item>Ayak ağızda</item>
+        <item>Mahçup</item>
+        <item>Melek</item>
+        <item>Kararsız</item>
+        <item>Ağlama</item>
+        <item>Dudakları mühürlü</item>
+        <item>Gülme</item>
+        <item>Sersemlemiş</item>
+        <item>Kalp</item>
+        <item>Kızgın</item>
+        <item>Sırıtma</item>
+        <item>Poker surat</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>konu yok</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Neredesin?</item>
+        <item>Ne yapıyorsun?</item>
+        <item>Geri ara! Lütfen!</item>
+        <item>Üzgünüm, şu anda toplantıdayım.</item>
+        <item>Yakında arayacağım.</item>
+        <item>Merak etme! İyiyim.</item>
+        <item>Eve geliyorum.</item>
+        <item>Yakında varacağım.</item>
+        <item>Ya gelirsin ya da enayisin!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Kısıtlanmış mod</item>
+        <item>Uyarı modu</item>
+        <item>Serbest mod</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Yüksek</item>
+        <item>Normal</item>
+        <item>Düşük</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM alfabesi</item>
+        <item>Unicode</item>
+        <item>Otomatik</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>SIM Kartı</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Aygıt</item>
+        <item>SIM Kartı</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Sistem yazı tipi boyutunu takip et</item>
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Yalnızca sessizken</item>
+        <item>Hiçbir zaman</item>
+    </string-array>
+</resources>

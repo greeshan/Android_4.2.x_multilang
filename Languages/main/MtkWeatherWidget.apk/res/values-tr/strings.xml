@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="updating">Güncelleniyor</string>
+    <string name="failed_to_locate">Konum belirlenemedi.</string>
+    <string name="no_weather">Şu anda %s hava durumu bilgisi yok.</string>
+    <string name="add_setting">Şehirleri eklemek için burayı tıklayın</string>
+</resources>

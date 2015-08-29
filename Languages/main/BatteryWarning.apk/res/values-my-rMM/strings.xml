@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">အားသွင်စက် ဗို့အား ကျော်လွန်နေသည်</string>
+    <string name="title_battery_over_temperature">ဘက်ထရီ အပူချိန် ကျော်လွန်နေသည်</string>
+    <string name="title_over_current_protection">လျှပ်စီးကာကွယ်မှု ကျော်လွန်နေသည်</string>
+    <string name="title_battery_over_voltage">ဘက်ထရီဗို့အား ကျော်လွန်နေသည်</string>
+    <string name="title_safety_timer_timeout">အားသွင်းချိန် ကျော်လွန်နေသည်</string>
+    <string name="msg_charger_over_voltage">သင်၏အားသွင်းစက်သည် ဗို့အားကျော်လွန်နေသည်၊ အားသွင်းစက်ကို ကျေးဇူးပြု၍ ဖြုတ်ပါ။</string>
+    <string name="msg_battery_over_temperature">သင်၏ဘက်ထရီသည် အပူချိန်ကျော်လွန်နေသည်၊ ဘက်ထရီကို ကျေးဇူးပြု၍ ဖယ်ရှားပါ။</string>
+    <string name="msg_over_current_protection">သင်၏ဘက်ထရီသည် လျှပ်စီးကာကွယ်မှုကျော်လွန်နေသည်၊ ဘက်ထရီကို ကျေးဇူးပြု၍ ဖယ်ရှားပါ။</string>
+    <string name="msg_battery_over_voltage">သင်၏ဘက်ထရီသည် ဗို့အားကျော်လွန်နေသည်၊ ဘက်ထရီကို ကျေးဇူးပြု၍ ဖယ်ရှားပါ။</string>
+    <string name="msg_safety_timer_timeout">အားသွင်းချိန် အလွန်ကြာနေသည်။ အားသွင်းစက်ကို ကျေးဇူးပြု၍ ဖြုတ်ပါ။</string>
+    <string name="btn_ok_msg">တစ်ရေးမှိန်းမည်</string>
+    <string name="btn_cancel_msg">ဖြုတ်ရန်</string>
+</resources>

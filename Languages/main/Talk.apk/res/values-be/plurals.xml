@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">&lt;span class=\"notranslate\">%d&lt;/span> фота</item>
+        <item quantity="zero">&lt;span class=\"notranslate\">%d&lt;/span> фота</item>
+        <item quantity="one">%d фота</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">Выбрана &lt;span class=\"notranslate\">%d&lt;/span></item>
+        <item quantity="one">Выбрана &lt;span class=\"notranslate\">%d&lt;/span></item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Выдаліць усе копіі гэтых фатаграфій?</item>
+        <item quantity="one">Выдаліць усе копіі гэтай фатаграфіі?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Вы ўпэўнены, што хочаце выдаліць гэтыя фатаграфіі з гэтага альбома Google+? Гэта дзеянне нельга будзе адмянiць.</item>
+        <item quantity="one">Вы ўпэўнены, што хочаце выдаліць гэту фатаграфію з гэтага альбома Google+? Гэта дзеянне нельга будзе адмянiць.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Вы ўпэўнены, што хочаце выдаліць гэтыя фатаграфіі і з тэлефона, і з гэтага альбома Google+? Гэта дзеянне нельга будзе адмянiць.</item>
+        <item quantity="one">Вы ўпэўнены, што хочаце выдаліць гэту фатаграфію і з тэлефона, і з гэтага альбома Google+? Гэта дзеянне нельга будзе адмянiць.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Выдаленне фатаграфій...</item>
+        <item quantity="one">Выдаленне фота...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">Каментарыяў: &lt;span class=\"notranslate\">%d&lt;/span></item>
+        <item quantity="one">Каментарыяў: %d</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Выдаліць фатаграфіі</item>
+        <item quantity="one">Выдаліць фатаграфію</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; удзельнікаў: %2$d</item>
+        <item quantity="one">%1$s; %2$d удзельнік</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Новыя апавяшчэнні Google+</item>
+        <item quantity="one">Новае апавяшчэнне Google+</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">Выбрана &lt;span class=\"notranslate\">%d&lt;/span></item>
+        <item quantity="one">Выбрана &lt;span class=\"notranslate\">%d&lt;/span></item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">Кругоў: %1$d, %2$s</item>
+        <item quantity="one">%1$d круг, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Выдаліць кругi</item>
+        <item quantity="one">Выдаліць круг</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Выдаліць гэтыя кругi назаўсёды?</item>
+        <item quantity="one">Выдаліць гэты круг назаўсёды?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Выдаленне кругоў...</item>
+        <item quantity="one">Выдаленне круга...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">&lt;span class=\"notranslate\">%d&lt;/span> чал.</item>
+        <item quantity="one">%d чал.</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Выдаліць карыстальнiкаў</item>
+        <item quantity="one">Выдаліць карыстальнiка</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Выдаліць гэтых карыстальнiкаў з круга?</item>
+        <item quantity="one">Выдаліць гэтага карыстальнiка з круга?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Даданне карыстальнiкаў...</item>
+        <item quantity="one">Даданне карыстальнiка...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Выдаленне карыстальнiкаў...</item>
+        <item quantity="one">Выдаленне карыстальнiка...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Выдаленне кантактаў...</item>
+        <item quantity="one">Выдаленне чалавека...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">Яшчэ &lt;span class=\"notranslate\">%d&lt;/span></item>
+        <item quantity="one">Яшчэ &lt;span class=\"notranslate\">%d&lt;/span></item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">&lt;span class=\"notranslate\">%d&lt;/span> гадз.</item>
+        <item quantity="one">%d гадзіна</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">Дзён: %d</item>
+        <item quantity="one">Дзён: %d</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Відэавыклік ад карыстальніка %2$s з %3$s і %1$d іншымі</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">&lt;span class=\"notranslate\">%d&lt;/span> гадз.</item>
+        <item quantity="one">1 гадзіна</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d паведамленняў у сустрэчы %2$d</item>
+        <item quantity="one">%d паведамленняў у адной сустрэчы</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s і %1$d жадаюць правесці сустрэчу</item>
+        <item quantity="one">%2$s і %1$d жадаюць правесці сустрэчу</item>
+        <item quantity="few">%2$s і яшчэ %1$d хочуць правесці вiдэасустрэчу</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">і %1$d хочуць правесці сустрэчу з вамі</item>
+        <item quantity="one">%1$d хочуць правесці сустрэчу</item>
+        <item quantity="few">i яшчэ %1$d хочуць правесцi вiдэасустрэчу</item>
+    </plurals>
+</resources>

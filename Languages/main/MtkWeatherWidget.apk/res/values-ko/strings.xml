@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">날씨</string>
+    <string name="updating">업데이트</string>
+    <string name="failed_to_locate">찾기에 실패</string>
+    <string name="no_weather">현재 %s에 대한 날씨가 없습니다.</string>
+    <string name="add_setting">도시를 추가하려면 여기를 누르십시오</string>
+</resources>

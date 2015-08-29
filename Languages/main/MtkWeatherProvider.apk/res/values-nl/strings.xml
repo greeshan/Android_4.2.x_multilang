@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weerdienst</string>
+    <string name="choose_city">Plaats kiezen</string>
+    <string name="searching">Bezig met zoeken. Een ogenblik geduld.</string>
+    <string name="no_found">Er is geen plaats gevonden die overeenkomt met %s. Controleer uw ingevoerde woorden.</string>
+    <string name="net_error">Netwerk niet beschikbaar. Controleer dit.</string>
+    <string name="no_city_error">Kan geen plaatsinformatie ophalen. Stel de systeemtijd en de tijdzone correct in.</string>
+    <string name="searching_fail">zoeken van plaats is mislukt.</string>
+    <string name="no_weather_error">Kan geen weersinformatie ophalen. Stel de systeemtijd en de tijdzone correct in.</string>
+    <string name="no_weather">Momenteel geen weersinfo voor %s.</string>
+    <string name="setting_title">Instelling</string>
+    <string name="temperature">Temperatuureenheden</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Plaatsen</string>
+    <string name="update_fre">Updatefrequentie</string>
+    <string name="every12">Elke 12 uur</string>
+    <string name="cancel">Annuleren</string>
+    <string name="menu_add_city">Plaats toevoegen</string>
+    <string name="add_city">Druk op pictogram om een nieuwe stad toe te voegen</string>
+    <string name="remove">Verwijderen</string>
+    <string name="warn">Er kunnen maximaal 8 plaatsen worden toegevoegd.</string>
+    <string name="has_chosen">is gekozen.</string>
+    <string name="no_city">Geen plaatsen</string>
+    <string name="powered_by">Aangedreven door:</string>
+    <string name="menu_about">Over</string>
+</resources>

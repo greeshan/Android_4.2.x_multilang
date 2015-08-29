@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d nuotrauk.</item>
+        <item quantity="zero">%d nuotrauk.</item>
+        <item quantity="one">%d nuotrauka</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d pasirinkta.</item>
+        <item quantity="one">%d pasirinkta.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Ištrinti visas šių nuotraukų kopijas?</item>
+        <item quantity="one">Ištrinti visas šios nuotraukos kopijas?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Ar tikrai norite ištrinti šias nuotraukas iš šio „Google+“ albumo? Šio veiksmo negalėsite anuliuoti.</item>
+        <item quantity="one">Ar tikrai norite ištrinti šią nuotrauką iš šio „Google+“ albumo? Šio veiksmo negalėsite anuliuoti.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Ar tikrai norite ištrinti šias nuotraukas tiek iš telefono, tiek iš šio „Google+“ albumo? Šio veiksmo negalėsite anuliuoti.</item>
+        <item quantity="one">Ar tikrai norite ištrinti šią nuotrauką tiek iš telefono, tiek iš šio „Google+“ albumo? Šio veiksmo negalėsite anuliuoti.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Ištrinamos nuotraukos...</item>
+        <item quantity="one">Ištrinama nuotrauka...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d komentarai (-ų)</item>
+        <item quantity="one">%d komentaras</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Ištrinti nuotraukas</item>
+        <item quantity="one">Ištrinti nuotrauką</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">„%1$s“; %2$d nar.</item>
+        <item quantity="one">%1$s; %2$d narys</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Nauji „Google+“ praneš.</item>
+        <item quantity="one">Naujas „Google+“ praneš.</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Pakvietė jus prisijungti prie „Hangout“ su dar %d asm.</item>
+        <item quantity="one">Pakvietė jus į „Hangout“ su dar 1 asmeniu</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">Priedų: %d</item>
+        <item quantity="one">Priedų: %d</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d pasirinkta</item>
+        <item quantity="one">%d pasirinkta</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d draugų ratai, %2$s</item>
+        <item quantity="one">%1$d draugų ratas, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Ištrinti draugų rat.</item>
+        <item quantity="one">Ištrinti draugų ratą</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Ar norite visam laikui ištrinti šiuos draugų ratus?</item>
+        <item quantity="one">Ar norite visam laikui ištrinti šį draugų ratą?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Trinami draugų ratai...</item>
+        <item quantity="one">Trinamas draugų ratas...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d žmonės (-ių)</item>
+        <item quantity="one">%d asmuo</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Pašalinti žmones</item>
+        <item quantity="one">Pašalinti asmenį</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Ar norite pašalinti šiuos žmones iš šio draugų rato?</item>
+        <item quantity="one">Ar norite pašalinti šį asmenį iš šio draugų rato?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Pridedama žmonių...</item>
+        <item quantity="one">Pridedamas asmuo...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Šalinami žmonės...</item>
+        <item quantity="one">Pašalinamas asmuo...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Atmetami žmonės...</item>
+        <item quantity="one">Atmetamas asmuo...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">Dar %d</item>
+        <item quantity="one">Dar %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prieš %d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Vaizdo skambutis nuo %2$s su %3$s ir dar %1$d</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">1 val.</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">Kvietimų: %d</item>
+        <item quantity="one">Kvietimų: %d</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">Pranešimų: %1$d (%2$d „Hangout“)</item>
+        <item quantity="one">Pranešimų: %d (vienas „Hangout“)</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Pakvietė jus prisijungti prie „Hangout“ su dar %1$d asm.</item>
+        <item quantity="one">Pakvietė jus prisijungti prie „Hangout“ su dar 1 asmeniu</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s ir dar %1$d žm. nori dalyvauti „Hangout“</item>
+        <item quantity="one">%2$s ir dar %1$d žm. nori dalyvauti „Hangout“</item>
+        <item quantity="few">%2$s ir dar %1$d žm. nori dalyvauti „Hangout“</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">Dar %1$d asm. nori dalyvauti „Hangout“</item>
+        <item quantity="one">Dar %1$d asm. nori dalyvauti „Hangout“</item>
+        <item quantity="few">Dar %1$d žm. nori dalyvauti „Hangout“</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">Pakvietimų: %1$d</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">Pridėta elementų: %d</item>
+        <item quantity="zero">Pridėta elementų: %d</item>
+        <item quantity="one">Pridėta elementų: %d</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">Persiųsta elementų: %d</item>
+        <item quantity="zero">Persiųsta elementų: %d</item>
+        <item quantity="one">Persiųsta elementų: %d</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d sav.</item>
+        <item quantity="one">savaitė</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d mėn.</item>
+        <item quantity="one">mėnuo</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d m.</item>
+        <item quantity="one">metai</item>
+    </plurals>
+</resources>

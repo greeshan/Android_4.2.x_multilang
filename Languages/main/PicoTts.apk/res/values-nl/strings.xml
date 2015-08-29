@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Fout</string>
+    <string name="no_market_app">De toepassing Market is niet geïnstalleerd.</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="installed">Geïnstalleerd</string>
+    <string name="not_installed">Niet geïnstalleerd</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Gillade inte alls</item>
+        <item>Gillade inte</item>
+        <item>Acceptabel</item>
+        <item>Gillade</item>
+        <item>Gillade mycket</item>
+    </string-array>
+</resources>

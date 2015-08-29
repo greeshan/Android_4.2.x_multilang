@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Programar encendido y apagado</string>
+    <string name="schedule_power_on_off_time">Hora</string>
+    <string name="schedule_power_on_off_repeat">Repetir</string>
+    <string name="schedule_power_on_off_set">Establecer programación de encendido y apagado</string>
+    <string name="schedule_power_on_set">Editar programación de encendido</string>
+    <string name="schedule_power_off_set">Establecer programación de apagado</string>
+    <string name="enable_schpwr">Habilitar</string>
+    <string name="disable_schpwr">Inhabilitar</string>
+    <string name="day">1 día</string>
+    <string name="days">" %s días"</string>
+    <string name="hour">1 hora</string>
+    <string name="hours">%s horas</string>
+    <string name="minute">1 minuto</string>
+    <string name="minutes">" %sminutos"</string>
+    <string name="every_day">todos los días</string>
+    <string name="never">Nunca</string>
+    <string name="done">Listo</string>
+    <string name="revert">Revertir</string>
+    <string name="schpwr_shutdown_message">El teléfono se apagará en %s segundos.</string>
+    <string name="schpwr_shutdown_message_second">El teléfono se apagará en %s segundo.</string>
+</resources>

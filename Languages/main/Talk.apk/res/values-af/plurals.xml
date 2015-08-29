@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="zero">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d gekies.</item>
+        <item quantity="one">%d gekies.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">"Vee alle kopieë van hierdie foto's uit?"</item>
+        <item quantity="one">Vee alle kopieë van hierdie foto uit?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">"Is jy seker jy wil dié foto's uit hierdie Google+-album vee? Hierdie handeling kan nie ontdoen word nie."</item>
+        <item quantity="one">Is jy seker jy wil hierdie foto uit hierdie Google+-album vee? Hierdie handeling kan nie ontdoen word nie.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">"Is jy seker jy wil hierdie foto's uit sowel jou foon as hierdie Google+-album vee? Hierdie handeling kan nie ontdoen word nie."</item>
+        <item quantity="one">"Is jy seker jy wil die gekose foto's uit sowel jou foon as hierdie Google+-album vee? Hierdie handeling kan nie ontdoen word nie."</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">"Vee tans foto's uit..."</item>
+        <item quantity="one">Vee tans foto uit...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d opmerkings</item>
+        <item quantity="one">%d opmerking</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">"Vee foto's uit"</item>
+        <item quantity="one">Vee foto uit</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; %2$d lede</item>
+        <item quantity="one">%1$s; %2$d lid</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Nuwe Google+-kennisgewings</item>
+        <item quantity="one">Nuwe Google+-kennisgewing</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">"Het jou na 'n Hangout saam met %d ander mense genooi"</item>
+        <item quantity="one">"Het jou na 'n Hangout saam met 1 ander persoon genooi"</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d aanhegsels</item>
+        <item quantity="one">%d aanhegsel</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d gekies</item>
+        <item quantity="one">%d gekies</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d kringe, %2$s</item>
+        <item quantity="one">%1$d kring, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Vee kringe uit</item>
+        <item quantity="one">Vee kring uit</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Wil jy hierdie kringe permanent uitvee?</item>
+        <item quantity="one">Wil jy hierdie kring permanent uitvee?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Vee tans kringe uit...</item>
+        <item quantity="one">Vee tans kring uit...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d mense</item>
+        <item quantity="one">%d persoon</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Verwyder mense</item>
+        <item quantity="one">Verwyder persoon</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Wil jy dié mense uit hierdie kring verwyder?</item>
+        <item quantity="one">Wil jy hierdie persoon uit hierdie kring verwyder?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Voeg tans mense by...</item>
+        <item quantity="one">Voeg tans persoon by...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Verwyder tans mense...</item>
+        <item quantity="one">Verwyder tans persoon...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Verwerp tans mense...</item>
+        <item quantity="one">Verwerp tans persoon...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d meer</item>
+        <item quantity="one">%d meer</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min. gelede</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dae</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Video-oproep vanaf %2$s met %3$s en %1$d ander mense</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d uitnodigings</item>
+        <item quantity="one">%d uitnodiging</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d boodskappe in %2$d Hangouts</item>
+        <item quantity="one">%d boodskappe in een gesprek</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">"Het jou na 'n Hangout saam met %1$d ander mense genooi"</item>
+        <item quantity="one">"Het jou na 'n Hangout saam met 1 ander persoon genooi"</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">"%2$s en %1$d ander mense wil aan 'n gesprek deelneem"</item>
+        <item quantity="one">"%2$s en %1$d ander persoon wil aan 'n gesprek deelneem"</item>
+        <item quantity="few">"%2$s en %1$d ander mense wil aan 'n gesprek deelneem"</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">"%1$d ander mense wil aan 'n gesprek deelneem"</item>
+        <item quantity="one">"%1$d ander persoon wil aan 'n gesprek deelneem"</item>
+        <item quantity="few">"%1$d ander mense wil aan 'n gesprek deelneem"</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d uitnodigings</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">%d items aangeheg</item>
+        <item quantity="zero">%d items aangeheg</item>
+        <item quantity="one">%d item aangeheg</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d items aangestuur</item>
+        <item quantity="zero">%d items aangestuur</item>
+        <item quantity="one">%d item aangestuur</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d weke</item>
+        <item quantity="one">"'n week"</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d maande</item>
+        <item quantity="one">"'n maand"</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d jaar</item>
+        <item quantity="one">"'n jaar"</item>
+    </plurals>
+</resources>

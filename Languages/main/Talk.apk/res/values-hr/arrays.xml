@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>stisni</item>
+        <item>velike oči</item>
+        <item>velika usta</item>
+        <item>mala usta</item>
+        <item>velik nos</item>
+        <item>male oči</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>u svemiru</item>
+        <item>zalazak Sunca</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>nisko</item>
+        <item>srednje</item>
+        <item>visoko</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>nema predmeta</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>SMIJEŠAK S NASMIJEŠENIM OČIMA</item>
+        <item>CERENJE</item>
+        <item>CERENJE NASMIJEŠENIH OČIJU</item>
+        <item>SUZE RADOSNICE</item>
+        <item>SMIJEŠAK OTVORENIH USTA</item>
+        <item>SMIJEŠAK OTVORENIH USTA I NASMIJEŠENIH OČIJU</item>
+        <item>SMIJEŠAK OTVORENIH USTA S HLADNIM ZNOJEM</item>
+        <item>SMIJEŠAK OTVORENIH USTA I ČVRSTO ZATVORENIH OČIJU</item>
+        <item>SMIJEŠAK S AUREOLOM</item>
+        <item>SMIJEŠAK S VRAŽJIM ROŠČIĆIMA</item>
+        <item>NAMIGIVANJE</item>
+        <item>UŠUTKANO</item>
+        <item>NEUTRALNO</item>
+        <item>BEZIZRAŽAJNO</item>
+        <item>ZBUNJENO</item>
+        <item>LJUTITO</item>
+        <item>GRIMASA</item>
+        <item>DURENJE</item>
+        <item>PLAKANJE</item>
+        <item>SPAVANJE</item>
+        <item>LICE OTVORENIH USTA</item>
+        <item>USTRAJNO</item>
+        <item>LICE KOJE ISPUHUJE PARU</item>
+        <item>RAZOČARANJE I OLAKŠANJE</item>
+        <item>MRŠTENJE OTVORENIH USTA</item>
+        <item>UZNEMIRENO</item>
+        <item>USTRAŠENO</item>
+        <item>NAPAĆENO</item>
+        <item>OTVORENA USTA I HLADAN ZNOJ</item>
+        <item>ZABRINUTO LICE</item>
+        <item>VRIŠTANJE OD STRAHA</item>
+        <item>ZAPANJENO</item>
+        <item>ZARUMENJENO</item>
+        <item>OMAMLJENO</item>
+        <item>LICA BEZ USTA</item>
+        <item>LICE S MEDICINSKOM MASKOM</item>
+        <item>RAZOČARANO</item>
+        <item>NIJE ZABAVNO</item>
+        <item>SMIJEŠAK S OČIMA U OBLIKU SRCA</item>
+        <item>ISPLAŽENI JEZIK</item>
+        <item>ISPLAŽENI JEZIK I NAMIGIVANJE</item>
+        <item>ISPLAŽENI JEZIK I ČVRSTO ZATVORENE OČI</item>
+        <item>DEGUSTIRANJE FINE HRANE</item>
+        <item>LICE KOJE LJUBI</item>
+        <item>LICE KOJE LJUBI NASMIJEŠENIH OČIJU</item>
+        <item>LICE KOJE ŠALJE POLJUBAC</item>
+        <item>LICE KOJE LJUBI ZATVORENIH OČIJU</item>
+        <item>SMIJEŠAK SA SUNČANIM NAOČALAMA</item>
+        <item>GLASNO PLAKANJE</item>
+        <item>OLAKŠANJE</item>
+        <item>FRUSTRIRANO</item>
+        <item>ZAMIŠLJENO</item>
+        <item>POSPANO</item>
+        <item>SAMOZADOVOLJNO</item>
+        <item>OBLIVENO HLADNIM ZNOJEM</item>
+        <item>UMORNO</item>
+        <item>SRETNO S JEDNOM RUKOM PODIGNUTOM</item>
+        <item>SLAVLJENJE S OBJE PODIGNUTE RUKE</item>
+        <item>NAMRŠTENO</item>
+        <item>LJUTITO S PREKRIŽENIM RUKAMA</item>
+        <item>LICE S POKRETOM \"U REDU\"</item>
+        <item>OSOBA U DUBOKOM NAKLONU</item>
+        <item>NADURENO LICE</item>
+        <item>SKLOPLJENE RUKE</item>
+        <item>ZNAK \"U REDU\"</item>
+        <item>ZNAK \"PALAC GORE\"</item>
+        <item>ZNAK \"PALAC DOLJE\"</item>
+        <item>HRPICA IZMETA</item>
+        <item>SRCE OBLIVENO ZNOJEM</item>
+        <item>DLAKAVO SRCE</item>
+        <item>LJUBIČASTO SRCE</item>
+        <item>SLOMLJENO SRCE</item>
+        <item>SRCE SA STRELICOM</item>
+        <item>LEDENO SRCE</item>
+        <item>ZNAK \"COOL\"</item>
+        <item>ZNAK \"FREE\" (BESPLATNO)</item>
+        <item>ZNAK \"U REDU\"</item>
+        <item>ZNAK \"SOS\"</item>
+        <item>MASKE KOMEDIJA I TRAGEDIJA</item>
+        <item>DUGA</item>
+        <item>KONFETI</item>
+        <item>PLESAČ</item>
+    </string-array>
+</resources>

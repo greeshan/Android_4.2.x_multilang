@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="permissions_width_col1">65.0dip</dimen>
+    <dimen name="mount_button_margin">3.0dip</dimen>
+    <dimen name="info_text_size">13.5dip</dimen>
+</resources>

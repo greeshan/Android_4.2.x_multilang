@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Bekijk al uw apps.
+ Raak de starticoon aan. @drawable/all_apps"</item>
+        <item>"Sleep apps naar het startscherm.
+ Toep. in Launcher ingedrukt houden tot hij vibreert."</item>
+        <item>"Deel uw startscherm opnieuw in.
+ Raak een item aan, houd het ingedrukt en laat los zodra het vibreert."</item>
+        <item>"Items verwijderen.
+ Raak item aan, druk in en sleep naar de prullenbak zodra het vibreert. @drawable/trash"</item>
+        <item>"Meerdere startschermen.
+ Schuif naar links of rechts om te wisselen. Sleep items naar andere schermen."</item>
+        <item>"Klaar met deze widget?
+ Raak 'm aan, houd 'm ingedrukt en sleep 'm naar de prullenbak zodra hij vibreert."</item>
+    </string-array>
+</resources>

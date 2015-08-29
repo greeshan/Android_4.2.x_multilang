@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">Фотографија: %d</item>
+        <item quantity="zero">Фотографија: %d</item>
+        <item quantity="one">%d фотограф.</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">Изабрано: %d.</item>
+        <item quantity="one">Изабрано: %d.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Желите ли да избришете све копије ових слика?</item>
+        <item quantity="one">Желите ли да избришете све копије ове слике?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Да ли стварно желите да избришете ове слике из овог Google+ албума? Ова радња не може да се опозове.</item>
+        <item quantity="one">Да ли стварно желите да избришете ову слику из овог Google+ албума? Ова радња не може да се опозове.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Да ли стварно желите да избришете ове слике са телефона и из овог Google+ албума? Ова радња не може да се опозове.</item>
+        <item quantity="one">Да ли стварно желите да избришете ову слику са телефона и из овог Google+ албума? Ова радња не може да се опозове.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Брисање слика...</item>
+        <item quantity="one">Брисање слике...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">Коментара: %d</item>
+        <item quantity="one">%d коментар</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Избриши слике</item>
+        <item quantity="one">Избриши слику</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; чланова: %2$d</item>
+        <item quantity="one">%1$s; %2$d члан</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Нова Google+ обавештења</item>
+        <item quantity="one">Ново Google+ обавештење</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Позива вас у Hangout са још %d корисника</item>
+        <item quantity="one">Позива вас у Hangout са још 1 особом</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d прилога</item>
+        <item quantity="one">%d прилог</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">Изабраних: %d</item>
+        <item quantity="one">Изабраних: %d</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d круг(ов)а, %2$s</item>
+        <item quantity="one">%1$d круг, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Брисање кругова</item>
+        <item quantity="one">Избриши круг</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Желите ли да трајно избришете ове кругове?</item>
+        <item quantity="one">Желите ли да трајно избришете овај круг?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Брисање кругова...</item>
+        <item quantity="one">Брисање круга...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">Људи: %d</item>
+        <item quantity="one">%d особа</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Уклањање људи</item>
+        <item quantity="one">Уклањање особе</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Желите ли да уклоните ове људе из овог круга?</item>
+        <item quantity="one">Желите ли да уклоните ову особу из овог круга?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Додавање људи...</item>
+        <item quantity="one">Додавање особе...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Уклањање људи...</item>
+        <item quantity="one">Уклањање особе...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Одбацивање људи...</item>
+        <item quantity="one">Одбацивање особе...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">још %d</item>
+        <item quantity="one">још %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">пре %d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d сата(и)</item>
+        <item quantity="one">%d сат</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d дана</item>
+        <item quantity="one">%d дан</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Видео позив корисника %2$s, %3$s и још %1$d</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d сата(и)</item>
+        <item quantity="one">1 сат</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d позива</item>
+        <item quantity="one">%d позив</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d порука у %2$d Hangouts-а</item>
+        <item quantity="one">%d порука у једном Hangout-у</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Позива вас у Hangout са још %1$d корисника</item>
+        <item quantity="one">Позива вас у Hangout са још 1 корисником</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s и још %1$d особа желе у Hangout</item>
+        <item quantity="one">%2$s и још %1$d особа желе у Hangout</item>
+        <item quantity="few">%2$s и још %1$d особе желе у Hangout</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">Још %1$d особа жели у Hangout</item>
+        <item quantity="one">Још %1$d особа жели у Hangout</item>
+        <item quantity="few">Још %1$d особе желе у Hangout</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d позива</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">Приложено је %d ставки</item>
+        <item quantity="zero">Приложено је %d ставки</item>
+        <item quantity="one">Приложена је %d ставка</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">Прослеђено је %d ставки</item>
+        <item quantity="zero">Прослеђено је %d ставки</item>
+        <item quantity="one">Прослеђена је %d ставка</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d недеље(а)</item>
+        <item quantity="one">једне недеље</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d месеца(и)</item>
+        <item quantity="one">једног месеца</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d године(а)</item>
+        <item quantity="one">једне године</item>
+    </plurals>
+</resources>

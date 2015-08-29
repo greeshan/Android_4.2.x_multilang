@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Tapety z magicznym dymem</string>
+    <string name="wallpaper_magicsmoke">Magiczny dym</string>
+    <string name="author">Google</string>
+    <string name="ok">OK</string>
+    <string name="taptochange">Dotknij, aby zmienić</string>
+</resources>

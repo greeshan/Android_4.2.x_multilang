@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Шкала Цельсия</item>
+        <item>Шкала Фаренгейта</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Никогда не выполнять автоматическое обновление</item>
+        <item>Каждый час</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 6 часа</item>
+        <item>Каждые 12 часа</item>
+        <item>Каждый день</item>
+    </string-array>
+</resources>

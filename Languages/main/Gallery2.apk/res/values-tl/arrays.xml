@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Hindi pwedeng walang laman ang host field</item>
+        <item>Hindi pwedeng walang laman ang port field</item>
+        <item>DI balidong host</item>
+        <item>Di balidong port</item>
+    </string-array>
+</resources>

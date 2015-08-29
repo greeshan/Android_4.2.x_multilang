@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">រាវរកអ្នកផ្តល់កម្មវិធី</string>
+    <string name="search_label">កម្មវិធី</string>
+    <string name="application_desc">កម្មវិធី</string>
+    <string name="settings_description">ឈ្មោះនៃកម្មវិធីដែលបានតម្លើង</string>
+    <string name="search_empty">មិនមានអ្វីអាចផ្គូផ្គងបានឡើយ</string>
+</resources>

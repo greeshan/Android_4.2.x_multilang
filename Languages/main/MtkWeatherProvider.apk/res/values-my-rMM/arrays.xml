@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>စင်တီဂရိတ်</item>
+        <item>ဖာရင်ဟိုက်</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>ဘယ်တော့မှ အလိုအလျောက် အဆင့်မမြှင့်တင်ပါနှင့်</item>
+        <item>1 နာရီကြာလျှင်</item>
+        <item>2 နာရီကြာလျှင်</item>
+        <item>6 နာရီကြာလျှင်</item>
+        <item>12 နာရီကြာလျှင်</item>
+        <item>1 ရက်ကြာလျှင်</item>
+    </string-array>
+</resources>

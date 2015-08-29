@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>ชนิด</item>
+        <item>ชื่อ (A - Z)</item>
+        <item>ขนาด (ใหญ่ - เล็ก)</item>
+        <item>เวลา (ใหม่ - เก่า)</item>
+    </string-array>
+</resources>

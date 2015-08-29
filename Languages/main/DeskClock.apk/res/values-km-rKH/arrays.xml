@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ 1 ចាប់ពីពេលនេះ ។</item>
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ %1$sចាប់ពីពេលនេះ ។</item>
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ %2$sចាប់ពីពេលនេះ ។</item>
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ %1$sand %2$sចាប់ពីពេលនេះ ។</item>
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ %3$sចាប់ពីពេលនេះ ។</item>
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ %1$sនិង %3$sចាប់ពីពេលនេះ ។</item>
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ %2$sនិង %3$sចាប់ពីពេលនេះ ។</item>
+        <item>ការពញ្ញាក់អារម្មណ៍សិតឲ្យដើរ %1$s, %2$sនិង %3$sចាប់ពីពេលនេះ ។</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>បិទ</item>
+        <item>5 នាទី</item>
+        <item>10 នាទី</item>
+        <item>15 នាទី</item>
+        <item>20 នាទី</item>
+        <item>25 នាទី</item>
+        <item>30 នាទី</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>បានធ្វើរួច</item>
+        <item>ដេកបន្តិច</item>
+        <item>ទាត់ចោល</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 នាទី</item>
+        <item>10 នាទី</item>
+        <item>15 នាទី</item>
+        <item>20 នាទី</item>
+        <item>25 នាទី</item>
+        <item>30 នាទី</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+</resources>

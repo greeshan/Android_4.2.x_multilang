@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d fotot</item>
+        <item quantity="zero">%d fotot</item>
+        <item quantity="one">%d foto</item>
+        <item quantity="two">%d fotot</item>
+        <item quantity="few">%d fotot</item>
+        <item quantity="many">%d fotot</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d tärni</item>
+        <item quantity="zero">%d tärni</item>
+        <item quantity="one">%d tärn</item>
+        <item quantity="two">%d tärni</item>
+        <item quantity="few">%d tärni</item>
+        <item quantity="many">%d tärni</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f tärni</item>
+        <item quantity="zero">%.1f tärni</item>
+        <item quantity="one">%.1f tärni</item>
+        <item quantity="two">%.1f tärni</item>
+        <item quantity="few">%.1f tärni</item>
+        <item quantity="many">%.1f tärni</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Lähedal asuvad jaamad</item>
+        <item quantity="zero">Lähedal asuvad jaamad</item>
+        <item quantity="one">Lähedal asuv jaam</item>
+        <item quantity="two">Lähedal asuvad jaamad</item>
+        <item quantity="few">Lähedal asuvad jaamad</item>
+        <item quantity="many">Lähedal asuvad jaamad</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s ja %2$d arvustajat</item>
+        <item quantity="one">%1$s ja %2$d arvustaja</item>
+        <item quantity="two">%1$s ja %2$d arvustajat</item>
+        <item quantity="few">%1$s ja %2$d arvustajat</item>
+        <item quantity="many">%1$s ja %2$d arvustajat</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d arvustajat</item>
+        <item quantity="one">%d arvustaja</item>
+        <item quantity="two">%d arvustajat</item>
+        <item quantity="few">%d arvustajat</item>
+        <item quantity="many">%d arvustajat</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Teie fotod tehakse avalikuks kohe pärast arvustamist.</item>
+        <item quantity="one">Teie foto tehakse avalikuks kohe pärast arvustamist.</item>
+        <item quantity="two">Teie fotod tehakse avalikuks kohe pärast arvustamist.</item>
+        <item quantity="few">Teie fotod tehakse avalikuks kohe pärast arvustamist.</item>
+        <item quantity="many">Teie fotod tehakse avalikuks kohe pärast arvustamist.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d peatust</item>
+        <item quantity="zero">%d peatust</item>
+        <item quantity="one">%d peatus</item>
+        <item quantity="two">%d peatust</item>
+        <item quantity="few">%d peatust</item>
+        <item quantity="many">%d peatust</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">arvustust</item>
+        <item quantity="zero">arvustust</item>
+        <item quantity="one">arvustus</item>
+        <item quantity="two">arvustust</item>
+        <item quantity="few">arvustust</item>
+        <item quantity="many">arvustust</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s päeva</item>
+        <item quantity="zero">%s päeva</item>
+        <item quantity="one">%s päev</item>
+        <item quantity="two">%s päeva</item>
+        <item quantity="few">%s päeva</item>
+        <item quantity="many">%s päeva</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d päeva</item>
+        <item quantity="zero">%d päeva</item>
+        <item quantity="one">%d päev</item>
+        <item quantity="two">%d päeva</item>
+        <item quantity="few">%d päeva</item>
+        <item quantity="many">%d päeva</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s tundi</item>
+        <item quantity="zero">%s tundi</item>
+        <item quantity="one">%s tund</item>
+        <item quantity="two">%s tundi</item>
+        <item quantity="few">%s tundi</item>
+        <item quantity="many">%s tundi</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d tundi</item>
+        <item quantity="zero">%d tundi</item>
+        <item quantity="one">%d tund</item>
+        <item quantity="two">%d tundi</item>
+        <item quantity="few">%d tundi</item>
+        <item quantity="many">%d tundi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s minutit</item>
+        <item quantity="zero">%s minutit</item>
+        <item quantity="one">%s minut</item>
+        <item quantity="two">%s minutit</item>
+        <item quantity="few">%s minutit</item>
+        <item quantity="many">%s minutit</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d minutit</item>
+        <item quantity="zero">%d minutit</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">%d minutit</item>
+        <item quantity="few">%d minutit</item>
+        <item quantity="many">%d minutit</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">%1$s meetri pärast</item>
+        <item quantity="one">%1$s meetri pärast</item>
+        <item quantity="two">%1$s meetri pärast</item>
+        <item quantity="few">%1$s meetri pärast</item>
+        <item quantity="many">%1$s meetri pärast</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">%1$s kilomeetri pärast</item>
+        <item quantity="one">%1$s kilomeetri pärast</item>
+        <item quantity="two">%1$s kilomeetri pärast</item>
+        <item quantity="few">%1$s kilomeetri pärast</item>
+        <item quantity="many">%1$s kilomeetri pärast</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Liikuge veel %1$s meetrit edasi</item>
+        <item quantity="one">Liikuge veel %1$s meeter edasi</item>
+        <item quantity="two">Liikuge veel %1$s meetrit edasi</item>
+        <item quantity="few">Liikuge veel %1$s meetrit edasi</item>
+        <item quantity="many">Liikuge veel %1$s meetrit edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Liikuge veel %1$s kilomeetrit edasi</item>
+        <item quantity="one">Liikuge veel %1$s kilomeeter edasi</item>
+        <item quantity="two">Liikuge veel %1$s kilomeetrit edasi</item>
+        <item quantity="few">Liikuge veel %1$s kilomeetrit edasi</item>
+        <item quantity="many">Liikuge veel %1$s kilomeetrit edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Liikuge teel %2$s veel %1$s meetrit edasi</item>
+        <item quantity="one">Liikuge teel %2$s veel %1$s meeter edasi</item>
+        <item quantity="two">Liikuge teel %2$s veel %1$s meetrit edasi</item>
+        <item quantity="few">Liikuge teel %2$s veel %1$s meetrit edasi</item>
+        <item quantity="many">Liikuge teel %2$s veel %1$s meetrit edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Liikuge teel %2$s veel %1$s kilomeetrit edasi</item>
+        <item quantity="one">Liikuge teel %2$s veel %1$s kilomeeter edasi</item>
+        <item quantity="two">Liikuge teel %2$s veel %1$s kilomeetrit edasi</item>
+        <item quantity="few">Liikuge teel %2$s veel %1$s kilomeetrit edasi</item>
+        <item quantity="many">Liikuge teel %2$s veel %1$s kilomeetrit edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">%1$s jala pärast</item>
+        <item quantity="one">%1$s jala pärast</item>
+        <item quantity="two">%1$s jala pärast</item>
+        <item quantity="few">%1$s jala pärast</item>
+        <item quantity="many">%1$s jala pärast</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">%1$s jardi pärast</item>
+        <item quantity="one">%1$s jardi pärast</item>
+        <item quantity="two">%1$s jardi pärast</item>
+        <item quantity="few">%1$s jardi pärast</item>
+        <item quantity="many">%1$s jardi pärast</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">%1$s miili pärast</item>
+        <item quantity="one">%1$s miili pärast</item>
+        <item quantity="two">%1$s miili pärast</item>
+        <item quantity="few">%1$s miili pärast</item>
+        <item quantity="many">%1$s miili pärast</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Liikuge veel %1$s jalga edasi</item>
+        <item quantity="one">Liikuge veel %1$s jalg edasi</item>
+        <item quantity="two">Liikuge veel %1$s jalga edasi</item>
+        <item quantity="few">Liikuge veel %1$s jalga edasi</item>
+        <item quantity="many">Liikuge veel %1$s jalga edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Liikuge veel %1$s jardi edasi</item>
+        <item quantity="one">Liikuge veel %1$s jard edasi</item>
+        <item quantity="two">Liikuge veel %1$s jardi edasi</item>
+        <item quantity="few">Liikuge veel %1$s jardi edasi</item>
+        <item quantity="many">Liikuge veel %1$s jardi edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Liikuge veel %1$s miili edasi</item>
+        <item quantity="one">Liikuge veel %1$s miil edasi</item>
+        <item quantity="two">Liikuge veel %1$s miili edasi</item>
+        <item quantity="few">Liikuge veel %1$s miili edasi</item>
+        <item quantity="many">Liikuge veel %1$s miili edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Liikuge teel %2$s veel %1$s jalga edasi</item>
+        <item quantity="one">Liikuge teel %2$s veel %1$s jalg edasi</item>
+        <item quantity="two">Liikuge teel %2$s veel %1$s jalga edasi</item>
+        <item quantity="few">Liikuge teel %2$s veel %1$s jalga edasi</item>
+        <item quantity="many">Liikuge teel %2$s veel %1$s jalga edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Liikuge teel %2$s veel %1$s jardi edasi</item>
+        <item quantity="one">Liikuge teel %2$s veel %1$s jard edasi</item>
+        <item quantity="two">Liikuge teel %2$s veel %1$s jardi edasi</item>
+        <item quantity="few">Liikuge teel %2$s veel %1$s jardi edasi</item>
+        <item quantity="many">Liikuge teel %2$s veel %1$s jardi edasi</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Liikuge teel %2$s veel %1$s miili edasi</item>
+        <item quantity="one">Liikuge teel %2$s veel %1$s miil edasi</item>
+        <item quantity="two">Liikuge teel %2$s veel %1$s miili edasi</item>
+        <item quantity="few">Liikuge teel %2$s veel %1$s miili edasi</item>
+        <item quantity="many">Liikuge teel %2$s veel %1$s miili edasi</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d tärni</item>
+        <item quantity="zero">%d tärni</item>
+        <item quantity="one">%d tärn</item>
+        <item quantity="two">%d tärni</item>
+        <item quantity="few">%d tärni</item>
+        <item quantity="many">%d tärni</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">Teie broneering %d ööks</item>
+        <item quantity="zero">Teie broneering %d ööks</item>
+        <item quantity="one">Teie broneering %d ööks</item>
+        <item quantity="two">Teie broneering %d ööks</item>
+        <item quantity="few">Teie broneering %d ööks</item>
+        <item quantity="many">Teie broneering %d ööks</item>
+    </plurals>
+</resources>

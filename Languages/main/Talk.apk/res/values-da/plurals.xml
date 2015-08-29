@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="zero">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d valgt.</item>
+        <item quantity="one">%d valgt.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Vil du slette alle kopier af disse fotos?</item>
+        <item quantity="one">Vil du slette alle kopier af dette foto?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Er du sikker på, at du vil slette disse fotos fra dette Google+ album? Denne handling kan ikke fortrydes.</item>
+        <item quantity="one">Er du sikker på, at du vil slette dette foto fra dette Google+ album? Denne handling kan ikke fortrydes.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Er du sikker på, at du vil slette disse fotos både fra din mobil og dette Google+ album? Denne handling kan ikke fortrydes.</item>
+        <item quantity="one">Er du sikker på, at du vil slette dette foto både fra din mobil og fra dine Google+ album? Denne handling kan ikke fortrydes.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Sletter fotos...</item>
+        <item quantity="one">Sletter foto...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d kommentarer</item>
+        <item quantity="one">%d kommentar</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Slet fotos</item>
+        <item quantity="one">Slet foto</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s, %2$d medlemmer</item>
+        <item quantity="one">%1$s, %2$d medlem</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Nye Google+ underretninger</item>
+        <item quantity="one">Ny Google+ underretning</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Har inviteret dig til et Hangout med %d andre</item>
+        <item quantity="one">Har inviteret dig til et Hangout med 1 anden</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d vedhæftede filer</item>
+        <item quantity="one">%d vedhæftet fil</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d valgt</item>
+        <item quantity="one">%d valgt</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d cirkler, %2$s</item>
+        <item quantity="one">%1$d cirkel, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Slet cirkler</item>
+        <item quantity="one">Slet cirkel</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Vil du slette disse cirkler for altid?</item>
+        <item quantity="one">Vil du slette denne cirkel for altid?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Sletter cirkler...</item>
+        <item quantity="one">Sletter cirkel...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d personer</item>
+        <item quantity="one">%d person</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Fjern personer</item>
+        <item quantity="one">Fjern person</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Vil du fjerne disse personer fra cirklen?</item>
+        <item quantity="one">Vil du fjerne denne person fra cirklen?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Tilføjer personer...</item>
+        <item quantity="one">Tilføjer person...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Fjerner personer...</item>
+        <item quantity="one">Fjerner person...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Fjerner personer...</item>
+        <item quantity="one">Fjerner person...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d mere</item>
+        <item quantity="one">%d mere</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">for %d min. siden</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dage</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Videoopkald fra %2$s med %3$s og %1$d andre</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">1 time</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d invitationer</item>
+        <item quantity="one">%d invitation</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d beskeder i %2$d Hangouts</item>
+        <item quantity="one">%d beskeder i et Hangout</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Har inviteret dig til et Hangout med %1$d andre</item>
+        <item quantity="one">Har inviteret dig til et Hangout med 1 anden</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s og %1$d andre vil deltage i et Hangout</item>
+        <item quantity="one">%2$s og %1$d anden vil deltage i et Hangout</item>
+        <item quantity="few">%2$s og %1$d andre vil deltage i et Hangout</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d andre vil deltage i et Hangout</item>
+        <item quantity="one">%1$d anden vil deltage i et Hangout</item>
+        <item quantity="few">%1$d andre vil deltage i et Hangout</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d invitationer</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">%d elementer er vedhæftet</item>
+        <item quantity="zero">%d elementer er vedhæftet</item>
+        <item quantity="one">%d element er vedhæftet</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d elementer er videresendt</item>
+        <item quantity="zero">%d elementer er videresendt</item>
+        <item quantity="one">%d element er videresendt</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d uger</item>
+        <item quantity="one">en uge</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">en måned</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d år</item>
+        <item quantity="one">et år</item>
+    </plurals>
+</resources>

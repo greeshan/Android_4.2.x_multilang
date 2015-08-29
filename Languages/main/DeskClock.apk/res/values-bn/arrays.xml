@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>এই এলার্ম এখন থেকে ১ মিনিটের কম সময়ের জন্য সেট করা হয়েছে।</item>
+        <item>এই এলার্ম সেট করা হয়েছে এখন থেকে %1$s দিনের জন্য।</item>
+        <item>এই এলার্ম সেট করা হয়েছে এখন থেকে %2$s জন্য।</item>
+        <item>এই এলার্ম সেট করা হয়েছে এখন থেকে %1$s এবং %2$s জন্য।</item>
+        <item>এই এলার্ম সেট করা হয়েছে এখন থেকে%3$sজন্য।</item>
+        <item>এই এলার্ম সেট করা হয়েছে এখন থেকে %1$s এবং %3$sজন্য।</item>
+        <item>এই এলার্ম সেট করা হয়েছে এখন থেকে %2$s এবং %3$s জন্য</item>
+        <item>এই এলার্ম সেট করা হয়েছে এখন থেকে%1$s, %2$s, এবং %3$s জন্য।</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>বন্ধ</item>
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>১৫ মিনিট</item>
+        <item>২০ মিনিট</item>
+        <item>২৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>কিছু নয়</item>
+        <item>স্নুজ</item>
+        <item>বাতিল</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>১৫ মিনিট</item>
+        <item>২০ মিনিট</item>
+        <item>২৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>৫</item>
+        <item>১০</item>
+        <item>১৫</item>
+        <item>২০</item>
+        <item>২৫</item>
+        <item>৩০</item>
+    </string-array>
+</resources>

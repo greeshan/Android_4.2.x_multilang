@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Accéder aux applications
+ Appuyez sur le lanceur d'applications. @drawable/all_apps"</item>
+        <item>"Ajouter des applications à l'écran d'accueil
+ Appuyez sur une application du lanceur jusqu'à ce qu'elle vibre, puis faites-la glisser."</item>
+        <item>"Organiser l'écran d'accueil
+ Appuyez sur un élément et maintenez. Lorsqu'il vibre, placez-le à l'endroit souhaité."</item>
+        <item>"Supprimer un élément
+ Appuyez sur l'élément et maintenez. Lorsqu'il vibre, déplacez-le vers la corbeille. @drawable/trash"</item>
+        <item>"Écrans d'accueil multiples
+ Faites glisser l'écran vers la droite/gauche. Déplacez les icônes d'un écran à l'autre."</item>
+        <item>"Supprimer un widget
+ Appuyez dessus et maintenez. Quand il vibre, déplacez-le vers la corbeille."</item>
+    </string-array>
+</resources>

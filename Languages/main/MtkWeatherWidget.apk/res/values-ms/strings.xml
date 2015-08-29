@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuaca</string>
+    <string name="updating">Mengemas kini</string>
+    <string name="failed_to_locate">Gagal mencari.</string>
+    <string name="no_weather">Tiada maklumat cuaca untuk %s pada masa ini.</string>
+    <string name="add_setting">Ketik di sini untuk menambah bandar</string>
+</resources>

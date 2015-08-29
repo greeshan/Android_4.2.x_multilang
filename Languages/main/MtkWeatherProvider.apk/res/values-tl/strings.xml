@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serbisyo sa Panahon</string>
+    <string name="choose_city">Pumili ng lungsod</string>
+    <string name="searching">Naghahanap, pakihintay.</string>
+    <string name="no_found">Walang nahanap nalungsod na tugma sa %s. Pakitingnan ang mga ipinasok mong kataga.</string>
+    <string name="net_error">Wala ang network. Pakisuri ito.</string>
+    <string name="no_city_error">Hindi makuha ang impormasyon ng lungsod, Paki-set nang tama ang oras ng sistema at time zone.</string>
+    <string name="searching_fail">Nabigo ang paghanap ng lungsod.</string>
+    <string name="no_weather_error">Hindi makuha ang impormasyon ng panahon, Paki-set nang tama ang oras ng sistema at time zone.</string>
+    <string name="no_weather">Sa kasalukuyan at walang ang panahon para sa %s.</string>
+    <string name="setting_title">Set-up</string>
+    <string name="temperature">Mga yunit ng temperatura</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Mga lungsod</string>
+    <string name="update_fre">Dalas ng pag-update</string>
+    <string name="every12">Kada 12 oras</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="menu_add_city">Idagdag ang lungsod</string>
+    <string name="add_city">Pindutin ang icon upang magdagdag ng bagong lungsod</string>
+    <string name="remove">Alisin</string>
+    <string name="warn">8 ang pinakamaraming lungsod na maidadagdag.</string>
+    <string name="has_chosen">ay napili.</string>
+    <string name="no_city">Walang mga lungsod</string>
+    <string name="powered_by">Pinagagana ng:</string>
+    <string name="menu_about">Tungkol sa</string>
+</resources>

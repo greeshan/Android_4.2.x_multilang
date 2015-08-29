@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ምስክር ጫኚ</string>
+    <string name="pick_file_title">የምስክር ወረቀት ምረጥ</string>
+    <string name="pkcs12_password_dialog_title">የዕውቅና ማረጋገጫ ነጥለህ አውጣ</string>
+    <string name="extracting_pkcs12">በማውጣት ላይ....</string>
+    <string name="pkcs12_file_password_dialog_title">ከ%s ማውጣት</string>
+    <string name="name_credential_dialog_title">ምስክሩን ስም ጥራ</string>
+    <string name="credential_name">የምስክር ስም፡</string>
+    <string name="credential_password">ምስክሩን ለማውጣት የይለፍ ቃል ተይብ፡፡</string>
+    <string name="credential_info">አካታቹ፡ ይይዛል።</string>
+    <string name="p12_description">"ምስክሮች በPKCS12  ቁልፍማከማቻ።"</string>
+    <string name="one_userkey">የአንድ ተጠቃሚ ቁልፍ</string>
+    <string name="one_usercrt">የአንድ ተጠቃሚ ምስክር</string>
+    <string name="one_cacrt">አንድCA ምስክር</string>
+    <string name="n_cacrts">%d CA ምስክሮች</string>
+    <string name="password_error">ትክክለኛውን የይለፍ ቃል አስገባ፡፡</string>
+    <string name="password_empty_error">የይለፍ ቃሉን ተይብ፡፡</string>
+    <string name="name_empty_error">ስም ተይብ፡፡</string>
+    <string name="name_char_error">ፊደሎች እና ቁጥሮች ብቻ የያዘ ስም ተይብ፡፡</string>
+    <string name="storage_error">የምስክር ወረቀቱ ለማስቀመጥ አልተቻለም፡፡ ዳግም ለመሞከር እሺ ንካ፡፡</string>
+    <string name="unable_to_save_cert">የምስክር ወረቀቱን ማስቀመጥ አልተቻለም።የምስክርነት ማከማቻው አልነቃም ወይም በአግባቡ አልተነሳም።</string>
+    <string name="cert_not_saved">ምስክሩ አልተጫነም።</string>
+    <string name="no_cert_to_saved">ለመጫን ምንም ምስክር አያስፈልግም።</string>
+    <string name="invalid_cert">ምስክሩ ትክክል አይደለም።</string>
+    <string name="cert_is_added">%s ተጭኗል።</string>
+    <string name="cert_too_large_error">መጫን አልተቻለም ምክንያቱም የምስክር ወረቀቱ መጠን በጣም ትልቅ ስለሆነ፡፡</string>
+    <string name="cert_missing_error">መጫን አልተቻለም ምክንያቱም የምስክር ወረቀቱ ፋይል ሊደረስበት ስላልተቻለ፡፡</string>
+    <string name="cert_read_error">መጫን አልተቻለም ምክንያቱም የምስክር ወረቀቱ ፋይል ሊነበብ ስላልተቻለ፡፡</string>
+    <string name="no_cert_file_found">ምንም የምስክር ፋይል በSD ካርድ ውስጥ አልተገኘም።</string>
+    <string name="sdcard_not_present">SD ካርድ የለም።</string>
+</resources>

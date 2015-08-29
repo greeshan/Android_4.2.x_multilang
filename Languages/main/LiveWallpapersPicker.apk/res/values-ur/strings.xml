@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">لائیو وال پیپر چنندہ</string>
+    <string name="live_wallpaper_picker_title">لائیو وال پیپر</string>
+    <string name="live_wallpaper_picker_label">لائیو وال پیپر</string>
+    <string name="live_wallpaper_preview_title">لائیو وال پیپر پیش نظارہ</string>
+    <string name="configure_wallpaper">ترتیبات؟</string>
+    <string name="wallpaper_instructions">دیواری کاغذ مرتب کرنا</string>
+    <string name="live_wallpaper_empty">کوئی دیواری کاغذ نہیں۔</string>
+    <string name="set_live_wallpaper">دیواری کاغذ مرتب کرنا</string>
+    <string name="wallpaper_title_and_author">%1$s by %2$s</string>
+    <string name="live_wallpaper_loading">لائیو دیواری کاغذ لوڈ کررہا ہے؟</string>
+    <string name="wallpaper_cancel">منسوخ کر دیا گیا</string>
+</resources>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">Zdjęcia: %d</item>
+        <item quantity="zero">%d zdjęć</item>
+        <item quantity="one">%d zdjęcie</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">Wybrane: %d</item>
+        <item quantity="one">Wybrane: %d</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Usunąć wszystkie kopie tych zdjęć?</item>
+        <item quantity="one">Usunąć wszystkie kopie tego zdjęcia?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Czy na pewno chcesz usunąć te zdjęcia z tego albumu Google+? Tej czynności nie można cofnąć.</item>
+        <item quantity="one">Czy na pewno chcesz usunąć to zdjęcie z tego albumu Google+? Tej czynności nie można cofnąć.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Czy na pewno chcesz usunąć te zdjęcia zarówno z telefonu, jak i tego albumu Google+? Tej czynności nie można cofnąć.</item>
+        <item quantity="one">Czy na pewno chcesz usunąć to zdjęcie zarówno z telefonu, jak i tego albumu Google+? Tej czynności nie można cofnąć.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Usuwanie zdjęć...</item>
+        <item quantity="one">Usuwanie zdjęcia...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">Komentarze: %d</item>
+        <item quantity="one">%d komentarz</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Usuń zdjęcia</item>
+        <item quantity="one">Usuń zdjęcie</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; osoby: %2$d</item>
+        <item quantity="one">%1$s; %2$d osoba</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Powiadomienia z Google+</item>
+        <item quantity="one">Powiadomienie z Google+</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Zaprasza Cię na Hangout z jeszcze %d osobami</item>
+        <item quantity="one">Zaprasza Cię na Hangout z jeszcze jedną osobą</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">Załączniki: %d</item>
+        <item quantity="one">%d załącznik</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">Wybrano: %d</item>
+        <item quantity="one">Wybrano: %d</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">Kręgi: %1$d, %2$s</item>
+        <item quantity="one">Krąg %1$d, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Usuń kręgi</item>
+        <item quantity="one">Usuń krąg</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Chcesz trwale usunąć te kręgi?</item>
+        <item quantity="one">Chcesz trwale usunąć ten krąg?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Usuwanie kręgów...</item>
+        <item quantity="one">Usuwanie kręgu...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">Osoby: %d</item>
+        <item quantity="one">%d osoba</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Usuń osoby</item>
+        <item quantity="one">Usuń osobę</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Chcesz usunąć te osoby z tego kręgu?</item>
+        <item quantity="one">Chcesz usunąć tę osobę z tego kręgu?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Dodawanie osób...</item>
+        <item quantity="one">Dodawanie osoby...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Usuwanie osób...</item>
+        <item quantity="one">Usuwanie osoby...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Odrzucanie osób...</item>
+        <item quantity="one">Odrzucanie osoby...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">jeszcze %d</item>
+        <item quantity="one">jeszcze %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Rozmowa wideo otwarta przez: %2$s, z udziałem: %3$s i jeszcze %1$d osób</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">1 godz.</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">Zaproszenia: %d</item>
+        <item quantity="one">%d zaproszenie</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d wiadomości na %2$d Hangoutach</item>
+        <item quantity="one">%d wiadomości na jednym Hangoucie</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Zaprasza Cię na Hangout z jeszcze %1$d osobami</item>
+        <item quantity="one">Zaprasza Cię na Hangout z jeszcze jedną osobą</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s i inne osoby (%1$d) chcą spotkać się na Hangoucie</item>
+        <item quantity="one">%2$s i %1$d inna osoba chcą spotkać się na Hangoucie</item>
+        <item quantity="few">%2$s i inne osoby (%1$d) chcą spotkać się na Hangoucie</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">Inne osoby (%1$d) chcą spotkać się na Hangoucie</item>
+        <item quantity="one">%1$d inna osoba chce spotkać się na Hangoucie</item>
+        <item quantity="few">Inne osoby (%1$d) chcą spotkać się na Hangoucie</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">Zaproszenia: %1$d</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">Dołączono %d elementy(ów)</item>
+        <item quantity="zero">Dołączono %d elementów</item>
+        <item quantity="one">Dołączono %d element</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">Przekazano dalej %d elementy(ów)</item>
+        <item quantity="zero">Przekazano dalej %d elementów</item>
+        <item quantity="one">Przekazano dalej %d element</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d tyg.</item>
+        <item quantity="one">tydzień</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d mies.</item>
+        <item quantity="one">miesiąc</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">Lata: %d</item>
+        <item quantity="one">rok</item>
+    </plurals>
+</resources>

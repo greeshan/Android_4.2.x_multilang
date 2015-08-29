@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d ፎቶዎች</item>
+        <item quantity="zero">%d ፎቶዎች</item>
+        <item quantity="one">%d ፎቶዎች</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d ተመርጠዋል።</item>
+        <item quantity="one">%d ተመርጠዋል።</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">የእነዚህ ፎቶዎችን ቅጂዎች ሁሉ ይሰረዙ?</item>
+        <item quantity="one">የእዚህን ፎቶ ቅጂዎች ሁሉ ይሰረዙ?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">እነዚህ ፎቶዎች ከእዚህ የGoogle+ አልበም ለመሰረዝ መፈለግዎን እርግጠኛ ንዎት? ይህ እርምጃ ሊቀለበስ አይችልም።</item>
+        <item quantity="one">ይህን ፎቶ ከእዚህ የGoogle+ አልበም ለመሰረዝ መፈለግዎን እርግጠኛ ንዎት? ይህ እርምጃ ሊቀለበስ አይችልም።</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">እርግጠኛ ንዎት እነዚህ ፎቶዎች ከስልክዎም ከእዚህ የGoogle+ አልበምም ለመሰረዝ ይፈልጋሉ? ይህ እርምጃ ሊቀለበስ አይችልም።</item>
+        <item quantity="one">ይሄን ፎቶ ከስልክዎም ከእዚህ የGoogle+ አልበምም ለመሰረዝ መፈለግዎን እርግጠኛ ንዎት? ይህ እርምጃ ሊቀለበስ አይችልም።</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">ፎቶ በመሰረዝ ላይ…</item>
+        <item quantity="one">ፎቶ በመሰረዝ ላይ…</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d አስተያየቶች</item>
+        <item quantity="one">%d አስተያየት</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">ፎቶዎች ሰርዝ</item>
+        <item quantity="one">ፎቶ ሰርዝ</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s፤ %2$d አባላት</item>
+        <item quantity="one">%1$s፤ %2$d አባላት</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">አዲስ የGoogle+ ማሳወቂያዎች</item>
+        <item quantity="one">አዲስ የGoogle+ ማሳወቂያ</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">ከ%d ሌሎች ጋር አንድ Hangout እንዲቀላቀሉ ጋብዘውዎታል</item>
+        <item quantity="one">ከ1 ሌላ ጋር አንድ Hangout እንዲቀላቀሉ ጋብዘውዎታል</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d አባሪዎች</item>
+        <item quantity="one">%d አባሪ</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d ተመርጠዋል</item>
+        <item quantity="one">%d ተመርጠዋል</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d ክበቦች፣ %2$s</item>
+        <item quantity="one">%1$d ክበብ፣ %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">ክበቦች ሰርዝ</item>
+        <item quantity="one">ክበብ ሰርዝ</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">እነዚህ ክበቦች እስከመጨረሻው ለመሰረዝ ይፈልጋሉ?</item>
+        <item quantity="one">ይህን ክበብ እስከመጨረሻው ለማጥፋት ይፈልጋሉ?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">ክበቦት በመሰረዝ ላይ…</item>
+        <item quantity="one">ክበብ በመሰረዝ ላይ…</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d ሰዎች</item>
+        <item quantity="one">%d ሰዎች</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">ሰዎች አስወግድ</item>
+        <item quantity="one">ግለሰቡን አስወግድ</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">እነዚህ ሰዎች ከእዚህ ክበብ ማስወገድ ይፈልጋሉ?</item>
+        <item quantity="one">ይህን ሰው ከዚህ ክበብዎ ማስወገድ ይፈልጋሉ?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">ሰዎች በማከል ላይ…</item>
+        <item quantity="one">ሰው በማከል ላይ…</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">ሰዎች በማስወገድ ላይ...</item>
+        <item quantity="one">ሰው በማስወገድ ላይ…</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">ሰዎች በማስወገድ ላይ…</item>
+        <item quantity="one">ግለሰቡ በማስወገድ ላይ…</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d ተጨማሪ</item>
+        <item quantity="one">%d ተጨማሪ...</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ደቂቃዎች በፊት</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓት</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ቀናት</item>
+        <item quantity="one">%d ቀናት</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">%2$s ከ%3$s እና %1$d ሌሎች ጋር ሆነው ያደረጉት የቪዲዮ ጥሪ</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">1 ሰዓት</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d ግብዣዎች</item>
+        <item quantity="one">%d ግብዣ</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d መልዕክቶች በ%2$d ውይይቶች</item>
+        <item quantity="one">%d መልዕክቶች በአንድ ውይይት ውስጥ</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">ከ%1$d ሌሎች ጋር አንድ Hangout እንዲቀላቀሉ ጋብዘውዎታል</item>
+        <item quantity="one">ከ1 ሌላ ጋር አንድ Hangout እንዲቀላቀሉ ጋብዘውዎታል</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s እና %1$d ሌሎች መወያየት ይፈልጋሉ</item>
+        <item quantity="one">%2$s እና %1$d ሌላ መወያየት ይፈልጋሉ</item>
+        <item quantity="few">%2$s እና %1$d ሌሎች መወያየት ይፈልጋሉ</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d ሌሎች መወያየት ይፈልጋሉ</item>
+        <item quantity="one">%1$d ሌላ መወያየት ይፈልጋሉ</item>
+        <item quantity="few">%1$d ሌሎች መወያየት ይፈልጋሉ</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d ግብዣዎች</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">%d ንጥል ነገሮች አባሪ ተደርገዋል</item>
+        <item quantity="zero">%d ንጥል ነገሮች አባሪ ተደርገዋል</item>
+        <item quantity="one">%d ንጥል ነገር አባሪ ተደርጓል</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d ንጥል ነገሮች ተላልፈዋል</item>
+        <item quantity="zero">%d ንጥል ነገሮች ተላልፈዋል</item>
+        <item quantity="one">%d ንጥል ነገር ተላልፏል</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d ሳምንታት</item>
+        <item quantity="one">አንድ ሳምንት</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d ወራት</item>
+        <item quantity="one">አንድ ወር</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d ዓመታት</item>
+        <item quantity="one">አንድ ዓመት</item>
+    </plurals>
+</resources>

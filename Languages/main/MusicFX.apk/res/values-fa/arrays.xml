@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>هیچکدام</item>
+        <item>اتاق کوچک</item>
+        <item>اتاق متوسط</item>
+        <item>اتاق بزرگ</item>
+        <item>سالن متوسط</item>
+        <item>سالن بزرگ</item>
+        <item>طنين انداز صفحه ای</item>
+    </string-array>
+</resources>

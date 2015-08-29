@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Toto zapnutí je nastaveno na méně než 1 minutu od tohoto okamžiku.</item>
+        <item>Toto zapnutí je nastaveno na %1$s od tohoto okamžiku.</item>
+        <item>Toto zapnutí je nastaveno na %2$s od tohoto okamžiku.</item>
+        <item>Toto zapnutí je nastaveno na %1$s a %2$s od tohoto okamžiku.</item>
+        <item>Toto zapnutí je nastaveno na %3$s od tohoto okamžiku.</item>
+        <item>Toto zapnutí je nastaveno na %1$s a %3$s od tohoto okamžiku.</item>
+        <item>Toto zapnutí je nastaveno na %2$s a %3$s od tohoto okamžiku.</item>
+        <item>Toto zapnutí je nastaveno na %1$s, %2$s, a %3$s od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na méně než 1 minutu od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na %1$s od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na %2$s od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na %1$s a %2$s od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na %3$s od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na %1$s a %3$s od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na %2$s a %3$s od tohoto okamžiku.</item>
+        <item>Toto vypnutí je nastaveno na %1$s, %2$s, a %3$s od tohoto okamžiku.</item>
+    </string-array>
+</resources>

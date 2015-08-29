@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>összenyomás</item>
+        <item>nagy szem</item>
+        <item>nagy száj</item>
+        <item>kis száj</item>
+        <item>nagy orr</item>
+        <item>kis szem</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>az űrben</item>
+        <item>naplemente</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>alacsony</item>
+        <item>közepes</item>
+        <item>magas</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>nincs tárgy</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>MOSOLY, MOSOLYGÓ SZEMEKKEL</item>
+        <item>VIGYOR</item>
+        <item>VIGYOR, MOSOLYGÓ SZEMEKKEL</item>
+        <item>ÖRÖMKÖNNYEK</item>
+        <item>MOSOLY TÁTOTT SZÁJJAL</item>
+        <item>MOSOLY NYITOTT SZÁJJAL ÉS MOSOLYGÓ SZEMEKKEL</item>
+        <item>MOSOLY NYITOTT SZÁJJAL ÉS HIDEG VEREJTÉKKEL</item>
+        <item>MOSOLY NYITOTT SZÁJJAL ÉS LEHUNYT SZEMEKKEL</item>
+        <item>MOSOLY DICSFÉNNYEL</item>
+        <item>MOSOLY ÖRDÖGSZARVAKKAL</item>
+        <item>KACSINTÁS</item>
+        <item>CSENDES</item>
+        <item>SEMLEGES</item>
+        <item>KIFEJEZÉSTELEN</item>
+        <item>ZAVART</item>
+        <item>MÉRGES</item>
+        <item>GRIMASZ</item>
+        <item>DUZZOGÁS</item>
+        <item>SÍRÁS</item>
+        <item>ALVÁS</item>
+        <item>ARC TÁTOTT SZÁJJAL</item>
+        <item>ÁLLHATATOS</item>
+        <item>GŐZT FÚJÓ ARC</item>
+        <item>CSALÓDOTT, DE MEGKÖNNYEBBÜLT</item>
+        <item>HOMLOKRÁNCOLÁS TÁTOTT SZÁJJAL</item>
+        <item>GYÖTRŐDŐ</item>
+        <item>FÉLELMETES</item>
+        <item>KIMERÜLT</item>
+        <item>NYITOTT SZÁJ ÉS HIDEG VEREJTÉK</item>
+        <item>AGGÓDÓ ARC</item>
+        <item>SIKOLY (FÉLELEMTŐL)</item>
+        <item>DÖBBENT</item>
+        <item>ELVÖRÖSÖDÖTT</item>
+        <item>SZÉDÜL</item>
+        <item>ARC SZÁJ NÉLKÜL</item>
+        <item>ARC ORVOSI MASZKKAL</item>
+        <item>CSALÓDOTT</item>
+        <item>UNOTT</item>
+        <item>MOSOLY SZÍV ALAKÚ SZEMEKKEL</item>
+        <item>KIÖLTÖTT NYELV</item>
+        <item>KIÖLTÖTT NYELV ÉS KACSINTÁS</item>
+        <item>KIÖLTÖTT NYELV ÉS SZOROSAN LEHUNYT SZEMEK</item>
+        <item>ÍZLETES ÉTELT KÓSTOL</item>
+        <item>CSÓKOT ADÓ ARC</item>
+        <item>CSÓKOT ADÓ ARC MOSOLYGÓ SZEMEKKEL</item>
+        <item>CSÓKOT DOBÓ ARC</item>
+        <item>CSÓKOT ADÓ ARC CSUKOTT SZEMEKKEL</item>
+        <item>MOSOLY NAPSZEMÜVEGGEL</item>
+        <item>HANGOSAN SÍR</item>
+        <item>MEGKÖNNYEBBÜLT</item>
+        <item>ÖSSZEZAVARODOTT</item>
+        <item>TÖPRENGŐ</item>
+        <item>ÁLMOS</item>
+        <item>ÖNELÉGÜLT MOSOLY</item>
+        <item>HIDEG VEREJTÉK</item>
+        <item>FÁRADT</item>
+        <item>BOLDOG, EGYIK KÉZ FELEMELVE</item>
+        <item>MINDKÉT KEZÉT FELEMELVE ÜNNEPEL</item>
+        <item>HOMLOKRÁNCOLÁS</item>
+        <item>KARJAIT MÉRGESEN ÖSSZEKULCSOLJA</item>
+        <item>„MINDEN RENDBEN” ARCKIFEJEZÉS</item>
+        <item>EMBER MÉLYEN MEGHAJOL</item>
+        <item>DUZZOGÓ ARC</item>
+        <item>ÖSSZEKULCSOLT KEZEK</item>
+        <item>„OK” JEL</item>
+        <item>FELFELÉ MUTATÓ HÜVELYKUJJ</item>
+        <item>LEFELÉ MUTATÓ HÜVELYKUJJ</item>
+        <item>KAKIHALOM</item>
+        <item>IZZADÓ SZÍV</item>
+        <item>SZŐRÖS SZÍV</item>
+        <item>BÍBOR SZÍV</item>
+        <item>ÖSSZETÖRT SZÍV</item>
+        <item>SZÍV NYÍLLAL</item>
+        <item>JEGES SZÍV</item>
+        <item>„KLASSZ” JEL</item>
+        <item>„INGYEN” JEL</item>
+        <item>„OK” JEL</item>
+        <item>„SOS” JEL</item>
+        <item>SZÍNHÁZI MASZKOK</item>
+        <item>SZIVÁRVÁNY</item>
+        <item>BULIS</item>
+        <item>TÁNCOS</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">ผิดพลาด</string>
+    <string name="no_market_app">ไม่ได้ติดตั้งแอพพลิเคชั่นมาร์เก็ต</string>
+    <string name="alert_dialog_ok">ตกลง</string>
+</resources>

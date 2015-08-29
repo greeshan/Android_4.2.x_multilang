@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Lihat semua apl anda.
+ Sentuh ikon Pelancar. @drawable/all_apps"</item>
+        <item>"Seret apl ke skrin Laman Utama.
+ Sentuh terus apl dalam Pelancar hingga ia bergetar."</item>
+        <item>"Atur semula skrin Laman Utama anda.
+ Sentuh terus sesuatu item itu dan apabila ia bergetar, seretnya ke mana yang anda mahukan."</item>
+        <item>"Alih keluar item.
+ Sentuh terus item dan apabila ia bergetar, seretnya ke ikon Sampah. @drawable/trash"</item>
+        <item>"Berbilang skrin Utama.
+ Leret kiri atau kanan untuk menukar. Seret item ke skrin lain."</item>
+        <item>"Selesai menggunakan widget ini?
+ Sentuh terus widget ini dan apabila ia bergetar, seretnya ke ikon Sampah."</item>
+    </string-array>
+</resources>

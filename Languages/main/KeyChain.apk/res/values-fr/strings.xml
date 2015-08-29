@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clé</string>
+    <string name="title_no_certs">Aucun certificat trouvé</string>
+    <string name="title_select_cert">Sélectionnez certificat</string>
+    <string name="requesting_application">"L'application %s requiert un certificat. La sélection d'un certificat permettra à l'appli d'utiliser cette identité avec les serveurs maintenant et ultérieurement."</string>
+    <string name="requesting_server">"L'application a identifié le serveur de requête comme étant %s, mais vous ne devriez donner accès au certificat que si vous faites confiance à l'application."</string>
+    <string name="install_new_cert_message">Vous pouvez installer les certificats depuis un fichier PKCS#12 avec extension %1$s ou %2$s situé sur un stockage externe.</string>
+    <string name="install_new_cert_button_label">Installer</string>
+    <string name="allow_button">Autoriser</string>
+    <string name="deny_button">Refuser</string>
+</resources>

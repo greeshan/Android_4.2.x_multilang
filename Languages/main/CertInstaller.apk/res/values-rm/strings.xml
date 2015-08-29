@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Program d'installaziun dal certificat"</string>
+    <string name="pkcs12_file_password_dialog_title">Extrair da %s</string>
+    <string name="name_credential_dialog_title">Dar in num al certificat</string>
+    <string name="credential_name">Num dal certificat:</string>
+    <string name="credential_info">Il pachet cuntegna:</string>
+    <string name="p12_description">Certificats en il keystore PKCS12</string>
+    <string name="one_userkey">ina clav utilisader</string>
+    <string name="one_usercrt">in certificat utilisader</string>
+    <string name="one_cacrt">in certificat dal post da certificaziun</string>
+    <string name="n_cacrts">%d certificats dal post da certificaziun (CA)</string>
+    <string name="cert_not_saved">"Il certificat n'è betg installà."</string>
+    <string name="no_cert_to_saved">Nagin certificat per installar.</string>
+    <string name="invalid_cert">Il certificat è nunvalid.</string>
+    <string name="cert_is_added">%s è installà.</string>
+    <string name="no_cert_file_found">Betg chattà ina datoteca da certificat sin la carta SD.</string>
+</resources>

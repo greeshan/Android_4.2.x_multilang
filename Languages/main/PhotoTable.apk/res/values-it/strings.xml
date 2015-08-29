@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screensaver fotografici</string>
+    <string name="table_screensaver_name">Tabella foto</string>
+    <string name="flipper_screensaver_name">Cornice foto</string>
+    <string name="posts_album_name">Foto dai post</string>
+    <string name="uploads_album_name">Caricamenti istantanei</string>
+    <string name="unknown_album_name">Album senza nome</string>
+    <string name="stock_photo_album_name">Foto di archivi stock</string>
+    <string name="local_source_name">Foto su dispositivo</string>
+    <string name="need_to_configure">Nessuna foto selezionata.</string>
+</resources>

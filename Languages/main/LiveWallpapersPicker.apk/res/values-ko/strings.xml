@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">라이브 월페이퍼 피커</string>
+    <string name="live_wallpaper_picker_title">라이브 배경화면 선택</string>
+    <string name="live_wallpaper_picker_label">라이브 배경화면</string>
+    <string name="live_wallpaper_preview_title">라이브 배경화면 미리보기</string>
+    <string name="configure_wallpaper">설정…</string>
+    <string name="wallpaper_instructions">배경화면 설정</string>
+    <string name="live_wallpaper_empty">라이브 배경화면 없음.</string>
+    <string name="set_live_wallpaper">배경화면 설정</string>
+    <string name="wallpaper_title_and_author">%1$s( %2$s 만듬)</string>
+    <string name="live_wallpaper_loading">라이브 배경화면을 로드하는 중...</string>
+    <string name="wallpaper_cancel">취소</string>
+</resources>

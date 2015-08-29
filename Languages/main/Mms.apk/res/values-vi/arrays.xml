@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Vui vẻ</item>
+        <item>Buồn</item>
+        <item>Nháy mắt</item>
+        <item>Thè lưỡi</item>
+        <item>Ngạc nhiên</item>
+        <item>Hôn</item>
+        <item>La hét</item>
+        <item>Hấp dẫn</item>
+        <item>Mặt hám tiền</item>
+        <item>Há miệng mắc quai</item>
+        <item>Bối rối</item>
+        <item>Thiên thần</item>
+        <item>Chưa quyết định</item>
+        <item>Khóc</item>
+        <item>Môi bị bịt kín</item>
+        <item>Cười lớn</item>
+        <item>Bối rối</item>
+        <item>Trái tim</item>
+        <item>Giận dữ</item>
+        <item>Cười điệu</item>
+        <item>Mặt phớt tỉnh</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>không có chủ đề</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Cậu đang ở đâu?</item>
+        <item>Cậu đang làm gì?</item>
+        <item>Hãy gọi lại cho tớ!</item>
+        <item>Xin lỗi, tớ đang có cuộc họp.</item>
+        <item>Sẽ gọi cho cậu sớm.</item>
+        <item>Đừng lo! Tớ rất ổn.</item>
+        <item>Tớ đang trên đường về nhà.</item>
+        <item>Sẽ đến sớm.</item>
+        <item>Sẽ đến đó hay đến quảng trường!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Chế độ giới hạn</item>
+        <item>Chế độ cảnh báo</item>
+        <item>Chế độ miễn phí</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Cao</item>
+        <item>Chuẩn</item>
+        <item>Thấp</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Chữ cái GSM</item>
+        <item>Unicode</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Điện thoại</item>
+        <item>SIM Card</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Thiết bị</item>
+        <item>SIM Card</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Theo cỡ chữ hệ thống</item>
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+        <item>Quá lớn</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+        <item>10 giây</item>
+        <item>Khác…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi ở chế độ im lặng</item>
+        <item>Chưa bao giờ</item>
+    </string-array>
+</resources>

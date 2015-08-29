@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">منتخب کردہ آئٹمز حذف کریں؟</item>
+        <item quantity="one">منتخب آئٹم حذف کریں؟</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d منتخب</item>
+        <item quantity="zero">%1$d منتخب</item>
+        <item quantity="one">%1$d منتخب</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d منتخب</item>
+        <item quantity="zero">%1$d منتخب</item>
+        <item quantity="one">%1$d منتخب</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d منتخب</item>
+        <item quantity="zero">%1$d منتخب</item>
+        <item quantity="one">%1$d منتخب</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">البم کو آف لائن دستیاب کررہا ہے.</item>
+        <item quantity="one">البم کو آف لائن دستیاب کررہا ہے.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Veja todos os seus aplicativos.
+ Toque no ícone do Launcher. @drawable/all_apps"</item>
+        <item>"Arraste os aplicativos até a Tela inicial.
+ Toque e segure um aplicativo no Iniciador até que ele vibre."</item>
+        <item>"Reorganize sua tela inicial.
+ Toque e segure um item; quando ele vibrar, arraste-o para onde quiser."</item>
+        <item>"Remova itens.
+ Toque e segure um item; quando ele vibrar, arraste-o para a Lixeira. @drawable/trash"</item>
+        <item>"Múltiplas telas iniciais.
+ Deslize para a esquerda ou para a direita para alternar entre as telas. Arraste itens para outras telas."</item>
+        <item>"Já usou este widget?
+ Toque e mantenha o widget pressionado; quando ele vibrar, arraste-o para a Lixeira."</item>
+    </string-array>
+</resources>

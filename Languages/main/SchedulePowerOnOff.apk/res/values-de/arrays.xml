@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Diese Einschaltung ist für einen Zeitpunkt in weniger als 1 Minute eingestellt.</item>
+        <item>Diese Einschaltung erfolgt laut Einstellung ab jetzt in %1$s.</item>
+        <item>Diese Einschaltung ist von nun an für %2$s eingestellt.</item>
+        <item>Diese Einschaltung erfolgt laut Einstellung ab jetzt in %1$s und %2$s.</item>
+        <item>Diese Einschaltung ist von nun an für %3$s eingestellt.</item>
+        <item>Diese Einschaltung erfolgt laut Einstellung ab jetzt in %1$s und %3$s.</item>
+        <item>Diese Einschaltung ist von nun an für %2$s und %3$s eingestellt.</item>
+        <item>Diese Einschaltung erfolgt laut Einstellung ab jetzt in %1$s, %2$s und %3$s.</item>
+        <item>Diese Abschaltung ist für einen Zeitpunkt in weniger als 1 Minute eingestellt.</item>
+        <item>Diese Abschaltung erfolgt laut Einstellung ab jetzt in %1$s.</item>
+        <item>Diese Abschaltung ist von nun an für %2$s eingestellt.</item>
+        <item>Diese Abschaltung erfolgt laut Einstellung ab jetzt in %1$s und %2$s.</item>
+        <item>Diese Abschaltung ist von nun an für %3$s eingestellt.</item>
+        <item>Diese Abschaltung erfolgt laut Einstellung ab jetzt in %1$s und %3$s.</item>
+        <item>Diese Abschaltung ist von nun an für %2$s und %3$s eingestellt.</item>
+        <item>Diese Abschaltung erfolgt laut Einstellung ab jetzt in %1$s, %2$s und %3$s.</item>
+    </string-array>
+</resources>

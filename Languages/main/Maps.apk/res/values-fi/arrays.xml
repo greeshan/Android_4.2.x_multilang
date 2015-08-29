@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Todella huono</item>
+        <item>Ei kovin hyvä</item>
+        <item>Ihan kiva</item>
+        <item>Hyvä</item>
+        <item>Aivan mahtava</item>
+    </string-array>
+</resources>

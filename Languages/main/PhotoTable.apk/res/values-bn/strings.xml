@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ফটো স্ক্রিনসেভার</string>
+    <string name="table_screensaver_name">ফটো টেবিল</string>
+    <string name="flipper_screensaver_name">ফটো ফ্রেম</string>
+    <string name="posts_album_name">পোস্ট থেকে ফটো</string>
+    <string name="uploads_album_name">তাৎক্ষনিক আপলোড</string>
+    <string name="unknown_album_name">নামবিহীন অ্যালবাম</string>
+    <string name="stock_photo_album_name">স্টক ফটো</string>
+    <string name="local_source_name">ডিভাইসে ফটো</string>
+    <string name="need_to_configure">কোন ফটো নির্বাচন করা হয়নি।</string>
+</resources>

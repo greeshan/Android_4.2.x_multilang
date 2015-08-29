@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Membencinya</item>
+        <item>Tidak menyukainya</item>
+        <item>Sederhana</item>
+        <item>Menyukainya</item>
+        <item>Amat menyukainya</item>
+    </string-array>
+</resources>

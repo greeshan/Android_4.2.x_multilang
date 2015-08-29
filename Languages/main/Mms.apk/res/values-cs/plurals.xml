@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Odesílání %d hlášení o přečtení</item>
+        <item quantity="one">Odesílání %d hlášení o přečtení</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Vybráno %d</item>
+        <item quantity="one">Vybráno %d</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">Bylo odstraněno %1$s konverzací</item>
+        <item quantity="one">Jedna konverzace byla odstraněna</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%2$s výsledků pro dotaz „%1$s“</item>
+        <item quantity="one">%1$s výsledek pro dotaz „%2$s“</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Konverzace ke smazání: %1$s</item>
+        <item quantity="one">Bude smazána jedna konverzace.</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d nepřečtených zpráv.</item>
+        <item quantity="one">%d nepřečtená zpráva.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s dalších zpráv</item>
+        <item quantity="one">+%1$s další zpráva</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Počet lidí: %1$s</item>
+    </plurals>
+</resources>

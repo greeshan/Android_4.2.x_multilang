@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panahon</string>
+    <string name="updating">Ina-update</string>
+    <string name="failed_to_locate">Nabigong hanapin</string>
+    <string name="no_weather">Walang panahon para sa %s sa kasalukuyan.</string>
+    <string name="add_setting">Tapikin dito upang magdagdag ng mga lungsod</string>
+</resources>

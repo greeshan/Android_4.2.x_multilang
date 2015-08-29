@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Nagyon nem tetszett</item>
+        <item>Nem tetszett</item>
+        <item>Rendben volt</item>
+        <item>Tetszett</item>
+        <item>Nagyon tetszett</item>
+    </string-array>
+</resources>

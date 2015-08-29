@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">تلاش کے اضافی پروگرام کا فراہم کنندہ</string>
+    <string name="search_label">ایپس</string>
+    <string name="application_desc">اضافی پروگرام</string>
+    <string name="settings_description">نصب کردہ اضافی پروگرام کے نام</string>
+    <string name="search_empty">کوئی میچ نہيں</string>
+</resources>

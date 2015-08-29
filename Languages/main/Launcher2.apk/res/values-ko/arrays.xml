@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scene_name">
+        <item>기본값</item>
+        <item>회사</item>
+    </string-array>
+</resources>

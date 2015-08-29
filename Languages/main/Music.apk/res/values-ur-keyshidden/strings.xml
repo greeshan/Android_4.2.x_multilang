@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">اپنے نئے پلے لسٹ کو نام دینے کے لئے کی بورڈ کھولیں یا اسے نام دینے کے لئے محفوظ منتخب کریں \"%s\".</string>
+    <string name="rename_playlist_same_prompt">پلے لسٹ کو نیا نام دینے کے لئے \"%s\"کی بورڈ کھولیں۔</string>
+    <string name="rename_playlist_diff_prompt">پلے لسٹ \"%1$s\"کو نیا نام دینے کے لئے کی بورڈ کھوليں یا اسے نام دینے کے لئے محفوظ کریں منتخب کريں \"%2$s\".</string>
+</resources>

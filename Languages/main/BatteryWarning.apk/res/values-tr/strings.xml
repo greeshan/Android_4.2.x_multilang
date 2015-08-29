@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Şarj Aleti Voltajı Yüksek</string>
+    <string name="title_battery_over_temperature">Pil Aşırı Sıcak</string>
+    <string name="title_over_current_protection">Aşırı Akım Koruması</string>
+    <string name="title_battery_over_voltage">Pil Voltajı Yüksek</string>
+    <string name="title_safety_timer_timeout">Aşırı Şarj Süresi</string>
+    <string name="msg_charger_over_voltage">Şarj aletinizin voltajı yüksek; lütfen şarj aletini çıkarın!</string>
+    <string name="msg_battery_over_temperature">Piliniz çok sıcak; lütfen pili çıkarın!</string>
+    <string name="msg_over_current_protection">Piliniz akım korumasının üzerinde; lütfen pili çıkarın!</string>
+    <string name="msg_battery_over_voltage">Pilinizin voltajı yüksek; lütfen pili çıkarın!</string>
+    <string name="msg_safety_timer_timeout">Şarj süresi çok uzun; lütfen şarj aletini çıkarın!</string>
+    <string name="btn_ok_msg">Ertele</string>
+    <string name="btn_cancel_msg">Kapat</string>
+</resources>

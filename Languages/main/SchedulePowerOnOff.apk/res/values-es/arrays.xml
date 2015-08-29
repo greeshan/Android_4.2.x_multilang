@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Este encendido está establecido para menos de 1 minuto a partir de ahora.</item>
+        <item>Este encendido está establecido para %1$s a partir de ahora.</item>
+        <item>Este encendido está establecido para %2$s a partir de ahora.</item>
+        <item>Este encendido está establecido para %1$s y %2$s a partir de ahora.</item>
+        <item>Este encendido está establecido para %3$s a partir de ahora.</item>
+        <item>Este encendido está establecido para %1$s y %3$s a partir de ahora.</item>
+        <item>Este encendido está establecido para %2$s y %3$s a partir de ahora.</item>
+        <item>Este encendido está establecido para %1$s, %2$s y %3$s a partir de ahora.</item>
+        <item>Este apagado está establecido para menos de 1 minuto a partir de ahora.</item>
+        <item>Este apagado está establecido para %1$s a partir de ahora.</item>
+        <item>Este apagado está establecido para %2$s a partir de ahora.</item>
+        <item>Este apagado está establecido para %1$s y %2$s a partir de ahora.</item>
+        <item>Este apagado está establecido para %3$s a partir de ahora.</item>
+        <item>Este apagado está establecido para %1$s y %3$s a partir de ahora.</item>
+        <item>Este apagado está establecido para %2$s y %3$s a partir de ahora.</item>
+        <item>Este apagado está establecido para %1$s, %2$s y %3$s a partir de ahora.</item>
+    </string-array>
+</resources>

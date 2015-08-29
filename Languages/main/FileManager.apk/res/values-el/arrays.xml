@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Τύπος</item>
+        <item>Όνομα (Α - Ω)</item>
+        <item>Μέγεθος (μεγάλο - μικρό)</item>
+        <item>Χρόνος (νέο - παλιό)</item>
+    </string-array>
+</resources>

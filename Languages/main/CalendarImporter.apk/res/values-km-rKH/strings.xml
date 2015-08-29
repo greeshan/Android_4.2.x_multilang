@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">នាំចូលទៅកាន់</string>
+    <string name="import_button">នាំចូល</string>
+    <string name="cancel">លើកលែង</string>
+    <string name="no_access_toast">រកគណនីមិនឃើញ ។ សូមបន្ថែមគណនីជាមុនសិន</string>
+    <string name="null_name">គ្មាន</string>
+    <string name="import_message">តើអ្នកចង់នាំចូល # ទៅប្រតិទិនទេ?</string>
+    <string name="calendar_lable">"ប្រតិទិន ៖ "</string>
+    <string name="date_lable">"កាលបរិច្ឆេទ ៖ "</string>
+    <string name="import_title">នាំចូលហេតុការណ៍ពីប្រតិទិន</string>
+    <string name="importing">កំពុងនាំចូល ...</string>
+    <string name="import_complete">ការនាំចូលបានបញ្ចប់</string>
+    <string name="open">បើក</string>
+    <string name="done">បានធ្វើរួច</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">ខកខានក្នុងការនាំហេតុការណ៍ចូល</string>
+    <string name="title_lable">ចំណងជើង</string>
+    <string name="no_syncable_calendars">មិនអាចនាំចូលបាន</string>
+    <string name="no_calendars_found">គណនីនេះប្រើមិនបានជាមួយនឹងការធ្វើសមកាលកម្ម ឬការធ្វើសមកាលកម្មចុងក្រោយ នៅមិនទាន់បញ្ចប់នៅឡើយទេ ។</string>
+    <string name="retry">សាកម្តងទៀត</string>
+    <string name="give_up">លើកលែង</string>
+    <string name="open_calendar_failed">ប្រតិទិននេះមិនមានទេ ។</string>
+    <string name="loading">កំពុងផ្ទុក…</string>
+</resources>

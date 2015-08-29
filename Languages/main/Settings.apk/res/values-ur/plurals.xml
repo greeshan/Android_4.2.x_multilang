@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">پاس ورڈ میں کم از کم %d حرف ہونے چاہئیے</item>
+        <item quantity="one">پاس ورڈ میں کم از کم ایک حرف ہونا چاہئیے</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">پاس ورڈ میں کم از کم %d چھوٹے حرف ہونے چاہئیے</item>
+        <item quantity="one">پاس ورڈ میں کم از کم ایک چھوٹا حرف ہونا چاہئیے</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">پاس ورڈ میں کم از کم %d بڑے حرف ہونے چاہئیے</item>
+        <item quantity="one">پاس ورڈ میں کم از کم ایک بڑا حرف ہونا چاہئیے</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">پاس ورڈ میں کم از کم %d عددی ہندسے ہونے چاہئیے</item>
+        <item quantity="one">پاس ورڈ میں کم از کم ایک عددی ہنسدہ ہونا چاہئیے</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">پاس ورڈ میں کم از کم %d خصوصی علامتیں ہونی چاہئیے</item>
+        <item quantity="one">پاس ورڈ میں کم از کم ایک خصوصی علامت ہونی چاہئیے</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">پاس ورڈ میں کم از کم %d ایسے کریکٹر ہونے چاہئیے جو حرف نہ ہوں</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 ایسا کریکٹر موجود ہونا جاہئیے جو حرف نہ ہو</item>
+    </plurals>
+</resources>

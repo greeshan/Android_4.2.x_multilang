@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>compresser</item>
+        <item>grands yeux</item>
+        <item>grande bouche</item>
+        <item>petite bouche</item>
+        <item>gros nez</item>
+        <item>petits yeux</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>"Dans l'espace"</item>
+        <item>coucher du soleil</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>bas</item>
+        <item>moyen</item>
+        <item>haut</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>sans objet</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>SOURIRE AVEC YEUX HEUREUX</item>
+        <item>SOURIRE</item>
+        <item>SOURIANT, AVEC DES YEUX HEUREUX</item>
+        <item>LARMES DE JOIE</item>
+        <item>SOURIRE AVEC LA BOUCHE OUVERTE</item>
+        <item>SOURIRE AVEC LA BOUCHE OUVERTE ET YEUX HEUREUX</item>
+        <item>SOURIRE AVEC LA BOUCHE OUVERTE ET SUEUR FROIDE</item>
+        <item>SOURIRE AVEC LA BOUCHE OUVERTE ET YEUX FERMÉS</item>
+        <item>SOURIRE AVEC HALO</item>
+        <item>SOURIRE AVEC DES CORNES</item>
+        <item>"CLIN D'ŒIL"</item>
+        <item>SILENCE</item>
+        <item>NEUTRE</item>
+        <item>INEXPRESSIF</item>
+        <item>CONFUS</item>
+        <item>FÂCHÉ</item>
+        <item>GRIMACE</item>
+        <item>BOUDANT</item>
+        <item>TRISTE</item>
+        <item>ENDORMI</item>
+        <item>VISAGE AVEC LA BOUCHE OUVERTE</item>
+        <item>PERSÉVÉRANT</item>
+        <item>VISAGE QUI SOUFFLE</item>
+        <item>DÉÇU MAIS SOULAGÉ</item>
+        <item>VISAGE AVEC LA BOUCHE OUVERTE</item>
+        <item>ANGOISSÉ</item>
+        <item>CRAINTIF</item>
+        <item>FATIGUÉ</item>
+        <item>BOUCHE OUVERTE ET SUEUR FROIDE</item>
+        <item>VISAGE INQUIET</item>
+        <item>TERREUR</item>
+        <item>SURPRIS</item>
+        <item>GÊNÉ</item>
+        <item>ÉTOURDI</item>
+        <item>VISAGE SANS BOUCHE</item>
+        <item>VISAGE AVEC MASQUE MÉDICAL</item>
+        <item>DÉÇU</item>
+        <item>"CE N'EST PAS DRÔLE"</item>
+        <item>SOURIRE AVEC LES YEUX EN FORME DE COEUR</item>
+        <item>LANGUE SORTIE</item>
+        <item>"LANGUE SORTIE ET CLIN D'ŒIL"</item>
+        <item>LANGUE SORTIE ET YEUX FERMÉS</item>
+        <item>EN TRAIN DE DÉGUSTER UN REPAS DÉLICIEUX</item>
+        <item>BISOU</item>
+        <item>BISOU AVEC SOURIRE</item>
+        <item>BISOU SOUFFLÉ</item>
+        <item>BISOU AVEC YEUX FERMÉS</item>
+        <item>SOURIRE AVEC LUNETTES DE SOLEIL</item>
+        <item>TRÈS TRISTE</item>
+        <item>SOULAGÉ</item>
+        <item>PERPLEXE</item>
+        <item>SONGEUR</item>
+        <item>TRÈS FATIGUÉ</item>
+        <item>SOURIRE NARQUOIS</item>
+        <item>SUEUR FROIDE</item>
+        <item>FATIGUÉ</item>
+        <item>HEUREUX AVEC MAIN LEVÉE</item>
+        <item>LÈVE LES DEUX MAINS EN CÉLÉBRATION</item>
+        <item>FRONCE LES SOURCILS</item>
+        <item>FÂCHÉ, LES BROIS CROISÉS</item>
+        <item>"VISAGE AVEC GESTE D'APPROBATION"</item>
+        <item>PERSONNE QUI VÉNÈRE</item>
+        <item>VISAGE QUI BOUDE</item>
+        <item>PRIÈRE</item>
+        <item>OK</item>
+        <item>"POUCE EN L'AIR"</item>
+        <item>POUCES EN BAS</item>
+        <item>PILE DE CACA</item>
+        <item>CŒUR EN SUEUR</item>
+        <item>CŒUR POILU</item>
+        <item>CŒUR MAUVE</item>
+        <item>CŒUR BRISÉ</item>
+        <item>CŒUR PERCÉ PAR UNE FLÈCHE</item>
+        <item>CŒUR DE GLACE</item>
+        <item>COOL</item>
+        <item>GRATUIT</item>
+        <item>OK</item>
+        <item>S.O.S.</item>
+        <item>MASQUES DE COMÉDIE</item>
+        <item>ARC-EN-CIEL</item>
+        <item>"C'EST LA FÊTE"</item>
+        <item>DANSEUR</item>
+    </string-array>
+</resources>

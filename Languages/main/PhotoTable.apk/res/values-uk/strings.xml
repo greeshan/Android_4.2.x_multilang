@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заставки з фотографій</string>
+    <string name="table_screensaver_name">Таблиця з фотографій</string>
+    <string name="flipper_screensaver_name">Фоторамка</string>
+    <string name="posts_album_name">Фото з публікацій</string>
+    <string name="uploads_album_name">Мобільне завантаження</string>
+    <string name="unknown_album_name">Альбом без назви</string>
+    <string name="stock_photo_album_name">Фотографії з фотобанку</string>
+    <string name="local_source_name">Фотографії на пристрої</string>
+    <string name="need_to_configure">Не вибрано жодної фотографії.</string>
+</resources>

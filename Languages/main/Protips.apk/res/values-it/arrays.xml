@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Visualizza tutte le applicazioni.
+ Tocca l'icona Avvio. @drawable/all_apps"</item>
+        <item>"Trascina applicazioni nella schermata Home.
+ Tocca un'applicazione e tieni premuto fino alla vibrazione."</item>
+        <item>"Riorganizza la schermata Home.
+ Tieni premuto un elemento e quando vibra trascinalo dove vuoi."</item>
+        <item>"Rimuovi gli elementi.
+ Tieni premuto un elemento e quando vibra trascinalo sull'icona Cestino. @drawable/trash"</item>
+        <item>"Schermate Home multiple.
+ Scorri a sinistra o a destra per passare da una all'altra. Trascina elementi in altre schermate."</item>
+        <item>"Hai completato il widget?
+ Tienilo premuto e quando vibra trascinalo sull'icona Cestino."</item>
+    </string-array>
+</resources>

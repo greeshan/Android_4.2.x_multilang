@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="month_day_no_year">MMM d</string>
+    <string name="app_name">Jam dunia</string>
+    <string name="current_time_text">Sekarang</string>
+    <string name="another_city_text">Tambah</string>
+    <string name="ime_action_done">Selesai</string>
+    <string name="a_city_selected">Bandar dipilih.</string>
+    <string name="search_city">Cari bandar</string>
+    <string name="next">Seterusnya</string>
+    <string name="select_right_city">Maaf, tiada bandar sedemikian.</string>
+    <string name="clock_loading">Memuatkan…</string>
+    <string name="add_city">Tekan ikon untuk menambah bandar baru</string>
+    <string name="add_new_city">Tambah bandar baru</string>
+    <string name="delete_city">Padam bandar</string>
+    <string name="delete_city_info">Bandar akan dipadamkan</string>
+    <string name="has_chosen">telah dipilih</string>
+    <string name="deleteok">Padam</string>
+    <string name="cancel">Tolak</string>
+</resources>

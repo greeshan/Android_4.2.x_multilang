@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">ဖတ်ပြီးကြောင်းသတင်းပေးပို့ချက်များ %d ခု ပေးပို့ခြင်း</item>
+        <item quantity="one">ဖတ်ပြီးကြောင်းသတင်းပေးပို့ချက် %d ခု ပေးပို့ခြင်း</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%dခုရွေးချယ်ပြီးဖြစ်သည်</item>
+        <item quantity="one">%dခုရွေးချယ်ပြီးဖြစ်သည်</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">အကြောင်းအရာ %1$s ခုဖျက်ပြီးဖြစ်သည်</item>
+        <item quantity="one">အကြောင်းအရာတစ်ခုဖျက်ပြီး</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\" %2$s\" အတွက် ရလဒ် %1$s ခု</item>
+        <item quantity="one">\" %2$s\" အတွက် ရလဒ် %1$s ခု</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s စက္ကန့်</item>
+        <item quantity="one">%s စက္ကန့်</item>
+        <item quantity="few">%s စက္ကန့်</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">စကားပြောချက် %1$s ခုကို ဖျက်မည်</item>
+        <item quantity="one">စကားပြောချက်တစ်ခုကို ဖျက်မည်</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d မဖတ်ရသေးသော မက်ဆေ့</item>
+        <item quantity="one">%d မဖတ်ရသေးသော မက်ဆေ့</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">အခြားမက်ဆေ့ + %1$s ခု</item>
+        <item quantity="one">အခြားမက်ဆေ့ + %1$s ခု</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">လူ %1$s ဦး</item>
+    </plurals>
+</resources>

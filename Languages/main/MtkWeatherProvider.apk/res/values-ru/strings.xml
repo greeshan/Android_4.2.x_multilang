@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба погоды</string>
+    <string name="choose_city">Выберите город</string>
+    <string name="searching">Выполняется поиск, подождите</string>
+    <string name="no_found">Не найден город с названием %s. Проверьте введенное название.</string>
+    <string name="net_error">Сеть недоступна. Выполните проверку.</string>
+    <string name="no_city_error">Невозможно получить информацию о городе. Установите системное время и часовой пояс.</string>
+    <string name="searching_fail">Поиск города не удался.</string>
+    <string name="no_weather_error">Невозможно получить информацию о погоде. Установите системное время и часовой пояс.</string>
+    <string name="no_weather">На данный момент информация о погоде в %s отсутствует.</string>
+    <string name="setting_title">Настройка</string>
+    <string name="temperature">Единицы измерения температуры</string>
+    <string name="tem_celsius">Градусы Цельсия</string>
+    <string name="cities_title">Города</string>
+    <string name="update_fre">Частота обновления</string>
+    <string name="every12">Раз в 12 часов</string>
+    <string name="cancel">Отмена</string>
+    <string name="menu_add_city">Добавить город</string>
+    <string name="add_city">Щелкните значок для добавления нового города</string>
+    <string name="remove">Удалить</string>
+    <string name="warn">Можно добавить не более 8 городов.</string>
+    <string name="has_chosen">выбран(о).</string>
+    <string name="no_city">Нет городов</string>
+    <string name="powered_by">На платформе:</string>
+    <string name="menu_about">О программе</string>
+</resources>

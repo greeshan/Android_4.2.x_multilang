@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">មេឌា</string>
+    <string name="app_label">ឧបករណ៍ផ្ទុកមេឌា</string>
+    <string name="upgrade_msg">កំពុងកែលំអសំណុំទិន្នន័យមេឌា ។</string>
+    <string name="artist_label">អ្នកចម្រៀង</string>
+</resources>

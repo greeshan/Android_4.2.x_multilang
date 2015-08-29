@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Papeles tapiz vivos de MTK</string>
+    <string name="vlw">Vídeos</string>
+    <string name="vlw_desc">Establecer vídeo como papel tapiz vivo.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Lo sentimos, este video no es válido para transmitir secuencias a este dispositivo.</string>
+    <string name="VideoScene_error_text_unknown">Lo sentimos, este vídeo no se puede reproducir.</string>
+    <string name="VideoScene_error_media_removed">Archivo multimedia quitado</string>
+    <string name="VideoScene_error_sdcard_unmounted">La tarjeta SD está desmontada</string>
+    <string name="VideoScene_info_wait_sdcard">Esperando para preparar la tarjeta SD</string>
+    <string name="VideoScene_error_media_not_found">El archivo multimedia ahora no existe</string>
+    <string name="VideoScene_error_be_set">Lo sentimos, el vídeo no se puede establecer como papel tapiz de vídeo</string>
+    <string name="VideoEditor_error_title">No se puede reproducir el vídeo</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">No hay vídeo seleccionado</string>
+    <string name="VideoEditor_warning_limited_duration">Seleccione al menos 1 segundo de vídeo para reproducir.</string>
+    <string name="VideoScene_reload_after_mount">Cargando vídeo de la tarjeta SD. Espere un momento.</string>
+    <string name="select_video">Tarjeta SD</string>
+    <string name="select_default">Predeterminado</string>
+    <string name="select">Seleccionar vídeo</string>
+    <string name="set_wallpaper">Establecer</string>
+    <string name="title">Vídeos</string>
+    <string name="default_title">Vídeo predeterminado</string>
+    <string name="capture_video">câmera</string>
+    <string name="menu_item_add_item">Selecionar vídeo do cartão SD</string>
+    <string name="group_video">Selecionar um único vídeo</string>
+    <string name="group_folder">Selecionar pasta</string>
+    <string name="folder_info">vídeo &lt;br>de&lt;br></string>
+</resources>

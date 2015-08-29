@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Surtension du chargeur</string>
+    <string name="title_battery_over_temperature">Surchauffe de la pile</string>
+    <string name="title_over_current_protection">Protection contre surintensité</string>
+    <string name="title_battery_over_voltage">Surtension de la pile</string>
+    <string name="title_safety_timer_timeout">Durée de charge trop longue</string>
+    <string name="msg_charger_over_voltage">La tension du chargeur est trop élevée, veuillez débrancher le chargeur!</string>
+    <string name="msg_battery_over_temperature">Votre pile surchauffe, veuillez la retirer!</string>
+    <string name="msg_over_current_protection">La protection contre surintensité de la pile est dépassée, veuillez retirer la pile!</string>
+    <string name="msg_battery_over_voltage">Surtension de la pile, veuillez la retirer!</string>
+    <string name="msg_safety_timer_timeout">La durée de charge est trop longue, veuillez débrancher le chargeur!</string>
+    <string name="btn_ok_msg">Répéter</string>
+    <string name="btn_cancel_msg">Désactiver</string>
+</resources>

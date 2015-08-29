@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meteorologická služba</string>
+    <string name="choose_city">Vybrat město</string>
+    <string name="searching">Probíhá vyhledávání, počkejte prosím.</string>
+    <string name="no_found">Žádné nalezené město se neshoduje s %s. Zkontrolujte zadaná slova.</string>
+    <string name="net_error">Síť není k dispozici. Zkontrolujte.</string>
+    <string name="no_city_error">Nelze získat informace o městě, nastavte správný systémový čas a časové pásmo.</string>
+    <string name="searching_fail">Hledání města se nezdařilo.</string>
+    <string name="no_weather_error">Nelze získat informace o počasí. Nastavte správný systémový čas a časové pásmo.</string>
+    <string name="no_weather">Aktuálně nemáme žádné počasí pro %s.</string>
+    <string name="setting_title">Konfigurace</string>
+    <string name="temperature">Jednotky teploty</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Města</string>
+    <string name="update_fre">Frekvence aktualizace</string>
+    <string name="every12">Každých 12 hodin</string>
+    <string name="cancel">Storno</string>
+    <string name="menu_add_city">Přidat město</string>
+    <string name="add_city">Stisknutím ikony přidejte nové město</string>
+    <string name="remove">Odebrat</string>
+    <string name="warn">Lze přidat maximálně 8 měst.</string>
+    <string name="has_chosen">bylo vybráno.</string>
+    <string name="no_city">Žádná města</string>
+    <string name="powered_by">Používá technologii:</string>
+    <string name="menu_about">O aplikaci</string>
+</resources>

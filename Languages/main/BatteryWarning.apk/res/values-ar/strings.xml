@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">الجهد الكهربي للشاحن مرتفع</string>
+    <string name="title_battery_over_temperature">ارتفاع درجة حرارة البطارية</string>
+    <string name="title_over_current_protection">الحماية ضد زيادة التيار</string>
+    <string name="title_battery_over_voltage">زيادة فولطية البطارية</string>
+    <string name="title_safety_timer_timeout">زيادة مدة الشحن</string>
+    <string name="msg_charger_over_voltage">الجهد الكهربي للشاحن مرتفع، يرجى فصل الشاحن!</string>
+    <string name="msg_battery_over_temperature">درجة حرارة البطارية مرتفعة، يرجى نزع البطارية!</string>
+    <string name="msg_over_current_protection">البطارية مزودة بخاصية الحماية ضد زيادة التيار، يرجى نزع البطارية!</string>
+    <string name="msg_battery_over_voltage">فولطية البطارية مرتفعة، يرجى نزع البطارية!</string>
+    <string name="msg_safety_timer_timeout">مدة الشحن أطول من اللازم، يرجى فصل الشاحن!</string>
+    <string name="btn_ok_msg">غفوة</string>
+    <string name="btn_cancel_msg">إزالة</string>
+</resources>

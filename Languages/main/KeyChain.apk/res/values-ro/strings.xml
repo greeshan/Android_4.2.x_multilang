@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanţ de chei</string>
+    <string name="title_no_certs">Niciun certificat găsit</string>
+    <string name="title_select_cert">Alegere certificat</string>
+    <string name="requesting_application">Aplicaţia %s a solicitat un certificat. Dacă alegeţi un certificat, permiteţi aplicaţiei să utilizeze această identitate pe servere acum şi pe viitor.</string>
+    <string name="requesting_server">Aplicaţia a identificat serverul care a făcut solicitarea ca %s, dar e recomandat să permiteţi accesul aplicaţiei la certificat, numai dacă consideraţi aplicaţia de încredere.</string>
+    <string name="install_new_cert_message">Puteţi instala certificate de pe un fişier PKCS#12 cu o extensie %1$s sau %2$s localizat în dispozitivul de stocare externă.</string>
+    <string name="install_new_cert_button_label">Instalaţi</string>
+    <string name="allow_button">Permiteţi</string>
+    <string name="deny_button">Refuzaţi</string>
+</resources>

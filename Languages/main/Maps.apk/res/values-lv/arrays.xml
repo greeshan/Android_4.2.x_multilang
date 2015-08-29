@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Ļoti nepatika</item>
+        <item>Nepatika</item>
+        <item>Labi</item>
+        <item>Patika</item>
+        <item>Ļoti patika</item>
+    </string-array>
+</resources>

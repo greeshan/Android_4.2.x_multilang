@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>ٹائپ</item>
+        <item>نام (A - Z)</item>
+        <item>سائز (بڑا - چھوٹا)</item>
+        <item>وقت (نیا - پرانا)</item>
+    </string-array>
+</resources>

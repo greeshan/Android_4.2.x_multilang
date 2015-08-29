@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Ladegerät-Überspannung</string>
+    <string name="title_battery_over_temperature">Akku-Übertemperatur</string>
+    <string name="title_over_current_protection">Überstromschutz</string>
+    <string name="title_battery_over_voltage">Akku-Überspannung</string>
+    <string name="title_safety_timer_timeout">Überladedauer</string>
+    <string name="msg_charger_over_voltage">Überspannung Ihres Ladegerätes; bitte Ladegerät trennen!</string>
+    <string name="msg_battery_over_temperature">Übertemperatur Ihres Akkus; bitte Akku entfernen!</string>
+    <string name="msg_over_current_protection">Überstromschutz Ihres Akkus; bitte Akku entfernen!</string>
+    <string name="msg_battery_over_voltage">Überspannung Ihres Akkus; bitte Akku entfernen!</string>
+    <string name="msg_safety_timer_timeout">Dauer des Ladevorgangs zu lang; bitte Ladegerät trennen!</string>
+    <string name="btn_ok_msg">Snooze-Funktion</string>
+    <string name="btn_cancel_msg">Beenden</string>
+</resources>

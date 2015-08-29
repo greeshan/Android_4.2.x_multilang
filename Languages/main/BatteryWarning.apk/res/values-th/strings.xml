@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">แรงดันไฟฟ้าเครื่องชาร์จเกิน</string>
+    <string name="title_battery_over_temperature">อุณหภูมิแบตเตอรี่เกิน</string>
+    <string name="title_over_current_protection">การป้องกันกระแสไฟเกิน</string>
+    <string name="title_battery_over_voltage">แรงดันไฟฟ้าแบตเตอรี่เกิน</string>
+    <string name="title_safety_timer_timeout">เวลาชาร์จเกิน</string>
+    <string name="msg_charger_over_voltage">เครื่องชาร์จของคุณมีแรงดันไฟฟ้าเกิน โปรดตัดการเชื่อมต่อเครื่องชาร์จ!</string>
+    <string name="msg_battery_over_temperature">แบตเตอรี่ของคุณมีอุณหภูมิสูงเกิน โปรดนำแบตเตอรี่ออก!</string>
+    <string name="msg_over_current_protection">แบตเตอรี่ของคุณมีการป้องกันกระแสไฟเกิน โปรดนำแบตเตอรี่ออก!</string>
+    <string name="msg_battery_over_voltage">แบตเตอรี่ของคุณมีแรงดันไฟฟ้าเกิน โปรดนำแบตเตอรี่ออก!</string>
+    <string name="msg_safety_timer_timeout">เวลาชาร์จนานเกินไป โปรดตัดการเชื่อมต่อเครื่องชาร์จ!</string>
+    <string name="btn_ok_msg">เลื่อนปลุก</string>
+    <string name="btn_cancel_msg">เลิก</string>
+</resources>

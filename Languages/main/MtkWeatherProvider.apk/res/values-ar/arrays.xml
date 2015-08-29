@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>مئوية</item>
+        <item>فهرنهايت</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>منع التحديث التلقائي نهائيًا</item>
+        <item>كل 1 ساعة</item>
+        <item>كل 2 ساعة</item>
+        <item>كل 6 ساعات</item>
+        <item>كل 12 ساعة</item>
+        <item>كل 1 يوم</item>
+    </string-array>
+</resources>

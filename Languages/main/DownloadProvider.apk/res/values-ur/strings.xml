@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">ڈاؤن لوڈ</string>
+    <string name="cancel">منسوخ کرنا</string>
+    <string name="ok">اوکے</string>
+    <string name="download_file_already_exist">یہ فائل پہلے سے موجود ہے،اوررائٹ کریں یا نہیں؟</string>
+    <string name="notification_download_complete_op01">فائل محفوظ ہوگئی در:</string>
+    <string name="app_label">ڈاؤن لوڈ منیجر</string>
+    <string name="permlab_downloadManager">ڈاؤن لوڈ منیجر تک رسائی حاصل کریں۔</string>
+    <string name="permdesc_downloadManager">اطلاق کو ڈاؤن لوڈ منیجر تک رسائی اور اسے فائلوں کو ڈاؤن لوڈ کرنے کیلئے استعمال کرنے کی اجازت دیں۔ مشتبہ اطلاقات اس کا استعمال ڈاؤن لوڈز میں رکاوٹ ڈالنے اور نجی معلومات تک رسائی کیلئے کرسکتے ہیں۔</string>
+    <string name="permlab_downloadManagerAdvanced">ایڈوانسڈ ڈاؤن لوڈ منیجر کے اعمال۔</string>
+    <string name="permdesc_downloadManagerAdvanced">اطلاق کو ڈاؤن لوڈ منیجر کے ترقی یافتہ اعمال تک رسائی کی اجازت دیتا ہے۔ مشتبہ اطلاقات اس کا استعمال ڈاؤن لوڈز میں رکاوٹ ڈالنے اور نجی معلومات تک رسائی کیلئے کرسکتے ہیں۔</string>
+    <string name="permlab_downloadCompletedIntent">ڈاؤن لوڈ کی اطلاعات بھیجیں۔</string>
+    <string name="permdesc_downloadCompletedIntent">اطلاق کو مکمل کردہ ڈاؤن لوڈز کی اطلاعات بھیجنے کی اجازت دیں۔ مشتبہ اطلاقات اس کا استعمال ان دیگر اطلاقات کو الجھن میں ڈالنے کیلئے کرسکتے ہیں جو فائلیں ڈاؤن لوڈ کرتی ہیں۔</string>
+    <string name="permlab_seeAllExternal">سبھی ڈاؤن لوڈز SD کارڈ میں دیکھیں</string>
+    <string name="permdesc_seeAllExternal">اطلاق کو سبھی ڈاؤن لوڈز SD کارڈ میں دیکھنے کی اجازت دیں، قطع نظر اس کے کہ کون سا اطلاق اسے ڈاؤن لوڈ کرتا ہے۔</string>
+    <string name="permlab_downloadCacheNonPurgeable">ڈاؤن لوڈ کیش میں جگہ محفوظ رکھیں</string>
+    <string name="permdesc_downloadCacheNonPurgeable">اطلاق کو فائلیں ڈاؤن لوڈ کیش میں ڈاؤن لوڈ کرنے کی اجازت دیں، جسے ڈاؤن لوڈ منیجر کو مزید جگہ درکار ہونے پر خودبخود حذف نہیں کیا جاسکتا۔</string>
+    <string name="permlab_downloadWithoutNotification">فائلوں کو بغیر اطلاع ڈاؤن لوڈ کریں</string>
+    <string name="permdesc_downloadWithoutNotification">اطلاق کو ڈاؤن لوڈ منیجر کے ذریعہ صارف کو بغیر کوئی اطلاع دکھائے فائلیں ڈاؤن لوڈ کرنے کی اجازت دیں۔</string>
+    <string name="permlab_accessAllDownloads">سسٹم کے سبھی ڈاؤن لوڈز تک رسائی کریں</string>
+    <string name="permdesc_accessAllDownloads">اطلاق کو سسٹم کے کسی اطلاق کے ذریعہ شروع کردہ ڈاؤن لوڈ کو دیکھنے اور تبدیل کرنے کی اجازت دیں۔</string>
+    <string name="download_unknown_title">&amp;lt;بلا عنوان&amp;gt;</string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" اور %d مزید"</string>
+    <string name="notification_download_complete">ڈاؤن لوڈ مکمل ہوگیا۔</string>
+    <string name="notification_download_failed">ڈاؤن لوڈ ناکام ہوگیا۔</string>
+    <string name="notification_need_wifi_for_size">ڈاؤن لوڈ سائز کیلئے Wi-Fi درکار ہے</string>
+    <string name="notification_paused_in_background">پس منظر میں موقوف کردیا گیا۔</string>
+    <string name="wifi_required_title">ڈاؤن لوڈ آپریٹر نیٹ ورک کیلئے کافی بڑی ہے</string>
+    <string name="wifi_required_body" formatted="false">"اس ڈاؤن لوڈ %s کو مکمل کرنے کیلئے Wi-Fi استعمال کرنا ضروری ہے۔ 
+
+اگلی بار جب آپ Wi-Fi سے مربوط ہوں تو یہ ڈاؤن لوڈ شروع کرنے کیلئے %s کو چھوئیں۔"</string>
+    <string name="wifi_recommended_title">بعد میں ڈاؤن لوڈ کیلئے قطار میں رکھیں؟</string>
+    <string name="wifi_recommended_body" formatted="false">"اس %s ڈاؤن لوڈ کو ابھی شروع کرنے سے آپ کی بیٹری کی زندگی مختصر ہوسکتی ہے اور/ یا آپ کے موبائل ڈیٹا کنکشن کا حد سے زیادہ استعمال ہوسکتا ہے، جس کے سبب آپ کے ڈیٹا پلان کے لحاظ سے آپ کا موبائل آپریٹر معاوضہ عائد کرسکتا ہے۔
+
+ اگلی بار جب آپ Wi-Fi نیٹ ورک سے مربوط ہوں تو یہ ڈاؤن لوڈ شروع کرنے کیلئے %s کو چھوئیں۔"</string>
+    <string name="button_queue_for_wifi">قطار</string>
+    <string name="button_cancel_download">منسوخ</string>
+    <string name="button_start_now">اب شروع کریں</string>
+    <string name="download_percent">%d %%</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">អាកាសធាតុ</string>
+    <string name="updating">ការធ្វើបច្ចុប្បន្នភាព</string>
+    <string name="failed_to_locate">ខកខានចាប់ទីតាំង</string>
+    <string name="no_weather">បច្ចុប្បន្ន មិនមានព័ត៌មានអាកាសធាតុរបស់ទីក្រុង %s ទេ ។</string>
+    <string name="add_setting">ចុចទីនេះដើម្បីបន្ថែមឈ្មោះទីក្រុង</string>
+</resources>

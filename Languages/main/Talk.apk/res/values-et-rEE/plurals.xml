@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d fotot</item>
+        <item quantity="zero">%d fotot</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d valitud</item>
+        <item quantity="one">%d valitud</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Kas kustutada kõik nende fotode koopiad?</item>
+        <item quantity="one">Kas kustutada kõik selle foto koopiad?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Kas olete kindel, et soovite need fotod sellest Google+ albumist kustutada? Seda toimingut ei saa tagasi võtta.</item>
+        <item quantity="one">Kas olete kindel, et soovite selle foto sellest Google+ albumist kustutada? Seda toimingut ei saa tagasi võtta.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Kas olete kindel, et soovite need fotod telefonist ja sellest Google+ albumist kustutada? Seda toimingut ei saa tagasi võtta.</item>
+        <item quantity="one">Kas olete kindel, et soovite selle foto telefonist ja sellest Google+ albumist kustutada? Seda toimingut ei saa tagasi võtta.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Fotode kustutamine...</item>
+        <item quantity="one">Foto kustutamine...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d kommentaari</item>
+        <item quantity="one">%d kommentaar</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Kustuta fotod</item>
+        <item quantity="one">Kustuta foto</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; %2$d liiget</item>
+        <item quantity="one">%1$s; %2$d liige</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Uued Google+ märguanded</item>
+        <item quantity="one">Uus Google+ märguanne</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Kutsus teid liituma veel %d kasutajaga Hangoutis</item>
+        <item quantity="one">Kutsus teid liituma veel 1 kasutajaga Hangoutis</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d manust</item>
+        <item quantity="one">%d manus</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d valitud</item>
+        <item quantity="one">%d valitud</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d suhtlusringi, %2$s</item>
+        <item quantity="one">%1$d suhtlusring, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Kustuta suhtlusringe</item>
+        <item quantity="one">Kustuta suhtlusring</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Kas soovite need suhtlusringid jäädavalt kustutada?</item>
+        <item quantity="one">Kas soovite selle suhtlusringi jäädavalt kustutada?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Suhtlusringide kustutamine...</item>
+        <item quantity="one">Suhtlusringi kustutamine...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d inimest</item>
+        <item quantity="one">%d inimene</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Inimeste eemaldamine</item>
+        <item quantity="one">Inimese eemaldamine</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Kas soovite need inimesed sellest suhtlusringist eemaldada?</item>
+        <item quantity="one">Kas soovite selle inimese sellest suhtlusringist eemaldada?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Inimeste lisamine...</item>
+        <item quantity="one">Inimese lisamine...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Inimeste eemaldamine...</item>
+        <item quantity="one">Inimese eemaldamine...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Inimestest loobumine...</item>
+        <item quantity="one">Inimesest loobumine...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">Veel %d</item>
+        <item quantity="one">Veel %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">%d tund</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">%d päev</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Videokõne kasutajalt %2$s koos kasutajaga %3$s ja veel %1$d kasutajaga</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">1 tund</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d kutset</item>
+        <item quantity="one">%d kutse</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d sõnumit %2$d Hangoutis</item>
+        <item quantity="one">%d sõnumit ühes Hangoutis</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Kutsus teid liituma veel %1$d kasutajaga Hangoutis</item>
+        <item quantity="one">Kutsus teid liituma veel 1 kasutajaga Hangoutis</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s ja veel %1$d inimest soovivad Hangoutis suhelda</item>
+        <item quantity="one">%2$s ja veel %1$d inimene soovivad Hangoutis suhelda</item>
+        <item quantity="few">%2$s ja veel %1$d inimest soovivad Hangoutis suhelda</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">Veel %1$d inimest soovivad Hangoutis suhelda</item>
+        <item quantity="one">Veel %1$d inimene soovib Hangoutis suhelda</item>
+        <item quantity="few">Veel %1$d inimest soovivad Hangoutis suhelda</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d kutset</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">Lisatud on %d üksust</item>
+        <item quantity="zero">Lisatud on %d üksust</item>
+        <item quantity="one">Lisatud on %d üksus</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d üksust on edastatud</item>
+        <item quantity="zero">%d üksust on edastatud</item>
+        <item quantity="one">%d üksus on edastatud</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d nädalat</item>
+        <item quantity="one">nädal</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d kuud</item>
+        <item quantity="one">kuu</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d aastat</item>
+        <item quantity="one">aasta</item>
+    </plurals>
+</resources>

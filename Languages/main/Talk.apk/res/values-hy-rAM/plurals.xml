@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d լուսանկար</item>
+        <item quantity="zero">%d լուսանկար</item>
+        <item quantity="one">%d լուսանկար</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d ընտրված:</item>
+        <item quantity="one">%d ընտրված</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Ջնջե՞լ այս լուսանկարների բոլոր օրինակները:</item>
+        <item quantity="one">Ջնջե՞լ այս լուսանկարի բոլոր օրինակները:</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Վստա՞հ եք, որ ցանկանում եք ջնջել այս լուսանկարները այս Google+ ալբոմից: Այս գործողությունը չի կարող հետարկվել:</item>
+        <item quantity="one">Վստա՞հ եք, որ ցանկանում եք ջնջել այս լուսանկարը այս Google+ ալբոմից: Այս գործողությունը չի կարող հետարկվել:</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Վստա՞հ եք, որ ցանկանում եք ջնջել այս լուսանկարները ձեր հեռախոսից և այս Google+ ալբոմից: Այս գործողությունը չի կարող հետարկվել:</item>
+        <item quantity="one">Վստա՞հ եք, որ ցանկանում եք ջնջել այս լուսանկարը ձեր հեռախոսից և այս Google+ ալբոմից: Այս գործողությունը չի կարող հետարկվել:</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Ջնջվում են լուսանկարները...</item>
+        <item quantity="one">Ջնջվում է լուսանկարը...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d մեկնաբանություն</item>
+        <item quantity="one">%d մեկնաբանություն</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Ջնջել լուսանկարները</item>
+        <item quantity="one">Ջնջել լուսանկարը</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; %2$d անդամ</item>
+        <item quantity="one">%1$s; %2$d անդամ</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Նոր Google+ ծանուցումներ</item>
+        <item quantity="one">Նոր Google+ ծանուցում</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Հրավիրել է ձեզ միանալու Hangout-ի %d այլոց հետ</item>
+        <item quantity="one">Հրավիրել է ձեզ միանալու Hangout-ի մեկ այլ անձի հետ</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d կցորդ</item>
+        <item quantity="one">%d կցորդ</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d ընտրված</item>
+        <item quantity="one">%d ընտրված</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d օղակ, %2$s</item>
+        <item quantity="one">%1$d օղակ, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Ջնջել օղակները</item>
+        <item quantity="one">Ջնջել օղակը</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Ցանկանու՞մ եք ընդմիշտ ջնջել այս օղակները:</item>
+        <item quantity="one">Ցանկանու՞մ եք ընդմիշտ ջնջել այս օղակը:</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Ջնջվում են օղակները...</item>
+        <item quantity="one">Ջնջվում է օղակը...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d մարդ</item>
+        <item quantity="one">%d անձ</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Հեռացնել մարդկանց</item>
+        <item quantity="one">Հեռացնել անձին</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Ցանկանու՞մ եք հեռացնել այս մարդկանց այս օղակից:</item>
+        <item quantity="one">Ցանկանու՞մ եք հեռացնել այս անձին այս օղակից:</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Ավելացվում են մարդիկ...</item>
+        <item quantity="one">Ավելացվում է անձ...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Հեռացվում են մարդիկ...</item>
+        <item quantity="one">Հեռացվում է անձը...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Անտեսվում են մարդիկ...</item>
+        <item quantity="one">Անտեսվում է անձը...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d-ը ևս</item>
+        <item quantity="one">%d-ը ևս</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">%d րոպե</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">%d օր</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Տեսազանգ %2$s-ից %3$s-ի և %1$d մյուսների հետ</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">1 ժամ</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d հրավեր</item>
+        <item quantity="one">%d հրավեր</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d հաղորդագրություն %2$d Hangouts-ում</item>
+        <item quantity="one">%d հաղորդագրություն մեկ Hangout-ում</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Հրավիրել է ձեզ միանալու Hangout-ի %1$d այլոց հետ</item>
+        <item quantity="one">Հրավիրել է ձեզ միանալու Hangout-ի մեկ այլ անձի հետ</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s-ը և %1$d այլոք ցանկանում են Hangout սկսել</item>
+        <item quantity="one">%2$s-ը և %1$d այլոք ցանկանում են Hangout սկսել</item>
+        <item quantity="few">%2$s-ը և %1$d այլոք ցանկանում են Hangout սկսել</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d այլոք ցանկանում են Hangout սկսել</item>
+        <item quantity="one">%1$d այլոք ցանկանում են Hangout սկսել</item>
+        <item quantity="few">%1$d այլոք ցանկանում են Hangout սկսել</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d հրավեր</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">կցված է %d նյութ</item>
+        <item quantity="zero">կցված է %d նյութ</item>
+        <item quantity="one">կցված է %d նյութ</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d նյութ փոխանցված է</item>
+        <item quantity="zero">%d նյութ փոխանցված է</item>
+        <item quantity="one">%d նյութ փոխանցված է</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d շաբաթ</item>
+        <item quantity="one">շաբաթ</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d ամիս</item>
+        <item quantity="one">ամիս</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d տարի</item>
+        <item quantity="one">տարի</item>
+    </plurals>
+</resources>

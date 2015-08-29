@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d fotó</item>
+        <item quantity="zero">%d fotó</item>
+        <item quantity="one">%d fotó</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d kiválasztva.</item>
+        <item quantity="one">%d kiválasztva.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">A fotók összes példányát törlöd?</item>
+        <item quantity="one">A fotó összes példányát törlöd?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Biztosan törlöd ezeket a fotókat ebből a Google+-albumból? A művelet nem vonható vissza.</item>
+        <item quantity="one">Biztosan törlöd ezt a fotót ebből a Google+-albumból? A művelet nem vonható vissza.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Biztosan törlöd ezeket a fotókat a telefonodról és ebből a Google+-albumból is? A művelet nem vonható vissza.</item>
+        <item quantity="one">Biztosan törlöd ezt a fotót a telefonodról és ebből a Google+-albumból is? A művelet nem vonható vissza.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Fotók törlése...</item>
+        <item quantity="one">Fotó törlése...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d megjegyzés</item>
+        <item quantity="one">%d megjegyzés</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Fotók törlése</item>
+        <item quantity="one">Fotó törlése</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s, %2$d tag</item>
+        <item quantity="one">%1$s, %2$d tag</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Új Google+ értesítések</item>
+        <item quantity="one">Új Google+ értesítés</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Meghívta Önt egy Hangoutba %d további személlyel</item>
+        <item quantity="one">Meghívta Önt egy Hangoutba 1 további személlyel</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d melléklet</item>
+        <item quantity="one">%d melléklet</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">%d kijelölve</item>
+        <item quantity="one">%d kijelölve</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d kör, %2$s</item>
+        <item quantity="one">%1$d kör, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Körök törlése</item>
+        <item quantity="one">Kör törlése</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Végleg törlöd ezeket a köröket?</item>
+        <item quantity="one">Végleg törlöd ezt a kört?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Körök törlése...</item>
+        <item quantity="one">Kör törlése...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d személy</item>
+        <item quantity="one">%d személy</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Személyek törlése</item>
+        <item quantity="one">Személy eltávolítása</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Eltávolítod ezeket a személyeket ebből a körből?</item>
+        <item quantity="one">Eltávolítod ezt a személyt ebből a körből?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Személyek felvétele...</item>
+        <item quantity="one">Személy felvétele...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Személyek eltávolítása...</item>
+        <item quantity="one">Személy eltávolítása...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Személyek elvetése...</item>
+        <item quantity="one">Személy elvetése...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">%d további</item>
+        <item quantity="one">%d további</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">%2$s, %3$s és %1$d további személy videohívást kezdeményezett</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d meghívás</item>
+        <item quantity="one">%d meghívás</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d üzenet %2$d Hangouts-beszélgetésben</item>
+        <item quantity="one">%d üzenet egy Hangouts-beszélgetésben</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Meghívta Önt egy Hangoutba %1$d további személlyel</item>
+        <item quantity="one">Meghívta Önt egy Hangoutba 1 további személlyel</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s és %1$d másik személy szeretne Hangouts-beszélgetést folytatni</item>
+        <item quantity="one">%2$s és %1$d másik személy szeretne Hangouts-beszélgetést folytatni</item>
+        <item quantity="few">%2$s és %1$d másik személy szeretne Hangouts-beszélgetést folytatni</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d másik személy szeretne Hangouts-beszélgetést folytatni</item>
+        <item quantity="one">%1$d másik személy szeretne Hangouts-beszélgetést folytatni</item>
+        <item quantity="few">%1$d másik személy szeretne Hangouts-beszélgetést folytatni</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d meghívás</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">%d elem csatolva</item>
+        <item quantity="zero">%d elem csatolva</item>
+        <item quantity="one">%d elem csatolva</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d elem továbbítva</item>
+        <item quantity="zero">%d elem továbbítva</item>
+        <item quantity="one">%d elem továbbítva</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d hét</item>
+        <item quantity="one">egy hét</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d hónap</item>
+        <item quantity="one">egy hónap</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d év</item>
+        <item quantity="one">egy év</item>
+    </plurals>
+</resources>

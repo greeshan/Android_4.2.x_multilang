@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>pressat</item>
+        <item>stora ögon</item>
+        <item>stor mun</item>
+        <item>liten mun</item>
+        <item>stor näsa</item>
+        <item>små ögon</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>i rymden</item>
+        <item>solnedgång</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>låg</item>
+        <item>medium</item>
+        <item>hög</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>inget ämne</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>LER MED LEENDE ÖGON</item>
+        <item>FLINAR</item>
+        <item>FLINAR MED LEENDE ÖGON</item>
+        <item>GLÄDJETÅRAR</item>
+        <item>LER MED ÖPPEN MUN</item>
+        <item>LER MED ÖPPEN MUN OCH LEENDE ÖGON</item>
+        <item>LER MED ÖPPEN MUN OCH KALLSVETT</item>
+        <item>LER MED ÖPPEN MUN OCH HOPKNIPNA ÖGON</item>
+        <item>LER MED EN GLORIA</item>
+        <item>LER MED HORN</item>
+        <item>BLINKAR</item>
+        <item>TYSTAD</item>
+        <item>NEUTRAL</item>
+        <item>UTTRYCKSLÖS</item>
+        <item>FÖRVIRRAD</item>
+        <item>ARG</item>
+        <item>GRIMASERAR</item>
+        <item>PLUTAR MED MUNNEN</item>
+        <item>GRÅTER</item>
+        <item>SOVER</item>
+        <item>ANSIKTE MED ÖPPEN MUN</item>
+        <item>FRAMHÄRDAR</item>
+        <item>ANSIKTE SOM BLÅSER UT ÅNGA</item>
+        <item>BESVIKEN MEN LÄTTAD</item>
+        <item>RYNKAR PANNAN OCH HAR ÖPPEN MUN</item>
+        <item>ÅNGESTFYLLD</item>
+        <item>RÄDD</item>
+        <item>TRÖTT</item>
+        <item>ÖPPEN MUN OCH KALLSVETT</item>
+        <item>OROLIGT ANSIKTE</item>
+        <item>SKRIKER AV RÄDSLA</item>
+        <item>FÖRVÅNAD</item>
+        <item>RODNAR</item>
+        <item>YR</item>
+        <item>ANSIKTE UTAN MUN</item>
+        <item>ANSIKTE MED KIRURGMASK</item>
+        <item>BESVIKEN</item>
+        <item>INTE ROAD</item>
+        <item>LER MED HJÄRTFORMADE ÖGON</item>
+        <item>UTRÄCKT TUNGA</item>
+        <item>UTRÄCKT TUNGA OCH ETT BLINKANDE ÖGA</item>
+        <item>UTRÄCKT TUNGA OCH HOPKNIPNA ÖGON</item>
+        <item>NJUTER AV GOD MAT</item>
+        <item>KYSSANDE ANSIKTE</item>
+        <item>KYSSANDE ANSIKTE MED LEENDE ÖGON</item>
+        <item>ANSIKTE SOM BLÅSER IVÄG EN KYSS</item>
+        <item>KYSSANDE ANSIKTE MED SLUTNA ÖGON</item>
+        <item>LER MED SOLGLASÖGON</item>
+        <item>SKRIKER HÖGT</item>
+        <item>LÄTTAD</item>
+        <item>FÖRBRYLLAD</item>
+        <item>TANKFULL</item>
+        <item>SÖMNIG</item>
+        <item>HÅNLER</item>
+        <item>KALLSVETT</item>
+        <item>TRÖTT</item>
+        <item>GLAD OCH LYFTER EN HAND</item>
+        <item>LYFTER BÅDA HÄNDERNA I EN SEGERGEST</item>
+        <item>RYNKAR PANNAN</item>
+        <item>ARG MED ARMARNA I KORS</item>
+        <item>ANSIKTE OCH EN OK-GEST</item>
+        <item>PERSON SOM BUGAR DJUPT</item>
+        <item>PLUTANDE ANSIKTE</item>
+        <item>KNÄPPTA HÄNDER</item>
+        <item>OK-TECKEN</item>
+        <item>TUMMEN UPP-TECKEN</item>
+        <item>TUMMEN NED-TECKEN</item>
+        <item>HÖG MED BAJS</item>
+        <item>SVETTIGT HJÄRTA</item>
+        <item>HÅRIGT HJÄRTA</item>
+        <item>LILA HJÄRTA</item>
+        <item>BRUSTET HJÄRTA</item>
+        <item>HJÄRTA MED PIL</item>
+        <item>ISIGT HJÄRTA</item>
+        <item>COOL-TECKEN</item>
+        <item>GRATIS-TECKEN</item>
+        <item>OK-TECKEN</item>
+        <item>SOS-TECKEN</item>
+        <item>TEATERMASKER</item>
+        <item>REGNBÅGE</item>
+        <item>PARTY POPPER</item>
+        <item>DANSARE</item>
+    </string-array>
+</resources>

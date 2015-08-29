@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d ภาพ</item>
+        <item quantity="zero">%d ภาพ</item>
+        <item quantity="one">%d ภาพ</item>
+        <item quantity="two">%d ภาพ</item>
+        <item quantity="few">%d ภาพ</item>
+        <item quantity="many">%d ภาพ</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d ดาว</item>
+        <item quantity="zero">%d ดาว</item>
+        <item quantity="one">%d ดาว</item>
+        <item quantity="two">%d ดาว</item>
+        <item quantity="few">%d ดาว</item>
+        <item quantity="many">%d ดาว</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f ดาว</item>
+        <item quantity="zero">%.1f ดาว</item>
+        <item quantity="one">%.1f ดาว</item>
+        <item quantity="two">%.1f ดาว</item>
+        <item quantity="few">%.1f ดาว</item>
+        <item quantity="many">%.1f ดาว</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">สถานีใกล้เคียง</item>
+        <item quantity="zero">สถานีใกล้เคียง</item>
+        <item quantity="one">สถานีใกล้เคียง</item>
+        <item quantity="two">สถานีใกล้เคียง</item>
+        <item quantity="few">สถานีใกล้เคียง</item>
+        <item quantity="many">สถานีใกล้เคียง</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s และ %2$d ผู้ให้ความเห็น</item>
+        <item quantity="one">%1$s และ %2$d ผู้ให้ความเห็น</item>
+        <item quantity="two">%1$s และ %2$d ผู้ให้ความเห็น</item>
+        <item quantity="few">%1$s และ %2$d ผู้ให้ความเห็น</item>
+        <item quantity="many">%1$s และ %2$d ผู้ให้ความเห็น</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d ผู้ให้ความเห็น</item>
+        <item quantity="one">%d ผู้ให้ความเห็น</item>
+        <item quantity="two">%d ผู้ให้ความเห็น</item>
+        <item quantity="few">%d ผู้ให้ความเห็น</item>
+        <item quantity="many">%d ผู้ให้ความเห็น</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">ภาพของคุณจะถูกเผยแพร่สู่สาธารณะทันทีที่ได้รับการตรวจสอบแล้ว</item>
+        <item quantity="one">ภาพของคุณจะถูกเผยแพร่สู่สาธารณะทันทีที่ได้รับการตรวจสอบแล้ว</item>
+        <item quantity="two">ภาพของคุณจะถูกเผยแพร่สู่สาธารณะทันทีที่ได้รับการตรวจสอบแล้ว</item>
+        <item quantity="few">ภาพของคุณจะถูกเผยแพร่สู่สาธารณะทันทีที่ได้รับการตรวจสอบแล้ว</item>
+        <item quantity="many">ภาพของคุณจะถูกเผยแพร่สู่สาธารณะทันทีที่ได้รับการตรวจสอบแล้ว</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d ป้าย</item>
+        <item quantity="zero">%d ป้าย</item>
+        <item quantity="one">%d ป้าย</item>
+        <item quantity="two">%d ป้าย</item>
+        <item quantity="few">%d ป้าย</item>
+        <item quantity="many">%d ป้าย</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">ความเห็น</item>
+        <item quantity="zero">ความเห็น</item>
+        <item quantity="one">ความเห็น</item>
+        <item quantity="two">ความเห็น</item>
+        <item quantity="few">ความเห็น</item>
+        <item quantity="many">ความเห็น</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s วัน</item>
+        <item quantity="zero">%s วัน</item>
+        <item quantity="one">%s วัน</item>
+        <item quantity="two">%s วัน</item>
+        <item quantity="few">%s วัน</item>
+        <item quantity="many">%s วัน</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d วัน</item>
+        <item quantity="zero">%d วัน</item>
+        <item quantity="one">%d วัน</item>
+        <item quantity="two">%d วัน</item>
+        <item quantity="few">%d วัน</item>
+        <item quantity="many">%d วัน</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s ชั่วโมง</item>
+        <item quantity="zero">%s ชั่วโมง</item>
+        <item quantity="one">%s ชั่วโมง</item>
+        <item quantity="two">%s ชั่วโมง</item>
+        <item quantity="few">%s ชั่วโมง</item>
+        <item quantity="many">%s ชั่วโมง</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="zero">%d ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
+        <item quantity="two">%d ชั่วโมง</item>
+        <item quantity="few">%d ชั่วโมง</item>
+        <item quantity="many">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s นาที</item>
+        <item quantity="zero">%s นาที</item>
+        <item quantity="one">%s นาที</item>
+        <item quantity="two">%s นาที</item>
+        <item quantity="few">%s นาที</item>
+        <item quantity="many">%s นาที</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d นาที</item>
+        <item quantity="zero">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+        <item quantity="two">%d นาที</item>
+        <item quantity="few">%d นาที</item>
+        <item quantity="many">%d นาที</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">อีก %1$s เมตร</item>
+        <item quantity="one">อีก %1$s เมตร</item>
+        <item quantity="two">อีก %1$s เมตร</item>
+        <item quantity="few">อีก %1$s เมตร</item>
+        <item quantity="many">อีก %1$s เมตร</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">อีก %1$s กิโลเมตร</item>
+        <item quantity="one">อีก %1$s กิโลเมตร</item>
+        <item quantity="two">อีก %1$s กิโลเมตร</item>
+        <item quantity="few">อีก %1$s กิโลเมตร</item>
+        <item quantity="many">อีก %1$s กิโลเมตร</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">ไปอีก %1$s เมตร</item>
+        <item quantity="one">ไปอีก %1$s เมตร</item>
+        <item quantity="two">ไปอีก %1$s เมตร</item>
+        <item quantity="few">ไปอีก %1$s เมตร</item>
+        <item quantity="many">ไปอีก %1$s เมตร</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">เดินทางต่อไปอีก %1$s กิโลเมตร</item>
+        <item quantity="one">เดินทางต่อไปอีก %1$s กิโลเมตร</item>
+        <item quantity="two">เดินทางต่อไปอีก %1$s กิโลเมตร</item>
+        <item quantity="few">เดินทางต่อไปอีก %1$s กิโลเมตร</item>
+        <item quantity="many">เดินทางต่อไปอีก %1$s กิโลเมตร</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">เดินทางต่อไปบน %2$s อีก %1$s เมตร</item>
+        <item quantity="one">เดินทางต่อไปบน %2$s อีก %1$s เมตร</item>
+        <item quantity="two">เดินทางต่อไปบน %2$s อีก %1$s เมตร</item>
+        <item quantity="few">เดินทางต่อไปบน %2$s อีก %1$s เมตร</item>
+        <item quantity="many">เดินทางต่อไปบน %2$s อีก %1$s เมตร</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">เดินทางต่อไปบน %2$s อีก %1$s กิโลเมตร</item>
+        <item quantity="one">เดินทางต่อไปบน %2$s อีก %1$s กิโลเมตร</item>
+        <item quantity="two">เดินทางต่อไปบน %2$s อีก %1$s กิโลเมตร</item>
+        <item quantity="few">เดินทางต่อไปบน %2$s อีก %1$s กิโลเมตร</item>
+        <item quantity="many">เดินทางต่อไปบน %2$s อีก %1$s กิโลเมตร</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">อีก %1$s ฟุต</item>
+        <item quantity="one">อีก %1$s ฟุต</item>
+        <item quantity="two">อีก %1$s ฟุต</item>
+        <item quantity="few">อีก %1$s ฟุต</item>
+        <item quantity="many">อีก %1$s ฟุต</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">อีก %1$s หลา</item>
+        <item quantity="one">อีก %1$s หลา</item>
+        <item quantity="two">อีก %1$s หลา</item>
+        <item quantity="few">อีก %1$s หลา</item>
+        <item quantity="many">อีก %1$s หลา</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">อีก %1$s ไมล์</item>
+        <item quantity="one">อีก %1$s ไมล์</item>
+        <item quantity="two">อีก %1$s ไมล์</item>
+        <item quantity="few">อีก %1$s ไมล์</item>
+        <item quantity="many">อีก %1$s ไมล์</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">ไปอีก %1$s ฟุต</item>
+        <item quantity="one">ไปอีก %1$s ฟุต</item>
+        <item quantity="two">ไปอีก %1$s ฟุต</item>
+        <item quantity="few">ไปอีก %1$s ฟุต</item>
+        <item quantity="many">ไปอีก %1$s ฟุต</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">ไปอีก %1$s หลา</item>
+        <item quantity="one">ไปอีก %1$s หลา</item>
+        <item quantity="two">ไปอีก %1$s หลา</item>
+        <item quantity="few">ไปอีก %1$s หลา</item>
+        <item quantity="many">ไปอีก %1$s หลา</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">เดินทางต่อไปอีก %1$s ไมล์</item>
+        <item quantity="one">เดินทางต่อไปอีก %1$s ไมล์</item>
+        <item quantity="two">เดินทางต่อไปอีก %1$s ไมล์</item>
+        <item quantity="few">เดินทางต่อไปอีก %1$s ไมล์</item>
+        <item quantity="many">เดินทางต่อไปอีก %1$s ไมล์</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">เดินทางต่อไปบน %2$s อีก %1$s ฟุต</item>
+        <item quantity="one">เดินทางต่อไปบน %2$s อีก %1$s ฟุต</item>
+        <item quantity="two">เดินทางต่อไปบน %2$s อีก %1$s ฟุต</item>
+        <item quantity="few">เดินทางต่อไปบน %2$s อีก %1$s ฟุต</item>
+        <item quantity="many">เดินทางต่อไปบน %2$s อีก %1$s ฟุต</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">เดินทางต่อไปบน %2$s อีก %1$s หลา</item>
+        <item quantity="one">เดินทางต่อไปบน %2$s อีก %1$s หลา</item>
+        <item quantity="two">เดินทางต่อไปบน %2$s อีก %1$s หลา</item>
+        <item quantity="few">เดินทางต่อไปบน %2$s อีก %1$s หลา</item>
+        <item quantity="many">เดินทางต่อไปบน %2$s อีก %1$s หลา</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">เดินทางต่อไปบน %2$s อีก %1$s ไมล์</item>
+        <item quantity="one">เดินทางต่อไปบน %2$s อีก %1$s ไมล์</item>
+        <item quantity="two">เดินทางต่อไปบน %2$s อีก %1$s ไมล์</item>
+        <item quantity="few">เดินทางต่อไปบน %2$s อีก %1$s ไมล์</item>
+        <item quantity="many">เดินทางต่อไปบน %2$s อีก %1$s ไมล์</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d ดาว</item>
+        <item quantity="zero">%d ดาว</item>
+        <item quantity="one">%d ดาว</item>
+        <item quantity="two">%d ดาว</item>
+        <item quantity="few">%d ดาว</item>
+        <item quantity="many">%d ดาว</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">คุณจองห้องพักสำหรับ %d คืน</item>
+        <item quantity="zero">คุณจองห้องพักสำหรับ %d คืน</item>
+        <item quantity="one">คุณจองห้องพักสำหรับ %d คืน</item>
+        <item quantity="two">คุณจองห้องพักสำหรับ %d คืน</item>
+        <item quantity="few">คุณจองห้องพักสำหรับ %d คืน</item>
+        <item quantity="many">คุณจองห้องพักสำหรับ %d คืน</item>
+    </plurals>
+</resources>

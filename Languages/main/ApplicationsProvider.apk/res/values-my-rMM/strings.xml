@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">လုပ်ငန်းသုံး ပရိုဂရမ် ပေးသူကို ရှာဖွေသည်</string>
+    <string name="search_label">လုပ်ငန်းသုံး ပရိုဂရမ်များ</string>
+    <string name="application_desc">လုပ်ငန်းသုံး ပရိုဂရမ်</string>
+    <string name="settings_description">တပ်ဆင်ထားသော လုပ်ငန်းသုံး ပရိုဂရမ်များ၏ အမည်များ</string>
+    <string name="search_empty">ကိုက်ညီချက်မရှိပါ</string>
+</resources>

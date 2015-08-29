@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="select_all_text_size">12.0dip</dimen>
+    <dimen name="select_none_text_size">12.0dip</dimen>
+    <dimen name="copy_multi_text_size">12.0dip</dimen>
+    <dimen name="move_multi_text_size">12.0dip</dimen>
+    <dimen name="delete_multi_text_size">12.0dip</dimen>
+    <dimen name="zip_multi_text_size">12.0dip</dimen>
+    <dimen name="tar_multi_text_size">12.0dip</dimen>
+    <dimen name="cancel_multi_text_size">12.0dip</dimen>
+    <dimen name="permissions_width_col1">65.0dip</dimen>
+    <dimen name="mount_button_margin">3.0dip</dimen>
+    <dimen name="info_text_size">12.5dip</dimen>
+</resources>

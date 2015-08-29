@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Chattà %d</item>
+        <item quantity="one">chattà 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Chattà %d</item>
+        <item quantity="one">chattà 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">1 contact fusiunà ord %0$d funtaunas</item>
+        <item quantity="one">betg fusiunà</item>
+    </plurals>
+</resources>

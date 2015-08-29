@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Deze inschakeling is ingesteld voor minder dan 1 minuut na nu.</item>
+        <item>Deze inschakeling is ingesteld voor %1$s na nu.</item>
+        <item>Dit inschakelen is ingesteld op %2$s vanaf nu.</item>
+        <item>Deze inschakeling is ingesteld voor %1$s en %2$s na nu.</item>
+        <item>Dit inschakelen is ingesteld op %3$s vanaf nu.</item>
+        <item>Deze inschakeling is ingesteld voor %1$s en %3$s na nu.</item>
+        <item>Dit inschakelen is ingesteld op %2$s and %3$s vanaf nu.</item>
+        <item>Deze inschakeling is ingesteld voor %1$s, %2$s, en %3$s na nu.</item>
+        <item>Deze uitschakeling is ingesteld voor minder dan 1 minuut na nu.</item>
+        <item>Deze uitschakeling is ingesteld voor %1$s na nu.</item>
+        <item>Dit uitschakelen is ingesteld op %2$s vanaf nu.</item>
+        <item>Deze uitschakeling is ingesteld voor %1$s en %2$s na nu.</item>
+        <item>Dit uitschakelen is ingesteld op %3$s vanaf nu.</item>
+        <item>Deze uitschakeling is ingesteld voor %1$s en %3$s na nu.</item>
+        <item>Dit uitschakelen is ingesteld op %2$s and %3$s vanaf nu.</item>
+        <item>Deze uitschakeling is ingesteld voor %1$s, %2$s, en %3$s na nu.</item>
+    </string-array>
+</resources>

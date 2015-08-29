@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d ფოტო.</item>
+        <item quantity="zero">%d ფოტო.</item>
+        <item quantity="one">%d ფოტო.</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">მონიშნულია %d.</item>
+        <item quantity="one">მონიშნულია %d.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">წაიშალოს ამ ფოტოების ყველა ასლი?</item>
+        <item quantity="one">წაიშალოს ამ ფოტოს ყველა ასლი?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">დარწმუნებული ხართ, რომ გსურთ ამ ფოტოების წაშლა Google+-ის ალბომიდან? ამ ქმედების უკან დაბრუნება არ იქნება შესაძლებელი.</item>
+        <item quantity="one">დარწმუნებული ხართ, რომ გსურთ ამ ფოტოს წაშლა Google+-ის ალბომიდან? ამ ქმედების უკან დაბრუნება არ იქნება შესაძლებელი.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">დარწმუნებული ხართ, რომ გსურთ ამ ფოტების წაშლა როგორც თქვენი ტელეფონიდან ასევე Google+-ის ამ ალბომიდან? ამ ქმედების უკან დაბრუნება არ იქნება შესაძლებელი.</item>
+        <item quantity="one">დარწმუნებული ხართ, რომ გსურთ ამ ფოტოს წაშლა როგორც თქვენი ტელეფონიდან ასევე Google+-ის ამ ალბომიდან? ამ ქმედების უკან დაბრუნება არ იქნება შესაძლებელი.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">მიმდინარეობს ფოტოების წაშლა…</item>
+        <item quantity="one">მიმდინარეობს ფოტოს წაშლა…</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d კომენტარი</item>
+        <item quantity="one">%d კომენტარი</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">ფოტოების წაშლა</item>
+        <item quantity="one">ფოტოს წაშლა</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; %2$d წევრი</item>
+        <item quantity="one">%1$s; %2$d წევრი</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Google+-ის ახალი შეტყობინებები</item>
+        <item quantity="one">Google+-ის ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">მოგიწვიათ, რათა განახორციელოთ ჰენგაუთი %d სხვა მონაწილესთან ერთად</item>
+        <item quantity="one">მოგიწვიათ, რათა შეუერთდეთ ჰენგაუთს 1 სხვა მონაწილესთან ერთად</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d დანართი</item>
+        <item quantity="one">%d დანართი</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">მონიშნულია %d</item>
+        <item quantity="one">მონიშნულია %d</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d წრე, %2$s</item>
+        <item quantity="one">%1$d წრე, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">წრეების წაშლა</item>
+        <item quantity="one">წრის წაშლა</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">გსურთ ამ წრეების სამუდამოდ წაშლა?</item>
+        <item quantity="one">გსურთ ამ წრის სამუდამოდ წაშლა?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">მიმდინარეობს წრეების წაშლა…</item>
+        <item quantity="one">მიმდინარეობს წრის წაშლა…</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d ადამიანი</item>
+        <item quantity="one">%d ადამიანი</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">ხალხის წაშლა</item>
+        <item quantity="one">ადამიანის წაშლა</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">გსურთ, ამ ხალხის წაშლა მოცემული წრიდან?</item>
+        <item quantity="one">გსურთ, ამ ადამიანის წაშლა მოცემული წრიდან?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">ხალხის დამატება…</item>
+        <item quantity="one">ადამიანის დამატება…</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">მიმდინარეობს ხალხის წაშლა…</item>
+        <item quantity="one">მიმდინარეობს ადამიანის წაშლა…</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">მიმდინარეობს ადამიანების უარყოფა…</item>
+        <item quantity="one">მიმდინარეობს ადამიანის უარყოფა…</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">კიდევ %d</item>
+        <item quantity="one">კიდევ %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d წუთი</item>
+        <item quantity="one">%d წუთი</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d საათი</item>
+        <item quantity="one">%d საათი</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d დღე</item>
+        <item quantity="one">%d დღე</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">ვიდეო ზარი განხორციელებულია %2$s-ის მიერ, %3$s-სთან და სხვა %1$d-თან ერთად</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d საათი</item>
+        <item quantity="one">1 საათი</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d მოსაწვევი</item>
+        <item quantity="one">%d მოსაწვევი</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d შეტყობინება %2$d ჰენგაუთებში</item>
+        <item quantity="one">%d შეტყობინება ერთ ჰენგაუთში</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">მოგიწვიათ, რათა განახორციელოთ ჰენგაუთი %1$d სხვა მონაწილესთან ერთად</item>
+        <item quantity="one">მოგიწვიათ, რათა შეუერთდეთ ჰენგაუთს 1 სხვა მონაწილესთან ერთად</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s-სა და სხვა %1$d-ს სურს ჰენგაუთი</item>
+        <item quantity="one">%2$s-სა და სხვა %1$d-ს სურს ჰენგაუთი</item>
+        <item quantity="few">%2$s-სა და სხვა %1$d-ს სურს ჰენგაუთი</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d სხვას სურს ჰენგაუთი</item>
+        <item quantity="one">%1$d სხვას სურს ჰენგაუთი</item>
+        <item quantity="few">%1$d სხვას სურს ჰენგაუთი</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d მოწვევა</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">მიმაგრებულია %d ერთეული</item>
+        <item quantity="zero">მიმაგრებულია %d ერთეული</item>
+        <item quantity="one">მიმაგრებულია %d ერთეული</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">%d ერთეულის გადამისამართება</item>
+        <item quantity="zero">%d ერთეულის გადამისამართება</item>
+        <item quantity="one">%d ერთეულის გადამისამართება</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d კვირა</item>
+        <item quantity="one">კვირა</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d თვე</item>
+        <item quantity="one">თვე</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d წელი</item>
+        <item quantity="one">წელი</item>
+    </plurals>
+</resources>

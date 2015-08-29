@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">%d fénykép</item>
+        <item quantity="zero">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
+        <item quantity="two">%d fénykép</item>
+        <item quantity="few">%d fénykép</item>
+        <item quantity="many">%d fénykép</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">%d csillag</item>
+        <item quantity="zero">%d csillag</item>
+        <item quantity="one">%d csillag</item>
+        <item quantity="two">%d csillag</item>
+        <item quantity="few">%d csillag</item>
+        <item quantity="many">%d csillag</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">%.1f csillag</item>
+        <item quantity="zero">%.1f csillag</item>
+        <item quantity="one">%.1f csillag</item>
+        <item quantity="two">%.1f csillag</item>
+        <item quantity="few">%.1f csillag</item>
+        <item quantity="many">%.1f csillag</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">Közeli állomások</item>
+        <item quantity="zero">Közeli állomások</item>
+        <item quantity="one">Közeli állomás</item>
+        <item quantity="two">Közeli állomások</item>
+        <item quantity="few">Közeli állomások</item>
+        <item quantity="many">Közeli állomások</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s és %2$d másik véleményező</item>
+        <item quantity="one">%1$s és %2$d másik véleményező</item>
+        <item quantity="two">%1$s és %2$d másik véleményező</item>
+        <item quantity="few">%1$s és %2$d másik véleményező</item>
+        <item quantity="many">%1$s és %2$d másik véleményező</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">%d véleményező</item>
+        <item quantity="one">%d véleményező</item>
+        <item quantity="two">%d véleményező</item>
+        <item quantity="few">%d véleményező</item>
+        <item quantity="many">%d véleményező</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">Miután ellenőrizzük fényképeit, nyilvánossá válnak.</item>
+        <item quantity="one">Fényképe az ellenőrzést követően nyilvánossá válik.</item>
+        <item quantity="two">Miután ellenőrizzük fényképeit, nyilvánossá válnak.</item>
+        <item quantity="few">Miután ellenőrizzük fényképeit, nyilvánossá válnak.</item>
+        <item quantity="many">Miután ellenőrizzük fényképeit, nyilvánossá válnak.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">%d megálló</item>
+        <item quantity="zero">%d megálló</item>
+        <item quantity="one">%d megálló</item>
+        <item quantity="two">%d megálló</item>
+        <item quantity="few">%d megálló</item>
+        <item quantity="many">%d megálló</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">vélemény</item>
+        <item quantity="zero">vélemény</item>
+        <item quantity="one">vélemény</item>
+        <item quantity="two">vélemény</item>
+        <item quantity="few">vélemény</item>
+        <item quantity="many">vélemény</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s nap</item>
+        <item quantity="zero">%s nap</item>
+        <item quantity="one">%s nap</item>
+        <item quantity="two">%s nap</item>
+        <item quantity="few">%s nap</item>
+        <item quantity="many">%s nap</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d nap</item>
+        <item quantity="zero">%d nap</item>
+        <item quantity="one">%d nap</item>
+        <item quantity="two">%d nap</item>
+        <item quantity="few">%d nap</item>
+        <item quantity="many">%d nap</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s óra</item>
+        <item quantity="zero">%s óra</item>
+        <item quantity="one">%s óra</item>
+        <item quantity="two">%s óra</item>
+        <item quantity="few">%s óra</item>
+        <item quantity="many">%s óra</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d óra</item>
+        <item quantity="zero">%d óra</item>
+        <item quantity="one">%d óra</item>
+        <item quantity="two">%d óra</item>
+        <item quantity="few">%d óra</item>
+        <item quantity="many">%d óra</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s perc</item>
+        <item quantity="zero">%s perc</item>
+        <item quantity="one">%s perc</item>
+        <item quantity="two">%s perc</item>
+        <item quantity="few">%s perc</item>
+        <item quantity="many">%s perc</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d perc</item>
+        <item quantity="zero">%d perc</item>
+        <item quantity="one">%d perc</item>
+        <item quantity="two">%d perc</item>
+        <item quantity="few">%d perc</item>
+        <item quantity="many">%d perc</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">%1$s méter múlva</item>
+        <item quantity="one">%1$s méter múlva</item>
+        <item quantity="two">%1$s méter múlva</item>
+        <item quantity="few">%1$s méter múlva</item>
+        <item quantity="many">%1$s méter múlva</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">%1$s kilométer múlva</item>
+        <item quantity="one">%1$s kilométer múlva</item>
+        <item quantity="two">%1$s kilométer múlva</item>
+        <item quantity="few">%1$s kilométer múlva</item>
+        <item quantity="many">%1$s kilométer múlva</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">Haladjon tovább %1$s métert</item>
+        <item quantity="one">Haladjon tovább %1$s métert</item>
+        <item quantity="two">Haladjon tovább %1$s métert</item>
+        <item quantity="few">Haladjon tovább %1$s métert</item>
+        <item quantity="many">Haladjon tovább %1$s métert</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">Haladjon tovább %1$s kilométert</item>
+        <item quantity="one">Haladjon tovább %1$s kilométert</item>
+        <item quantity="two">Haladjon tovább %1$s kilométert</item>
+        <item quantity="few">Haladjon tovább %1$s kilométert</item>
+        <item quantity="many">Haladjon tovább %1$s kilométert</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">Haladjon tovább %1$s métert a következőn: %2$s</item>
+        <item quantity="one">Haladjon tovább %1$s métert a következőn: %2$s</item>
+        <item quantity="two">Haladjon tovább %1$s métert a következőn: %2$s</item>
+        <item quantity="few">Haladjon tovább %1$s métert a következőn: %2$s</item>
+        <item quantity="many">Haladjon tovább %1$s métert a következőn: %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">Haladjon tovább %1$s kilométert a következőn: %2$s</item>
+        <item quantity="one">Haladjon tovább %1$s kilométert a következőn: %2$s</item>
+        <item quantity="two">Haladjon tovább %1$s kilométert a következőn: %2$s</item>
+        <item quantity="few">Haladjon tovább %1$s kilométert a következőn: %2$s</item>
+        <item quantity="many">Haladjon tovább %1$s kilométert a következőn: %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">%1$s láb múlva</item>
+        <item quantity="one">%1$s láb múlva</item>
+        <item quantity="two">%1$s láb múlva</item>
+        <item quantity="few">%1$s láb múlva</item>
+        <item quantity="many">%1$s láb múlva</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">%1$s yard múlva</item>
+        <item quantity="one">%1$s yard múlva</item>
+        <item quantity="two">%1$s yard múlva</item>
+        <item quantity="few">%1$s yard múlva</item>
+        <item quantity="many">%1$s yard múlva</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">%1$s mérföld múlva</item>
+        <item quantity="one">%1$s mérföld múlva</item>
+        <item quantity="two">%1$s mérföld múlva</item>
+        <item quantity="few">%1$s mérföld múlva</item>
+        <item quantity="many">%1$s mérföld múlva</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">Haladjon tovább %1$s láb távolságot</item>
+        <item quantity="one">Haladjon tovább %1$s láb távolságot</item>
+        <item quantity="two">Haladjon tovább %1$s láb távolságot</item>
+        <item quantity="few">Haladjon tovább %1$s láb távolságot</item>
+        <item quantity="many">Haladjon tovább %1$s láb távolságot</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">Haladjon tovább %1$s yard távolságot</item>
+        <item quantity="one">Haladjon tovább %1$s yard távolságot</item>
+        <item quantity="two">Haladjon tovább %1$s yard távolságot</item>
+        <item quantity="few">Haladjon tovább %1$s yard távolságot</item>
+        <item quantity="many">Haladjon tovább %1$s yard távolságot</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">Haladjon tovább %1$s mérföldet</item>
+        <item quantity="one">Haladjon tovább %1$s mérföldet</item>
+        <item quantity="two">Haladjon tovább %1$s mérföldet</item>
+        <item quantity="few">Haladjon tovább %1$s mérföldet</item>
+        <item quantity="many">Haladjon tovább %1$s mérföldet</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">Haladjon tovább %1$s láb távolságot a következőn: %2$s</item>
+        <item quantity="one">Haladjon tovább %1$s láb távolságot a következőn: %2$s</item>
+        <item quantity="two">Haladjon tovább %1$s láb távolságot a következőn: %2$s</item>
+        <item quantity="few">Haladjon tovább %1$s láb távolságot a következőn: %2$s</item>
+        <item quantity="many">Haladjon tovább %1$s láb távolságot a következőn: %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">Haladjon tovább %1$s yard távolságot a következőn: %2$s</item>
+        <item quantity="one">Haladjon tovább %1$s yard távolságot a következőn: %2$s</item>
+        <item quantity="two">Haladjon tovább %1$s yard távolságot a következőn: %2$s</item>
+        <item quantity="few">Haladjon tovább %1$s yard távolságot a következőn: %2$s</item>
+        <item quantity="many">Haladjon tovább %1$s yard távolságot a következőn: %2$s</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">Haladjon tovább %1$s mérföldet a következőn: %2$s</item>
+        <item quantity="one">Haladjon tovább %1$s mérföldet a következőn: %2$s</item>
+        <item quantity="two">Haladjon tovább %1$s mérföldet a következőn: %2$s</item>
+        <item quantity="few">Haladjon tovább %1$s mérföldet a következőn: %2$s</item>
+        <item quantity="many">Haladjon tovább %1$s mérföldet a következőn: %2$s</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">%d csillag</item>
+        <item quantity="zero">%d csillag</item>
+        <item quantity="one">%d csillag</item>
+        <item quantity="two">%d csillag</item>
+        <item quantity="few">%d csillag</item>
+        <item quantity="many">%d csillag</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">%d éjszakára szóló foglalása</item>
+        <item quantity="zero">%d éjszakára szóló foglalása</item>
+        <item quantity="one">%d éjszakára szóló foglalása</item>
+        <item quantity="two">%d éjszakára szóló foglalása</item>
+        <item quantity="few">%d éjszakára szóló foglalása</item>
+        <item quantity="many">%d éjszakára szóló foglalása</item>
+    </plurals>
+</resources>

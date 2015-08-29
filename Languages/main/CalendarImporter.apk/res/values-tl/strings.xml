@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">I-import sa</string>
+    <string name="import_button">I-import</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="no_access_toast">Hindi nahanap ang account. Pakidagdag muna ng account</string>
+    <string name="null_name">Wala</string>
+    <string name="import_message">Nais mo bang mag-import ng # sa Kalendaryo?</string>
+    <string name="calendar_lable">Kalendaryo:</string>
+    <string name="date_lable">Petsa:</string>
+    <string name="import_title">Mag-import ng Kalendaryong Kaganapan</string>
+    <string name="importing">Ini-import…</string>
+    <string name="import_complete">Kumpleto na ang pag-import</string>
+    <string name="open">Buksan</string>
+    <string name="done">Tapos na</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Hindi ma-import ang vCalendar.</string>
+    <string name="title_lable">"Pamagat: "</string>
+    <string name="no_syncable_calendars">Hindi ma-import</string>
+    <string name="no_calendars_found">Hindi sinusuportahan ang account na ito ang pag-sync ng kalendaryo, o hindi pa natapos ang huling pag-sync.</string>
+    <string name="retry">Subukan Muli</string>
+    <string name="give_up">Ihinto</string>
+    <string name="open_calendar_failed">Wala ang kalendaryo</string>
+    <string name="loading">Naglo-load...</string>
+</resources>

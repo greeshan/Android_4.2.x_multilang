@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"သင်၏ လုပ်ငန်းလုံး ပရိုဂရမ်များအားလုံးကို ကြည့်သည်။ 
+ Launcher icon. @drawable/all_apps ကို ထိပါ။"</item>
+        <item>"သင်၏ ပင်မ ဖန်သား ပြင်သို့ လုပ်ငန်းသုံး ပရိုဂရမ်ကို ဆွဲသည်။ 
+ ထိုအရာ တုန်ခါသည် အထိ လုပ်ငန်းတစ်ခု အစပျိုးခြင်းတွင် လုပ်ငန်းသုံးပရိုဂရမ်ကို ထိပြီး ကိုင်ထားပါ။"</item>
+        <item>"သင်၏ ပင်မ ဖန်သားပြင်ကို ပြန်လည်စီစဥ်သည်။ 
+ အရာဝတ္ထုတစ်ခု ကို ထိပြီးကိုင်ထားသော အခါ ထိုအရာသည် တုန်ခါနေပြီ;? သင် လိုချင်သည့်နေရာကို ဖြတ်ဆွဲပါ။"</item>
+        <item>"အရာဝတ္ထုများကို ဖယ်ရှားသည်။ 
+ အရာဝတ္ထုတစ်ခုကို ထိပြီး ကိုင်ထားကာ ထိုအရာသည် တုန်ခါ ပါက Trash icon. @drawable/trash သို့ ထိုအရာကို ဆွဲပို့ပါ။"</item>
+        <item>"ပင်မ ဖန်သားပြင်များ ပေါင်းစုံ။ 
+ပြောင်းရန် ဘယ် သို့မဟုတ် ညာ ကို လွှဲရိုက်သည်။ အခြား ဖန်သားပြင်များသို့ အရာဝတ္ထုများကို ဆွဲပို့သည်။"</item>
+        <item>"ဤဝဒ်ဂျက်(စ်) ဖြင့် ပြုလုပ်မည်လား။ 
+ ထိုအရာကို ထိပြီး ကိုင်ထားကာ ၎င်း တုန်ခါသောအခါ အမှိုက်ပုံး သကေႅတသို့ ထိုအရာကို ဆွဲပို့ပါ။"</item>
+    </string-array>
+    <string-array name="tips2">
+        <item>"Home is a garden 
+Touch &amp; hold an empty spot 
+To grow new icons"</item>
+        <item>"Phone isn’t waterproof 
+Do not immerse in water 
+or other fluids"</item>
+        <item>"Want some more home screens? 
+Swipe left and right to find them 
+(No theft required)"</item>
+        <item>"Little Home screen dots 
+What could they possibly do? 
+Touch &amp; hold to learn."</item>
+        <item>"Status bar icons 
+To discover their secrets 
+Pull the windowshade"</item>
+        <item>"There is a trick to 
+Dragging items twixt Home screens 
+Pause at the edges"</item>
+        <item>"Touch Market for apps 
+Like a box of chocolates 
+Each one a surprise"</item>
+        <item>"Oh, and by the way: 
+Ceci n’est pas une trombone 
+I am an Android"</item>
+    </string-array>
+</resources>

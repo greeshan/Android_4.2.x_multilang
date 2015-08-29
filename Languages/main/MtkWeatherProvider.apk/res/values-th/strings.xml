@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">บริการสภาพอากาศ</string>
+    <string name="choose_city">เลือกเมือง</string>
+    <string name="searching">กำลังค้นหา โปรดรอ</string>
+    <string name="no_found">ไม่พบเมืองที่ตรงกับ %s โปรดตรวจสอบคำที่คุณใส่เข้ามา</string>
+    <string name="net_error">ไม่มีเครือข่าย โปรดตรวจสอบ</string>
+    <string name="no_city_error">ไม่สามารถรับข้อมูลเมือง โปรดตั้งค่าเวลาระบบและเขตเวลาอย่างถูกต้อง</string>
+    <string name="searching_fail">การค้นหาเมืองไม่สำเร็จ</string>
+    <string name="no_weather_error">ไม่สามารถรับข้อมูลสภาพอากาศ โปรดตั้งค่าเวลาระบบและเขตเวลาอย่างถูกต้อง</string>
+    <string name="no_weather">ไม่มีข้อมูลสภาพอากาศสำหรับ %s ในปัจจุบัน</string>
+    <string name="setting_title">ตั้งค่า</string>
+    <string name="temperature">หน่วยอุณหภูมิ</string>
+    <string name="tem_celsius">เซลเซียส</string>
+    <string name="cities_title">เมือง</string>
+    <string name="update_fre">ความถี่การอัพเดต</string>
+    <string name="every12">ทุก 12 ชั่วโมง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="menu_add_city">เพิ่มเมือง</string>
+    <string name="add_city">กดที่ไอคอนเพื่อเพิ่มเมือง</string>
+    <string name="remove">ลบ</string>
+    <string name="warn">สามารถเพิ่มได้มากที่สุด 8 เมือง</string>
+    <string name="has_chosen">ถูกเลือกแล้ว</string>
+    <string name="no_city">ไม่มีเมือง</string>
+    <string name="powered_by">สนับสนุนโดย:</string>
+    <string name="menu_about">เกี่ยวกับ</string>
+</resources>

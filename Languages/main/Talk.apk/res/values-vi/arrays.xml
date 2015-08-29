@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>cau mặt</item>
+        <item>đôi mắt to</item>
+        <item>miệng lớn</item>
+        <item>miệng nhỏ</item>
+        <item>mũi to</item>
+        <item>đôi mắt nhỏ</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>trong vũ trụ</item>
+        <item>hoàng hôn</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>thấp</item>
+        <item>trung bình</item>
+        <item>cao</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>không có chủ đề</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>KHUÔN MẶT MỈM CƯỜI CÓ ĐÔI MẮT CƯỜI</item>
+        <item>CƯỜI TOE TOÉT</item>
+        <item>KHUÔN MẶT CƯỜI TOE TOÉT CÓ ĐÔI MẮT CƯỜI</item>
+        <item>GIỌT NƯỚC MẮT HẠNH PHÚC</item>
+        <item>NHOẺN MIỆNG CƯỜI</item>
+        <item>KHUÔN MẶT NHOẺN MIỆNG CƯỜI CÓ ĐÔI MẮT CƯỜI</item>
+        <item>"NHOẺN  MIỆNG CƯỜI VÀ VÃ MỒ HÔI LẠNH"</item>
+        <item>NHẮM CHẶT MẮT VÀ NHOẺN MIỆNG CƯỜI</item>
+        <item>KHUÔN MẶT MỈM CƯỜI CÓ VẦNG HÀO QUANG TRÊN ĐẦU</item>
+        <item>KHUÔN MẶT SỪNG QUỶ MÌM CƯỜI</item>
+        <item>NHÁY MẮT</item>
+        <item>IM LẶNG</item>
+        <item>TRUNG LẬP</item>
+        <item>KHÔNG BIỂU LỘ CẢM XÚC</item>
+        <item>BỐI RỐI</item>
+        <item>TỨC GIẬN</item>
+        <item>NHĂN NHÓ</item>
+        <item>BĨU MÔI GIẬN DỖI</item>
+        <item>KHÓC</item>
+        <item>NGỦ</item>
+        <item>KHUÔN MẶT HÁ MIỆNG</item>
+        <item>KIÊN NHẪN</item>
+        <item>"KHUÔN  MẶT BỐC HỎA"</item>
+        <item>THẤT VỌNG NHƯNG CẢM GIÁC NHẸ NHÕM</item>
+        <item>CAU MÀY HÁ MIỆNG</item>
+        <item>ĐAU KHỔ</item>
+        <item>SỢ HÃI</item>
+        <item>MỆT MỎI</item>
+        <item>HÁ MIỆNG VÀ VÃ MỒ HÔI LẠNH</item>
+        <item>KHUÔN MẶT LO ÂU</item>
+        <item>LA HÉT SỢ HÃI</item>
+        <item>NGẠC NHIÊN</item>
+        <item>ĐỎ MẶT</item>
+        <item>CHÓNG MẶT</item>
+        <item>KHUÔN MẶT KHÔNG CÓ MIỆNG</item>
+        <item>KHUÔN MẶT ĐEO KHẨU TRANG Y TẾ</item>
+        <item>THẤT ​​VỌNG</item>
+        <item>KHÔNG THÍCH THÚ</item>
+        <item>KHUÔN MẶT MỈM CƯỜI CÓ ĐÔI MẮT HÌNH TRÁI TIM</item>
+        <item>LÈ LƯỠI</item>
+        <item>LÈ LƯỠI VÀ NHÁY MẮT</item>
+        <item>LÈ LƯỠI VÀ NHẮM CHẶT MẮT</item>
+        <item>THƯỞNG THỨC MÓN NGON</item>
+        <item>KHUÔN MẶT CÓ ĐÔI MÔI HÔN</item>
+        <item>KHUÔN MẶT CÓ ĐÔI MÔI HÔN VÀ ĐÔI MẮT CƯỜI</item>
+        <item>KHUÔN MẶT HÔN GIÓ</item>
+        <item>KHUÔN MẶT CÓ ĐÔI MÔI HÔN VÀ NHẮM MẮT</item>
+        <item>KHUÔN MẶT ĐEO KÍNH RÂM MỈM CƯỜI</item>
+        <item>KHÓC LỚN</item>
+        <item>NHẸ NHÕM</item>
+        <item>XẤU HỔ</item>
+        <item>TRẦM NGÂM</item>
+        <item>BUỒN NGỦ</item>
+        <item>CƯỜI ĐIỆU</item>
+        <item>VÃ MỒ HÔI LẠNH</item>
+        <item>MỆT MỎI</item>
+        <item>GIƠ MỘT TAY BIỂU LỘ NIỀM VUI</item>
+        <item>GIƠ CẢ HAI TAY ĂN MỪNG</item>
+        <item>CAU MÀY</item>
+        <item>KHOANH TAY GIẬN DỮ</item>
+        <item>KHUÔN MẶT VỚI CỬ CHỈ OK</item>
+        <item>NGƯỜI CÚI CHÀO THẤP</item>
+        <item>KHUÔN MẶT BĨU MÔI</item>
+        <item>CHẮP TAY</item>
+        <item>BIỂU TƯỢNG OK</item>
+        <item>BIỂU TƯỢNG NGÓN TAY CÁI GIƠ LÊN</item>
+        <item>BIỂU TƯỢNG NGÓN TAY CÁI QUAY XUỐNG</item>
+        <item>ĐỐNG PHÂN</item>
+        <item>TRÁI TIM VÃ MỒ HÔI</item>
+        <item>TRÁI TIM LÀM BẰNG LÔNG</item>
+        <item>TRÁI TIM MÀU TÍM</item>
+        <item>TRÁI TIM TAN VỠ</item>
+        <item>TRÁI TIM CÓ MŨI TÊN</item>
+        <item>TRÁI TIM BĂNG GIÁ</item>
+        <item>BIỂU TƯỢNG THÚ VỊ</item>
+        <item>BIỂU TƯỢNG MIỄN PHÍ</item>
+        <item>BIỂU TƯỢNG OK</item>
+        <item>BIỂU TƯỢNG SOS</item>
+        <item>MẶT NẠ NGHỆ THUẬT BIỂU DIỄN</item>
+        <item>CẦU VỒNG</item>
+        <item>PHÁO HOA KIM TUYẾN</item>
+        <item>DIỄN VIÊN MÚA</item>
+    </string-array>
+</resources>

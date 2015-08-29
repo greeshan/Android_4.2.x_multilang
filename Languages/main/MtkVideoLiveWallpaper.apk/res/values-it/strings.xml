@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Sfondi live MTK</string>
+    <string name="vlw">Sfondo video</string>
+    <string name="vlw_desc">Imposta video come sfondo live.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Spiacenti, questo video non è valido per lo streaming su questo dispositivo.</string>
+    <string name="VideoScene_error_text_unknown">Spiacenti, questo video non può essere riprodotto.</string>
+    <string name="VideoScene_error_media_removed">File multimediale rimosso</string>
+    <string name="VideoScene_error_sdcard_unmounted">Scheda SD disinstallata</string>
+    <string name="VideoScene_info_wait_sdcard">In attesa di preparazione scheda SD</string>
+    <string name="VideoScene_error_media_not_found">Il file multimediale non esiste</string>
+    <string name="VideoScene_error_be_set">Spiacenti, impossibile impostare il video come sfondo video</string>
+    <string name="VideoEditor_error_title">Impossibile riprodurre video</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">Nessun video selezionato</string>
+    <string name="VideoEditor_warning_limited_duration">Selezionare almeno 1 sec di video da riprodurre</string>
+    <string name="VideoScene_reload_after_mount">Caricamento del video da scheda SD. Attendere un istante.</string>
+    <string name="select_video">Scheda SD</string>
+    <string name="select_default">Predefinito</string>
+    <string name="select">Seleziona video</string>
+    <string name="set_wallpaper">Imposta</string>
+    <string name="title">Sfondo video</string>
+    <string name="default_title">Video predefinito</string>
+    <string name="capture_video">videocamera</string>
+    <string name="menu_item_add_item">Seleziona video da scheda SD</string>
+    <string name="group_video">Seleziona video singolo</string>
+    <string name="group_folder">Seleziona cartella</string>
+    <string name="folder_info">video &lt;br>da&lt;br></string>
+</resources>

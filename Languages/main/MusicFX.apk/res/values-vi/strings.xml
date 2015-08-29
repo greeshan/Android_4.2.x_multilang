@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">Buồng vang cài sẵn</string>
+    <string name="eq_preset_normal">Chuẩn</string>
+    <string name="eq_preset_classical">Cổ điển</string>
+    <string name="eq_preset_dance">Khiêu vũ</string>
+    <string name="eq_preset_flat">Theo dấu giáng</string>
+    <string name="eq_preset_folk">Dân gian</string>
+    <string name="eq_preset_heavymetal">Kim loại nặng</string>
+    <string name="eq_preset_hiphop">Hip Hop</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Không có hiệu ứng.</string>
+    <string name="eq_dialog_title">Bộ hiệu chỉnh</string>
+    <string name="headset_plug">Cắm tai nghe đối với những hiệu ứng này.</string>
+    <string name="bass_boost_strength">Tăng âm trầm</string>
+    <string name="virtualizer_strength">Hiệu ứng 3D</string>
+    <string name="ci_extreme">Bộ tăng FX</string>
+    <string name="user">Người dùng</string>
+    <string name="picker_title">Bảng đ.khiển hiệu ứng âm nhạc</string>
+    <string name="main_toggle_effects_title">Hiệu ứng âm thanh</string>
+    <string name="pr_title">Âm vang:</string>
+    <string name="pr_summary">Hiệu ứng âm vang trong phòng bổ sung</string>
+    <string name="pr_dialog_title">Giá trị âm vang đặt trước</string>
+    <string name="setup">Thiết lập</string>
+</resources>

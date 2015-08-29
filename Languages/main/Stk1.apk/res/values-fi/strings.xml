@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM Toolkit</string>
+    <string name="menu_end_session">Lopeta käyttökerta</string>
+    <string name="help">Ohje</string>
+    <string name="menu_back">Takaisin</string>
+    <string name="service_name">Palvelun nimi</string>
+    <string name="stk_no_service">Palvelu ei käytettävissä</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Peruuta</string>
+    <string name="button_yes">Kyllä</string>
+    <string name="button_no">Ei</string>
+    <string name="alphabet">Aakkoset</string>
+    <string name="digits">Numerot (0–9, *, #, +)</string>
+    <string name="default_call_setup_msg">Puhelu kesken...</string>
+    <string name="stk_app_state">Sovelluksen tila</string>
+    <string name="enable_app">Käytössä</string>
+    <string name="disable_app">Pois käytöstä</string>
+</resources>

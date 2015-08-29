@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d ຮູບ</item>
+        <item quantity="zero">%d ຮູບ</item>
+        <item quantity="one">%d ຮູບ</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">ເລືອກແລ້ວ %d.</item>
+        <item quantity="one">ເລືອກແລ້ວ %d.</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">ລຶບສຳເນົາທັງໝົດຂອງຮູບພາບເຫຼົ່ານີ້?</item>
+        <item quantity="one">ລຶບສຳເນົາທັງໝົດຂອງຮູບພາບນີ້?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຮູບເຫຼົ່ານີ້ອອກຈາກອະລະບ້ຳຮູບ Google+ ນີ້? ການກະທຳນີ້ຈະບໍ່ສາມາດຍົກເລີກໄດ້.</item>
+        <item quantity="one">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຮູບນີ້ອອກຈາກອະລະບ້ຳຮູບ Google+ ນີ້? ການກະທຳນີ້ຈະບໍ່ສາມາດຍົກເລີກໄດ້.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຮູບເຫຼົ່ານີ້ ອອກຈາກທັງໂທລະສັບຂອງທ່ານ ແລະອະລະບ້ຳຮູບ Google+ ນີ້? ການກະທຳນີ້ຈະບໍ່ສາມາດຍົກເລີກໄດ້.</item>
+        <item quantity="one">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຮູບນີ້ ອອກຈາກທັງໂທລະສັບຂອງທ່ານ ແລະອະລະບ້ຳຮູບ Google+ ນີ້? ການກະທຳນີ້ຈະບໍ່ສາມາດຍົກເລີກໄດ້.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">ກຳລັງລຶບຮູບພາບ...</item>
+        <item quantity="one">ກຳລັງລຶບຮູບພາບ...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d ຄໍາເຫັນ</item>
+        <item quantity="one">%d ຄໍາຄິດຄໍາເຫັນ</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">ລຶບຮູບພາບ</item>
+        <item quantity="one">ລຶບຮູບ</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; ສະມາຊິກ %2$d ຄົນ</item>
+        <item quantity="one">%1$s; ສະມາຊິກ %2$d ຄົນ</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">ການແຈ້ງເຕືອນໃໝ່ໃນ Google+</item>
+        <item quantity="one">ການແຈ້ງເຕືອນໃໝ່ໃນ Google+</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">ເຊີນຊວນໃຫ້ທ່ານ Hangout ກັບອີກ %d ຄົນ</item>
+        <item quantity="one">ເຊີນຊວນໃຫ້ທ່ານ Hangout ກັບອີກ 1 ຄົນ</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">%d ໄຟລ໌ແນບ</item>
+        <item quantity="one">%d ໄຟລ໌ແນບ</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">ເລືອກແລ້ວ %d</item>
+        <item quantity="one">ເລືອກແລ້ວ %d</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d circles, %2$s</item>
+        <item quantity="one">%1$d circle, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">ລຶບ circles</item>
+        <item quantity="one">ລຶບ circle</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">ທ່ານຕ້ອງການລຶບ circles ເຫຼົ່ານີ້ອອກຖາວອນບໍ່?</item>
+        <item quantity="one">ທ່ານຕ້ອງການລຶບ circle ນີ້ອອກຖາວອນບໍ່?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">ກຳລັງລຶບ circles...</item>
+        <item quantity="one">ກຳລັງລຶບ circle...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">%d ຄົນ</item>
+        <item quantity="one">%d ຄົນ</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">ລຶບຄົນອອກ</item>
+        <item quantity="one">ລຶບຄົນອອກ</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຄົນເຫຼົ່ານີ້ອອກຈາກ circle ນີ້?</item>
+        <item quantity="one">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບບຸກຄົນນີ້ອອກຈາກ circle ນີ້?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">ກຳລັງເພີ່ມຄົນ...</item>
+        <item quantity="one">ກຳລັງເພີ່ມຄົນ...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">ກຳລັງລຶບຄົນອອກ...</item>
+        <item quantity="one">ກຳລັງລຶບຄົນອອກ...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">ກຳລັງປິດການແນະນຳ...</item>
+        <item quantity="one">ກຳລັງປິດການສະແດງຄົນ...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">ອີກ %d</item>
+        <item quantity="one">ອີກ %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ນາທີ</item>
+        <item quantity="one">%d ນາທີ</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+        <item quantity="one">%d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ມື້</item>
+        <item quantity="one">%d ມື້</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">ການໂທດ້ວຍວິດີໂອຈາກ %2$s ກັບ %3$s ແລະຄົນອື່ນໆອີກ %1$d ຄົນ</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+        <item quantity="one">1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">%d ການເຊີນ</item>
+        <item quantity="one">%d ການເຊີນ</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d ຂໍ້ຄວາມໃນ %2$d Hangouts</item>
+        <item quantity="one">%d ຂໍ້ຄວາມໃນນຶ່ງ Hangout</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">ເຊີນຊວນໃຫ້ທ່ານ Hangout ກັບອີກ %1$d ຄົນ</item>
+        <item quantity="one">ເຊີນຊວນໃຫ້ທ່ານ Hangout ກັບອີກ 1 ຄົນ</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s ແລະຄົນອື່ນໆອີກ %1$d ຄົນຢາກ Hangout</item>
+        <item quantity="one">%2$s ແລະຄົນອື່ນໆອີກ %1$d ຄົນຢາກ Hangout</item>
+        <item quantity="few">%2$s ແລະຄົນອື່ນໆອີກ %1$d ຄົນຢາກ Hangout</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d ຄົນອື່ນໆຢາກ Hangout</item>
+        <item quantity="one">%1$d ຄົນອື່ນໆຢາກ Hangout</item>
+        <item quantity="few">%1$d ຄົນອື່ນໆຢາກ Hangout</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">%1$d ຄຳເຊີນ</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">ແນບ %d ໄຟລ໌ແລ້ວ</item>
+        <item quantity="zero">ແນບ %d ໄຟລ໌ແລ້ວ</item>
+        <item quantity="one">ແນບ %d ໄຟລ໌ແລ້ວ</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">ສົ່ງຕໍ່ %d ໄຟລ໌ແລ້ວ</item>
+        <item quantity="zero">ສົ່ງຕໍ່ %d ໄຟລ໌ແລ້ວ</item>
+        <item quantity="one">ສົ່ງຕໍ່ %d ໄຟລ໌ແລ້ວ</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d ອາ​ທິດ</item>
+        <item quantity="one">ອາ​ທິດ</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d ເດືອນ</item>
+        <item quantity="one">ເດືອນ</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d ປີ</item>
+        <item quantity="one">ປິ</item>
+    </plurals>
+</resources>

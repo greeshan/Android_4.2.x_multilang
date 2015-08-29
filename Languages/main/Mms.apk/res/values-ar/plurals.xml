@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">إرسال %d تقارير قراءة</item>
+        <item quantity="one">إرسال %d تقرير قراءة</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">تم تحديد %d</item>
+        <item quantity="one">تم تحديد %d</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s تم حذف المحادثات</item>
+        <item quantity="one">تم حذف محادثة واحدة</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s نتائج البحث عن \"%2$s\"</item>
+        <item quantity="one">نتيجة %1$s لطلب البحث \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s ثانية</item>
+        <item quantity="one">%s ثانية</item>
+        <item quantity="few">%s ثانية</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">سيتم حذف %1$s من المحادثات.</item>
+        <item quantity="one">سيتم حذف محادثة واحدة.</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d رسالة غير مقروءة.</item>
+        <item quantity="one">%d رسالة غير مقروءة.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s من الرسائل الأخرى</item>
+        <item quantity="one">+%1$s رسالة واحدة أخرى</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s من الأشخاص</item>
+    </plurals>
+</resources>

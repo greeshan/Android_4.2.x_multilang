@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Prikažite vse programe.
+ Dotaknite se ikone seznama programov. @drawable/all_apps"</item>
+        <item>"Povlecite programe na začetni zaslon.
+ Dotaknite se programa na seznamu programov in ga pridržite, dokler ne zavibrira."</item>
+        <item>"Preuredite začetni zaslon.
+ Dotaknite se elementa in ga pridržite; ko zavibrira, ga povlecite na želeno mesto."</item>
+        <item>"Odstranite elemente.
+ Dotaknite se elementa in ga pridržite; ko zavibrira, ga povlecite na ikono smetnjaka. @drawable/trash"</item>
+        <item>"Več začetnih zaslonov.
+ Med njimi preklapljate z drsenjem levo ali desno. Povlecite elemente na druge zaslone."</item>
+        <item>"Ste končali s tem pripomočkom?
+ Dotaknite se ga in ga pridržite; ko zavibrira, ga povlecite na ikono smetnjaka."</item>
+    </string-array>
+</resources>

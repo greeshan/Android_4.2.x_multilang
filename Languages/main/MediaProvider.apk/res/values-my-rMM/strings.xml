@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">မီဒီယာ</string>
+    <string name="app_label">မီဒီယာသိမ်းဆည်းနေရာ</string>
+    <string name="upgrade_msg">မီဒီယာဒေတာဘေ့(စ်)ကို အဆင့်မြှင့်နေသည်။</string>
+    <string name="artist_label">အဆိုတော်</string>
+</resources>

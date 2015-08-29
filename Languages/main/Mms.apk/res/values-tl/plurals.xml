@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d mga ulat sa pagbasa ang pinadadala</item>
+        <item quantity="one">%d ulat sa pagbasa pinadadala</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d napili</item>
+        <item quantity="one">%d napili</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s mga usapan ang tinanggal</item>
+        <item quantity="one">Natanggap ang isang usapan</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s (na) resulta para sa \"%2$s\"</item>
+        <item quantity="one">%1$s (na) resulta para sa \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s (na) segundo</item>
+        <item quantity="one">%s (na) segundo</item>
+        <item quantity="few">%s (na) segundo</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Tatanggalin ang %1$s (na) pag-uusap</item>
+        <item quantity="one">Tatanggalin ang isang pag-uusap</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d na hindi nabasang mga mensahe.</item>
+        <item quantity="one">%d hindi nabasang mensahe.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s pang ibang mensahe</item>
+        <item quantity="one">+%1$s pang ibang mensahe</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s (na) tao</item>
+    </plurals>
+</resources>

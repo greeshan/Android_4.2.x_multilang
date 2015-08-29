@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perkhidmatan Cuaca</string>
+    <string name="choose_city">Pilih bandar</string>
+    <string name="searching">Mencari, sila tunggu</string>
+    <string name="no_found">Tiada bandar ditemui sepadan dengan %s. Sila periksa perkataan yang anda masukkan.</string>
+    <string name="net_error">Rangkaian tidak tersedia. Sila periksa ia.</string>
+    <string name="no_city_error">Tidak boleh mendapat maklumat bandar, sila tetapkan masa dan zon masa sistem dengan betul.</string>
+    <string name="searching_fail">Carian bandar gagal.</string>
+    <string name="no_weather_error">Tidak boleh mendapat maklumat cuaca, sila tetapkan masa dan zon masa sistem dengan betul.</string>
+    <string name="no_weather">Tiada maklumat cuaca untuk %s pada masa ini.</string>
+    <string name="setting_title">Setup</string>
+    <string name="temperature">Unit suhu</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Bandar</string>
+    <string name="update_fre">Kekerapan kemas kini</string>
+    <string name="every12">Setiap 12 jam</string>
+    <string name="cancel">Batal</string>
+    <string name="menu_add_city">Tambah bandar</string>
+    <string name="add_city">Tekan ikon untuk menambah bandar baru</string>
+    <string name="remove">Buang</string>
+    <string name="warn">Sehingga 8 bandar boleh ditambah.</string>
+    <string name="has_chosen">telah dipilih</string>
+    <string name="no_city">Tiada bandar</string>
+    <string name="powered_by">Dikuasakan oleh:</string>
+    <string name="menu_about">Mengenai</string>
+</resources>

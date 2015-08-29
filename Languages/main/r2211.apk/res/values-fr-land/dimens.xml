@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="permissions_width_col1">80.0dip</dimen>
+    <dimen name="permissions_width_col2">65.0dip</dimen>
+    <dimen name="permissions_width_col3">65.0dip</dimen>
+    <dimen name="permissions_width_col4">65.0dip</dimen>
+    <dimen name="change_owner_width">470.0dip</dimen>
+</resources>

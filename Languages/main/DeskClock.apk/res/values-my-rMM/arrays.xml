@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>ယခုမှစ၍ ၁ မိနစ် လျော့ပြီး နှိုးစက် အချိန်ပေးထားသည်။</item>
+        <item>ယခုမှစ၍ %1$sအတွက် နှိုးစက် အချိန်ပေးထားသည်။</item>
+        <item>ယခု မှစ၍ %2$sအတွက် နှိုးစက်အချိန် ပေးထားသည်။</item>
+        <item>ယခု မှစ၍ %1$sand %2$sအတွက် နှိုးစက်အချိန် ပေးထားသည်။</item>
+        <item>ယခု မှစ၍ %3$sအတွက် နှိုးစက် အချိန် ပေးထားသည်။</item>
+        <item>ယခု မှစ၍ %1$sand %3$sအတွက် နှိုးစက် အချိန် ပေးထားသည်။</item>
+        <item>ယခု မှစ၍ %2$sand %3$sအတွက် နှိုးစက် အချိန် ပေးထားသည်။</item>
+        <item>ယခု မှစ၍ %1$s, %2$s,and %3$sအတွက် နှိုးစက် အချိန် ပေးထားသည်။</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>ပိတ်သည်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၂၀ မိနစ်</item>
+        <item>၂၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ဘယ်ဟာမျှမဟုတ်ပါ</item>
+        <item>တမှေးအိပ်သည်</item>
+        <item>ဖြုတ်သည်</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၂၀ မိနစ်</item>
+        <item>၂၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+</resources>

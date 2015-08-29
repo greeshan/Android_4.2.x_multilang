@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Alma Yeri</string>
+    <string name="import_button">Al</string>
+    <string name="cancel">İptal</string>
+    <string name="no_access_toast">Hesap bulunamadı. Lütfen önce bir hesap ekleyin</string>
+    <string name="null_name">Yok</string>
+    <string name="import_message">Takvime almak istiyor musunuz?</string>
+    <string name="calendar_lable">"Takvim: "</string>
+    <string name="date_lable">"Tarih: "</string>
+    <string name="import_title">Olay al</string>
+    <string name="importing">Alınıyor...</string>
+    <string name="import_complete">Alma işlemi tamamlandı</string>
+    <string name="open">Aç</string>
+    <string name="done">Bitti</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Etkinlik alınamadı.</string>
+    <string name="title_lable">Başlık:</string>
+    <string name="no_syncable_calendars">Alınamıyor</string>
+    <string name="no_calendars_found">Bu hesap takvim eşitlemeyi desteklemiyor veya son eşitleme işlemi henüz bitmemiş.</string>
+    <string name="retry">Tekrar dene</string>
+    <string name="give_up">Durdur</string>
+    <string name="open_calendar_failed">Takvim kullanılabilir değil.</string>
+    <string name="loading">Yükleniyor…</string>
+</resources>

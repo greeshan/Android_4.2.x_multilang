@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Importeren in</string>
+    <string name="import_button">Importeren</string>
+    <string name="cancel">Annuleren</string>
+    <string name="no_access_toast">Account niet gevonden. Voeg eerst een account toe</string>
+    <string name="null_name">Geen</string>
+    <string name="import_message">Wilt u # in de Agenda importeren?</string>
+    <string name="calendar_lable">Agenda:</string>
+    <string name="date_lable">Datum:</string>
+    <string name="import_title">Evenement in Agenda importeren</string>
+    <string name="importing">Importeren…</string>
+    <string name="import_complete">Importeren voltooid</string>
+    <string name="open">Openen</string>
+    <string name="done">Gereed</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Importeren gebeurtenis mislukt.</string>
+    <string name="title_lable">"Titel: "</string>
+    <string name="no_syncable_calendars">“Kan niet importeren</string>
+    <string name="no_calendars_found">“Deze account ondersteunt synchroniseren van agenda niet of laatste synchronisatie is nog niet afgerond.”</string>
+    <string name="retry">“Opnieuw”</string>
+    <string name="give_up">“Afbreken”</string>
+    <string name="open_calendar_failed">Agenda niet beschikbaar.</string>
+    <string name="loading">Laden...</string>
+</resources>

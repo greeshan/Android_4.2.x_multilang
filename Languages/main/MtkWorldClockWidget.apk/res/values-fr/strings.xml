@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="month_day_no_year">d MMM</string>
+    <string name="app_name">Horloge mondiale</string>
+    <string name="current_time_text">Actuelle</string>
+    <string name="another_city_text">Ajouter</string>
+    <string name="ime_action_done">OK</string>
+    <string name="a_city_selected">Une ville sélectionnée.</string>
+    <string name="search_city">Rechercher ville</string>
+    <string name="next">Suivant</string>
+    <string name="select_right_city">Navré, aucune ville de ce nom.</string>
+    <string name="clock_loading">Chargement…</string>
+    <string name="add_city">"Touchez l'icône pour ajouter une nouvelle ville"</string>
+    <string name="add_new_city">Ajouter nouvelle ville</string>
+    <string name="delete_city">Supprimer ville</string>
+    <string name="delete_city_info">Cette ville sera supprimée</string>
+    <string name="has_chosen">a été choisi.</string>
+    <string name="deleteok">Supprimer</string>
+    <string name="cancel">Refuser</string>
+</resources>

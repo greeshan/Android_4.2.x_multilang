@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wipe_all_messages">সার্ভার ডাটা নষ্ট, সব বার্তা পুনরায় সিঙ্ক হবে</string>
+    <string name="exchange_name">Corporate</string>
+    <string name="exchange_name_alternate">মাইক্রোসফট এক্সচেঞ্জ একটিভসিঙ্ক</string>
+    <string name="meeting_accepted">গ্রহণ করেছে: %s</string>
+    <string name="meeting_declined">অপারগতা জানিয়েছে: %s</string>
+    <string name="meeting_tentative">সম্ভাব্য: %s</string>
+    <string name="meeting_canceled">বাতিলকৃত: %s</string>
+    <string name="meeting_updated">আপডেটকৃত: %s</string>
+    <string name="meeting_when">কখন: %s</string>
+    <string name="meeting_where">কোথায়: %s</string>
+    <string name="meeting_recurring">কখন: %s (বারবার)</string>
+    <string name="meeting_allday">কখন: %s (সারাদিন)</string>
+    <string name="meeting_allday_recurring">কখন: %s (সারাদিন, বারবার)</string>
+    <string name="notification_exchange_calendar_added">ক্যালেন্ডার একচেঞ্জ যোগ করা হয়েছে</string>
+    <string name="app_name">একচেঞ্জ সার্ভিস</string>
+    <string name="exception_cancel">এই ইভেন্ট বাতিল করা হয়েছে: %s</string>
+    <string name="exception_updated">এই ইভেন্টের বিস্তারিত পরিবর্তন করা হয়েছে: %s</string>
+    <string name="policy_dont_allow_storage_cards">স্টোরেজ কার্ড অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_unsigned_apps">অস্বাক্ষরিত অ্যাপ্লিকেশন অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_unsigned_installers">অস্বাক্ষরিত অ্যাপ্লিকেশন ইনস্টলার অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_wifi">ওয়াই-ফাই অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_text_messaging">টেক্সট বার্তার অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_pop_imap">পপ৩ বা আইম্যাপ একাউন্টের অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_irda">ইনফ্রারেড কম্যুনিকেশনের অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_html">এইচটিএমএল ইমেইলের অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_browser">ব্রাউজারের অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_consumer_email">কনজ্যুমার ইমেইলের অনুমতি দেবেন না</string>
+    <string name="policy_dont_allow_internet_sharing">ইন্টারনেট শেয়ারিংয়ের অনুমতি দেবেন না</string>
+    <string name="policy_require_smime">এসএমআইএমই বার্তা প্রয়োজন</string>
+    <string name="policy_bluetooth_restricted">ব্লুটুথ ব্যবহার সীমিত করুন</string>
+    <string name="policy_app_blacklist">নির্দিষ্ট অ্যাপ্লিকেশনের অনুমতি দেবেন না</string>
+    <string name="policy_app_whitelist">কেবল নির্দিষ্ট অ্যাপ্লিকেশনের অনুমতি দিন</string>
+    <string name="policy_text_truncation">টেক্সট ইমেইলের সাইজ সীমিত করুন</string>
+    <string name="policy_html_truncation">এইচটিএমএল ইমেইলের সাইজ সীমিত করুন</string>
+    <string name="policy_require_sd_encryption">এসডি কার্ড এনক্রিপশন প্রয়োজন</string>
+    <string name="policy_require_encryption">ডিভাইস এনক্রিপশন প্রয়োজন</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="permissions_width">380.0dip</dimen>
+    <dimen name="permissions_width_col1">70.0dip</dimen>
+    <dimen name="permissions_cancel_width">80.0dip</dimen>
+    <dimen name="permissions_width_col2">70.0dip</dimen>
+    <dimen name="permissions_width_col3">70.0dip</dimen>
+    <dimen name="permissions_width_col4">70.0dip</dimen>
+    <dimen name="permissions_text_size">12.0dip</dimen>
+    <dimen name="mount_button_text_size">11.0dip</dimen>
+    <dimen name="mount_button_margin">3.0dip</dimen>
+    <dimen name="info_text_size">13.0dip</dimen>
+</resources>

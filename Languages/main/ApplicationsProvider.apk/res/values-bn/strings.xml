@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">অ্যাপ্লিকেশন প্রদানকারীকে অনুসন্ধান করুন</string>
+    <string name="search_label">অ্যাপ</string>
+    <string name="application_desc">অ্যাপ্লিকেশন</string>
+    <string name="settings_description">ইনস্টলকৃত অ্যাপ্লিকেশনের নাম</string>
+    <string name="search_empty">কোন মিল নেই</string>
+</resources>

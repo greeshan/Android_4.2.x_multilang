@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Pornirea este setată pentru mai puțin de 1 minut din acest moment.</item>
+        <item>Această comandă de pornire este setată pentru peste %1$s din acest moment.</item>
+        <item>Această pornire a alimentării este setată pentru %2$s din acest moment.</item>
+        <item>Această comandă de pornire este setată pentru peste %1$s şi %2$s din acest moment.</item>
+        <item>Această pornire a alimentării este setată pentru %3$s din acest moment.</item>
+        <item>Această comandă de pornire este setată pentru peste %1$s şi %3$s din acest moment.</item>
+        <item>Această pornire a alimentării este setată pentru %2$s şi %3$s din acest moment.</item>
+        <item>Această comandă de pornire este setată pentru peste %1$s, %2$s, şi %3$s din acest moment.</item>
+        <item>Oprirea este setată pentru mai puțin de 1 minut din acest moment.</item>
+        <item>Această comandă de oprire este setată pentru peste %1$s din acest moment.</item>
+        <item>Această întrerupere a alimentării este setată pentru %2$s din acest moment.</item>
+        <item>Această comandă de oprire este setată pentru peste %1$s şi %2$s din acest moment.</item>
+        <item>Această întrerupere a alimentării este setată pentru %3$s din acest moment.</item>
+        <item>Această comandă de oprire este setată pentru peste %1$s şi %3$s din acest moment.</item>
+        <item>Această întrerupere a alimentării este setată pentru %2$s şi %3$s din acest moment.</item>
+        <item>Această comandă de oprire este setată pentru peste %1$s, %2$s, şi %3$s din acest moment.</item>
+    </string-array>
+</resources>

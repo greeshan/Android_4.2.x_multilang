@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Veja todas as suas aplicações.
+ Toque no ícone Iniciador. @drawable/all_apps"</item>
+        <item>"Arrastar aplicações para o ecrã principal.
+ No iniciador, toque sem soltar numa aplicação até que vibre."</item>
+        <item>"Reorganize o ecrã principal.
+ Mantenha premido um item e quando este vibrar, arraste-o para onde quiser."</item>
+        <item>"Remova os itens.
+ Mantenha premido um item e quando este vibrar, arraste-o para o ícone Lixo. @drawable/trash"</item>
+        <item>"Vários ecrãs principais.
+ Deslize para a esquerda ou para a direita para mudar. Arraste os itens para outros ecrãs."</item>
+        <item>"Já não precisa deste widget?
+ Mantenha-o premido e quando vibrar, arraste-o para o ícone Lixo."</item>
+    </string-array>
+</resources>

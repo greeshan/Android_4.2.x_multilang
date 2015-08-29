@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>stisk</item>
+        <item>velike oči</item>
+        <item>velika usta</item>
+        <item>majhna usta</item>
+        <item>velik nos</item>
+        <item>majhne oči</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>v vesolju</item>
+        <item>sončni zahod</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>nizko</item>
+        <item>srednje</item>
+        <item>visoko</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>brez zadeve</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>NASMEJAN S SMEJOČIMI OČMI</item>
+        <item>ŠIROKO NASMEJAN</item>
+        <item>ŠIROKO NASMEJAN S SMEJOČIMI OČMI</item>
+        <item>SOLZE SREČE</item>
+        <item>NASMEJAN Z ODPRTIMI USTI</item>
+        <item>NASMEJAN Z ODPRTIMI USTI IN SMEJOČIMI OČMI</item>
+        <item>NASMEJAN Z ODPRTIMI USTI IN MRZLIM POTOM</item>
+        <item>NASMEJAN Z ODPRTIMI USTI IN TRDNO ZAPRTIMI OČMI</item>
+        <item>NASMEJAN S SVETNIŠKIM SIJEM</item>
+        <item>ZLOBNO NASMEJAN Z ROŽIČKI</item>
+        <item>MEŽIK</item>
+        <item>PSSST</item>
+        <item>NEVTRALEN</item>
+        <item>BREZIZRAZEN</item>
+        <item>ZBEGAN</item>
+        <item>JEZEN</item>
+        <item>SPAČEN</item>
+        <item>NAŠOBLJEN</item>
+        <item>OBJOKAN</item>
+        <item>SPEČ</item>
+        <item>OBRAZ Z ODPRTIMI USTI</item>
+        <item>NEOMAJEN</item>
+        <item>RAZKURJEN OBRAZ</item>
+        <item>OLAJŠAN KLJUB RAZOČARANJU</item>
+        <item>NAMRŠČEN Z ODPRTIMI USTI</item>
+        <item>TRPEČ</item>
+        <item>PRESTRAŠEN</item>
+        <item>NAVELIČAN</item>
+        <item>ODPRTA USTA IN MRZEL POT</item>
+        <item>ZASKRBLJEN OBRAZ</item>
+        <item>VREŠČEČ OD STRAHU</item>
+        <item>OSUPEL</item>
+        <item>ZARDEL</item>
+        <item>OMOTIČEN</item>
+        <item>OBRAZ BREZ UST</item>
+        <item>OBRAZ Z MEDICINSKO MASKO</item>
+        <item>RAZOČARAN</item>
+        <item>NENAKLONJEN</item>
+        <item>NASMEJAN S SRČASTIMI OČMI</item>
+        <item>MOLEČ JEZIK</item>
+        <item>MOLEČ JEZIK IN MEŽIK</item>
+        <item>MOLEČ JEZIK IN TRDNO ZAPRTE OČI</item>
+        <item>UŽIVANJE V OKUSNI HRANI</item>
+        <item>POLJUB</item>
+        <item>POLJUB S SMEJOČIMI OČMI</item>
+        <item>POŠILJANJE POLJUBA</item>
+        <item>POLJUB Z ZAPRTIMI OČMI</item>
+        <item>NASMEJAN S SONČNIMI OČALI</item>
+        <item>GLASNO JOKAJOČ</item>
+        <item>OLAJŠAN</item>
+        <item>ZMEDEN</item>
+        <item>ZAMIŠLJEN</item>
+        <item>ZASPAN</item>
+        <item>PRIVOŠČLJIV</item>
+        <item>MRZEL POT</item>
+        <item>UTRUJEN</item>
+        <item>VESEL Z DVIGNJENO ROKO</item>
+        <item>PRESREČEN Z DVIGNJENIMI ROKAMI</item>
+        <item>NAMRŠČEN</item>
+        <item>JEZEN S PREKRIŽANIMI ROKAMI</item>
+        <item>OBRAZ Z GESTO ODOBRAVANJA</item>
+        <item>GLOBOK PRIKLON</item>
+        <item>NAŠOBLJEN OBRAZ</item>
+        <item>SKLENJENE ROKE</item>
+        <item>ZNAK »OK«</item>
+        <item>PALEC NAVZGOR</item>
+        <item>PALEC NAVZDOL</item>
+        <item>KAKEC</item>
+        <item>PREZNOJENO SRCE</item>
+        <item>KOSMATO SRCE</item>
+        <item>VIJOLIČASTO SRCE</item>
+        <item>STRTO SRCE</item>
+        <item>SRCE S PUŠČICO</item>
+        <item>LEDENO SRCE</item>
+        <item>ZNAK »COOL«</item>
+        <item>ZNAK »FREE«</item>
+        <item>ZNAK »OK«</item>
+        <item>ZNAK »SOS«</item>
+        <item>UMETNIŠKE MASKE</item>
+        <item>MAVRICA</item>
+        <item>POKALICA ZA ZABAVE</item>
+        <item>PLESALEC</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">ដាក់កាលវិភាគ បើក/បិទ ថាមពល</string>
+    <string name="schedule_power_on_off_time">ម៉ោង</string>
+    <string name="schedule_power_on_off_repeat">សាឡើងវិញ</string>
+    <string name="schedule_power_on_off_set">សិតកាលវិភាគបើក/បិទ ថាមពល</string>
+    <string name="schedule_power_on_set">សិតកាលវិភាគបើកថាមពល</string>
+    <string name="schedule_power_off_set">សិតកាលវិភាគបិទថាមពល</string>
+    <string name="enable_schpwr">ធ្វើឲ្យសកម្ម</string>
+    <string name="disable_schpwr">ធ្វឲ្យអសកម្ម</string>
+    <string name="day">1 ថ្ងៃ</string>
+    <string name="days">" %s days"</string>
+    <string name="hour">1 ម៉ោង</string>
+    <string name="hours">%s ម៉ោង</string>
+    <string name="minute">1នាទី</string>
+    <string name="minutes">" %s minutes"</string>
+    <string name="every_day">រៀងរាល់ថ្ងៃ</string>
+    <string name="never">មិនដែល</string>
+    <string name="done">បានធ្វើរួច</string>
+    <string name="revert">បញ្ច្រាសមកវិញ</string>
+    <string name="schpwr_shutdown_message">ឧបករណ៍របស់អ្នកនឹងត្រូវបិទក្នុងពេល %s វិនាទី</string>
+    <string name="schpwr_shutdown_message_second">ឧបករណ៍របស់អ្នកនឹងត្រូវបិទក្នុងពេល %s វិនាទី</string>
+</resources>

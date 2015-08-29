@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>écraser</item>
+        <item>grands yeux</item>
+        <item>grande bouche</item>
+        <item>petite bouche</item>
+        <item>gros nez</item>
+        <item>petits yeux</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>"dans l'espace"</item>
+        <item>coucher de soleil</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>faible</item>
+        <item>moyen</item>
+        <item>élevé</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>aucun objet</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>SOURIANT, AVEC DES YEUX HEUREUX</item>
+        <item>TRÈS SOURIANT</item>
+        <item>TRÈS SOURIANT, AVEC DES YEUX HEUREUX</item>
+        <item>LARMES DE JOIE</item>
+        <item>SOURIANT, AVEC LA BOUCHE OUVERTE</item>
+        <item>SOURIANT, AVEC LA BOUCHE OUVERTE ET DES YEUX HEUREUX</item>
+        <item>SOURIANT, AVEC LA BOUCHE OUVERTE ET DES SUEURS FROIDES</item>
+        <item>SOURIANT, AVEC LA BOUCHE OUVERTE ET LES YEUX FERMÉS</item>
+        <item>SOURIANT, AVEC AURÉOLE</item>
+        <item>SOURIANT, AVEC DES CORNES DE DIABLE</item>
+        <item>"CLIN D'ŒIL"</item>
+        <item>SILENCE</item>
+        <item>NEUTRE</item>
+        <item>INEXPRESSIF</item>
+        <item>PERDU</item>
+        <item>FÂCHÉ</item>
+        <item>GRIMACE</item>
+        <item>BOUDE</item>
+        <item>PLEURE</item>
+        <item>ENDORMI</item>
+        <item>VISAGE AVEC LA BOUCHE OUVERTE</item>
+        <item>PERSÉVÉRANT</item>
+        <item>SOUS PRESSION</item>
+        <item>DÉÇU, MAIS SOULAGÉ</item>
+        <item>FRONCE LES SOURCILS EN OUVRANT LA BOUCHE</item>
+        <item>ANGOISSÉ</item>
+        <item>CRAINTIF</item>
+        <item>FATIGUÉ</item>
+        <item>BOUCHE OUVERTE ET SUEURS FROIDES</item>
+        <item>VISAGE INQUIET</item>
+        <item>CRI DE TERREUR</item>
+        <item>SURPRIS</item>
+        <item>GÊNÉ</item>
+        <item>ÉTOURDI</item>
+        <item>VISAGE SANS BOUCHE</item>
+        <item>VISAGE AVEC MASQUE MÉDICAL</item>
+        <item>DÉÇU</item>
+        <item>"CE N'EST PAS DRÔLE"</item>
+        <item>SOURIANT, AVEC LES YEUX EN FORME DE COEUR</item>
+        <item>TIRE LA LANGUE</item>
+        <item>"TIRE LA LANGUE EN FAISANT UN CLIN D'ŒIL"</item>
+        <item>TIRE LA LANGUE EN FERMANT LES YEUX</item>
+        <item>DÉGUSTE UN REPAS DÉLICIEUX</item>
+        <item>BISOU</item>
+        <item>BISOU ET YEUX HEUREUX</item>
+        <item>BISOU SOUFFLÉ</item>
+        <item>BISOU, AVEC LES YEUX FERMÉS</item>
+        <item>SOURIANT, AVEC DES LUNETTES DE SOLEIL</item>
+        <item>BRAILLE</item>
+        <item>SOULAGÉ</item>
+        <item>CONFUS</item>
+        <item>SONGEUR</item>
+        <item>TRÈS FATIGUÉ</item>
+        <item>SOURIRE NARQUOIS</item>
+        <item>SUEURS FROIDES</item>
+        <item>FATIGUÉ</item>
+        <item>HEUREUX, AVEC LA MAIN LEVÉE</item>
+        <item>LÈVE LES DEUX MAINS EN CÉLÉBRATION</item>
+        <item>FRONCE LES SOURCILS</item>
+        <item>FÂCHÉ, AVEC LES BRAS CROISÉS</item>
+        <item>"VISAGE AVEC GESTE D'APPROBATION"</item>
+        <item>PERSONNE QUI FAIT LA RÉVÉRENCE</item>
+        <item>VISAGE QUI BOUDE</item>
+        <item>PRIÈRE</item>
+        <item>OK</item>
+        <item>POUCE VERS LE HAUT</item>
+        <item>POUCE VERS LE BAS</item>
+        <item>CACA</item>
+        <item>CŒUR EN SUEUR</item>
+        <item>CŒUR POILU</item>
+        <item>CŒUR VIOLET</item>
+        <item>CŒUR BRISÉ</item>
+        <item>CŒUR TRANSPERCÉ PAR UNE FLÈCHE</item>
+        <item>CŒUR DE GLACE</item>
+        <item>COOL</item>
+        <item>GRATUIT</item>
+        <item>OK</item>
+        <item>SOS</item>
+        <item>MASQUES DE COMÉDIE</item>
+        <item>ARC-EN-CIEL</item>
+        <item>COTILLONS</item>
+        <item>DANSEUR</item>
+    </string-array>
+</resources>

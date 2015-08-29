@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">សេវាកម្មអាកាសធាតុ</string>
+    <string name="choose_city">ជ្រើសរើសឈ្មោះទីក្រុង</string>
+    <string name="searching">កំពុងរាវរក សូមរង់ចាំ</string>
+    <string name="no_found">មិនមានឈ្មោះទីក្រុងត្រូវជាមួយនឹង %s ។ សូមពិនិត្យមើលពាក្យដែលអ្នកវាយចូល ។</string>
+    <string name="net_error">មិនមានបណ្តាញទេ ។ សូមឆែកមើល ។</string>
+    <string name="no_city_error">មិអាចបានទទួលព័ត៌មានរបស់ទីក្រុងនេះទេ ។ សូមសិតម៉ោងរបស់ប្រព័ន្ធ និងល្វែងម៉ោងឲ្យបានត្រឹមត្រូវ ។</string>
+    <string name="searching_fail">ខកខានរាវរកឈ្មោះទីក្រុង ។</string>
+    <string name="no_weather_error">មិអាចបានទទួលព័ត៌មានអាកាសធាតុឡើយ ។ សូមសិតម៉ោងរបស់ប្រព័ន្ធ និងល្វែងម៉ោងឲ្យបានត្រឹមត្រូវ ។</string>
+    <string name="no_weather">បច្ចុប្បន្ន មិនមានព័ត៌មានអាកាសធាតុរបស់ទីក្រុង %s ទេ ។</string>
+    <string name="setting_title">តម្លើង</string>
+    <string name="temperature">កត្តាអាកាសធាតុ</string>
+    <string name="tem_celsius">អង់សាសេ</string>
+    <string name="cities_title">ទីក្រុង</string>
+    <string name="update_fre">ធ្វើបច្ចុប្បន្នភាពញឹកញាប់</string>
+    <string name="every12">រៀងរាល់ 12 ម៉ោង</string>
+    <string name="cancel">លើកលែង</string>
+    <string name="menu_add_city">បន្ថែមឈ្មោះទីក្រុង</string>
+    <string name="add_city">ចុចលើរូបតំណាង ដើម្បីបន្ថែមឈ្មោះទីក្រុងថ្មី</string>
+    <string name="remove">លុបចោល</string>
+    <string name="warn">យ៉ាងច្រើនអាចបន្ថែមឈ្មោះទីក្រុងចំនួន 8 ដែរ ។</string>
+    <string name="has_chosen">បានជ្រើសរើស ។</string>
+    <string name="no_city">មិនមានឈ្មោះទីក្រុង</string>
+    <string name="powered_by">ដើរដោយ ៖</string>
+    <string name="menu_about">អំពី</string>
+</resources>

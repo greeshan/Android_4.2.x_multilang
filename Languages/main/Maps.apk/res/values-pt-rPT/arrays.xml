@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Detestei</item>
+        <item>Não gostei</item>
+        <item>É razoável</item>
+        <item>Gostei</item>
+        <item>Adorei</item>
+    </string-array>
+</resources>

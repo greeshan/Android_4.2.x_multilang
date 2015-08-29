@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>față strâmbă</item>
+        <item>ochi mari</item>
+        <item>gură mare</item>
+        <item>gură mică</item>
+        <item>nas mare</item>
+        <item>ochi mici</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>în spaţiu</item>
+        <item>apus de soare</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>redus(ă)</item>
+        <item>mediu(e)</item>
+        <item>ridicat(ă)</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>fără subiect</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ZÂMBET CU OCHI SCLIPITORI</item>
+        <item>RÂNJET</item>
+        <item>RÂNJET CU OCHI SCLIPITORI</item>
+        <item>LACRIMI DE BUCURIE</item>
+        <item>ZÂMBET CU GURA DESCHISĂ</item>
+        <item>ZÂMBET CU GURA DESCHISĂ ȘI OCHII SCLIPITORI</item>
+        <item>ZÂMBET CU GURA DESCHISĂ ȘI SUDORI RECI</item>
+        <item>ZÂMBET CU GURA DESCHISĂ ȘI OCHII STRÂNȘI</item>
+        <item>ZÂMBET CU AURĂ</item>
+        <item>ZÂMBET CU CORNIȚE DE DIAVOL</item>
+        <item>FĂCÂND CU OCHIUL</item>
+        <item>ÎN ȘOAPTĂ</item>
+        <item>NEUTRU</item>
+        <item>INEXPRESIV</item>
+        <item>CONFUZ</item>
+        <item>NERVOS</item>
+        <item>GRIMASĂ</item>
+        <item>BOSUMFLAT</item>
+        <item>ÎN LACRIMI</item>
+        <item>ADORMIT</item>
+        <item>FAȚĂ CU GURA DESCHISĂ</item>
+        <item>PERSEVERENT</item>
+        <item>FAȚĂ CARE SCOATE ABURI</item>
+        <item>DEZAMĂGIT, DAR UȘURAT</item>
+        <item>ÎNCRUNTARE CU GURA DESCHISĂ</item>
+        <item>NELINIȘTIT</item>
+        <item>TEMĂTOR</item>
+        <item>OBOSIT</item>
+        <item>CU GURA DESCHISĂ ȘI SUDORI RECI</item>
+        <item>FAȚĂ ÎNGRIJORATĂ</item>
+        <item>ȚIPĂT DE TEAMĂ</item>
+        <item>ULUIT</item>
+        <item>ROȘU LA FAȚĂ</item>
+        <item>AMEȚIT</item>
+        <item>FAȚĂ FĂRĂ GURĂ</item>
+        <item>FAȚĂ CU MASCĂ MEDICALĂ</item>
+        <item>DEZAMĂGIT</item>
+        <item>DELOC AMUZAT</item>
+        <item>ZÂMBET CU OCHI ÎN FORMĂ DE INIMĂ</item>
+        <item>CU LIMBA SCOASĂ</item>
+        <item>CU LIMBA SCOASĂ ȘI FĂCÂND CU OCHIUL</item>
+        <item>CU LIMBA SCOASĂ ȘI OCHII STRÂNȘI</item>
+        <item>SAVURÂND MÂNCARE DELICIOASĂ</item>
+        <item>FAȚĂ CARE PUPĂ</item>
+        <item>FAȚĂ CARE PUPĂ, CU OCHI SCLIPITORI</item>
+        <item>FAȚĂ CARE TRIMITE BEZELE</item>
+        <item>FAȚĂ CARE PUPĂ, CU OCHII ÎNCHIȘI</item>
+        <item>ZÂMBET, CU OCHELARI DE SOARE</item>
+        <item>PLÂNS ÎN HOHOTE</item>
+        <item>UȘURAT</item>
+        <item>DERUTAT</item>
+        <item>GÂNDITOR</item>
+        <item>SOMNOROS</item>
+        <item>RÂNJET</item>
+        <item>SUDORI RECI</item>
+        <item>OBOSIT</item>
+        <item>FERICIT, CU O MÂNĂ RIDICATĂ</item>
+        <item>CU AMBELE MÂINI RIDICATE, ÎN SEMN DE SĂRBĂTOARE</item>
+        <item>ÎNCRUNTAT</item>
+        <item>NERVOS, CU BRAȚELE ÎNCRUCIȘATE</item>
+        <item>FAȚĂ CU GEST DE OK</item>
+        <item>PERSOANĂ CARE FACE PLECĂCIUNI</item>
+        <item>FAȚĂ BOSUMFLATĂ</item>
+        <item>MÂINI ÎMPREUNATE</item>
+        <item>SEMN DE OK</item>
+        <item>SEMN DE APROBARE</item>
+        <item>SEMN DE DEZAPROBARE</item>
+        <item>GRĂMADĂ DE MIZERIE</item>
+        <item>INIMĂ OBOSITĂ</item>
+        <item>INIMĂ PĂROASĂ</item>
+        <item>INIMĂ MOV</item>
+        <item>INIMĂ ZDROBITĂ</item>
+        <item>INIMĂ CU SĂGEATĂ</item>
+        <item>INIMĂ DE GHEAȚĂ</item>
+        <item>SEMN „EXTRAORDINAR”</item>
+        <item>SEMN LIBER</item>
+        <item>SEMN DE OK</item>
+        <item>SEMN DE AJUTOR</item>
+        <item>MĂȘTI DE TEATRU</item>
+        <item>CURCUBEU</item>
+        <item>SPĂRGĂTOR DE PETRECERI</item>
+        <item>DANSATOR</item>
+    </string-array>
+</resources>

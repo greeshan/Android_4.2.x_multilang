@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">မြင်အောင်ပြုလုပ်သည့် အရာ</string>
+    <string name="wallpaper_vis2">လှိုင်းပုံစံ</string>
+    <string name="wallpaper_vis3">ရောင်စဥ်တန်း</string>
+    <string name="wallpaper_vis4">VU မီတာ</string>
+    <string name="wallpaper_vis5">များစွာ</string>
+    <string name="wallpapers">ဂီတသံစဥ်ကို မြင်ရသည့် နောက်ခံစက္ကူများ</string>
+    <string name="author">လက်ရှိဖွင့်နေသော မည်သည့်တေးသီချင်းမဆို၏ အသံလှိုင်းကို ရေးဆွဲသည်။</string>
+    <string name="vis2_desc">လက်ရှိဖွင့်နေသော မည်သည့်တေးသီချင်းမဆို၏ အသံလှိုင်းကို ရေးဆွဲသည်။</string>
+    <string name="vis3_desc">လက်ရှိဖွင့်နေသော မည်သည့်တေးသီချင်းမဆို၏ ကြိမ်နှုန်း ရောင်စဥ်တန်းကို ပြသည်။</string>
+    <string name="vis4_desc">အင်နာလော့(ခ်) အသံမီတာတစ်ခုအသွင် ပြုလုပ်သည်။</string>
+    <string name="vis5_desc">ဂီတသံစဥ် မြင်ရခြင်းများအားလုံး သည် အတူတကွ ဖြေးညင်းစွာဖြင့် သုံးဘက်မြင် ပုံစံ လည်ပတ်သည်။</string>
+</resources>

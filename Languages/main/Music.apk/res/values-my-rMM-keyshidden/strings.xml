@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">သင်၏ သီချင်းစာရင်းအသစ်ကို အမည်ပေးရန် ကီးဘုတ်ကို ဖွင့်ပါ၊ သို့မဟုတ် ယင်းကို အမည်ပေးရန်အတွက် သိမ်းရန်ကို ရွေးချယ်ပါ \" %s\"။</string>
+    <string name="rename_playlist_same_prompt">သီချင်းစာရင်း \" %s\" ကို အမည်သစ်ပေးရန် ကီးဘုတ်ကို ဖွင့်ပါ။</string>
+    <string name="rename_playlist_diff_prompt">သီချင်းစာရင်း \" %1$s\" ကို အမည်သစ်ပေးရန် ကီးဘုတ်ကို ဖွင့်ပါ၊ သို့မဟုတ် ယင်းကို အမည်ပေးရန်အတွက် သိမ်းရန်ကို ရွေးချယ်ပါ \" %2$s\"။</string>
+</resources>

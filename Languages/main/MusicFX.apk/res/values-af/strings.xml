@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Effekte nie beskikbaar nie.</string>
+    <string name="eq_dialog_title">Effenaar</string>
+    <string name="headset_plug">Prop oorfone in vir hierdie effekte.</string>
+    <string name="bass_boost_strength">Basversterker</string>
+    <string name="virtualizer_strength">3D-effek</string>
+    <string name="ci_extreme">FX-versterker</string>
+    <string name="user">Gebruiker</string>
+    <string name="picker_title">Beheerpaneel vir musiekeffekte</string>
+    <string name="main_toggle_effects_title">Oudio-effekte</string>
+    <string name="pr_title">Eggo:</string>
+    <string name="pr_summary">Bykomende kamer-eggo-effekte</string>
+    <string name="pr_dialog_title">Verstek-eggo</string>
+    <string name="setup">Stel op</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Skatiet visas savas lietojumprogrammas.
+ Pieskarieties ikonai Palaidējs. @drawable/all_apps"</item>
+        <item>"Velciet lietojumprogrammas uz sākuma ekrānu.
+ Palaidējā pieskarieties lietojumprogrammai un turiet, līdz tā sāk vibrēt."</item>
+        <item>"Pārkārtojiet sākuma ekrānu.
+ Pieskarieties vienumam un turiet. Kad tas sāk vibrēt, velciet to uz vajadzīgo vietu."</item>
+        <item>"Noņemiet vienumus.
+ Pieskarieties vienumam un turiet. Kad tas sāk vibrēt, velciet to uz ikonu Miskaste. @drawable/trash"</item>
+        <item>"Vairāki sākuma ekrāni.
+ Velciet pa labi vai pa kreisi, lai pārslēgtu. Velciet vienumus uz citiem ekrāniem."</item>
+        <item>"Vai esat beidzis darbu ar šo logrīku?
+ Pieskarieties tam un turiet. Kad tas sāk vibrēt, velciet to uz ikonu Miskaste."</item>
+    </string-array>
+</resources>

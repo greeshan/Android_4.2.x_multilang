@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Açılma işlemi şu andan 1 dakika sonrası için ayarlanmıştır.</item>
+        <item>Bu güç açma şu andan %1$s sonra için ayarlandı.</item>
+        <item>Güç açma zamanı şu andan itibaren %2$s için ayarlandı.</item>
+        <item>Bu güç açma şu andan %1$s %2$s sonra için ayarlandı.</item>
+        <item>Güç açma zamanı şu andan itibaren %3$s için ayarlandı.</item>
+        <item>Bu güç açma şu andan %1$s ve %3$s sonra için ayarlandı.</item>
+        <item>Güç açma zamanı şu andan itibaren %2$s ve %3$s için ayarlandı.</item>
+        <item>Bu güç açma şu andan %1$s %2$s %3$s sonra için ayarlandı.</item>
+        <item>Kapanma işlemi şu andan 1 dakika sonrası için ayarlanmıştır.</item>
+        <item>Bu güç kapatma şu andan %1$s sonra için ayarlandı.</item>
+        <item>Güç kapama zamanı şu andan itibaren %2$s için ayarlandı.</item>
+        <item>Bu güç kapatma şu andan %1$s %2$s sonra için ayarlandı.</item>
+        <item>Güç kapama zamanı şu andan itibaren %3$s için ayarlandı.</item>
+        <item>Bu güç kapatma şu andan %1$s ve %3$s sonra için ayarlandı.</item>
+        <item>Güç kapama zamanı şu andan itibaren %2$s ve %3$s için ayarlandı.</item>
+        <item>Bu güç kapatma şu andan %1$s %2$s %3$s sonra için ayarlandı.</item>
+    </string-array>
+</resources>

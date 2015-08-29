@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wygaszacze ze zdjęciami</string>
+    <string name="table_screensaver_name">Tablica ze zdjęciami</string>
+    <string name="flipper_screensaver_name">Ramka foto</string>
+    <string name="posts_album_name">Zdjęcia z postów</string>
+    <string name="uploads_album_name">Z autoprzesyłania</string>
+    <string name="unknown_album_name">Album bez nazwy</string>
+    <string name="stock_photo_album_name">Zdjęcia licencjonowane</string>
+    <string name="local_source_name">Zdjęcia na urządzeniu</string>
+    <string name="need_to_configure">Nie wybrano zdjęć.</string>
+</resources>

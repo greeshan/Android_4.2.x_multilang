@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>klem</item>
+        <item>store øjne</item>
+        <item>stor mund</item>
+        <item>lille mund</item>
+        <item>stor næse</item>
+        <item>små øjne</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>i rummet</item>
+        <item>solnedgang</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>lav</item>
+        <item>medium</item>
+        <item>høj</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>intet emne</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>SMILER MED SMILENDE ØJNE</item>
+        <item>SMILER BREDT</item>
+        <item>GRINER MED SMILENDE ØJNE</item>
+        <item>GLÆDESTÅRER</item>
+        <item>SMILER MED ÅBEN MUND</item>
+        <item>SMILER MED ÅBEN MUND OG SMIL I ØJNENE</item>
+        <item>SMILER MED ÅBEN MUND OG HAR KOLDSVED</item>
+        <item>SMILER MED ÅBEN MUND OG TÆT LUKKEDE ØJNE</item>
+        <item>SMILER MED GLORIE</item>
+        <item>SMILER MED DJÆVLEHORN</item>
+        <item>BLINKER</item>
+        <item>TIER</item>
+        <item>NEUTRAL</item>
+        <item>UDTRYKSLØS</item>
+        <item>FORVIRRET</item>
+        <item>VRED</item>
+        <item>LAVER GRIMASSER</item>
+        <item>LAVER TRUTMUND</item>
+        <item>GRÆDER</item>
+        <item>SOVER</item>
+        <item>ANSIGT MED ÅBEN MUND</item>
+        <item>UDHOLDENDE</item>
+        <item>ANSIGT, DER BLÆSER DAMP UD</item>
+        <item>SKUFFET, MEN LETTET</item>
+        <item>SUR MED ÅBEN MUND</item>
+        <item>FORPINT</item>
+        <item>BANGE</item>
+        <item>UDMATTET</item>
+        <item>ÅBEN MUND OG KOLDSVED</item>
+        <item>BEKYMRET ANSIGT</item>
+        <item>SKRIGER I FRYGT</item>
+        <item>FORBAVSET</item>
+        <item>RØDMER</item>
+        <item>SVIMMEL</item>
+        <item>ANSIGT UDEN MUND</item>
+        <item>ANSIGT MED MUNDBIND</item>
+        <item>SKUFFET</item>
+        <item>MISFORNØJET</item>
+        <item>SMILER MED HJERTEFORMEDE ØJNE</item>
+        <item>RÆKKER TUNGE</item>
+        <item>RÆKKER TUNGE OG BLINKER</item>
+        <item>RÆKKER TUNGE MED TÆT LUKKEDE ØJNE</item>
+        <item>NYDER LÆKKER MAD</item>
+        <item>KYSSER</item>
+        <item>KYSSER MED SMILENDE ØJNE</item>
+        <item>ANSIGT, SOM SENDER ET LUFTKYS</item>
+        <item>ANSIGT, SOM KYSSER MED LUKKEDE ØJNE</item>
+        <item>SMILER MED SOLBRILLER PÅ</item>
+        <item>GRÆDER HØJLYDT</item>
+        <item>LETTET</item>
+        <item>KONFUS</item>
+        <item>EFTERTÆNKSOM</item>
+        <item>SØVNIG</item>
+        <item>GRINER SMØRRET</item>
+        <item>KOLDSVED</item>
+        <item>TRÆT</item>
+        <item>GLAD MED EN HÅND I LUFTEN</item>
+        <item>SMIDER BEGGE HÆNDER I LUFTEN AF GLÆDE</item>
+        <item>SUR</item>
+        <item>VRED MED ARMENE OVER KORS</item>
+        <item>ANSIGT MED OK-TEGN</item>
+        <item>PERSON, SOM BUKKER DYBT</item>
+        <item>ANSIGT, SOM LAVER TRUTMUND</item>
+        <item>FOLDEDE HÆNDER</item>
+        <item>OK-TEGN</item>
+        <item>VENDER TOMMELFINGEREN OPAD</item>
+        <item>VENDER TOMMELFINGEREN NEDAD</item>
+        <item>BUNKE MØG</item>
+        <item>SVEDENDE HJERTE</item>
+        <item>LODDENT HJERTE</item>
+        <item>LILLA HJERTE</item>
+        <item>KNUST HJERTE</item>
+        <item>HJERTE MED PIL</item>
+        <item>HJERTE AF IS</item>
+        <item>COOL-TEGN</item>
+        <item>ANGIVER LEDIGHED</item>
+        <item>OK-tegn</item>
+        <item>SOS-tegn</item>
+        <item>TEATERMASKE</item>
+        <item>REGNBUE</item>
+        <item>FESTPYNT</item>
+        <item>DANSER</item>
+    </string-array>
+</resources>

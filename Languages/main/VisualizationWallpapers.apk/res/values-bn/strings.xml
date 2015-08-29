@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">ভিজুয়ালাইজার</string>
+    <string name="wallpaper_vis2">ওয়েভফর্ম</string>
+    <string name="wallpaper_vis3">স্পেকট্রাম</string>
+    <string name="wallpaper_vis4">ভিইউ মিটার</string>
+    <string name="wallpaper_vis5">অনেক</string>
+    <string name="wallpapers">মিউজিক ভিজুয়ালাইজেশন ওয়ালপেপার</string>
+    <string name="author">গুগল</string>
+    <string name="vis2_desc">বর্তমানে বাজছে এমন যেকোন মিউজিক ট্র্যাকের সুরতরঙ্গ আঁকে।</string>
+    <string name="vis3_desc">বর্তমানে বাজছে এমন যেকোন মিউজিক ট্র্যাকের ফ্রিকোয়েন্সি স্পেকট্রাম দেখায়।</string>
+    <string name="vis4_desc">এনালগ সাউন্ড মিটারকে অনুকরণ করে।</string>
+    <string name="vis5_desc">সব মিউজিক ভিজুয়েলাইজেশন একসাথে, ধীরে ধীরে থ্রিডি-তে আবর্তিত হয়।</string>
+</resources>

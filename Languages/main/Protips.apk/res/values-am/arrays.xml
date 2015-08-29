@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"ትግበራዎችዎን ሁሉ ይዩ። 
+ማስነሻ አዶውን ይንኩ።@drawable/all_apps"</item>
+        <item>"ትግበራዎችን ወደ መነሻ ማያ ጎትት።
+ ንካ &amp; ትግበራ በማስነሻ ውስጥ እስኪነዝር ድረስ ያዝ"</item>
+        <item>"የመነሻ ማያ ድጋሚ ደርድር።
+"</item>
+        <item>"አይነቶች አስወግድ። 
+ ንካ &amp; አይነቱን ያዝ እና ሲነዝር፣ ወደ ቆሻሻ አዶ ጎትት። @drawable/trash"</item>
+        <item>"ብዙ መነሻ ማያዎች። 
+ ለመቀየር ወደ ግራ ወይም ቀኝ አንሸራት። አይነቶችን ወደ ሌላ ማያዎች ጎትት።"</item>
+        <item>"ይህ ፍርግም ተከናውኗል? 
+ ንካ &amp; ያዝ እና ሲነዝር፣ ወደ ቆሻሻ አዶ ጎትት።"</item>
+    </string-array>
+</resources>

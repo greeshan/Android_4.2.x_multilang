@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>comprimir</item>
+        <item>olhos grandes</item>
+        <item>boca grande</item>
+        <item>boca pequena</item>
+        <item>nariz grande</item>
+        <item>olhos pequenos</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>no espaço</item>
+        <item>pôr do sol</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>baixa</item>
+        <item>média</item>
+        <item>alta</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>sem assunto</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>A SORRIR COM OLHOS SORRIDENTES</item>
+        <item>A RIR</item>
+        <item>A RIR COM OLHOS SORRIDENTES</item>
+        <item>LÁGRIMAS DE ALEGRIA</item>
+        <item>A SORRIR DE BOCA ABERTA</item>
+        <item>A SORRIR DE BOCA ABERTA E OLHOS SORRIDENTES</item>
+        <item>A SORRIR DE BOCA ABERTA E SUORES FRIOS</item>
+        <item>A SORRIR DE BOCA ABERTA E OLHOS FECHADOS</item>
+        <item>A SORRIR COM AURÉOLA</item>
+        <item>A SORRIR COM CHIFRES DE DIABO</item>
+        <item>A PISCAR O OLHO</item>
+        <item>SILENCIADO</item>
+        <item>NEUTRO</item>
+        <item>SEM EXPRESSÃO</item>
+        <item>CONFUSO</item>
+        <item>ZANGADO</item>
+        <item>CARICATO</item>
+        <item>MAL-HUMORADO</item>
+        <item>A CHORAR</item>
+        <item>SONO</item>
+        <item>ROSTO COM BOCA ABERTA</item>
+        <item>PERSEVERANTE</item>
+        <item>ROSTO A SOPRAR FUMO</item>
+        <item>DESAPONTADO MAS ALIVIADO</item>
+        <item>CARRANCUDO COM BOCA ABERTA</item>
+        <item>ANGUSTIADO</item>
+        <item>ASSUSTADOR</item>
+        <item>ABORRECIDO</item>
+        <item>BOCA ABERTA E SUORES FRIOS</item>
+        <item>ROSTO PREOCUPADO</item>
+        <item>A GRITAR DE MEDO</item>
+        <item>ESPANTADO</item>
+        <item>CORADO</item>
+        <item>TONTO</item>
+        <item>ROSTO SEM BOCA</item>
+        <item>ROSTO COM MÁSCARA MÉDICA</item>
+        <item>DESAPONTADO</item>
+        <item>CHATEADO</item>
+        <item>A SORRIR COM OLHOS EM FORMA DE CORAÇÃO</item>
+        <item>LÍNGUA DE FORA</item>
+        <item>LÍNGUA DE FORA E OLHO A PISCAR</item>
+        <item>LÍNGUA DE FORA E OLHOS FECHADOS</item>
+        <item>A SABOREAR COMIDA DELICIOSA</item>
+        <item>ROSTO A BEIJAR</item>
+        <item>ROSTO A BEIJAR COM OLHOS SORRIDENTES</item>
+        <item>ROSTO A SOPRAR UM BEIJO</item>
+        <item>ROSTO A BEIJAR COM OLHOS FECHADOS</item>
+        <item>A SORRIR COM ÓCULOS DE SOL</item>
+        <item>A CHORAR ALTO</item>
+        <item>ALIVIADO</item>
+        <item>CONFUSO</item>
+        <item>PENSATIVO</item>
+        <item>SONOLENTO</item>
+        <item>SORRISO PALERMA</item>
+        <item>SUORES FRIOS</item>
+        <item>CANSADO</item>
+        <item>FELIZ COM UMA MÃO LEVANTADA</item>
+        <item>DUAS MÃOS LEVANTADAS A CELEBRAR</item>
+        <item>CARRANCUDO</item>
+        <item>ZANGADO COM OS BRAÇOS CRUZADOS</item>
+        <item>ROSTO COM GESTO DE OK</item>
+        <item>PESSOA A FAZER VÉNIA</item>
+        <item>ROSTO MALDISPOSTO</item>
+        <item>MÃOS CRUZADAS</item>
+        <item>SINAL DE OK</item>
+        <item>POLEGAR PARA CIMA</item>
+        <item>POLEGAR PARA BAIXO</item>
+        <item>MONTE DE COCÓ</item>
+        <item>CORAÇÃO A SUAR</item>
+        <item>CORAÇÃO COM PELO</item>
+        <item>CORAÇÃO ROXO</item>
+        <item>CORAÇÃO PARTIDO</item>
+        <item>CORAÇÃO COM SETA</item>
+        <item>CORAÇÃO GELADO</item>
+        <item>SINAL DE FIXE</item>
+        <item>SINAL DE LIVRE</item>
+        <item>SINAL DE OK</item>
+        <item>SINAL DE SOS</item>
+        <item>MÁSCARAS DE ARTE</item>
+        <item>ARCO-ÍRIS</item>
+        <item>FESTIVO</item>
+        <item>BAILARINO</item>
+    </string-array>
+</resources>

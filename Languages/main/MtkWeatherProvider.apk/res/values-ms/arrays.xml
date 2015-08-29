@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Jangan kemas kini auto</item>
+        <item>Setiap 1 jam</item>
+        <item>Setiap 2 jam</item>
+        <item>Setiap 6 jam</item>
+        <item>Setiap 12 jam</item>
+        <item>Setiap 1 hari</item>
+    </string-array>
+</resources>

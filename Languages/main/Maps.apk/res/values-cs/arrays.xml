@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Velmi špatné</item>
+        <item>Špatné</item>
+        <item>Ujde to</item>
+        <item>Velmi dobré</item>
+        <item>Vynikající</item>
+    </string-array>
+</resources>

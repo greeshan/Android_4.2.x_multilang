@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>유형</item>
+        <item>이름(A - Z)</item>
+        <item>크기(대 - 소)</item>
+        <item>시간(신규 - 이전)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>comprimeix</item>
+        <item>ulls grans</item>
+        <item>boca gran</item>
+        <item>boca petita</item>
+        <item>nas gran</item>
+        <item>ulls petits</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>"a l'espai"</item>
+        <item>posta de sol</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>baixa</item>
+        <item>mitjana</item>
+        <item>alta</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>sense assumpte</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>SOMRIURE AMB ULLS CONTENTS</item>
+        <item>GANYOTA</item>
+        <item>GANYOTA AMB ULLS CONTENTS</item>
+        <item>"LLÀGRIMES D'ALEGRIA"</item>
+        <item>SOMRIURE AMB LA BOCA OBERTA</item>
+        <item>SOMRIURE AMB LA BOCA OBERTA I AMB ELS ULLS CONTENTS</item>
+        <item>SOMRIURE AMB LA BOCA OBERTA I AMB SUOR FREDA</item>
+        <item>SOMRIURE AMB LA BOCA OBERTA I AMB ELS ULLS BEN TANCATS</item>
+        <item>SOMRIURE AMB AURÈOLA</item>
+        <item>SOMRIURE AMB BANYES DE DIMONI</item>
+        <item>"PICADA D'ULLET"</item>
+        <item>CARA EN SILENCI</item>
+        <item>CARA NEUTRA</item>
+        <item>CARA INEXPRESSIVA</item>
+        <item>CARA CONFOSA</item>
+        <item>CARA EMPIPADA</item>
+        <item>CAROTES</item>
+        <item>MALA CARA</item>
+        <item>CARA QUE PLORA</item>
+        <item>CARA QUE DORM</item>
+        <item>CARA AMB LA BOCA OBERTA</item>
+        <item>CARA DE PERSEVERÀNCIA</item>
+        <item>CARA QUE TREU FUM</item>
+        <item>CARA DECEBUDA PERÒ ALLEUJADA</item>
+        <item>CARA QUE ARRUFA LES CELLES AMB LA BOCA OBERTA</item>
+        <item>"CARA D'ANGOIXA"</item>
+        <item>CARA ATEMORIDA</item>
+        <item>CARA CANSADA</item>
+        <item>BOCA OBERTA I SUOR FREDA</item>
+        <item>CARA DE PREOCUPACIÓ</item>
+        <item>CRITS DE POR</item>
+        <item>CARA DE SORPRESA</item>
+        <item>GALTES VERMELLES</item>
+        <item>CARA DE MAREIG</item>
+        <item>CARA SENSE BOCA</item>
+        <item>CARA AMB MÀSCARA</item>
+        <item>CARA DECEBUDA</item>
+        <item>CARA AVORRIDA</item>
+        <item>SOMRIURE AMB ELS ULLS EN FORMA DE COR</item>
+        <item>LLENGUA ENFORA</item>
+        <item>"CARA QUE TREU LA LLENGUA I PICA L'ULLET"</item>
+        <item>CARA QUE TREU LA LLENGUA AMB ELS ULLS BEN TANCATS</item>
+        <item>CARA QUE ASSABOREIX MENJAR DELICIÓS</item>
+        <item>CARA QUE FA UN PETÓ</item>
+        <item>CARA QUE FA UN PETÓ AMB ULLS CONTENTS</item>
+        <item>CARA QUE ENVIA UN PETÓ</item>
+        <item>CARA QUE FA UN PETÓ AMB ELS ULLS TANCATS</item>
+        <item>SOMRIURE AMB ULLERES DE SOL</item>
+        <item>CARA QUE PLORA MOLT</item>
+        <item>CARA ALLEUJADA</item>
+        <item>CARA DE DESCONCERT</item>
+        <item>CARA PENSATIVA</item>
+        <item>CARA ADORMIDA</item>
+        <item>SOMRIURE MALICIÓS</item>
+        <item>SUOR FREDA</item>
+        <item>CARA CANSADA</item>
+        <item>AIXECA UNA MÀ AMB EXPRESSIÓ CONTENTA</item>
+        <item>"AIXECA LES DUES MANS D'ALEGRIA"</item>
+        <item>CARA QUE ARRUFA LES CELLES</item>
+        <item>CARA ENFADADA AMB ELS BRAÇOS PLEGATS</item>
+        <item>"CARA AMB GEST DE D'ACORD"</item>
+        <item>PERSONA QUE MOSTRA UN AGRAÏMENT PROFUND</item>
+        <item>MALA CARA</item>
+        <item>MANS JUNTES</item>
+        <item>"SIGNE DE D'ACORD"</item>
+        <item>"SIGNE DE M'AGRADA"</item>
+        <item>"SIGNE DE NO M'AGRADA"</item>
+        <item>CACA</item>
+        <item>COR QUE SUA</item>
+        <item>COR PELUT</item>
+        <item>COR PORPRA</item>
+        <item>COR TRENCAT</item>
+        <item>COR AMB UNA FLETXA</item>
+        <item>COR GLAÇAT</item>
+        <item>"SIGNE D'APROVACIÓ"</item>
+        <item>SIGNE DE GRATUÏT</item>
+        <item>"SIGNE DE D'ACORD"</item>
+        <item>SIGNE DE SOCORS</item>
+        <item>MÀSCARES DE TEATRE</item>
+        <item>ARC DE SANT MARTÍ</item>
+        <item>SERPENTINES DE FESTA</item>
+        <item>BALLARÍ</item>
+    </string-array>
+</resources>

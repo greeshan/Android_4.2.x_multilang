@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d កំណត់ត្រាសកម្មភាពហៅ</item>
+        <item quantity="one">កំណត់ត្រាសកម្មភាពហៅ 1</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d លេខទំនាក់ទំនងជាមួយលេខទូរស័ព្ទ</item>
+        <item quantity="one">លេខទំនាក់ទំនង 1 ជាមួយលេខទូរស័ព្ទ</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d លេខទំនាក់ទំនង</item>
+        <item quantity="one">លេខទំនាក់ទំនង 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d រកឃើញ</item>
+        <item quantity="one">រកឃើញ 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">រកឃើញ 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">បានច្របាច់បញ្ចូលពី %0$d ប្រភព</item>
+        <item quantity="one">មិនបានច្របាច់បញ្ចូលគ្នា</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ក្រុម</item>
+        <item quantity="one">1 ក្រុម</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d មនុស្សពី %2$s</item>
+        <item quantity="one">%1$d បុគ្គលពី %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d មនុស្ស</item>
+        <item quantity="one">%1$d មនុស្ស</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d សំបុត្រសម្លេង</item>
+        <item quantity="one">សំបុត្រសម្លេង</item>
+    </plurals>
+</resources>

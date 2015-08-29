@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Services météorologiques</string>
+    <string name="choose_city">Choisir ville</string>
+    <string name="searching">Recherche en cours, veuillez patienter</string>
+    <string name="no_found">Aucune ville trouvée correspondant à %s. Veuillez vérifier les mots saisis.</string>
+    <string name="net_error">Réseau non disponible. Veuillez vérifier.</string>
+    <string name="no_city_error">"Impossible d'obtenir les infos de la ville ; veuillez correctement régler l'heure et le fuseau horaire du système."</string>
+    <string name="searching_fail">Echec de recherche de la ville.</string>
+    <string name="no_weather_error">"Impossible d'obtenir les infos météo ; veuillez correctement régler l'heure et le fuseau horaire du système."</string>
+    <string name="no_weather">Aucune information météo pour %s actuellement disponible.</string>
+    <string name="setting_title">Configuration</string>
+    <string name="temperature">Unités de température</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Villes</string>
+    <string name="update_fre">Mettre à jour la fréquence</string>
+    <string name="every12">Toutes les 12 heures</string>
+    <string name="cancel">Annuler</string>
+    <string name="menu_add_city">Ajouter ville</string>
+    <string name="add_city">"Touchez l'icône pour ajouter une nouvelle ville"</string>
+    <string name="remove">Supprimer</string>
+    <string name="warn">Il est possible d’ajouter au maximum 8 villes</string>
+    <string name="has_chosen">a été choisi.</string>
+    <string name="no_city">Aucune ville</string>
+    <string name="powered_by">Optimisé par:</string>
+    <string name="menu_about">À propos de</string>
+</resources>

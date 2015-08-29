@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>πιεσμένος</item>
+        <item>μεγάλα μάτια</item>
+        <item>μεγάλο στόμα</item>
+        <item>μικρό στόμα</item>
+        <item>μεγάλη μύτη</item>
+        <item>μικρά μάτια</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>στο διάστημα</item>
+        <item>ηλιοβασίλεμα</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>χαμηλό</item>
+        <item>μέσο</item>
+        <item>υψηλό</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>χωρίς θέμα</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΧΑΜΟΓΕΛΑΣΤΑ ΜΑΤΙΑ</item>
+        <item>ΧΑΜΟΓΕΛΟ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΧΑΜΟΓΕΛΑΣΤΑ ΜΑΤΙΑ</item>
+        <item>ΔΑΚΡΥΑ ΧΑΡΑΣ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΑΝΟΙΚΤΟ ΣΤΟΜΑ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΑΝΟΙΚΤΟ ΣΤΟΜΑ ΚΑΙ ΧΑΜΟΓΕΛΑΣΤΑ ΜΑΤΙΑ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΑΝΟΙΚΤΟ ΣΤΟΜΑ ΚΑΙ ΚΡΥΟΣ ΙΔΡΩΤΑΣ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΑΝΟΙΚΤΟ ΣΤΟΜΑ ΚΑΙ ΣΦΙΧΤΑ ΚΛΕΙΣΤΑ ΜΑΤΙΑ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΦΩΤΟΣΤΕΦΑΝΟ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΣΑΤΑΝΙΚΑ ΚΕΡΑΤΑ</item>
+        <item>ΚΛΕΙΣΙΜΟ ΜΑΤΙΟΥ</item>
+        <item>ΣΙΩΠΗΛΟΣ</item>
+        <item>ΟΥΔΕΤΕΡΟΣ</item>
+        <item>ΑΝΕΚΦΡΑΣΤΟΣ</item>
+        <item>ΜΠΕΡΔΕΜΕΝΟΣ</item>
+        <item>ΘΥΜΟΣ</item>
+        <item>ΓΚΡΙΜΑΤΣΕΣ</item>
+        <item>ΣΚΥΘΡΩΠΟΣ</item>
+        <item>ΚΛΑΜΜΑ</item>
+        <item>ΥΠΝΟΣ</item>
+        <item>ΠΡΟΣΩΠΟ ΜΕ ΑΝΟΙΚΤΟ ΣΤΟΜΑ</item>
+        <item>ΕΠΙΜΟΝΟΣ</item>
+        <item>ΠΡΟΣΩΠΟ ΠΟΥ ΒΓΑΖΕΙ ΑΤΜΟΥΣ</item>
+        <item>ΑΠΟΓΟΗΤΕΥΜΕΝΟΣ ΑΛΛΑ ΑΝΑΚΟΥΦΙΣΜΕΝΟΣ</item>
+        <item>ΣΥΝΟΦΡΥΩΜΕΝΟΣ ΜΕ ΑΝΟΙΚΤΟ ΣΤΟΜΑ</item>
+        <item>ΑΓΧΩΜΕΝΟΣ</item>
+        <item>ΤΡΟΜΑΓΜΕΝΟΣ</item>
+        <item>ΚΟΥΡΑΣΜΕΝΟΣ</item>
+        <item>ΑΝΟΙΚΤΟ ΣΤΟΜΑ ΚΑΙ ΚΡΥΟΣ ΙΔΡΩΤΑΣ</item>
+        <item>ΑΝΗΣΥΧΟ ΠΡΟΣΩΠΟ</item>
+        <item>ΟΥΡΛΙΑΧΤΟ ΤΡΟΜΟΥ</item>
+        <item>ΕΚΠΛΗΚΤΟΣ</item>
+        <item>ΚΟΚΚΙΝΟ ΠΡΟΣΩΠΟ</item>
+        <item>ΖΑΛΙΣΜΕΝΟΣ</item>
+        <item>ΠΡΟΣΩΠΟ ΧΩΡΙΣ ΣΤΟΜΑ</item>
+        <item>ΠΡΟΣΩΠΟ ΜΕ ΙΑΤΡΙΚΗ ΜΑΣΚΑ</item>
+        <item>ΑΠΟΓΟΗΤΕΥΜΕΝΟΣ</item>
+        <item>ΚΑΚΟΚΕΦΟΣ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΜΑΤΙΑ ΣΕ ΣΧΗΜΑ ΚΑΡΔΙΑΣ</item>
+        <item>ΓΛΩΣΣΑ ΕΞΩ</item>
+        <item>ΓΛΩΣΣΑ ΕΞΩ ΚΑΙ ΚΛΕΙΣΙΜΟ ΜΑΤΙΟΥ</item>
+        <item>ΓΛΩΣΣΑ ΕΞΩ ΚΑΙ ΣΦΙΧΤΑ ΚΛΕΙΣΤΑ ΜΑΤΙΑ</item>
+        <item>ΝΟΣΤΙΜΟ ΦΑΓΗΤΟ</item>
+        <item>ΠΡΟΣΩΠΟ ΠΟΥ ΔΙΝΕΙ ΦΙΛΙ</item>
+        <item>ΠΡΟΣΩΠΟ ΠΟΥ ΔΙΝΕΙ ΦΙΛΙ ΜΕ ΧΑΜΟΓΕΛΑΣΤΑ ΜΑΤΙΑ</item>
+        <item>ΠΡΟΣΩΠΟ ΠΟΥ ΣΤΕΛΝΕΙ ΦΙΛΙ</item>
+        <item>ΠΡΟΣΩΠΟ ΠΟΥ ΔΙΝΕΙ ΦΙΛΙ ΜΕ ΚΛΕΙΣΤΑ ΜΑΤΙΑ</item>
+        <item>ΧΑΜΟΓΕΛΟ ΜΕ ΓΥΑΛΙΑ ΗΛΙΟΥ</item>
+        <item>ΔΥΝΑΤΟ ΚΛΑΜΜΑ</item>
+        <item>ΑΝΑΚΟΥΦΙΣΜΕΝΟΣ</item>
+        <item>ΚΑΤΑΡΑΜΕΝΟΣ</item>
+        <item>ΣΚΕΠΤΙΚΟΣ</item>
+        <item>ΝΥΣΤΑΓΜΕΝΟΣ</item>
+        <item>ΠΟΝΗΡΟ ΧΑΜΟΓΕΛΟ</item>
+        <item>ΚΡΥΟΣ ΙΔΡΩΤΑΣ</item>
+        <item>ΚΟΥΡΑΣΜΕΝΟΣ</item>
+        <item>ΣΗΚΩΜΕΝΟ ΧΕΡΙ ΑΠΟ ΧΑΡΑ</item>
+        <item>ΣΗΚΩΜΕΝΑ ΧΕΡΙΑ ΜΕ ΕΝΘΟΥΣΙΑΣΜΟ</item>
+        <item>ΣΥΝΟΦΡΥΩΜΕΝΟΣ</item>
+        <item>ΘΥΜΩΜΕΝΟΣ ΜΕ ΣΤΑΥΡΩΜΕΝΑ ΧΕΡΙΑ</item>
+        <item>ΠΡΟΣΩΠΟ ΜΕ ΧΕΙΡΟΝΟΜΙΑ OK</item>
+        <item>ΒΑΘΙΑ ΥΠΟΚΛΙΣΗ</item>
+        <item>ΣΚΥΘΡΩΠΟ ΠΡΟΣΩΠΟ</item>
+        <item>ΧΕΙΡΑΨΙΑ</item>
+        <item>ΣΗΜΑ OK</item>
+        <item>ΣΗΜΑ ΕΠΙΔΟΚΙΜΑΣΙΑΣ</item>
+        <item>ΣΗΜΑ ΑΠΟΔΟΚΙΜΑΣΙΑΣ</item>
+        <item>ΚΑΚΑΚΙΑ</item>
+        <item>ΙΔΡΩΜΕΝΗ ΚΑΡΔΙΑ</item>
+        <item>ΜΑΛΛΙΑΡΗ ΚΑΡΔΙΑ</item>
+        <item>ΜΟΒ ΚΑΡΔΙΑ</item>
+        <item>ΡΑΓΙΣΜΕΝΗ ΚΑΡΔΙΑ</item>
+        <item>ΚΑΡΔΙΑ ΜΕ ΒΕΛΟΣ</item>
+        <item>ΠΑΓΩΜΕΝΗ ΚΑΡΔΙΑ</item>
+        <item>ΣΗΜΑ ΤΕΛΕΙΑ</item>
+        <item>ΣΗΜΑ ΔΩΡΕΑΝ</item>
+        <item>ΣΗΜΑ OK</item>
+        <item>ΣΗΜΑ SOS</item>
+        <item>ΘΕΑΤΡΙΚΕΣ ΜΑΣΚΕΣ</item>
+        <item>ΟΥΡΑΝΙΟ ΤΟΞΟ</item>
+        <item>ΚΟΝΦΕΤΙ</item>
+        <item>ΧΟΡΕΥΤΗΣ</item>
+    </string-array>
+</resources>

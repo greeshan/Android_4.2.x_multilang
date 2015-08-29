@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>یہ الارم اب سے ایک منٹ سے بھی کم عرصے کے لئے سیٹ کیا گیا ہے۔</item>
+        <item>یہ الارم اب سے %1$sبعد کے لئے سیٹ کیا گيا ہے۔</item>
+        <item>یہ الارم اب سے %2$s کے لئے سیٹ کیا گيا ہے۔</item>
+        <item>یہ الارم اپ سے %1$s اور %2$s کے لئے سیٹ کیا گيا ہے۔</item>
+        <item>یہ الارم اب سے %3$s کے لئے سیٹ کیا گيا ہے۔</item>
+        <item>یہ الارم اب سے%1$s اور %3$s کے لئے سیٹ کیا گيا ہے۔</item>
+        <item>یہ الارم اب سے %2$s اور %3$s کے لئے سیٹ کیا گيا ہے۔</item>
+        <item>یہ الارم اب سے%1$s, %2$s, اور %3$sکے لئے سیٹ کیا گيا ہے۔</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>بند</item>
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>15 منٹ</item>
+        <item>20 منٹ</item>
+        <item>25 منٹ</item>
+        <item>30 منٹ</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>وئی نہیں</item>
+        <item>اسنوز</item>
+        <item>رد</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>15 منٹ</item>
+        <item>20 منٹ</item>
+        <item>25 منٹ</item>
+        <item>30 منٹ</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+</resources>

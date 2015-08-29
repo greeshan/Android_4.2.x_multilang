@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">전원 켜기/끄기 예약</string>
+    <string name="schedule_power_on_off_time">시간</string>
+    <string name="schedule_power_on_off_repeat">반복</string>
+    <string name="schedule_power_on_off_set">전원 켜기/끄기 예약 설정</string>
+    <string name="schedule_power_on_set">전원 켜기 예약 설정</string>
+    <string name="schedule_power_off_set">전원 끄기 예약 설정</string>
+    <string name="enable_schpwr">사용</string>
+    <string name="disable_schpwr">사용 안함</string>
+    <string name="day">1일</string>
+    <string name="days">" %s일"</string>
+    <string name="hour">1시간</string>
+    <string name="hours">%s시간</string>
+    <string name="minute">1분</string>
+    <string name="minutes">" %s분"</string>
+    <string name="every_day">매일</string>
+    <string name="never">사용 안함</string>
+    <string name="done">완료</string>
+    <string name="revert">되돌리기</string>
+    <string name="schpwr_shutdown_message">장치가 %s초 내에 꺼집니다</string>
+    <string name="schpwr_shutdown_message_second">장치가 %s초 내에 꺼집니다</string>
+</resources>

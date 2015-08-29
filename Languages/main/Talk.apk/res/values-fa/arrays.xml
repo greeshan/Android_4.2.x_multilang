@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>فشردن</item>
+        <item>چشم‌های درشت</item>
+        <item>دهان بزرگ</item>
+        <item>دهان کوچک</item>
+        <item>بینی بزرگ</item>
+        <item>چشم‌های کوچک</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>در فضا</item>
+        <item>غروب آفتاب</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>کم</item>
+        <item>متوسط</item>
+        <item>زیاد</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>بدون موضوع</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>متبسم با چشمان خندان</item>
+        <item>پوزخند</item>
+        <item>پوزخند با چشمان خندان</item>
+        <item>اشک شوق</item>
+        <item>متبسم با دهان باز</item>
+        <item>متبسم با دهان باز و چشمان خندان</item>
+        <item>متبسم با دهان باز و عرق سرد</item>
+        <item>متبسم با دهان باز و چشم‌های محکم بسته</item>
+        <item>متبسم با حلقه نورانی</item>
+        <item>متبسم با شاخ شیطانی</item>
+        <item>چشمک</item>
+        <item>هیس</item>
+        <item>بی‌تفاوت</item>
+        <item>بدون نمایش احساسات</item>
+        <item>گیج</item>
+        <item>عصبانی</item>
+        <item>دهن کجی</item>
+        <item>لب ورچیدن</item>
+        <item>گریان</item>
+        <item>درحال خواب</item>
+        <item>چهره با دهان باز</item>
+        <item>سرسخت</item>
+        <item>بخار از صورت بلند شدن</item>
+        <item>ناامید اما آسوده</item>
+        <item>اخم با دهان باز</item>
+        <item>نگران</item>
+        <item>ترسان</item>
+        <item>خسته</item>
+        <item>دهان باز و عرق سرد</item>
+        <item>چهره نگران</item>
+        <item>فریاد از ترس</item>
+        <item>متحیر</item>
+        <item>خجالت‌زده</item>
+        <item>سردرگم</item>
+        <item>چهره بدون دهان</item>
+        <item>چهره با ماسک روی دهان</item>
+        <item>ناامید</item>
+        <item>بی‌هیجان</item>
+        <item>متبسم با چشمانی به شکل قلب</item>
+        <item>زبان درآوردن</item>
+        <item>زبان درآوردن و چشمک زدن</item>
+        <item>زبان درآوردن و چشمان بسته</item>
+        <item>غذای خوشمزه اشتهاآور</item>
+        <item>چهره در حال بوسیدن</item>
+        <item>چهره در حال بوسیدن با چشمان خندان</item>
+        <item>چهره در حال بوس پراندن</item>
+        <item>چهره در حال بوس با چشمان بسته</item>
+        <item>متبسم با عینک آفتابی</item>
+        <item>گریان با صدای بلند</item>
+        <item>آسوده</item>
+        <item>مبهوت</item>
+        <item>متفکر</item>
+        <item>خواب‌آلود</item>
+        <item>پوزخند</item>
+        <item>عرق سرد</item>
+        <item>خسته</item>
+        <item>خوشحال با بلندکردن یک دست</item>
+        <item>بلند کردن هر دو دست برای شادمانی</item>
+        <item>اخم</item>
+        <item>عصبانی دست به سینه</item>
+        <item>چهره با تکان دادن سر به نشانه تأیید</item>
+        <item>تعظیم بلند</item>
+        <item>چهره با لب‌های ورچیده</item>
+        <item>دست به سینه</item>
+        <item>علامت تأیید</item>
+        <item>علامت شست به بالا</item>
+        <item>علامت شست به پایین</item>
+        <item>توده مدفوع</item>
+        <item>قلب عرق‌ریزان</item>
+        <item>قلب مودار</item>
+        <item>قلب سرخابی</item>
+        <item>قلب شکسته</item>
+        <item>قلب تیرخورده</item>
+        <item>قلب یخی</item>
+        <item>علامت عالی</item>
+        <item>علامت آزادی</item>
+        <item>علامت تأیید</item>
+        <item>علامت کمک اضطراری</item>
+        <item>ماسک‌های هنری</item>
+        <item>رنگین‌کمان</item>
+        <item>برف شادی</item>
+        <item>رقصنده</item>
+    </string-array>
+</resources>

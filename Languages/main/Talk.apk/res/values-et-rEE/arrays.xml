@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>pitsita</item>
+        <item>suured silmad</item>
+        <item>suur suu</item>
+        <item>väike suu</item>
+        <item>suur nina</item>
+        <item>väikesed silmad</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>kosmoses</item>
+        <item>päikeseloojang</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>madal</item>
+        <item>keskmine</item>
+        <item>kõrge</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>teemat ei ole</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>NAERATUS NAERUSTE SILMADEGA</item>
+        <item>IRVE</item>
+        <item>IRVE NAERUSTE SILMADEGA</item>
+        <item>RÕÕMUPISARAD</item>
+        <item>AVATUD SUUGA NAERATUS</item>
+        <item>AVATUD SUU JA NAERUSTE SILMADEGA NAERATUS</item>
+        <item>AVATUD SUU JA KÜLMA HIGIGA NAERATUS</item>
+        <item>AVATUD SUU JA SULETUD SILMADEGA NAERATUS</item>
+        <item>AUPAISTEGA NAERATUS</item>
+        <item>SAATANASARVEDEGA NAERATUS</item>
+        <item>SILMAPILGUTUS</item>
+        <item>SÕRM SUU EES</item>
+        <item>NEUTRAALNE</item>
+        <item>ILMETU</item>
+        <item>SEGADUSES</item>
+        <item>VIHANE</item>
+        <item>KIRTSUTAV</item>
+        <item>MOSSIS</item>
+        <item>NUTTEV</item>
+        <item>MAGAV</item>
+        <item>AVATUD SUUGA NÄGU</item>
+        <item>SIHIKINDEL</item>
+        <item>AURU PUHUV NÄGU</item>
+        <item>PETTUNUD, KUID KERGENDATUD</item>
+        <item>AVATUD SUUGA KULMUKORTSUTUS</item>
+        <item>AHASTUSES</item>
+        <item>HIRMUNUD</item>
+        <item>VÄSINUD</item>
+        <item>AVATUD SUU JA KÜLM HIGI</item>
+        <item>MURELIK NÄGU</item>
+        <item>HIRMUNUD KARJATUS</item>
+        <item>HÄMMASTUNUD</item>
+        <item>PUNASTAV</item>
+        <item>UIMANE</item>
+        <item>ILMA SUUTA NÄGU</item>
+        <item>ARSTIMASKIGA NÄGU</item>
+        <item>PETTUNUD</item>
+        <item>ÜKSKÕIKNE</item>
+        <item>SÜDAMEKUJULISTE SILMADEGA NAERATUS</item>
+        <item>KEEL VÄLJAS</item>
+        <item>KEEL VÄLJAS JA SILMAPILGUTUS</item>
+        <item>KEEL VÄLJAS JA SILMAD SULETUD</item>
+        <item>KEELT LIMPSAV</item>
+        <item>PRUNTIS HUULTEGA NÄGU</item>
+        <item>PRUNTIS HUULTE JA NAERUSTE SILMADEGA NÄGU</item>
+        <item>ÕHUSUUDLUST SAATEV NÄGU</item>
+        <item>PRUNTIS HUULTE JA SULETUD SILMADEGA NÄGU</item>
+        <item>PÄIKESEPRILLIDEGA NAERATUS</item>
+        <item>VALJULT NUTTEV</item>
+        <item>KERGENDATUD</item>
+        <item>SEGADUSES</item>
+        <item>MÕTLIK</item>
+        <item>UNINE</item>
+        <item>IRVITAV</item>
+        <item>KÜLM HIGI</item>
+        <item>VÄSINUD</item>
+        <item>RÕÕMUS JA ÜKS KÄSI ÜLEVAL</item>
+        <item>MÕLEMAD KÄED VÕIDUKALT ÜLEVAL</item>
+        <item>KULMU KORTSUTAV</item>
+        <item>VIHANE JA KÄED RINNAL RISTI</item>
+        <item>OK-LIIGUTUSEGA NÄGU</item>
+        <item>SÜGAV KUMMARDUS</item>
+        <item>MOSSIS NÄGU</item>
+        <item>PEOPESAD KOKKU SURUTUD</item>
+        <item>OK-MÄRK</item>
+        <item>PÖIDLAD PÜSTI</item>
+        <item>PÖIDLAD ALLA</item>
+        <item>KAKAHUNNIK</item>
+        <item>HIGIPIISKADEGA SÜDA</item>
+        <item>KARVANE SÜDA</item>
+        <item>LILLA SÜDA</item>
+        <item>MURTUD SÜDA</item>
+        <item>NOOLEGA SÜDA</item>
+        <item>JÄINE SÜDA</item>
+        <item>LAHEDUST TÄHISTAV MÄRK</item>
+        <item>VABADUST TÄHISTAV MÄRK</item>
+        <item>OK-MÄRK</item>
+        <item>SOS-MÄRK</item>
+        <item>TEATRIMASKID</item>
+        <item>VIKERKAAR</item>
+        <item>PEORIKKUJA</item>
+        <item>TANTSIJA</item>
+    </string-array>
+</resources>

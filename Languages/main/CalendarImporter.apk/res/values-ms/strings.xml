@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Import ke</string>
+    <string name="import_button">Import</string>
+    <string name="cancel">Batal</string>
+    <string name="no_access_toast">Akaun tidak dijumpai. Sila tambah akaun dahulu</string>
+    <string name="null_name">Tiada</string>
+    <string name="import_message">Adakah anda mahu mengimport ke Kalendar?</string>
+    <string name="calendar_lable">Kalendar:</string>
+    <string name="date_lable">Tarikh:</string>
+    <string name="import_title">Import kejadian</string>
+    <string name="importing">Mengimport …</string>
+    <string name="import_complete">Selesai mengimport</string>
+    <string name="open">Buka</string>
+    <string name="done">Siap</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Gagal dalam mengimport acara.</string>
+    <string name="title_lable">"Tajuk: "</string>
+    <string name="no_syncable_calendars">Tidak dapat mengimport</string>
+    <string name="no_calendars_found">Akaun ini tidak menyokong penyegerakan kalendar atau penyegerakan terakhir belum lagi selesai.</string>
+    <string name="retry">Cuba semula</string>
+    <string name="give_up">Henti paksa</string>
+    <string name="open_calendar_failed">Kalendar tidak tersedia.</string>
+    <string name="loading">Memuatkan...</string>
+</resources>

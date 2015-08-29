@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Se alle dine apps.
+ Tryk på startikonet. @drawable/all_apps"</item>
+        <item>"Føj apps til din startskærm.
+ Tryk på en app i programlisten, og hold den nede."</item>
+        <item>"Rediger din startskærm.
+ Hold fingeren på et element. Træk det til et andet sted, når det vibrerer."</item>
+        <item>"Fjern elementer.
+ Hold fingeren på et element. Træk det til papirkurven, når det vibrerer. @drawable/trash"</item>
+        <item>"Flere startskærme.
+ Bladr til venstre eller højre for at skifte. Træk elementer til andre skærme."</item>
+        <item>"Træt af denne widget?
+ Tryk på den, og hold fingeren nede. Når widgetten vibrerer, kan du trække den til papirkurven."</item>
+    </string-array>
+</resources>

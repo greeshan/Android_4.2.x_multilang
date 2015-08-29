@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>comprimir</item>
+        <item>ojos grandes</item>
+        <item>boca grande</item>
+        <item>boca pequeña</item>
+        <item>nariz grande</item>
+        <item>ojos pequeños</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>en el espacio</item>
+        <item>Sunset</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>baja</item>
+        <item>mediana</item>
+        <item>alta</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>sin asunto</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>SONRIENTE CON OJOS SONRIENTES</item>
+        <item>SONRISA BURLONA</item>
+        <item>SONRISA BURLONA CON OJOS SONRIENTES</item>
+        <item>LLORANDO DE FELICIDAD</item>
+        <item>SONRIENDO CON LA BOCA ABIERTA</item>
+        <item>SONRIENDO CON LA BOCA ABIERTA Y OJOS SONRIENTES</item>
+        <item>SONRIENDO CON LA BOCA ABIERTA Y SUDOR FRÍO</item>
+        <item>SONRIENDO CON LA BOCA ABIERTA Y OJOS CERRADOS</item>
+        <item>ÁNGEL</item>
+        <item>DEMONIO</item>
+        <item>GUIÑO</item>
+        <item>EN SILENCIO</item>
+        <item>NORMAL</item>
+        <item>SIN EXPRESIÓN</item>
+        <item>CONFUSO</item>
+        <item>ENFADADO</item>
+        <item>HACIENDO MUECAS</item>
+        <item>MORRITOS</item>
+        <item>LLORANDO</item>
+        <item>DURMIENDO</item>
+        <item>CON LA BOCA ABIERTA</item>
+        <item>INSISTENTE</item>
+        <item>ECHANDO HUMO</item>
+        <item>ENFADADO PERO ALIVIADO</item>
+        <item>ENDADADO CON LA BOCA ABIERTA</item>
+        <item>ANGUSTIADO</item>
+        <item>ASUSTADO</item>
+        <item>ABURRIDO</item>
+        <item>CON LA BOCA ABIERTA Y SUDANDO</item>
+        <item>PREOCUPADO</item>
+        <item>ATERRADO</item>
+        <item>SORPRENDIDO</item>
+        <item>SONROJADO</item>
+        <item>MAREADO</item>
+        <item>SIN BOCA</item>
+        <item>CON MASCARILLA</item>
+        <item>DECEPCIONADO</item>
+        <item>ABURRIDO</item>
+        <item>SONRIENDO ENAMORADO</item>
+        <item>SACANDO LA LENGUA</item>
+        <item>SACANDO LA LENGUA Y GUIÑANDO UN OJO</item>
+        <item>SACANDO LA LENGUA CON LOS OJOS CERRADOS</item>
+        <item>ESTÁ DELICIOSO</item>
+        <item>BESOS</item>
+        <item>BESOS SONRIENDO</item>
+        <item>TIRANDO UN BESO</item>
+        <item>BESOS CON LOS OJOS CERRADOS</item>
+        <item>SONRIENDO CON GAFAS DE SOL</item>
+        <item>LLANTO</item>
+        <item>ALIVIADO</item>
+        <item>CONFUSO</item>
+        <item>PENSATIVO</item>
+        <item>SOMNOLIENTO</item>
+        <item>SONRISA BURLONA</item>
+        <item>SUDOR FRÍO</item>
+        <item>CANSADO</item>
+        <item>FELIZ CON UNA MANO LEVANTADA</item>
+        <item>¡VIVA!</item>
+        <item>ENFADADO</item>
+        <item>ENFADADO CON LOS BRAZOS CRUZADOS</item>
+        <item>CON CARA DE ACEPTACIÓN</item>
+        <item>REVERENCIA</item>
+        <item>MORRITOS</item>
+        <item>MANOS JUNTAS</item>
+        <item>DE ACUERDO</item>
+        <item>ME GUSTA</item>
+        <item>NO ME GUSTA</item>
+        <item>UN MOJÓN</item>
+        <item>CORAZÓN SUDANDO</item>
+        <item>CORAZÓN PELUDO</item>
+        <item>CORAZÓN PÚRPURA</item>
+        <item>CORAZÓN ROTO</item>
+        <item>CORAZÓN CON FLECHA</item>
+        <item>CORAZÓN GÉLIDO</item>
+        <item>¡GUAY!</item>
+        <item>GRATIS</item>
+        <item>DE ACUERDO</item>
+        <item>SOS</item>
+        <item>MÁSCARAS DE TEATRO</item>
+        <item>ARCOÍRIS</item>
+        <item>FIESTA</item>
+        <item>BAILARÍN</item>
+    </string-array>
+</resources>

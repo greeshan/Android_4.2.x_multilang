@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>ጭመቅ</item>
+        <item>ጎላ ያሉ አይኖች</item>
+        <item>ትልቅ አፍ</item>
+        <item>ጠባብ አፍ</item>
+        <item>ትልቅ አፍንጫ</item>
+        <item>ጠባብ አይኖች</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>ቦታ ውስጥ</item>
+        <item>ፀሀይ ስትጠልቅ</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>ዝቅ ያለ</item>
+        <item>መካከለኛ</item>
+        <item>ከፍ ያለ</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>ርዕስ የሌለው</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ፈገግ በሚሉ አይኖች ፈገግ የሚል</item>
+        <item>ትልቅ ፈገግታ</item>
+        <item>ፈገግ በሚሉ አይኖች ፈገግ የሚል</item>
+        <item>የደስታ እንባ</item>
+        <item>በተከፈተ አፍ ፈገግ የሚል</item>
+        <item>በተከፈተ አፍ እና ፈገግ በሚሉ አይኖች ፈገግ የሚል</item>
+        <item>አፉ እንደተከፈተ በጭንቀት ፈገግ የሚል</item>
+        <item>በተከፈተ አፍ እና በጣም በተዘጉ አይኖች ፈገግ የሚል</item>
+        <item>ከብርሃን አክሊል ጋር ፈገግ የሚል</item>
+        <item>ከሰይጣናዊ ቀንዶች ጋር ፈገግ የሚል</item>
+        <item>መጥቀስ</item>
+        <item>ዝም ያለ</item>
+        <item>ገለልተኛ</item>
+        <item>ምንም ስሜት የሌለው</item>
+        <item>ግራ የተገባ</item>
+        <item>የተናደደ</item>
+        <item>ፊት ያጠቆረ</item>
+        <item>ለምቦጭ የጣለች</item>
+        <item>የሚያለቅስ</item>
+        <item>የተኛ</item>
+        <item>አፉ የተከፈተ ፊት</item>
+        <item>የሚጸና</item>
+        <item>በቁጣ የገነፈለ ፊት</item>
+        <item>ቅር የተሰኘ ግን እፎይታ የተሰማው</item>
+        <item>አፉ እንደተከፈተ የተኮሳተረ</item>
+        <item>የተሰቃየ</item>
+        <item>የፈራ</item>
+        <item>በጣም የደከመ</item>
+        <item>አፉ የተከፈተ እና የተጨነቀ</item>
+        <item>የተጨነቀ ፊት</item>
+        <item>በፍርሃት የሚጮህ</item>
+        <item>የተደነቀ</item>
+        <item>ፊቱ የቀላ</item>
+        <item>ራሱ የዞረበት</item>
+        <item>አፍ የሌለው ፊት</item>
+        <item>የህክምና የፊት ጭምብል ያለው ፊት</item>
+        <item>ቅር የተሰኘ</item>
+        <item>ደንታ ያልሰጠው</item>
+        <item>የልብ ቅርጽ ባላቸው አይኖች ፈገግ የሚል</item>
+        <item>ምላሱ የወጣ</item>
+        <item>ምላሱ የወጣ እና የሚጠቅሱ አይኖች</item>
+        <item>ምላሱ የወጣ እና በጣም የተጨፈኑ አይኖች</item>
+        <item>የሚጣፍጥ ምግብ የሚያጣጥም</item>
+        <item>የሚስም ፊት</item>
+        <item>የሚስም ፊት ፈገግ ከሚሉ አይኖች ጋር</item>
+        <item>በአየር የሚስም ፊት</item>
+        <item>በተጨፈኑ አይኖች የሚስም ፊት</item>
+        <item>ከጸሐይ መነጽሮች ጋር ፈገግ የሚል</item>
+        <item>ጮክ ብሎ የሚያለቅስ</item>
+        <item>እፎይ ያለ</item>
+        <item>የተደናበረ</item>
+        <item>ሐሳብ ላይ</item>
+        <item>እንቅልፋም</item>
+        <item>ፈገግ የሚል (እያሾፈ)</item>
+        <item>ቀዝቃዛ ላብ</item>
+        <item>የደከመው</item>
+        <item>አንድ እጁን ያነሳ ደስተኛ</item>
+        <item>በፈንጠዝያ ሁለቱንም እጆች ያነሳ</item>
+        <item>የተኮሳተረ</item>
+        <item>በንዴት እጁን ማጣመር</item>
+        <item>የ«እሺ» ምልክት ያለው ፊት</item>
+        <item>በጣም ያጎነበሰ ሰው</item>
+        <item>በጣም የተኮሳተረ ፊት</item>
+        <item>የታጠፉ እጆች</item>
+        <item>የእሺ ምልክት</item>
+        <item>የ«አሪፍ ነው» ምልክት</item>
+        <item>የ«ደባሪ ነው» ምልክት</item>
+        <item>የሰገራ ክምር</item>
+        <item>የጨነቀው ልብ</item>
+        <item>ጸጉራማ ልብ</item>
+        <item>ሐምራዊ ልብ</item>
+        <item>የተሰበረ ልብ</item>
+        <item>ቀስት ያለው ልብ</item>
+        <item>ልበ ቀዝቃዛ</item>
+        <item>የአሪፍ ምልክት</item>
+        <item>የነጻ ምልክት</item>
+        <item>የእሺ ምልክት</item>
+        <item>የኤስ ኦ ኤስ ምልክት</item>
+        <item>የስነ-ጥበብ ትርዒት ጭንብሎች</item>
+        <item>ቀስተ ደመና</item>
+        <item>የድግስ ማስጮኻ</item>
+        <item>ዳንሰኛ</item>
+    </string-array>
+</resources>

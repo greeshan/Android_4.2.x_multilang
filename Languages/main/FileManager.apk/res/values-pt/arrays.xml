@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Tipo</item>
+        <item>Nome (A - Z)</item>
+        <item>Tamanho (pequeno - grande)</item>
+        <item>Tempo (novo - antigo)</item>
+    </string-array>
+</resources>

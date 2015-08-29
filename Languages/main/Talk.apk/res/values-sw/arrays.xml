@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>finya</item>
+        <item>macho makubwa</item>
+        <item>kinywa kikubwa</item>
+        <item>kinywa ndogo</item>
+        <item>pua kubwa</item>
+        <item>macho madogo</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>katika nafasi</item>
+        <item>kutua kwa jua</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>chini</item>
+        <item>wastani</item>
+        <item>juu</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>hakuna kichwa</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>KUTABASAMU KWA MACHO YENYE TABASAMU</item>
+        <item>KUFURAHI</item>
+        <item>KUFURAHI NA MACHO YA TABASAMU</item>
+        <item>MACHOZI YA FURAHA</item>
+        <item>KUTABASAMU KINYWA WAZI</item>
+        <item>KUTABASAMU KWA KINYWA WAZI NA MACHO YA TABASAMU</item>
+        <item>KUTABASAMU KWA KINYWA WAZI NA KIJASHO BARIDI</item>
+        <item>KUTABASAMU KWA KINYWA WAZI NA MACHO YALIYOFUNGWA</item>
+        <item>KUTABASAMU NA HALO</item>
+        <item>KUTABASAMU NA PEMBE MBAYA</item>
+        <item>KUKONYEZA</item>
+        <item>KUKIMIA</item>
+        <item>KAWAIDA</item>
+        <item>BILA ISHARA YOYOTE</item>
+        <item>KUCHANGANYIKIWA</item>
+        <item>KUKASIRIKA</item>
+        <item>KUUDHIKA</item>
+        <item>"KUNUNG'UNIKA"</item>
+        <item>KULIA</item>
+        <item>KULALA</item>
+        <item>KINYWA WAZI</item>
+        <item>KUVUMILIA</item>
+        <item>USO UNAOTOA MVUKE</item>
+        <item>KUUDHIKA LAKINI UMETULIA</item>
+        <item>KUNUNA NA KINYWA WAZI</item>
+        <item>KUUMIZWA</item>
+        <item>YA KUOGOFYA</item>
+        <item>KUCHOKA</item>
+        <item>KINYWA WAZI NA KIJASHO BARIDI</item>
+        <item>USO WA WASIWASI</item>
+        <item>KULIA MAYOWE YA HOFU</item>
+        <item>KUSHANGAA</item>
+        <item>KUFURAHI</item>
+        <item>KUHISI KISUNZI</item>
+        <item>USO BILA MDOMO</item>
+        <item>USO WENYE BARAKOA YA MATIBABU</item>
+        <item>KUUDHIKA</item>
+        <item>HAIJAFURAHISHA</item>
+        <item>KUTABASAMU NA MACHO YA UMBO LA MOYO</item>
+        <item>ULIMI ULIO NJE</item>
+        <item>ULIMI NJE NA JICHO LA KUKONYEZA</item>
+        <item>ULIMI NJE NA MACHO YALIYOFUBWA</item>
+        <item>KUONJA CHAKULA KITAMU</item>
+        <item>USO WA BUSU</item>
+        <item>USO WA BUSU WENYE MACHO YANAYOTABASAMU</item>
+        <item>USO UNAOTOA BUSU</item>
+        <item>USO UNAOBUSU WENYE MACHO YALIYOFUNGWA</item>
+        <item>KUTABASAMU NA MIWANI YA JUA</item>
+        <item>KULIA KWA SAUTI</item>
+        <item>KUTULIA</item>
+        <item>KUFEDHEHEKA</item>
+        <item>KUTANDAWAA</item>
+        <item>KUSINZIA</item>
+        <item>KUTABASAMU KWA KURIDHIKA</item>
+        <item>KIJASHO BARIDI</item>
+        <item>KUCHOKA</item>
+        <item>KUINUA MKONO MMOJA KWA FURAHA</item>
+        <item>KUINUIA MIKONO MIWILI KWA SHANGWE</item>
+        <item>KUNUNA</item>
+        <item>KUKASIRIKA NA KUKUNJA MIKONO</item>
+        <item>USO WENYE ISHARA YA SAWA</item>
+        <item>MTU ALIYEINAMA SANA</item>
+        <item>"USO WA KUNUNG'UNIKA"</item>
+        <item>MIKONO ILIYOKUNJWA</item>
+        <item>ALAMA YA SAWA</item>
+        <item>ALAMA YA MAMBO BOMBA</item>
+        <item>ALAMA YA MAMBO SIO BOMBA</item>
+        <item>RUNDO LA KINYESI</item>
+        <item>MOYO UNAOTOKA JASHO</item>
+        <item>MOYO WENYE MANYOYA</item>
+        <item>MOYO WA ZAMBARAU</item>
+        <item>MOYO ULIOBONDEKA</item>
+        <item>MOYO WENYE MSHALE</item>
+        <item>MOYO WA BARAFU</item>
+        <item>ALAMA YA HAPO SAWA</item>
+        <item>ALAMA HURU</item>
+        <item>ALAMA YA SAWA</item>
+        <item>ALAMA YA SOS</item>
+        <item>BARAKOA ZA KUIGIZA</item>
+        <item>MWENGE</item>
+        <item>KIFYATUA VIKARATASI</item>
+        <item>MCHEZA DENSI</item>
+    </string-array>
+</resources>

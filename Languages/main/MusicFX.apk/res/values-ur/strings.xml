@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">پری سیٹ ریورب</string>
+    <string name="eq_preset_normal">عام</string>
+    <string name="eq_preset_classical">کلاسیکی</string>
+    <string name="eq_preset_dance">ڈانس</string>
+    <string name="eq_preset_flat">فلیٹ</string>
+    <string name="eq_preset_folk">فولک</string>
+    <string name="eq_preset_heavymetal">ہیوی میٹل</string>
+    <string name="eq_preset_hiphop">ہپ ہاپ</string>
+    <string name="eq_preset_jazz">جیز</string>
+    <string name="eq_preset_pop">پاپ</string>
+    <string name="eq_preset_rock">راک</string>
+    <string name="app_name">موسیقی ایف ایکس</string>
+    <string name="no_effects">تاثرات دستیاب نہیں</string>
+    <string name="eq_dialog_title">ایکولائزر</string>
+    <string name="headset_plug">ان تاثرات کے لیے برائے مہربانی ہیڈ فونز کا پلگ لگائیں</string>
+    <string name="bass_boost_strength">بیس بوسٹ</string>
+    <string name="virtualizer_strength">3 ڈی تاثر</string>
+    <string name="ci_extreme">ایف ایکس بوسٹر</string>
+    <string name="user">صارف</string>
+    <string name="picker_title">موسیقی کے تاثرات کا کنٹرول پینل</string>
+</resources>

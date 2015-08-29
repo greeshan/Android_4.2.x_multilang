@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Katso kaikki sovelluksesi.
+ Kosketa käynnistysohjelmakuvaketta. @drawable/all_apps"</item>
+        <item>"Vedä sovelluksia etusivullesi.
+ Pidä sovellusta painettuna käynnistysohjelmassa, kunnes se värisee."</item>
+        <item>"Järjestä etusivu uudelleen.
+ Pidä kohdetta painettuna ja siirrä se haluamaasi sijaintiin, kun se värisee."</item>
+        <item>"Poista kohteita.
+ Pidä kohdetta painettuna ja vedä se roskakorikuvakkeeseen, kun se värisee. @drawable/trash"</item>
+        <item>"Useita etusivuja.
+ Vaihda liu'uttamalla sormea vasemmalle tai oikealle. Vedä kohteita toisille sivuille."</item>
+        <item>"Etkö tarvitse tätä widgetiä enää?
+ Pidä widget painettuna ja vedä se roskakorikuvakkeeseen, kun se värisee."</item>
+    </string-array>
+</resources>

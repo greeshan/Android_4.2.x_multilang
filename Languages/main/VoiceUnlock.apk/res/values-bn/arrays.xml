@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voice_unlock_options">
+        <item>কমান্ড চালু করুন</item>
+        <item>পুনরায় সেট করুন</item>
+    </string-array>
+</resources>

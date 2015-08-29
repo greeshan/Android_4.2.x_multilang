@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کی چین</string>
+    <string name="title_no_certs">کوئی سرٹیفکیٹ نہیں ملا</string>
+    <string name="title_select_cert">سند چنیں</string>
+    <string name="requesting_application">اطلاق %s نے ایک سند طلب کیا ہے۔ ایک سند منتخب کرنا اطلاق کو ابھی اور مستقبل میں سرورز کے ساتھ یہ شناخت استعمال کرنے دے گا۔</string>
+    <string name="requesting_server">اطلاق نے درخواست کرنے والے سرور کی نشاندہی %s کے بطور کی ہے، لیکن آپ کو اطلاق کو ہمیشہ صرف اسی وقت سند تک رسائی دینی چاہیے جب آپ کو اطلاق پر بھروسہ ہو۔</string>
+    <string name="install_new_cert_message">آپ بیرونی اسٹوریج میں واقع %1$s یا %2$s ایکسٹینشن کے ساتھ موجود PKCS#12 فائل سے سرٹیفیکیٹس انسٹال کر سکتے ہیں۔</string>
+    <string name="install_new_cert_button_label">نصب کریں</string>
+    <string name="allow_button">اجازت دیں</string>
+    <string name="deny_button">مسترد</string>
+</resources>

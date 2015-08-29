@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thời tiết</string>
+    <string name="updating">Đang cập nhật</string>
+    <string name="failed_to_locate">K.thể định vị</string>
+    <string name="no_weather">Hiện không có thông tin thời tiết cho %s.</string>
+    <string name="add_setting">Chạm vào đây để thêm các thành phố</string>
+</resources>

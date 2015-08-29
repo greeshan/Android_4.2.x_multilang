@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">ارسال d% از گزارش خواندن</item>
+        <item quantity="one">ارسال d% از گزارش خواندن</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d انتخاب شد</item>
+        <item quantity="one">%d انتخاب شد</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s مکالمه حذف شد</item>
+        <item quantity="one">یک مکالمه حذف شد</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s نتیجه برای \"%2$s\"</item>
+        <item quantity="one">%1$s نتیجه برای \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s ثانیه</item>
+        <item quantity="one">%s ثانیه</item>
+        <item quantity="few">%s ثانیه</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s مکالمه حذف خواهد شد.</item>
+        <item quantity="one">یک مکالمه حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d پیام ناخوانده.</item>
+        <item quantity="one">%d پیام ناخوانده.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s پیام دیگر</item>
+        <item quantity="one">+%1$s پیام دیگر</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s نفر</item>
+    </plurals>
+</resources>

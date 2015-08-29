@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="updating">Atualizando</string>
+    <string name="failed_to_locate">Falha ao localizar</string>
+    <string name="no_weather">Não há informações climáticas para %s atualmente.</string>
+    <string name="add_setting">Toque aqui para adicionar cidades</string>
+</resources>

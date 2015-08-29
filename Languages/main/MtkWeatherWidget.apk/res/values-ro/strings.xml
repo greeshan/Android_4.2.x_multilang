@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vremea</string>
+    <string name="updating">Actualizare</string>
+    <string name="failed_to_locate">Imposibil de localizat</string>
+    <string name="no_weather">Nu sunt disponibile informaţii meteo despre %s în acest moment.</string>
+    <string name="add_setting">Atingeţi aici pentru a adăuga oraşe</string>
+</resources>

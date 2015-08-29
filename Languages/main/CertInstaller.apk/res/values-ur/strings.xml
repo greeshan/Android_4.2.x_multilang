@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سند نصب کنندہ</string>
+    <string name="pick_file_title">ایک سند چنیں</string>
+    <string name="pkcs12_password_dialog_title">سند حاصل کریں</string>
+    <string name="extracting_pkcs12">حاصل کر رہا ہے…</string>
+    <string name="pkcs12_file_password_dialog_title">%s سے حاصل کریں</string>
+    <string name="name_credential_dialog_title">سند کو نام دیں</string>
+    <string name="credential_name">سند کا نام:</string>
+    <string name="credential_password">اسناد حاصل کرنے کیلئے پاس ورڈ ٹائپ کریں۔</string>
+    <string name="credential_info">پیکیج میں مندرجہ ذیل شامل ہیں:</string>
+    <string name="p12_description">PKCS12 کے اسٹور میں اسناد۔</string>
+    <string name="one_userkey">ایک صارف والی کلید</string>
+    <string name="one_usercrt">ایک صارف والی سند</string>
+    <string name="one_cacrt">ایک CA سند</string>
+    <string name="n_cacrts">%d CA اسناد</string>
+    <string name="password_error">صحیح پاس ورڈ ٹائپ کریں۔</string>
+    <string name="password_empty_error">پاس ورڈ ٹائپ کریں۔</string>
+    <string name="name_empty_error">کوئی نام ٹائپ کریں۔</string>
+    <string name="name_char_error">صرف حروف اور اعداد پر مشتمل نام ٹائپ کریں۔</string>
+    <string name="storage_error">سند محفوظ نہیں کرسکا۔ دوبارہ کوشش کرنے کیلئے اوکے کو چھوئیں۔</string>
+    <string name="unable_to_save_cert">سند محفوظ نہیں ہوسکا۔ اسناد کے اسٹوریج کو فعال نہیں کیا گیا یا مناسب طریقے سے شروع نہیں کیا گیا ہے۔</string>
+    <string name="cert_not_saved">سند نصب نہيں ہوئی ہے۔</string>
+    <string name="no_cert_to_saved">نصب کرنے کیلئے کوئی سند نہیں ہے۔</string>
+    <string name="invalid_cert">سند غلط ہے۔</string>
+    <string name="cert_is_added">%s نصب ہوگیا ہے۔</string>
+    <string name="cert_too_large_error">نصب نہیں کرسکا کیونکہ سند کا سائز کافی بڑا ہے۔</string>
+    <string name="cert_missing_error">نصب نہیں کرسکا کیونکہ سند کی فائل کی نشاندہی نہیں ہوسکی۔</string>
+    <string name="cert_read_error">نصب نہیں کرسکا کیونکہ سند کی فائل پڑھی نہیں جاسکی۔</string>
+    <string name="no_cert_file_found">SD کارڈ میں کوئی سند کی فائل نہيں ملی۔</string>
+    <string name="sdcard_not_present">SD کارڈ موجود نہیں ہے۔</string>
+    <string name="only_primary_user_allowed">صرف اس آلہ کا مالک اسناد انسٹال کر سکتے ہیں.</string>
+</resources>

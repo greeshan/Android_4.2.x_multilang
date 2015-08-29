@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>﻿کوئی نہيں</item>
+        <item>چھوٹا کمرہ</item>
+        <item>درمیانہ کمرہ</item>
+        <item>بڑا کمرہ</item>
+        <item>درمیانہ کمرہ</item>
+        <item>بڑا کمرہ</item>
+        <item>پلیٹ ریورب</item>
+    </string-array>
+</resources>

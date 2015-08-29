@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">안드로이드 라이브 월페이퍼즈</string>
+    <string name="wallpaper_walkaround">둘러보기</string>
+    <string name="wallpaper_walkaround_author">구글</string>
+    <string name="wallpaper_walkaround_desc">사고 위험 없이 전화기 둘러보기.</string>
+    <string name="wallpaper_grass">잔디</string>
+    <string name="wallpaper_grass_author">구글</string>
+    <string name="wallpaper_grass_desc">낮 또는 밤하늘 아래 부드럽게 펼쳐지는 잔디 물결.</string>
+    <string name="wallpaper_galaxy">은하수</string>
+    <string name="wallpaper_galaxy_author">구글</string>
+    <string name="wallpaper_galaxy_desc">천천히 소용돌이치는 별들로 구성된 은하수.</string>
+    <string name="wallpaper_fall">물</string>
+    <string name="wallpaper_fall_author">구글</string>
+    <string name="wallpaper_fall_desc">가을 낙엽이 뒹굴고</string>
+    <string name="wallpaper_clock">폴라 시계</string>
+    <string name="wallpaper_clock_author">구글</string>
+    <string name="wallpaper_clock_desc">시계 방향 호로 날짜와 시간을 월, 일, 시간, 분, 초로 표시합니다.</string>
+    <string name="wallpaper_nexus">연쇄</string>
+    <string name="wallpaper_nexus_author">구글</string>
+    <string name="wallpaper_nexus_desc">신경망 내의 피크.</string>
+    <string name="clock_settings">폴라 시계 설정</string>
+    <string name="show_seconds">초 표시</string>
+    <string name="variable_line_width">링 폭 변경</string>
+    <string name="palette">컬러 팔레트</string>
+    <string name="palette_gray">철</string>
+    <string name="palette_violet">한밤중</string>
+    <string name="palette_matrix">녹색 화면</string>
+    <string name="palette_white_c">북극곰(동적)</string>
+    <string name="palette_black_c">블랙홀(동적)</string>
+    <string name="palette_halloween">호박 파이</string>
+    <string name="palette_zenburn">에일리언 과일 샐러드</string>
+    <string name="palette_oceanic">청색 레이저</string>
+</resources>

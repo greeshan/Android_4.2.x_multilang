@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">ኢፌክት አልተገኘም</string>
+    <string name="eq_dialog_title">ማመጣጠኛ</string>
+    <string name="headset_plug">እባክህ ለእነዚህ ኢፌክቶች የጆሮ ማዳመጫዎች ሰካ፡፡</string>
+    <string name="bass_boost_strength">ወፍራም ደምጽ መጨመር</string>
+    <string name="virtualizer_strength">3-ል ተፅዕኖ</string>
+    <string name="ci_extreme">የኢፌክት መጨመሪያ</string>
+    <string name="user">ተጠቃሚ</string>
+    <string name="picker_title">የሙዚቃ ተፅዕኖ መቆጣጠሪያ ፓናል</string>
+    <string name="main_toggle_effects_title">የድም ፅ ተፅዕኖች</string>
+    <string name="pr_title">አስተጋባ</string>
+    <string name="pr_summary">ተጨማሪ የማስተጋቢያ ተፅዕኖዎች</string>
+    <string name="pr_dialog_title">የአስተጋባ ቅድመ ቅምጥ</string>
+    <string name="setup">አዋቅር</string>
+</resources>

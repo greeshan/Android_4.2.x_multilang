@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 ہفتہ</item>
+        <item>2 ہفتے</item>
+        <item>3 ہفتے</item>
+        <item>4 ہفتے</item>
+        <item>5 ہفتے</item>
+        <item>6 ہفتے</item>
+        <item>7 ہفتے</item>
+        <item>8 ہفتے</item>
+        <item>9 ہفتے</item>
+        <item>10 ہفتے</item>
+        <item>11 ہفتے</item>
+        <item>12 ہفتے</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Tapeturi MTK în direct</string>
+    <string name="vlw">Tapet video</string>
+    <string name="vlw_author">MediaTek Inc.</string>
+    <string name="vlw_desc">Setaţi videoclipul ca tapet în direct.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Ne pare rău, acest videoclip nu este valid pentru redare în flux pe acest dispozitiv.</string>
+    <string name="VideoScene_error_text_unknown">Ne pare rău, acest videoclip nu poate fi redat.</string>
+    <string name="VideoScene_error_media_removed">Fişierul media este eliminat</string>
+    <string name="VideoScene_error_sdcard_unmounted">Cartela SD este detaşată</string>
+    <string name="VideoScene_info_wait_sdcard">Se aşteaptă pregătirea cartelei SD</string>
+    <string name="VideoScene_error_media_not_found">Fişierul media nu există în prezent</string>
+    <string name="VideoScene_error_be_set">ne pare rău, videoclipul nu se poate seta ca tapet video</string>
+    <string name="VideoEditor_error_title">Imposibil de redat videoclipul</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">Niciun videoclip selectat</string>
+    <string name="VideoEditor_warning_limited_duration">Selectaţi un videoclip de minimum 1 sec. pentru redare</string>
+    <string name="VideoScene_reload_after_mount">Se încarcă videoclipul de pe cartela SD, aşteptaţi un moment.</string>
+    <string name="select_video">Cartelă SD</string>
+    <string name="select_default">Implicit</string>
+    <string name="select">Selecție video</string>
+    <string name="set_wallpaper">Setare tapet</string>
+    <string name="title">Tapet video</string>
+    <string name="default_title">Video implicit</string>
+    <string name="default_video_path">android.resource://com.mediatek.vlw/raw/default_video</string>
+    <string name="default_video_title">MediaTek Inc.</string>
+    <string name="capture_video">Cameră</string>
+    <string name="menu_item_add_item">Selectaţi videoclipul de pe cartela SD</string>
+    <string name="group_video">Selectaţi un singur videoclip</string>
+    <string name="group_folder">Selectare folder</string>
+    <string name="folder_info">videoclipuri&lt;br>de&lt;br></string>
+</resources>

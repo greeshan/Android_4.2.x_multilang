@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طقس</string>
+    <string name="updating">تحديث</string>
+    <string name="failed_to_locate">فشل في تحديد موقع</string>
+    <string name="no_weather">لا يوجد معلومات عن طقس %s حاليًا.</string>
+    <string name="add_setting">انقر هنا لإضافة مدن</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Program d'installaziun dal pachet"</string>
+    <string name="install">Installar</string>
+    <string name="done">Finì</string>
+    <string name="cancel">Interrumper</string>
+    <string name="unknown">Nunenconuschent</string>
+    <string name="installing">Installar…</string>
+    <string name="launch">Avrir</string>
+    <string name="unknown_apps_dlg_title">Installaziun bloccada</string>
+    <string name="ok">OK</string>
+    <string name="settings">Parameters</string>
+    <string name="out_of_space_dlg_title">Capacitad da memorisar nunsuffizienta</string>
+    <string name="dlg_ok">OK</string>
+    <string name="uninstalling">Deinstallar…</string>
+    <string name="Parse_error_dlg_title">Errur da parsing</string>
+</resources>

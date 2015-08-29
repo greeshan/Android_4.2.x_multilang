@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خدمة الطقس</string>
+    <string name="choose_city">حدد مدينة</string>
+    <string name="searching">جار البحث، رجاء الانتظار</string>
+    <string name="no_found">لم يتم العثور على مدينة مطابقة لـ%s. رجاءً مراجعة كلمات الإدخال.</string>
+    <string name="net_error">الشبكة غير متوفرة. برجاء مراجعتها.</string>
+    <string name="no_city_error">لا يمكن/ الحصول على معلومات المدينة، رجاءً اضبط وقت النظام ومنطقة التوقيت بشكل صحيح.</string>
+    <string name="searching_fail">فشل البحث عن مدينة.</string>
+    <string name="no_weather_error">لا يمكن/ الحصول على معلومات الطقس، رجاءً اضبط وقت النظام ومنطقة التوقيت بشكل صحيح.</string>
+    <string name="no_weather">لا يوجد معلومات عن طقس %s حاليًا.</string>
+    <string name="setting_title">إعداد</string>
+    <string name="temperature">وحدات درجة الحرارة</string>
+    <string name="tem_celsius">مئوية</string>
+    <string name="cities_title">المدن</string>
+    <string name="update_fre">تواتر التحديث</string>
+    <string name="every12">كل 12 ساعة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="menu_add_city">أضف مدينة</string>
+    <string name="add_city">اضغط على الأيقونة لإضافة مدينة جديدة</string>
+    <string name="remove">حذف</string>
+    <string name="warn">يمكن إضافة 8 مدن كحد أقصى.</string>
+    <string name="has_chosen">تم اختيارها.</string>
+    <string name="no_city">لا توجد مدن</string>
+    <string name="powered_by">:يدار بواسطة</string>
+    <string name="menu_about">حول</string>
+</resources>

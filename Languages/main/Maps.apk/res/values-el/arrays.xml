@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Δεν μου άρεσε καθόλου</item>
+        <item>Δεν μου άρεσε</item>
+        <item>Μέτριο</item>
+        <item>Μου άρεσε</item>
+        <item>Μου άρεσε πολύ</item>
+    </string-array>
+</resources>

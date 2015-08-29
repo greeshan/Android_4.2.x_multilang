@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>ច្របាច់</item>
+        <item>ភ្នែក​ធំ</item>
+        <item>មាត់​ធំ</item>
+        <item>មាត់​​តូច</item>
+        <item>ច្រមុះ​ធំ</item>
+        <item>ភ្នែក​​តូច</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>ក្នុង​លំហ</item>
+        <item>ថ្ងៃលិច</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>ទាប</item>
+        <item>មធ្យម</item>
+        <item>ខ្ពស់</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>គ្មាន​ប្រធានបទ</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>ញញឹម</item>
+        <item>ញញឹម​ចេញ​ធ្មេញ</item>
+        <item>ញញឹម</item>
+        <item>ទឹកភ្នែក​រីករាយ</item>
+        <item>ញញឹម​​បើក​មាត់</item>
+        <item>ញញឹម​ចេញ​ធ្មេញ</item>
+        <item>ញញឹម​ចេញ​ធ្មេញ បែក​ញើស</item>
+        <item>ញញឹម​ចេញ​ធ្មេញ​ បិទ​ភ្នែក</item>
+        <item>ញញឹម​រាក់ទាក់</item>
+        <item>ញញឹម​ជាមួយ​ស្នែង</item>
+        <item>មិច​ភ្នែក</item>
+        <item>ស្ងាត់​មាត់</item>
+        <item>អព្យាក្រឹត</item>
+        <item>ព្រងើយ</item>
+        <item>ច្រឡំ</item>
+        <item>ខឹង</item>
+        <item>មុខ​ក្រញូវ</item>
+        <item>បូញ​មាត់</item>
+        <item>យំ</item>
+        <item>​ដេក</item>
+        <item>ចំហ​មាត់</item>
+        <item>ព្យាយាម</item>
+        <item>មុខ​ខឹង</item>
+        <item>ខក​ចិត្ត​ប៉ុន្តែ​ធូរ​ស្រាល</item>
+        <item>ចង​ចិញ្ចើម</item>
+        <item>ខូច​ចិត្ត</item>
+        <item>​​ភ័យ​ខ្លាច</item>
+        <item>អស់​កម្លាំង</item>
+        <item>បើក​មាត់</item>
+        <item>​ព្រួយ​បារម្ភ</item>
+        <item>ស្រែក​​ភ័យខ្លាច</item>
+        <item>ភ្ញាក់​ផ្អើល</item>
+        <item>មុខ​ក្រហម</item>
+        <item>វិលមុខ</item>
+        <item>មុខ​គ្មាន​មាត់</item>
+        <item>ពាក់​ម៉ាស់</item>
+        <item>ខកចិត្ត</item>
+        <item>អត់​អារម្មណ៍</item>
+        <item>ញញឹម​ភ្នែក​បេះដូង</item>
+        <item>លាន​អណ្ដាត</item>
+        <item>លាន​អណ្ដាត​ មិច​ភ្នែក</item>
+        <item>លៀន​អណ្ដាត ញញឹម​ បិទ​ភ្នែក</item>
+        <item>ក្លិន​អាហារ​ឆ្ងាញ់</item>
+        <item>ថើប</item>
+        <item>ថើប​ដោយ​ញញឹម</item>
+        <item>ថើប​ហើយ​ផ្លុំ</item>
+        <item>ថើប​ដោយ​បិទ​ភ្នែក</item>
+        <item>ញញឹម​ពាក់​វ៉ែន​តា​ខ្មៅ</item>
+        <item>យំ​ឮៗ</item>
+        <item>ធូរ​ស្បើយ</item>
+        <item>មួហ្មង</item>
+        <item>សញ្ជប់សញ្ជឹង</item>
+        <item>ងងុយ​ដេក</item>
+        <item>ញញឹម​រិះគន់</item>
+        <item>បែក​ញើស</item>
+        <item>អស់​កម្លាំង</item>
+        <item>សប្បាយ​ដោយ​លើក​ដៃ​មួយ</item>
+        <item>លើក​ដៃ​ទាំង​ពីរ​អបអរ</item>
+        <item>បើក​ភ្នែក​ធំៗ</item>
+        <item>ខឹង​អោបដៃ</item>
+        <item>ញញឹម​ជា​មួយ​សញ្ញា​យល់ព្រម</item>
+        <item>អោន​គោរព</item>
+        <item>ពេប​មាត់</item>
+        <item>ក្ដោប​ដៃ</item>
+        <item>សញ្ញា​យល់ព្រម</item>
+        <item>សញ្ញា​​មេដៃ</item>
+        <item>សញ្ញា​​មេដៃ​​ចុះ​ក្រោម</item>
+        <item>អាចម៍​ឆ្កែ</item>
+        <item>ខ្វល់ខ្វាយ</item>
+        <item>ភ័យ​ខ្លាច</item>
+        <item>បេះដូង​ពណ៌​ស្វាយ</item>
+        <item>ខូច​ចិត្ត</item>
+        <item>បេះដូង​​ជាប់​ព្រួញ</item>
+        <item>បេះដូង​ទឹកកក</item>
+        <item>អស្ចារ្យ</item>
+        <item>សញ្ញា​ទំនេរ</item>
+        <item>សញ្ញា​យល់ព្រម</item>
+        <item>ជួយ​សង្គ្រោះ</item>
+        <item>មុខ​សិល្បៈ</item>
+        <item>ឥន្ទ​នូ</item>
+        <item>កាំជ្រួច​ជប់លៀង</item>
+        <item>អ្នក​​រាំ</item>
+    </string-array>
+</resources>

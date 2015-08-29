@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">ពាកយសម្ងាត់​ យ៉ាងហោចណាស់ត្រូវមានអក្ខរា %d តួ ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានអក្ខរា 1 តួ ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានអក្ខរាតូច %d តួ ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានអក្ខរាតូច 1 តួ ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានអក្ខរាធំ %d តួ ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានអក្ខាធំ 1 តួ ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានលេខ %d ខ្ទង់ ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានលេខ 1 ខ្ទង់ ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានសញ្ញាពិសេស %d តួ ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមានសញ្ញាពិសេស 1 តួ ។</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមាន %d តួដែលមិនមែនជាអក្ខរា ។</item>
+        <item quantity="one">ពាក្យសម្ងាត់ យ៉ាងហោចណាស់ត្រូវមាន 1 តួដែលមិនមែនជាអក្ខរា ។</item>
+    </plurals>
+</resources>

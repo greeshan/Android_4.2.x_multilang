@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>picit</item>
+        <item>mata besar</item>
+        <item>mulut besar</item>
+        <item>mulut kecil</item>
+        <item>hidung besar</item>
+        <item>mata kecil</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>di angkasa</item>
+        <item>matahari terbenam</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>rendah</item>
+        <item>sederhana</item>
+        <item>tinggi</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>tiada subjek</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>TERSENYUM DENGAN MATA YANG TERSENYUM</item>
+        <item>TERSENGIH</item>
+        <item>TERSENGIH DENGAN MATA YANG TERSENYUM</item>
+        <item>AIR MATA KEGEMBIRAAN</item>
+        <item>TERSENYUM DENGAN MULUT TERBUKA</item>
+        <item>TERSENYUM DENGAN MULUT TERBUKA DAN MATA TERSENYUM</item>
+        <item>TERSENYUM DENGAN MULUT TERBUKA DAN BERPELUH DINGIN</item>
+        <item>TERSENYUM DENGAN MULUT TERBUKA DAN MATA TERTUTUP RAPAT</item>
+        <item>TERSENYUM DENGAN HALO</item>
+        <item>TERSENYUM DENGAN TANDUK JAHAT</item>
+        <item>MENGENYIT</item>
+        <item>BERBISIK</item>
+        <item>NEUTRAL</item>
+        <item>TIADA PERASAAN</item>
+        <item>KELIRU</item>
+        <item>MARAH</item>
+        <item>BERKERUT</item>
+        <item>MEMUNCUNGKAN MULUT</item>
+        <item>MENANGIS</item>
+        <item>TIDUR</item>
+        <item>MUKA DENGAN MULUT TERBUKA</item>
+        <item>TABAH</item>
+        <item>MUKA MENIUP WAP</item>
+        <item>KECEWA TETAPI LEGA</item>
+        <item>BERKERUT DENGAN MULUT TERBUKA</item>
+        <item>TERSEKSA</item>
+        <item>TAKUT</item>
+        <item>LETIH</item>
+        <item>MULUT TERBUKA DAN BERPELUH DINGIN</item>
+        <item>MUKA BIMBANG</item>
+        <item>MENJERIT KETAKUTAN</item>
+        <item>TERKEJUT</item>
+        <item>MUKA MERAH</item>
+        <item>PENING</item>
+        <item>MUKA TANPA MULUT</item>
+        <item>MUKA DENGAN TOPENG PERUBATAN</item>
+        <item>KECEWA</item>
+        <item>TIDAK TERHIBUR</item>
+        <item>TERSENYUM DENGAN MATA BERBENTUK HATI</item>
+        <item>MENJELIR LIDAH</item>
+        <item>MENJELIR LIDAH DAN MENGENYIT</item>
+        <item>MENJELIR LIDAH DAN MATA TERTUTUP RAPAT</item>
+        <item>MENIKMATI MAKANAN LAZAT</item>
+        <item>MUKA MENCIUM</item>
+        <item>MUKA MENCIUM DENGAN MATA TERSENYUM</item>
+        <item>MUKA MELAYANGKAN CIUMAN</item>
+        <item>MUKA MENCIUM DENGAN MATA TERTUTUP</item>
+        <item>TERSENYUM MEMAKAI CERMIN MATA HITAM</item>
+        <item>MENANGIS DENGAN KUAT</item>
+        <item>LEGA</item>
+        <item>BINGUNG</item>
+        <item>TERMENUNG</item>
+        <item>MENGANTUK</item>
+        <item>TERSENYUM SINIS</item>
+        <item>PELUH DINGIN</item>
+        <item>PENAT</item>
+        <item>GEMBIRA MENGANGKAT SATU TANGAN</item>
+        <item>MENGANGKAT KEDUA-DUA TANGAN UNTUK MERAIKAN</item>
+        <item>BERKERUT DAHI</item>
+        <item>MARAH SAMBIL BERPELUK TUBUH</item>
+        <item>MUKA DENGAN ISYARAT OK</item>
+        <item>ORANG MENUNDUK LAMA</item>
+        <item>MUKA MUNCUNG</item>
+        <item>BERPELUK TUBUH</item>
+        <item>ISYARAT OK</item>
+        <item>ISYARAT BAGUS</item>
+        <item>ISYARAT TIDAK BAGUS</item>
+        <item>TIMBUNAN NAJIS</item>
+        <item>HATI BERPELUH</item>
+        <item>HATI BERBULU</item>
+        <item>HATI UNGU</item>
+        <item>PATAH HATI</item>
+        <item>HATI DENGAN ANAK PANAH</item>
+        <item>HATI BEKU</item>
+        <item>ISYARAT MENARIK</item>
+        <item>ISYARAT PERCUMA</item>
+        <item>ISYARAT OK</item>
+        <item>ISYARAT SOS</item>
+        <item>TOPENG SENI PERSEMBAHAN</item>
+        <item>PELANGI</item>
+        <item>PELETUS KONFETI</item>
+        <item>PENARI</item>
+    </string-array>
+</resources>

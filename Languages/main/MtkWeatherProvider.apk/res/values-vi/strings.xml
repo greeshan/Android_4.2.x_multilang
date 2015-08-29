@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ thời tiết</string>
+    <string name="choose_city">Chọn t.phố</string>
+    <string name="searching">Đang tìm, hãy đợi</string>
+    <string name="no_found">K.tìm thấy t.phố khớp với %s. Hãy k.tra các từ nhập của bạn.</string>
+    <string name="net_error">Mạng không có sẵn. Hãy kiểm tra.</string>
+    <string name="no_city_error">Không thể tải thông tin về thành phố, hãy cài giờ và múi giờ hệ thống thích hợp.</string>
+    <string name="searching_fail">K.thể tìm t.phố.</string>
+    <string name="no_weather_error">Không thể tải thông tin thời tiết, hãy cài giờ và múi giờ hệ thống thích hợp.</string>
+    <string name="no_weather">Hiện không có thông tin thời tiết cho %s.</string>
+    <string name="setting_title">Cài đặt</string>
+    <string name="temperature">Đơn vị nhiệt độ</string>
+    <string name="tem_celsius">Độ C</string>
+    <string name="cities_title">T.phố</string>
+    <string name="update_fre">Cập nhật tần suất</string>
+    <string name="every12">12 tiếng một lần</string>
+    <string name="cancel">Hủy</string>
+    <string name="menu_add_city">Thêm t.phố</string>
+    <string name="add_city">Nhấn b.tượng để thêm TP mới</string>
+    <string name="remove">Xóa</string>
+    <string name="warn">Bạn có thể thêm tối đa 8 t.phố.</string>
+    <string name="has_chosen">đã được chọn.</string>
+    <string name="no_city">K.có t.phố</string>
+    <string name="powered_by">Cấp nguồn bởi:</string>
+    <string name="menu_about">Giới thiệu về</string>
+</resources>

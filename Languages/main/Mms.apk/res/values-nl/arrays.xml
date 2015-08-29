@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Blij</item>
+        <item>Bedroefd</item>
+        <item>Knipoog</item>
+        <item>Tong uitsteken</item>
+        <item>Verrast</item>
+        <item>Kussend</item>
+        <item>Schreeuwend</item>
+        <item>Gaaf</item>
+        <item>Geldzoeker</item>
+        <item>Mond vol tanden</item>
+        <item>Beschaamd</item>
+        <item>Engel</item>
+        <item>Twijfelend</item>
+        <item>Huilend</item>
+        <item>Lippen op elkaar</item>
+        <item>Lachend</item>
+        <item>Verward</item>
+        <item>Hart</item>
+        <item>Boos</item>
+        <item>Grijns</item>
+        <item>Pokergezicht</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>geen onderwerp</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Waar bent u?</item>
+        <item>Wat doet u?</item>
+        <item>Bel terug alstublieft.</item>
+        <item>Sorry, ik ben in vergadering.</item>
+        <item>Ik bel je binnenkort.</item>
+        <item>Geen zorgen. Ik maak het goed.</item>
+        <item>Onderweg naar huis.</item>
+        <item>Binnenkort daar.</item>
+        <item>Zorg dat je er bent!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Beperkte modus</item>
+        <item>Waarschuwingsmodus</item>
+        <item>Vrije modus</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Hoog</item>
+        <item>Normaal</item>
+        <item>Laag</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM-alfabet</item>
+        <item>Unicode</item>
+        <item>Automatisch</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefoon</item>
+        <item>SIM-kaart</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Toestel</item>
+        <item>SIM-kaart</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Volg grootte systeemlettertype</item>
+        <item>Klein</item>
+        <item>Gemiddeld</item>
+        <item>Groot</item>
+        <item>Extra groot</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 seconden</item>
+        <item>3 seconden</item>
+        <item>4 seconden</item>
+        <item>5 seconden</item>
+        <item>6 seconden</item>
+        <item>7 seconden</item>
+        <item>8 seconden</item>
+        <item>9 seconden</item>
+        <item>10 seconden</item>
+        <item>Anders...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen indien stil</item>
+        <item>Nooit</item>
+    </string-array>
+</resources>

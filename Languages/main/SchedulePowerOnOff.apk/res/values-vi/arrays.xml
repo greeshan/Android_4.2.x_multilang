@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Bật nguồn này được cài trong dưới 1 phút tính từ bây giờ.</item>
+        <item>Bật nguồn này được cài trong %1$s tính từ giờ.</item>
+        <item>Đã cài bật nguồn này cho %2$s từ bây giờ.</item>
+        <item>Bật nguồn này được cài trong %1$s và %2$s tính từ giờ.</item>
+        <item>Đã cài bật nguồn này cho %3$s từ bây giờ.</item>
+        <item>Bật nguồn này được cài trong %1$s và %3$s tính từ giờ.</item>
+        <item>Đã cài bật nguồn này cho %2$s và %3$s từ bây giờ.</item>
+        <item>Bật nguồn này được cài trong %1$s, %2$s và %3$s tính từ giờ.</item>
+        <item>Tắt nguồn này được cài trong dưới 1 phút tính từ bây giờ.</item>
+        <item>Tắt nguồn này được cài trong %1$s tính từ giờ.</item>
+        <item>Đã cài tắt nguồn này cho %2$s từ bây giờ.</item>
+        <item>Tắt nguồn này được cài trong %1$s và %2$s tính từ giờ.</item>
+        <item>Đã cài tắt nguồn này cho %3$s từ bây giờ.</item>
+        <item>Tắt nguồn này được cài trong %1$s và %3$s tính từ giờ.</item>
+        <item>Đã cài tắt nguồn này cho %2$s và %3$s từ bây giờ.</item>
+        <item>Tắt nguồn này được cài trong %1$s, %2$s và %3$s tính từ giờ.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">استيراد إلى</string>
+    <string name="import_button">استيراد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="no_access_toast">الحساب غير موجود. يرجى إضافة حساب أولا</string>
+    <string name="null_name">لا شيء</string>
+    <string name="import_message">هل ترغب في الاستيراد إلى التقويم؟</string>
+    <string name="calendar_lable">التقويم:</string>
+    <string name="date_lable">التاريخ:</string>
+    <string name="import_title">مستورد أحداث التقويم</string>
+    <string name="importing">جار الاستيراد...</string>
+    <string name="import_complete">تم الاستيراد</string>
+    <string name="open">فتح</string>
+    <string name="done">تم</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">فشل استيراد حدث.</string>
+    <string name="title_lable">"العنوان: "</string>
+    <string name="no_syncable_calendars">تعذر الاستيراد</string>
+    <string name="no_calendars_found">لا يدعم هذا الحساب مزامنة التقويم، أو أن أخر مزامنة لم تنتهِ بعد.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="give_up">إحباط</string>
+    <string name="open_calendar_failed">التقويم غير متاح.</string>
+    <string name="loading">جارٍ التحميل…</string>
+</resources>

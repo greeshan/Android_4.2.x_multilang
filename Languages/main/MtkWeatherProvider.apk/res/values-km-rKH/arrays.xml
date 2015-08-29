@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>អង់សាសេ</item>
+        <item>ហ្វារេនហៃ</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>មិនដែលធ្វើបច្ចុប្បន្នភាពដោយស្វ័យប្រវត្តិឡើយ</item>
+        <item>រៀងរាល់ 1 ម៉ោង</item>
+        <item>រៀងរាល់ 2 ម៉ោង</item>
+        <item>រៀងរាល់ 6 ម៉ោង</item>
+        <item>រៀងរាល់ 12 ម៉ោង</item>
+        <item>រៀងរាល់ 1 ថ្ងៃ</item>
+    </string-array>
+</resources>

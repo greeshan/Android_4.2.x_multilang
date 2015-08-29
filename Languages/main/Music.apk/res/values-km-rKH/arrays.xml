@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 សប្តាហ៍</item>
+        <item>2 សប្តាហ៍</item>
+        <item>3 សប្តាហ៍</item>
+        <item>4 សប្តាហ៍</item>
+        <item>5 សប្តាហ៍</item>
+        <item>6 សប្តាហ៍</item>
+        <item>7 សប្តាហ៍</item>
+        <item>8 សប្តាហ៍</item>
+        <item>9 សប្តាហ៍</item>
+        <item>10 សប្តាហ៍</item>
+        <item>11 សប្តាហ៍</item>
+        <item>12 សប្តាហ៍</item>
+    </string-array>
+</resources>

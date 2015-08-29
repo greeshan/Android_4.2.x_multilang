@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skriniseva za Picha</string>
+    <string name="table_screensaver_name">Jedwali la Picha</string>
+    <string name="flipper_screensaver_name">Fremu ya Picha</string>
+    <string name="posts_album_name">Picha kutoka kwenye Machapisho</string>
+    <string name="uploads_album_name">Vipakiaji vya Papo hapo</string>
+    <string name="unknown_album_name">Albamu Isiyo na Jina</string>
+    <string name="stock_photo_album_name">Picha za Akiba</string>
+    <string name="local_source_name">Picha katika Kifaa</string>
+    <string name="need_to_configure">Hakuna picha zilizochaguliwa.</string>
+</resources>

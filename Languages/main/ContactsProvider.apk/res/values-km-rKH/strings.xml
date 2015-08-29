@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">មិនស្គាល់</string>
+    <string name="sharedUserLabel">កម្មវិធីស្នូល Android</string>
+    <string name="app_label">ការផ្ទុកលេខទំនាក់ទំនង</string>
+    <string name="provider_label">លេខទំនាក់ទំនង</string>
+    <string name="upgrade_msg">ការធ្វើឲ្យប្រសើរឡើងសំណុំទិន្នន័យលេខទំនាក់ទំនង ។</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ការធ្វើឲ្យប្រសើរឡើងលេខទំនាក់ទំនងត្រូវការការប្រាក់បន្ថែម ។</string>
+    <string name="upgrade_out_of_memory_notification_title">ការធ្វើឲ្យប្រសើរឡើងកន្លែងផ្ទុកទិន្នន័យលេខទំនាក់ទំនង</string>
+    <string name="upgrade_out_of_memory_notification_text">យកម្រាមដៃប៉ះ ដើម្បីបញ្ចប់ការធ្វើឲ្យប្រសើរឡើង ។</string>
+    <string name="default_directory">លេខទំនាក់ទំនង</string>
+    <string name="local_invisible_directory">ផ្សេងទៀត</string>
+    <string name="read_write_all_voicemail_label">ចូលបើកមើលគ្រប់សំបុត្រសម្លេង</string>
+    <string name="read_write_all_voicemail_description">អនុញ្ញាតឲ្យកម្មវិធីអាចផ្ទុក និងទាញយកមកវិញនូវសំបុត្រសម្លេងទាំងអស់ ដែលឧបករណ៍នេះអាចបើកមើលបាន ។</string>
+    <string name="voicemail_from_column">"សំបុត្រសម្លេងពី "</string>
+</resources>

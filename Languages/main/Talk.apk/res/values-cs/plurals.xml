@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="album_photo_count">
+        <item quantity="other">Fotky: %d</item>
+        <item quantity="zero">Fotky: %d</item>
+        <item quantity="one">%d fotka</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">Vybráno: %d</item>
+        <item quantity="one">Vybráno: %d</item>
+    </plurals>
+    <plurals name="delete_photo_dialog_title">
+        <item quantity="other">Odstranit všechny kopie těchto fotek?</item>
+        <item quantity="one">Smazat všechny kopie této fotky?</item>
+    </plurals>
+    <plurals name="delete_remote_photo_dialog_message">
+        <item quantity="other">Opravdu chcete smazat tyto fotky z tohoto alba Google+? Tuto akci nelze vrátit zpět.</item>
+        <item quantity="one">Opravdu chcete smazat tuto fotku z tohoto alba Google+? Tuto akci nelze vrátit zpět.</item>
+    </plurals>
+    <plurals name="delete_local_photo_dialog_message">
+        <item quantity="other">Opravdu chcete smazat tyto fotky ze svého telefonu i tohoto alba Google+? Tuto akci nelze vrátit zpět.</item>
+        <item quantity="one">Opravdu chcete smazat tuto fotku ze svého telefonu i tohoto alba Google+? Tuto akci nelze vrátit zpět.</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">Mazání fotek...</item>
+        <item quantity="one">Mazání fotky...</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">Komentáře: %d</item>
+        <item quantity="one">%d komentář</item>
+    </plurals>
+    <plurals name="delete_photo">
+        <item quantity="other">Smazat fotky</item>
+        <item quantity="one">Smazat fotku</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%1$s; členové: %2$d</item>
+        <item quantity="one">%1$s; %2$d člen</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Nová oznámení Google+</item>
+        <item quantity="one">Nové oznámení Google+</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notification_multi_hangout">
+        <item quantity="other">Vás zve na Hangout s %d dalšími uživateli</item>
+        <item quantity="one">Vás zve na Hangout s jedním dalším uživatelem</item>
+    </plurals>
+    <plurals name="realtimechat_message_num_attachments">
+        <item quantity="other">Počet příloh: %d</item>
+        <item quantity="one">%d příloha</item>
+    </plurals>
+    <plurals name="audience_display_selection_count">
+        <item quantity="other">Vybráno: %d</item>
+        <item quantity="one">Vybráno: %d</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">Kruhy (%1$d), %2$s</item>
+        <item quantity="one">%1$d kruh, %2$s</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Smazat kruhy</item>
+        <item quantity="one">Smazat kruh</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Chcete tyto kruhy trvale smazat?</item>
+        <item quantity="one">Chcete tento kruh trvale smazat?</item>
+    </plurals>
+    <plurals name="delete_circles_operation_pending">
+        <item quantity="other">Mazání kruhů...</item>
+        <item quantity="one">Mazání kruhu...</item>
+    </plurals>
+    <plurals name="circle_people_count">
+        <item quantity="other">Lidé: %d</item>
+        <item quantity="one">%d uživatel</item>
+    </plurals>
+    <plurals name="remove_people_dialog_title">
+        <item quantity="other">Odstranit uživatele</item>
+        <item quantity="one">Odstranit uživatele</item>
+    </plurals>
+    <plurals name="remove_people_dialog_message">
+        <item quantity="other">Chcete odstranit tyto lidi z tohoto kruhu?</item>
+        <item quantity="one">Chcete odstranit tuto osobu z tohoto kruhu?</item>
+    </plurals>
+    <plurals name="add_people_operation_pending">
+        <item quantity="other">Přidávání lidí...</item>
+        <item quantity="one">Přidávání osoby...</item>
+    </plurals>
+    <plurals name="remove_people_operation_pending">
+        <item quantity="other">Odebírání uživatelů...</item>
+        <item quantity="one">Odebírání uživatele...</item>
+    </plurals>
+    <plurals name="dismiss_people_operation_pending">
+        <item quantity="other">Odmítání uživatelů...</item>
+        <item quantity="one">Odmítání uživatele...</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">a další (%d)</item>
+        <item quantity="one">a další (%d)</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">před %d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d den</item>
+    </plurals>
+    <plurals name="hangout_incoming_invitation_text_more_than_two_unnamed">
+        <item quantity="other">Videohovor od uživatele %2$s s uživatelem %3$s a %1$d dalšími</item>
+    </plurals>
+    <plurals name="dnd_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">1 h</item>
+    </plurals>
+    <plurals name="menu_invites_with_count_plural">
+        <item quantity="other">Počet pozvánek: %d</item>
+        <item quantity="one">Počet pozvánek: %d</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="other">%1$d zpráv(y) v Hangoutech (%2$d)</item>
+        <item quantity="one">Zprávy (celkem %d) v jednom Hangoutu</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_unnamed_group_conversation">
+        <item quantity="other">Vás zve na Hangout s %1$d dalšími uživateli</item>
+        <item quantity="one">Vás zve na Hangout s jedním dalším uživatelem</item>
+    </plurals>
+    <plurals name="invite_wants_you_to_join_named_group_conversation">
+        <item quantity="other">%2$s a %1$d dalších lidí se chce účastnit Hangoutu</item>
+        <item quantity="one">%2$s a %1$d další člověk se chtějí účastnit Hangoutu</item>
+        <item quantity="few">%2$s a %1$d další lidé se chtějí účastnit Hangoutu</item>
+    </plurals>
+    <plurals name="invite_unknown_wants_you_to_join_group_conversation">
+        <item quantity="other">%1$d dalších lidí se chce účastnit Hangoutu</item>
+        <item quantity="one">%1$d další člověk se chce účastnit Hangoutu</item>
+        <item quantity="few">%1$d další lidé se chtějí účastnit Hangoutu</item>
+    </plurals>
+    <plurals name="multiple_chat_invites">
+        <item quantity="other">Pozvánky: %1$d</item>
+    </plurals>
+    <plurals name="items_attached_count">
+        <item quantity="other">Přiložené položky: %d</item>
+        <item quantity="zero">%d přiložených položek</item>
+        <item quantity="one">%d přiložená položka</item>
+    </plurals>
+    <plurals name="items_forwarded_count">
+        <item quantity="other">Přeposlané položky: %d</item>
+        <item quantity="zero">%d přeposlaných položek</item>
+        <item quantity="one">%d přeposlaná položka</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="other">%d týd.</item>
+        <item quantity="one">jeden týden</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="other">%d měs.</item>
+        <item quantity="one">jeden měsíc</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="other">%d r.</item>
+        <item quantity="one">jeden rok</item>
+    </plurals>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>сжатие</item>
+        <item>большие глаза</item>
+        <item>большой рот</item>
+        <item>маленький рот</item>
+        <item>большой нос</item>
+        <item>глаза в точку</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>космос</item>
+        <item>закат</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>низкий</item>
+        <item>средний</item>
+        <item>высокий</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>без темы</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>УЛЫБКА И УЛЫБАЮЩИЕСЯ ГЛАЗА</item>
+        <item>ШИРОКАЯ УЛЫБКА</item>
+        <item>ШИРОКАЯ УЛЫБКА И УЛЫБАЮЩИЕСЯ ГЛАЗА</item>
+        <item>СЛЕЗЫ СЧАСТЬЯ</item>
+        <item>ОТКРЫТАЯ УЛЫБКА</item>
+        <item>ОТКРЫТАЯ УЛЫБКА И УЛЫБАЮЩИЕСЯ ГЛАЗА</item>
+        <item>ОТКРЫТАЯ УЛЫБКА И ИСПАРИНА</item>
+        <item>ОТКРЫТАЯ УЛЫБКА И ЗАКРЫТЫЕ ГЛАЗА</item>
+        <item>УЛЫБКА И ОРЕОЛ</item>
+        <item>УЛЫБКА И ДЬЯВОЛЬСКИЕ РОЖКИ</item>
+        <item>ПОДМИГИВАНИЕ</item>
+        <item>МОЛЧАНИЕ</item>
+        <item>НЕЙТРАЛЬНОЕ ВЫРАЖЕНИЕ</item>
+        <item>БЕЗ ВЫРАЖЕНИЯ</item>
+        <item>ОЗАДАЧЕННОЕ ВЫРАЖЕНИЕ</item>
+        <item>ЗЛОСТЬ</item>
+        <item>ГРИМАСА</item>
+        <item>НАДУТЫЕ ГУБЫ</item>
+        <item>ПЛАЧ</item>
+        <item>СПЛЮ</item>
+        <item>УДИВЛЕНИЕ</item>
+        <item>СТОЮ НА СВОЕМ</item>
+        <item>ПАР ИЗ НОСА</item>
+        <item>ОГОРЧЕНИЕ И ОБЛЕГЧЕНИЕ</item>
+        <item>НЕДОВОЛЬСТВО, РОТ ОТКРЫТ</item>
+        <item>СТРАДАНИЕ</item>
+        <item>СТРАХ</item>
+        <item>УТОМЛЕНИЕ</item>
+        <item>УЖАС И ХОЛОДНАЯ ИСПАРИНА</item>
+        <item>БЕСПОКОЙСТВО</item>
+        <item>КРИЧУ ОТ СТРАХА</item>
+        <item>ИЗУМЛЕНИЕ</item>
+        <item>КРАСНЕЮ</item>
+        <item>КРУЖИТСЯ ГОЛОВА</item>
+        <item>СМАЙЛИК БЕЗО РТА</item>
+        <item>СМАЙЛИК В РЕСПИРАТОРЕ</item>
+        <item>ОГОРЧЕНИЕ</item>
+        <item>СКУЧНО</item>
+        <item>УЛЫБКА И ВЛЮБЛЕННЫЕ ГЛАЗА</item>
+        <item>ВЫСУНУТЫЙ ЯЗЫК</item>
+        <item>ВЫСУНУТЫЙ ЯЗЫК И ПОДМИГИВАНИЕ</item>
+        <item>ВЫСУНУТЫЙ ЯЗЫК И ЗАКРЫТЫЕ ГЛАЗА</item>
+        <item>ПАЛЬЧИКИ ОБЛИЖЕШЬ</item>
+        <item>ПОЦЕЛУЙ</item>
+        <item>ПОЦЕЛУЙ И УЛЫБАЮЩИЕСЯ ГЛАЗА</item>
+        <item>ВОЗДУШНЫЙ ПОЦЕЛУЙ</item>
+        <item>ПОЦЕЛУЙ С ЗАКРЫТЫМИ ГЛАЗАМИ</item>
+        <item>УЛЫБКА И СОЛНЕЧНЫЕ ОЧКИ</item>
+        <item>ГРОМКИЙ ПЛАЧ</item>
+        <item>ОБЛЕГЧЕНИЕ</item>
+        <item>ЗАМЕШАТЕЛЬСТВО</item>
+        <item>ЗАДУМЧИВОСТЬ</item>
+        <item>ХОЧУ СПАТЬ</item>
+        <item>САМОДОВОЛЬНАЯ УХМЫЛКА</item>
+        <item>ХОЛОДНАЯ ИСПАРИНА</item>
+        <item>УСТАЛОСТЬ</item>
+        <item>РАДОСТЬ И ПОДНЯТАЯ РУКА</item>
+        <item>ПОБЕДОНОСНО ПОДНЯТЫЕ РУКИ</item>
+        <item>НЕДОВОЛЬСТВО</item>
+        <item>ЗАПРЕЩЕНО</item>
+        <item>"СМАЙЛИК С ЖЕСТОМ \"О'КЕЙ\""</item>
+        <item>ГЛУБОКИЙ ПОКЛОН</item>
+        <item>НАДУТЫЕ ГУБЫ</item>
+        <item>СЛОЖЕННЫЕ РУКИ</item>
+        <item>ЖЕСТ \"ОК\"</item>
+        <item>ПОДНЯТЫЙ БОЛЬШОЙ ПАЛЕЦ</item>
+        <item>ОПУЩЕННЫЙ БОЛЬШОЙ ПАЛЕЦ</item>
+        <item>КАКАШКИ</item>
+        <item>СЕРДЦЕ, ПОКРЫТОЕ ИСПАРИНОЙ</item>
+        <item>ВОЛОСАТОЕ СЕРДЦЕ</item>
+        <item>ПУРПУРНОЕ СЕРДЦЕ</item>
+        <item>РАЗБИТОЕ СЕРДЦЕ</item>
+        <item>СЕРДЦЕ, ПРОНЗЕННОЕ СТРЕЛОЙ</item>
+        <item>ЛЕДЯНОЕ СЕРДЦЕ</item>
+        <item>ЗНАК \"КРУТО\"</item>
+        <item>ЗНАК \"БЕСПЛАТНО\"</item>
+        <item>ЗНАК \"ОК\"</item>
+        <item>ЗНАК SOS</item>
+        <item>МАСКИ</item>
+        <item>РАДУГА</item>
+        <item>ХЛОПУШКА</item>
+        <item>ТАНЦУЮ</item>
+    </string-array>
+</resources>

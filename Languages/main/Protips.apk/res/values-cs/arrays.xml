@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Jak zobrazit všechny aplikace
+ Dotkněte se ikony spouštěče. @drawable/all_apps"</item>
+        <item>"Přetáhněte si aplikace na plochu.
+ Dotkněte se aplikace v nástroji Launcher a podržte ji, dokud nezačne vibrovat."</item>
+        <item>"Jak si uspořádat plochu
+ Dotkněte se položky a podržte ji. Jakmile začne vibrovat, přetáhněte ji, kam chcete."</item>
+        <item>"Jak odstranit položky
+ Přidržte vybranou položku. Jakmile začne vibrovat, přetáhněte ji do koše. @drawable/trash"</item>
+        <item>"Více ploch
+ Přejeďte prstem po obrazovce doleva nebo doprava. Položky lze přetáhnout na jinou obrazovku."</item>
+        <item>"Widget už nepotřebujete?
+ Přidržte jej a jakmile začne vibrovat, přetáhněte jej na ikonu koše."</item>
+    </string-array>
+</resources>

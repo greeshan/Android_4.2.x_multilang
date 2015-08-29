@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>ဘာမျှမရှိ</item>
+        <item>အခန်းငယ်</item>
+        <item>အခန်းလတ်</item>
+        <item>အခန်းကြီး</item>
+        <item>ဟောခန်းလတ်</item>
+        <item>ဟောခန်းကြီး</item>
+        <item>အထူးပြုလုပ်ချက်စက်ကို ဖုံးရန်</item>
+    </string-array>
+</resources>

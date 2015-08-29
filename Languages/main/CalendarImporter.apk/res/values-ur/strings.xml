@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">پر درآمد</string>
+    <string name="import_button">درآمد</string>
+    <string name="cancel">منسوخ</string>
+    <string name="no_access_toast">اکاؤنٹ نہيں ملا۔ پہلے اکاؤنٹ شامل کریں</string>
+    <string name="null_name">کوئی نہيں</string>
+    <string name="import_message">کیا آپ # کو کیلنڈر میں درآمد کرنا چاہتے ہيں؟</string>
+    <string name="calendar_lable">کیلنڈر:</string>
+    <string name="date_lable">تاریخ:</string>
+    <string name="import_title">کیلنڈر کا واقعہ درآمد کریں</string>
+    <string name="importing">درآمد کررہا ہے...</string>
+    <string name="import_complete">درآمد کرنا مکمل</string>
+    <string name="open">کھولیں</string>
+    <string name="done">ہوگیا</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">واقعہ درآمد کرنا ناکام.</string>
+    <string name="title_lable">"عنوان: "</string>
+    <string name="no_syncable_calendars">درآمد کرنے میں ناکام</string>
+    <string name="no_calendars_found">یہ اکاؤنٹ کیلنڈر کی مطابقت میں تعاون نہیں کررہا، یا پچھلی مطابقت پذیری ابھی تک مکمل نہیں ہوئی۔</string>
+    <string name="retry">دوبارہ کوشش کریں</string>
+    <string name="give_up">روک دیں</string>
+    <string name="open_calendar_failed">کیلنڈر دستیاب نہیں ہے۔</string>
+    <string name="loading">لوڈ کررہا ہے…</string>
+</resources>

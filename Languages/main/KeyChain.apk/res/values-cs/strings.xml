@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Řetězec klíčů</string>
+    <string name="title_no_certs">Nebyl nalezen žádný certifikát</string>
+    <string name="title_select_cert">Vybrat certifikát</string>
+    <string name="requesting_application">Aplikace %s požádala o certifikát. Výběrem certifikátu bude moci aplikace používat tuto identitu se servery nyní a v budoucnosti.</string>
+    <string name="requesting_server">Aplikace rozpoznala žádající server jako %s, ale musíte aplikaci poskytnout přístup k certifikátu pouze, pokud jí důvěřujete.</string>
+    <string name="install_new_cert_message">Můžete nainstalovat certifikáty ze souboru PKCS#12 s příponou %1$s nebo %2$s, které se nacházejí v místním úložišti.</string>
+    <string name="install_new_cert_button_label">Instalovat</string>
+    <string name="allow_button">Povolit</string>
+    <string name="deny_button">Odepřít</string>
+</resources>

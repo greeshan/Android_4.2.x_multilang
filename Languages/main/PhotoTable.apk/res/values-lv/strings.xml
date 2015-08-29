@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fotoattēlu ekrānsaudzētāji</string>
+    <string name="table_screensaver_name">Fotoattēlu tabula</string>
+    <string name="flipper_screensaver_name">Fotoattēla ietvars</string>
+    <string name="posts_album_name">Fotoattēli no ziņām</string>
+    <string name="uploads_album_name">Tūlītējas augšupielādes</string>
+    <string name="unknown_album_name">Albums bez nosaukuma</string>
+    <string name="stock_photo_album_name">Krājuma fotoattēli</string>
+    <string name="local_source_name">Fotoattēli ierīcē</string>
+    <string name="need_to_configure">Nav atlasīts neviens fotoattēls.</string>
+</resources>

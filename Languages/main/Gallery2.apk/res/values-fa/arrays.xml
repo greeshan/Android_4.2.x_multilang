@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>فیلد میزبان نباید خالی باشد</item>
+        <item>فیلد پورت نباید خالی باشد</item>
+        <item>میزبان نامعتبر</item>
+        <item>پورت نامعتبر</item>
+    </string-array>
+</resources>

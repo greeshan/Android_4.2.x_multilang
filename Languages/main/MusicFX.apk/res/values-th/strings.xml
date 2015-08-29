@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">พรีเซ็ตรีเวิร์บ</string>
+    <string name="eq_preset_normal">ปกติ</string>
+    <string name="eq_preset_classical">คลาสสิก</string>
+    <string name="eq_preset_dance">แดนซ์</string>
+    <string name="eq_preset_flat">แฟลต</string>
+    <string name="eq_preset_folk">โฟลค์</string>
+    <string name="eq_preset_heavymetal">เฮฟวี่ เมทัล</string>
+    <string name="eq_preset_hiphop">ฮิป ฮอป</string>
+    <string name="eq_preset_jazz">แจ๊ส</string>
+    <string name="eq_preset_pop">ป๊อป</string>
+    <string name="eq_preset_rock">ร็อค</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">ไม่มีเอฟเฟ็กต์</string>
+    <string name="eq_dialog_title">อีควอไลเซอร์</string>
+    <string name="headset_plug">ใช้หูฟังสำหรับเอฟเฟ็กต์เหล่านี้</string>
+    <string name="bass_boost_strength">เพิ่มเสียงเบส</string>
+    <string name="virtualizer_strength">เอฟเฟ็กต์ 3 มิติ</string>
+    <string name="ci_extreme">FX บูสเตอร์</string>
+    <string name="user">ผู้ใช้</string>
+    <string name="picker_title">แผงควบคุมเอฟเฟ็กต์เพลง</string>
+    <string name="main_toggle_effects_title">เอฟเฟ็กต์เสียง</string>
+    <string name="pr_title">เสียงก้อง:</string>
+    <string name="pr_summary">เอฟเฟ็กต์เสียงก้องในห้องเพิ่มเติม</string>
+    <string name="pr_dialog_title">เสียงก้องที่ตั้งล่วงหน้า</string>
+    <string name="setup">ตั้งค่าระบบ</string>
+</resources>

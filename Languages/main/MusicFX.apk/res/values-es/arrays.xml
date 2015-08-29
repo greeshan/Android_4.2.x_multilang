@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Ninguno</item>
+        <item>Sala pequeña</item>
+        <item>Sala mediana</item>
+        <item>Sala grande</item>
+        <item>Pabellón medio</item>
+        <item>Pabellón grande</item>
+        <item>Resonancia por plata</item>
+    </string-array>
+</resources>

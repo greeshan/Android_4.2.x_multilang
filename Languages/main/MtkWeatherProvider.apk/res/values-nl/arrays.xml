@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Nooit automatisch bijwerken</item>
+        <item>Elk uur</item>
+        <item>Elke 2 uur</item>
+        <item>Elke 6 uur</item>
+        <item>Elke 12 uur</item>
+        <item>Dagelijks</item>
+    </string-array>
+</resources>

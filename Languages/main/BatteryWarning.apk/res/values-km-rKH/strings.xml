@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">ឆ្នាំងសាកលើសចំនួនវ៉ុល</string>
+    <string name="title_battery_over_temperature">ថ្មក្តៅលើសកំរិត</string>
+    <string name="title_over_current_protection">លើសកំរិតការការពារបច្ចុប្បន្ន</string>
+    <string name="title_battery_over_voltage">ថ្មលើសចំនួនវ៉ុល</string>
+    <string name="title_safety_timer_timeout">សាកថ្មលើសម៉ោង</string>
+    <string name="msg_charger_over_voltage">ឆ្នាំងសាករបស់អ្នកលើសចំនួនវ៉ុល​ សូមដកឆ្នាំងសាកចេញ!</string>
+    <string name="msg_battery_over_temperature">ថ្មរបស់អ្នកក្តៅលើសកំរិត សូមដកវាចេញ!</string>
+    <string name="msg_over_current_protection">ថ្មរបស់អ្នក លើសកំរិតការការបារបច្ចុប្បន្ន សូមដកវាចេញ!</string>
+    <string name="msg_battery_over_voltage">ថ្មរបស់អ្នកលើសចំនួនវ៉ុល សូមដកវាចេញ!</string>
+    <string name="msg_safety_timer_timeout">សាកថ្មយូពេក សូមដកឆ្នាំងសាកចេញ!</string>
+    <string name="btn_ok_msg">ដេកបន្តិច</string>
+    <string name="btn_cancel_msg">លុបចោល</string>
+</resources>

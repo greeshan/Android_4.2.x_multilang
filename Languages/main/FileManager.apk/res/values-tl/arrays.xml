@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by">
+        <item>Uri</item>
+        <item>Pangalan (A - Z)</item>
+        <item>Laki (malaki - maliit)</item>
+        <item>Oras (bago - luma)</item>
+    </string-array>
+</resources>

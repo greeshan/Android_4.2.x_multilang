@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PHOTOS">
+        <item quantity="other">사진 %d장</item>
+        <item quantity="zero">사진 %d장</item>
+        <item quantity="one">사진 %d장</item>
+        <item quantity="two">사진 %d장</item>
+        <item quantity="few">사진 %d장</item>
+        <item quantity="many">사진 %d장</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_STARS">
+        <item quantity="other">별표 %d개</item>
+        <item quantity="zero">별표 %d개</item>
+        <item quantity="one">별표 %d개</item>
+        <item quantity="two">별표 %d개</item>
+        <item quantity="few">별표 %d개</item>
+        <item quantity="many">별표 %d개</item>
+    </plurals>
+    <plurals name="ACCESSIBILITY_DECIMAL_STARS">
+        <item quantity="other">별표 %.1f개</item>
+        <item quantity="zero">별표 %.1f개</item>
+        <item quantity="one">별표 %.1f개</item>
+        <item quantity="two">별표 %.1f개</item>
+        <item quantity="few">별표 %.1f개</item>
+        <item quantity="many">별표 %.1f개</item>
+    </plurals>
+    <plurals name="STATION_NEARBY_STATIONS">
+        <item quantity="other">주변 역/정류장</item>
+        <item quantity="zero">주변 역/정류장</item>
+        <item quantity="one">주변 역/정류장</item>
+        <item quantity="two">주변 역/정류장</item>
+        <item quantity="few">주변 역/정류장</item>
+        <item quantity="many">주변 역/정류장</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_AUTHOR_WITH_SIMILAR_STATEMENTS">
+        <item quantity="other">%1$s님 외 리뷰어 %2$d명</item>
+        <item quantity="one">%1$s님 외 리뷰어 %2$d명</item>
+        <item quantity="two">%1$s님 외 리뷰어 %2$d명</item>
+        <item quantity="few">%1$s님 외 리뷰어 %2$d명</item>
+        <item quantity="many">%1$s님 외 리뷰어 %2$d명</item>
+    </plurals>
+    <plurals name="REVIEW_SNIPPET_TOTAL_STATEMENTS">
+        <item quantity="other">리뷰어 %d명</item>
+        <item quantity="one">리뷰어 %d명</item>
+        <item quantity="two">리뷰어 %d명</item>
+        <item quantity="few">리뷰어 %d명</item>
+        <item quantity="many">리뷰어 %d명</item>
+    </plurals>
+    <plurals name="PHOTO_UPLOADED_MSG">
+        <item quantity="other">사진 검토가 완료되면 바로 사진이 공개됩니다.</item>
+        <item quantity="one">사진 검토가 완료되면 바로 사진이 공개됩니다.</item>
+        <item quantity="two">사진 검토가 완료되면 바로 사진이 공개됩니다.</item>
+        <item quantity="few">사진 검토가 완료되면 바로 사진이 공개됩니다.</item>
+        <item quantity="many">사진 검토가 완료되면 바로 사진이 공개됩니다.</item>
+    </plurals>
+    <plurals name="TRANSIT_NUM_STOPS">
+        <item quantity="other">정류장 %d개</item>
+        <item quantity="zero">정류장 %d개</item>
+        <item quantity="one">정류장 %d개</item>
+        <item quantity="two">정류장 %d개</item>
+        <item quantity="few">정류장 %d개</item>
+        <item quantity="many">정류장 %d개</item>
+    </plurals>
+    <plurals name="PROFILE_ACTIVITY_NUMBER_OF_REVIEWS">
+        <item quantity="other">리뷰</item>
+        <item quantity="zero">리뷰</item>
+        <item quantity="one">리뷰</item>
+        <item quantity="two">리뷰</item>
+        <item quantity="few">개 리뷰</item>
+        <item quantity="many">리뷰</item>
+    </plurals>
+    <plurals name="DA_SPEECH_DAYS">
+        <item quantity="other">%s일</item>
+        <item quantity="zero">%s일</item>
+        <item quantity="one">%s일</item>
+        <item quantity="two">%s일</item>
+        <item quantity="few">%s일</item>
+        <item quantity="many">%s일</item>
+    </plurals>
+    <plurals name="DA_DAYS">
+        <item quantity="other">%d일</item>
+        <item quantity="zero">%d일</item>
+        <item quantity="one">%d일</item>
+        <item quantity="two">%d일</item>
+        <item quantity="few">%d일</item>
+        <item quantity="many">%d일</item>
+    </plurals>
+    <plurals name="DA_SPEECH_HOURS">
+        <item quantity="other">%s시간</item>
+        <item quantity="zero">%s시간</item>
+        <item quantity="one">%s시간</item>
+        <item quantity="two">%s시간</item>
+        <item quantity="few">%s시간</item>
+        <item quantity="many">%s시간</item>
+    </plurals>
+    <plurals name="DA_HOURS">
+        <item quantity="other">%d시간</item>
+        <item quantity="zero">%d시간</item>
+        <item quantity="one">%d시간</item>
+        <item quantity="two">%d시간</item>
+        <item quantity="few">%d시간</item>
+        <item quantity="many">%d시간</item>
+    </plurals>
+    <plurals name="DA_SPEECH_MINUTES">
+        <item quantity="other">%s분</item>
+        <item quantity="zero">%s분</item>
+        <item quantity="one">%s분</item>
+        <item quantity="two">%s분</item>
+        <item quantity="few">%s분</item>
+        <item quantity="many">%s분</item>
+    </plurals>
+    <plurals name="DA_MINUTES">
+        <item quantity="other">%d분</item>
+        <item quantity="zero">%d분</item>
+        <item quantity="one">%d분</item>
+        <item quantity="two">%d분</item>
+        <item quantity="few">%d분</item>
+        <item quantity="many">%d분</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_METERS">
+        <item quantity="other">%1$s미터 후</item>
+        <item quantity="one">%1$s미터 후</item>
+        <item quantity="two">%1$s미터 후</item>
+        <item quantity="few">%1$s미터 후</item>
+        <item quantity="many">%1$s미터 후</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_KILOMETERS">
+        <item quantity="other">%1$s킬로미터 후</item>
+        <item quantity="one">%1$s킬로미터 후</item>
+        <item quantity="two">%1$s킬로미터 후</item>
+        <item quantity="few">%1$s킬로미터 후</item>
+        <item quantity="many">%1$s킬로미터 후</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_METERS">
+        <item quantity="other">%1$s미터 직진</item>
+        <item quantity="one">%1$s미터 직진</item>
+        <item quantity="two">%1$s미터 직진</item>
+        <item quantity="few">%1$s미터 직진</item>
+        <item quantity="many">%1$s미터 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_KILOMETERS">
+        <item quantity="other">%1$s킬로미터 직진</item>
+        <item quantity="one">%1$s킬로미터 직진</item>
+        <item quantity="two">%1$s킬로미터 직진</item>
+        <item quantity="few">%1$s킬로미터 직진</item>
+        <item quantity="many">%1$s킬로미터 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_METERS">
+        <item quantity="other">%2$s에서 %1$s미터 직진</item>
+        <item quantity="one">%2$s에서 %1$s미터 직진</item>
+        <item quantity="two">%2$s에서 %1$s미터 직진</item>
+        <item quantity="few">%2$s에서 %1$s미터 직진</item>
+        <item quantity="many">%2$s에서 %1$s미터 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_KILOMETERS">
+        <item quantity="other">%2$s에서 %1$s킬로미터 직진</item>
+        <item quantity="one">%2$s에서 %1$s킬로미터 직진</item>
+        <item quantity="two">%2$s에서 %1$s킬로미터 직진</item>
+        <item quantity="few">%2$s에서 %1$s킬로미터 직진</item>
+        <item quantity="many">%2$s에서 %1$s킬로미터 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_FEET">
+        <item quantity="other">%1$s피트 후</item>
+        <item quantity="one">%1$s피트 후</item>
+        <item quantity="two">%1$s피트 후</item>
+        <item quantity="few">%1$s피트 후</item>
+        <item quantity="many">%1$s피트 후</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_YARDS">
+        <item quantity="other">%1$s야드 후</item>
+        <item quantity="one">%1$s야드 후</item>
+        <item quantity="two">%1$s야드 후</item>
+        <item quantity="few">%1$s야드 후</item>
+        <item quantity="many">%1$s야드 후</item>
+    </plurals>
+    <plurals name="DA_SPEECH_IN_X_MILES">
+        <item quantity="other">%1$s마일 후</item>
+        <item quantity="one">%1$s마일 후</item>
+        <item quantity="two">%1$s마일 후</item>
+        <item quantity="few">%1$s마일 후</item>
+        <item quantity="many">%1$s마일 후</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_FEET">
+        <item quantity="other">%1$s피트 직진</item>
+        <item quantity="one">%1$s피트 직진</item>
+        <item quantity="two">%1$s피트 직진</item>
+        <item quantity="few">%1$s피트 직진</item>
+        <item quantity="many">%1$s피트 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_YARDS">
+        <item quantity="other">%1$s야드 직진</item>
+        <item quantity="one">%1$s야드 직진</item>
+        <item quantity="two">%1$s야드 직진</item>
+        <item quantity="few">%1$s야드 직진</item>
+        <item quantity="many">%1$s야드 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_FOR_X_MILES">
+        <item quantity="other">%1$s마일 직진</item>
+        <item quantity="one">%1$s마일 직진</item>
+        <item quantity="two">%1$s마일 직진</item>
+        <item quantity="few">%1$s마일 직진</item>
+        <item quantity="many">%1$s마일 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_FEET">
+        <item quantity="other">%2$s에서 %1$s피트 직진</item>
+        <item quantity="one">%2$s에서 %1$s피트 직진</item>
+        <item quantity="two">%2$s에서 %1$s피트 직진</item>
+        <item quantity="few">%2$s에서 %1$s피트 직진</item>
+        <item quantity="many">%2$s에서 %1$s피트 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_YARDS">
+        <item quantity="other">%2$s에서 %1$s야드 직진</item>
+        <item quantity="one">%2$s에서 %1$s야드 직진</item>
+        <item quantity="two">%2$s에서 %1$s야드 직진</item>
+        <item quantity="few">%2$s에서 %1$s야드 직진</item>
+        <item quantity="many">%2$s에서 %1$s야드 직진</item>
+    </plurals>
+    <plurals name="DA_SPEECH_CONTINUE_ON_ROAD_FOR_X_MILES">
+        <item quantity="other">%2$s에서 %1$s마일 직진</item>
+        <item quantity="one">%2$s에서 %1$s마일 직진</item>
+        <item quantity="two">%2$s에서 %1$s마일 직진</item>
+        <item quantity="few">%2$s에서 %1$s마일 직진</item>
+        <item quantity="many">%2$s에서 %1$s마일 직진</item>
+    </plurals>
+    <plurals name="FIVESTAR_HISTOGRAM_BAR_LABEL">
+        <item quantity="other">별표 %d개</item>
+        <item quantity="zero">별표 %d개</item>
+        <item quantity="one">별표 %d개</item>
+        <item quantity="two">별표 %d개</item>
+        <item quantity="few">별표 %d개</item>
+        <item quantity="many">별표 %d개</item>
+    </plurals>
+    <plurals name="PERSONAL_HOTEL_RESERVATION_NIGHTS">
+        <item quantity="other">호텔 예약 (%d박)</item>
+        <item quantity="zero">호텔 예약 (%d박)</item>
+        <item quantity="one">호텔 예약 (%d박)</item>
+        <item quantity="two">호텔 예약 (%d박)</item>
+        <item quantity="few">호텔 예약 (%d박)</item>
+        <item quantity="many">호텔 예약 (%d박)</item>
+    </plurals>
+</resources>

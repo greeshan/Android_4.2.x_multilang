@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Ghét</item>
+        <item>Không thích</item>
+        <item>Chấp nhận được</item>
+        <item>Thích</item>
+        <item>Yêu thích</item>
+    </string-array>
+</resources>

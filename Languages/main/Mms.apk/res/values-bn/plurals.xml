@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d পাঠের প্রতিবেদনের পাঠানো হচ্ছে</item>
+        <item quantity="one">%d পাঠের প্রতিবেদনের পাঠানো হচ্ছে</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d নির্বাচিত</item>
+        <item quantity="one">%d নির্বাচিত</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">%1$s আলাপচারিতা মুছে ফেলা হয়েছে</item>
+        <item quantity="one">একটি আলাপচারিতা মুছে ফেলা হয়েছে</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s ফলাফল \"%2$s\"</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s সেকেন্ড</item>
+        <item quantity="one">%s সেকেন্ড</item>
+        <item quantity="few">%s সেকেন্ড</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s আলাপচারিতা মুছে যাবে</item>
+        <item quantity="one">একটি আলাপচারিতা মুছে যাবে</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d অপঠিত বার্তা।</item>
+        <item quantity="one">%d অপঠিত বার্তা।</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">%1$sঅন্যান্য বার্তা</item>
+        <item quantity="one">%1$sঅন্যান্য বার্তা</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s জন মানুষ</item>
+    </plurals>
+</resources>

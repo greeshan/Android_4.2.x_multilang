@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serviciu meteo</string>
+    <string name="choose_city">Alegere oraş</string>
+    <string name="searching">Se caută, aşteptaţi.</string>
+    <string name="no_found">Nu s-a găsit nicio potrivire de oraş cu %s. Verificaţi cuvintele de intrare.</string>
+    <string name="net_error">Reţeaua nu este disponibilă. Verificaţi-o.</string>
+    <string name="no_city_error">Imposibil de obţinut informaţiile de oraş. Setaţi corect ora şi fusul orar al sistemului.</string>
+    <string name="searching_fail">Căutarea oraşului nu a reuşit.</string>
+    <string name="no_weather_error">Imposibil de obţinut informaţiile meteo. Setaţi corect ora şi fusul orar al sistemului.</string>
+    <string name="no_weather">Momentan nu există vremea pentru %s.</string>
+    <string name="setting_title">Configurare</string>
+    <string name="temperature">Unităţi de temperatură</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Oraşe</string>
+    <string name="update_fre">Actualizare frecvenţă</string>
+    <string name="every12">La fiecare 12 ore</string>
+    <string name="cancel">Revocare</string>
+    <string name="menu_add_city">Adăugare oraş</string>
+    <string name="add_city">Apăsaţi pe pictogramă pentru a adăuga un oraş nou</string>
+    <string name="remove">Eliminare</string>
+    <string name="warn">Se pot adăuga maximum 8 oraşe.</string>
+    <string name="has_chosen">a fost ales.</string>
+    <string name="no_city">Niciun oraş</string>
+    <string name="powered_by">Susţinut de:</string>
+    <string name="menu_about">Despre</string>
+</resources>

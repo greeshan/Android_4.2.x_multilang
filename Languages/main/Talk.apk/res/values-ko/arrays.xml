@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="funny_face_titles">
+        <item>찌그러뜨리기</item>
+        <item>큰 눈</item>
+        <item>큰 입</item>
+        <item>작은 입</item>
+        <item>큰 코</item>
+        <item>작은 눈</item>
+    </string-array>
+    <string-array name="bg_replacement_titles">
+        <item>우주</item>
+        <item>일몰</item>
+    </string-array>
+    <string-array name="stabilization_level_titles">
+        <item>낮음</item>
+        <item>중간</item>
+        <item>높음</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>제목 없음</item>
+    </string-array>
+    <string-array name="accessibility_mood_emoji_list">
+        <item>눈웃음</item>
+        <item>활짝 웃음</item>
+        <item>환한 웃음</item>
+        <item>기쁨의 눈물</item>
+        <item>함박웃음</item>
+        <item>환한 미소</item>
+        <item>활짝 웃으며 식은땀</item>
+        <item>신남</item>
+        <item>빛나는 미소</item>
+        <item>뿔 달린 악마</item>
+        <item>윙크</item>
+        <item>조용</item>
+        <item>얌전함</item>
+        <item>무표정</item>
+        <item>어리둥절</item>
+        <item>화남</item>
+        <item>찡그림</item>
+        <item>토라짐</item>
+        <item>울음</item>
+        <item>수면 중</item>
+        <item>멍함</item>
+        <item>참는 중</item>
+        <item>붉으락푸르락</item>
+        <item>가벼운 실망</item>
+        <item>언짢음</item>
+        <item>고민</item>
+        <item>무서움</item>
+        <item>지쳤음</item>
+        <item>땀흘림</item>
+        <item>걱정스러움</item>
+        <item>공포의 비명</item>
+        <item>경악</item>
+        <item>발그레함</item>
+        <item>어지러움</item>
+        <item>당황</item>
+        <item>마스크</item>
+        <item>실망</item>
+        <item>재미없음</item>
+        <item>사랑스러움</item>
+        <item>메롱</item>
+        <item>약오르지</item>
+        <item>히히</item>
+        <item>냠냠</item>
+        <item>키스</item>
+        <item>방긋 웃으며 키스</item>
+        <item>키스 날리기</item>
+        <item>눈 감고 키스</item>
+        <item>선글라스 끼고 미소</item>
+        <item>크게 외침</item>
+        <item>안심</item>
+        <item>혼란</item>
+        <item>사색 중</item>
+        <item>졸림</item>
+        <item>능청</item>
+        <item>식은땀</item>
+        <item>피곤함</item>
+        <item>행복해요</item>
+        <item>축하해</item>
+        <item>찌푸림</item>
+        <item>팔짱 끼고 화냄</item>
+        <item>OK 동작</item>
+        <item>인사</item>
+        <item>토라진 얼굴</item>
+        <item>팔짱</item>
+        <item>OK</item>
+        <item>최고</item>
+        <item>별로</item>
+        <item>똥</item>
+        <item>철렁함</item>
+        <item>아슬아슬함</item>
+        <item>즐거움</item>
+        <item>실연</item>
+        <item>사랑에 빠짐</item>
+        <item>냉정</item>
+        <item>동의 표시</item>
+        <item>자유로움 표시</item>
+        <item>OK</item>
+        <item>SOS</item>
+        <item>공연 가면</item>
+        <item>무지개</item>
+        <item>폭죽</item>
+        <item>댄서</item>
+    </string-array>
+</resources>
